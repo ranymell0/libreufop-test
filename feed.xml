@@ -34,7 +34,9 @@
     <item>
       <title>[Fonte] BR-Linux - Notícias sobre GNU/Linux em português</title>
       <link>https://br-linux.org/</link>
-      <description>Portal histórico da comunidade GNU/Linux brasileira. Cobre notícias, lançamentos e discussões sobre software livre em português.</description>
+      <description>Portal histórico da comunidade GNU/Linux brasileira. Cobre notícias, lançamentos e discussões sobre software livre em português.
+&#xA;&#xA;🔗 Site: https://br-linux.org/
+&#xA;📡 Feed RSS: https://br-linux.org/feed</description>
       <source url="https://br-linux.org/feed">BR-Linux Feed</source>
       <guid isPermaLink="true">https://br-linux.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -43,7 +45,9 @@
     <item>
       <title>[Fonte] Viva o Linux - Tutoriais e comunidade</title>
       <link>https://www.vivaolinux.com.br/</link>
-      <description>Maior comunidade GNU/Linux em língua portuguesa. Tutoriais, scripts, dicas e artigos escritos pela comunidade. Nota: feed RSS indisponível no momento, site ativo.</description>
+      <description>Maior comunidade GNU/Linux em língua portuguesa. Tutoriais, scripts, dicas e artigos escritos pela comunidade.
+&#xA;&#xA;🔗 Site: https://www.vivaolinux.com.br/
+&#xA;📡 Feed RSS: indisponível no momento</description>
       <guid isPermaLink="true">https://www.vivaolinux.com.br/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
@@ -51,7 +55,9 @@
     <item>
       <title>[Fonte] Diolinux - GNU/Linux e tecnologia open source</title>
       <link>https://diolinux.com.br/</link>
-      <description>Blog e canal com tutoriais, reviews e notícias sobre GNU/Linux, software livre e tecnologia em geral, voltado ao público brasileiro.</description>
+      <description>Blog e canal com tutoriais, reviews e notícias sobre GNU/Linux, software livre e tecnologia em geral, voltado ao público brasileiro.
+&#xA;&#xA;🔗 Site: https://diolinux.com.br/
+&#xA;📡 Feed RSS: https://diolinux.com.br/feed</description>
       <source url="https://diolinux.com.br/feed">Diolinux Feed</source>
       <guid isPermaLink="true">https://diolinux.com.br/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -60,7 +66,9 @@
     <item>
       <title>[Fonte] Movimento Software Livre</title>
       <link>https://movimento.softwarelivre.tec.br/</link>
-      <description>Portal dedicado ao movimento de software livre no Brasil. Notícias, eventos e iniciativas da comunidade nacional.</description>
+      <description>Portal dedicado ao movimento de software livre no Brasil. Notícias, eventos e iniciativas da comunidade nacional.
+&#xA;&#xA;🔗 Site: https://movimento.softwarelivre.tec.br/
+&#xA;📡 Feed RSS: https://movimento.softwarelivre.tec.br/feed/</description>
       <source url="https://movimento.softwarelivre.tec.br/feed/">Movimento Software Livre Feed</source>
       <guid isPermaLink="true">https://movimento.softwarelivre.tec.br/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -69,7 +77,9 @@
     <item>
       <title>[Fonte] Debian News - Notícias oficiais do Projeto Debian</title>
       <link>https://www.debian.org/News/</link>
-      <description>Canal oficial de notícias do Projeto Debian. Lançamentos de versões, comunicados de segurança e novidades do projeto.</description>
+      <description>Canal oficial de notícias do Projeto Debian. Lançamentos de versões, comunicados de segurança e novidades do projeto.
+&#xA;&#xA;🔗 Site: https://www.debian.org/
+&#xA;📡 Feed RSS: https://www.debian.org/News/news</description>
       <source url="https://www.debian.org/News/news">Debian News Feed</source>
       <guid isPermaLink="true">https://www.debian.org/News/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -78,7 +88,9 @@
     <item>
       <title>[Fonte] Fedora Magazine - Novidades do ecossistema Fedora</title>
       <link>https://fedoramagazine.org/</link>
-      <description>Publicação oficial da comunidade Fedora com tutoriais, notícias sobre lançamentos e artigos técnicos.</description>
+      <description>Publicação oficial da comunidade Fedora com tutoriais, notícias sobre lançamentos e artigos técnicos.
+&#xA;&#xA;🔗 Site: https://fedoramagazine.org/
+&#xA;📡 Feed RSS: https://fedoramagazine.org/feed</description>
       <source url="https://fedoramagazine.org/feed">Fedora Magazine Feed</source>
       <guid isPermaLink="true">https://fedoramagazine.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -87,7 +99,9 @@
     <item>
       <title>[Fonte] Ubuntu Blog - Blog oficial da Canonical</title>
       <link>https://ubuntu.com/blog</link>
-      <description>Blog oficial da Canonical com novidades sobre Ubuntu, Snap, cloud e tecnologias relacionadas.</description>
+      <description>Blog oficial da Canonical com novidades sobre Ubuntu, Snap, cloud e tecnologias relacionadas.
+&#xA;&#xA;🔗 Site: https://ubuntu.com/blog
+&#xA;📡 Feed RSS: https://ubuntu.com/blog/feed</description>
       <source url="https://ubuntu.com/blog/feed">Ubuntu Blog Feed</source>
       <guid isPermaLink="true">https://ubuntu.com/blog</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -96,7 +110,9 @@
     <item>
       <title>[Fonte] Linux Mint Blog - Atualizações e lançamentos</title>
       <link>https://www.linuxmint.com/</link>
-      <description>Blog oficial do Linux Mint com anúncios de versões, notas de atualização e novidades do projeto.</description>
+      <description>Blog oficial do Linux Mint com anúncios de versões, notas de atualização e novidades do projeto.
+&#xA;&#xA;🔗 Site: https://www.linuxmint.com/
+&#xA;📡 Feed RSS: https://blog.linuxmint.com/?feed=rss2</description>
       <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog Feed</source>
       <guid isPermaLink="true">https://www.linuxmint.com/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -105,7 +121,9 @@
     <item>
       <title>[Fonte] BigLinux - Distro brasileira baseada em Arch</title>
       <link>https://www.biglinux.com.br/</link>
-      <description>Blog do BigLinux, distribuição brasileira baseada em Arch/Manjaro, com foco em usabilidade e experiência do usuário.</description>
+      <description>Blog do BigLinux, distribuição brasileira baseada em Arch/Manjaro, com foco em usabilidade e experiência do usuário.
+&#xA;&#xA;🔗 Site: https://www.biglinux.com.br/
+&#xA;📡 Feed RSS: https://www.biglinux.com.br/feed</description>
       <source url="https://www.biglinux.com.br/feed">BigLinux Feed</source>
       <guid isPermaLink="true">https://www.biglinux.com.br/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -114,7 +132,9 @@
     <item>
       <title>[Fonte] openSUSE News - Novidades do projeto openSUSE</title>
       <link>https://www.opensuse.org/</link>
-      <description>Portal de notícias do projeto openSUSE com anúncios de lançamentos, eventos e novidades da distribuição.</description>
+      <description>Portal de notícias do projeto openSUSE com anúncios de lançamentos, eventos e novidades da distribuição.
+&#xA;&#xA;🔗 Site: https://www.opensuse.org/
+&#xA;📡 Feed RSS: https://news.opensuse.org/feed/</description>
       <source url="https://news.opensuse.org/feed/">openSUSE News Feed</source>
       <guid isPermaLink="true">https://www.opensuse.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -123,7 +143,9 @@
     <item>
       <title>[Fonte] Planet GNOME - Blogs da comunidade GNOME</title>
       <link>https://planet.gnome.org/</link>
-      <description>Agregador dos blogs dos desenvolvedores e colaboradores do projeto GNOME. Atualizações, desenvolvimento e bastidores do desktop.</description>
+      <description>Agregador dos blogs dos desenvolvedores e colaboradores do projeto GNOME. Atualizações, desenvolvimento e bastidores do desktop.
+&#xA;&#xA;🔗 Site: https://planet.gnome.org/
+&#xA;📡 Feed RSS: https://planet.gnome.org/rss20.xml</description>
       <source url="https://planet.gnome.org/rss20.xml">Planet GNOME RSS</source>
       <guid isPermaLink="true">https://planet.gnome.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -132,7 +154,9 @@
     <item>
       <title>[Fonte] Planet KDE - Comunidade e desenvolvimento KDE</title>
       <link>https://planet.kde.org/</link>
-      <description>Agregador dos blogs da comunidade KDE. Cobre o desenvolvimento do Plasma, aplicativos KDE e iniciativas da comunidade.</description>
+      <description>Agregador dos blogs da comunidade KDE. Cobre o desenvolvimento do Plasma, aplicativos KDE e iniciativas da comunidade.
+&#xA;&#xA;🔗 Site: https://planet.kde.org/
+&#xA;📡 Feed RSS: https://planet.kde.org/index.xml</description>
       <source url="https://planet.kde.org/index.xml">Planet KDE RSS</source>
       <guid isPermaLink="true">https://planet.kde.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -141,7 +165,9 @@
     <item>
       <title>[Fonte] Ubuntu MATE - Novidades do Ubuntu MATE</title>
       <link>https://ubuntu-mate.org/</link>
-      <description>Blog oficial do Ubuntu MATE com anúncios de versões, tutoriais e novidades do projeto.</description>
+      <description>Blog oficial do Ubuntu MATE com anúncios de versões, tutoriais e novidades do projeto.
+&#xA;&#xA;🔗 Site: https://ubuntu-mate.org/
+&#xA;📡 Feed RSS: https://ubuntu-mate.org/rss.xml</description>
       <source url="https://ubuntu-mate.org/rss.xml">Ubuntu MATE RSS</source>
       <guid isPermaLink="true">https://ubuntu-mate.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -150,7 +176,9 @@
     <item>
       <title>[Fonte] Xfce News - Atualizações do ambiente Xfce</title>
       <link>https://xfce.org/</link>
-      <description>Feed oficial do projeto Xfce com anúncios de novas versões e atualizações do ambiente gráfico leve e modular.</description>
+      <description>Feed oficial do projeto Xfce com anúncios de novas versões e atualizações do ambiente gráfico leve e modular.
+&#xA;&#xA;🔗 Site: https://xfce.org/
+&#xA;📡 Feed RSS: https://xfce.org/feed</description>
       <source url="https://xfce.org/feed">Xfce Feed</source>
       <guid isPermaLink="true">https://xfce.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -159,7 +187,9 @@
     <item>
       <title>[Fonte] i3wm - Releases no GitHub</title>
       <link>https://i3wm.org/</link>
-      <description>Feed de releases do i3 no GitHub. Tiling window manager minimalista e altamente configurável, muito popular entre usuários avançados de GNU/Linux.</description>
+      <description>Tiling window manager minimalista e altamente configurável, muito popular entre usuários avançados de GNU/Linux.
+&#xA;&#xA;🔗 Site: https://i3wm.org/
+&#xA;📡 Feed RSS: https://github.com/i3/i3/releases.atom</description>
       <source url="https://github.com/i3/i3/releases.atom">i3wm Releases Atom</source>
       <guid isPermaLink="true">https://i3wm.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -168,7 +198,9 @@
     <item>
       <title>[Fonte] Sway - Releases no GitHub</title>
       <link>https://swaywm.org/</link>
-      <description>Feed de releases do Sway no GitHub. Compositor Wayland compatível com i3, ideal para quem migrou do Xorg.</description>
+      <description>Compositor Wayland compatível com i3, ideal para quem migrou do Xorg.
+&#xA;&#xA;🔗 Site: https://swaywm.org/
+&#xA;📡 Feed RSS: https://github.com/swaywm/sway/releases.atom</description>
       <source url="https://github.com/swaywm/sway/releases.atom">Sway Releases Atom</source>
       <guid isPermaLink="true">https://swaywm.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -177,7 +209,9 @@
     <item>
       <title>[Fonte] Hyprland - Releases no GitHub</title>
       <link>https://hypr.land/</link>
-      <description>Feed de releases do Hyprland no GitHub. Compositor Wayland moderno com animações suaves e altamente customizável.</description>
+      <description>Compositor Wayland moderno com animações suaves e altamente customizável.
+&#xA;&#xA;🔗 Site: https://hypr.land/
+&#xA;📡 Feed RSS: https://github.com/hyprwm/Hyprland/releases.atom</description>
       <source url="https://github.com/hyprwm/Hyprland/releases.atom">Hyprland Releases Atom</source>
       <guid isPermaLink="true">https://hypr.land/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -186,7 +220,9 @@
     <item>
       <title>[Fonte] FSF News - Free Software Foundation</title>
       <link>https://www.fsf.org/</link>
-      <description>Canal de notícias oficial da Free Software Foundation. Campanhas, eventos e iniciativas em defesa do software livre.</description>
+      <description>Canal de notícias oficial da Free Software Foundation. Campanhas, eventos e iniciativas em defesa do software livre.
+&#xA;&#xA;🔗 Site: https://www.fsf.org/
+&#xA;📡 Feed RSS: https://www.fsf.org/news/RSS</description>
       <source url="https://www.fsf.org/news/RSS">FSF News RSS</source>
       <guid isPermaLink="true">https://www.fsf.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -195,7 +231,9 @@
     <item>
       <title>[Fonte] Planet GNU - Blogs da comunidade GNU</title>
       <link>https://planet.gnu.org/</link>
-      <description>Agregador dos blogs da comunidade GNU. Cobre desenvolvimento, filosofia e iniciativas do projeto GNU.</description>
+      <description>Agregador dos blogs da comunidade GNU. Cobre desenvolvimento, filosofia e iniciativas do projeto GNU.
+&#xA;&#xA;🔗 Site: https://planet.gnu.org/
+&#xA;📡 Feed RSS: https://planet.gnu.org/rss20.xml</description>
       <source url="https://planet.gnu.org/rss20.xml">Planet GNU RSS</source>
       <guid isPermaLink="true">https://planet.gnu.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -204,7 +242,9 @@
     <item>
       <title>[Fonte] OSI - Open Source Initiative</title>
       <link>https://opensource.org/</link>
-      <description>Blog oficial da Open Source Initiative. Notícias, políticas e iniciativas sobre o movimento open source mundial.</description>
+      <description>Blog oficial da Open Source Initiative. Notícias, políticas e iniciativas sobre o movimento open source mundial.
+&#xA;&#xA;🔗 Site: https://opensource.org/
+&#xA;📡 Feed RSS: https://opensource.org/feed/</description>
       <source url="https://opensource.org/feed/">OSI Feed</source>
       <guid isPermaLink="true">https://opensource.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -213,7 +253,9 @@
     <item>
       <title>[Fonte] Linux Today - Notícias GNU/Linux</title>
       <link>https://www.linuxtoday.com/</link>
-      <description>Portal de notícias sobre GNU/Linux com cobertura de lançamentos, tutoriais e novidades do ecossistema. Em inglês.</description>
+      <description>Portal de notícias sobre GNU/Linux com cobertura de lançamentos, tutoriais e novidades do ecossistema. Em inglês.
+&#xA;&#xA;🔗 Site: https://www.linuxtoday.com/
+&#xA;📡 Feed RSS: https://www.linuxtoday.com/news/feed/</description>
       <source url="https://www.linuxtoday.com/news/feed/">Linux Today Feed</source>
       <guid isPermaLink="true">https://www.linuxtoday.com/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -222,7 +264,9 @@
     <item>
       <title>[Fonte] Linux Foundation - Blog oficial</title>
       <link>https://www.linuxfoundation.org/</link>
-      <description>Blog oficial da Linux Foundation com notícias sobre projetos, eventos e iniciativas do ecossistema GNU/Linux. Em inglês.</description>
+      <description>Blog oficial da Linux Foundation com notícias sobre projetos, eventos e iniciativas do ecossistema GNU/Linux. Em inglês.
+&#xA;&#xA;🔗 Site: https://www.linuxfoundation.org/
+&#xA;📡 Feed RSS: https://www.linuxfoundation.org/feed</description>
       <source url="https://www.linuxfoundation.org/feed">Linux Foundation Feed</source>
       <guid isPermaLink="true">https://www.linuxfoundation.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -231,7 +275,9 @@
     <item>
       <title>[Fonte] The Linux Kernel - kernel.org</title>
       <link>https://www.kernel.org/</link>
-      <description>Feed oficial do kernel.org com notícias do site e lançamentos do kernel Linux. Em inglês.</description>
+      <description>Feed oficial do kernel.org com notícias do site e lançamentos do kernel Linux. Em inglês.
+&#xA;&#xA;🔗 Site: https://www.kernel.org/
+&#xA;📡 Feed RSS: https://www.kernel.org/feeds/all.atom.xml</description>
       <source url="https://www.kernel.org/feeds/all.atom.xml">kernel.org Atom Feed</source>
       <guid isPermaLink="true">https://www.kernel.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -240,7 +286,9 @@
     <item>
       <title>[Fonte] GitHub Blog - Novidades da plataforma GitHub</title>
       <link>https://github.blog/</link>
-      <description>Blog oficial do GitHub com anúncios de funcionalidades, projetos open source em destaque e novidades da plataforma. Em inglês.</description>
+      <description>Blog oficial do GitHub com anúncios de funcionalidades, projetos open source em destaque e novidades da plataforma. Em inglês.
+&#xA;&#xA;🔗 Site: https://github.blog/
+&#xA;📡 Feed RSS: https://github.blog/feed</description>
       <source url="https://github.blog/feed">GitHub Blog Feed</source>
       <guid isPermaLink="true">https://github.blog/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -249,7 +297,9 @@
     <item>
       <title>[Fonte] Phoronix - Benchmark e notícias GNU/Linux e open source</title>
       <link>https://www.phoronix.com/</link>
-      <description>Referência em benchmarks de GNU/Linux, drivers e hardware open source. Cobertura técnica e aprofundada do ecossistema GNU/Linux. Em inglês.</description>
+      <description>Referência em benchmarks de GNU/Linux, drivers e hardware open source. Cobertura técnica e aprofundada do ecossistema GNU/Linux. Em inglês.
+&#xA;&#xA;🔗 Site: https://www.phoronix.com/
+&#xA;📡 Feed RSS: https://www.phoronix.com/rss.php</description>
       <source url="https://www.phoronix.com/rss.php">Phoronix RSS</source>
       <guid isPermaLink="true">https://www.phoronix.com/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -258,7 +308,9 @@
     <item>
       <title>[Fonte] OMG! Ubuntu - Notícias e dicas sobre Ubuntu</title>
       <link>https://www.omgubuntu.co.uk/</link>
-      <description>Blog popular sobre Ubuntu e GNU/Linux em geral com notícias, tutoriais e lançamentos de aplicativos. Em inglês.</description>
+      <description>Blog popular sobre Ubuntu e GNU/Linux em geral com notícias, tutoriais e lançamentos de aplicativos. Em inglês.
+&#xA;&#xA;🔗 Site: https://www.omgubuntu.co.uk/
+&#xA;📡 Feed RSS: https://www.omgubuntu.co.uk/feed</description>
       <source url="https://www.omgubuntu.co.uk/feed">OMG! Ubuntu Feed</source>
       <guid isPermaLink="true">https://www.omgubuntu.co.uk/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -267,7 +319,9 @@
     <item>
       <title>[Fonte] It's FOSS - GNU/Linux para todos os níveis</title>
       <link>https://itsfoss.com/</link>
-      <description>Portal dedicado ao GNU/Linux e software livre com tutoriais, reviews e notícias acessíveis para iniciantes e avançados. Em inglês.</description>
+      <description>Portal dedicado ao GNU/Linux e software livre com tutoriais, reviews e notícias acessíveis para iniciantes e avançados. Em inglês.
+&#xA;&#xA;🔗 Site: https://itsfoss.com/
+&#xA;📡 Feed RSS: https://itsfoss.com/feed</description>
       <source url="https://itsfoss.com/feed">It's FOSS Feed</source>
       <guid isPermaLink="true">https://itsfoss.com/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
@@ -276,7 +330,9 @@
     <item>
       <title>[Fonte] The Verge - Tecnologia e cultura digital</title>
       <link>https://www.theverge.com/</link>
-      <description>Portal de tecnologia com cobertura ampla sobre software, hardware, ciência e cultura digital. Em inglês.</description>
+      <description>Portal de tecnologia com cobertura ampla sobre software, hardware, ciência e cultura digital. Em inglês.
+&#xA;&#xA;🔗 Site: https://www.theverge.com/
+&#xA;📡 Feed RSS: https://www.theverge.com/rss/index.xml</description>
       <source url="https://www.theverge.com/rss/index.xml">The Verge RSS</source>
       <guid isPermaLink="true">https://www.theverge.com/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
