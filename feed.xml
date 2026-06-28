@@ -34,7 +34,8 @@
 
     <item>
       <title>[Fonte] BR-Linux - Notícias sobre GNU/Linux em português</title>
-      <link>https://br-linux.org/feed</link>
+      <link>https://br-linux.org/</link>
+      <source url="https://br-linux.org/feed">BR-Linux Feed</source>
       <guid isPermaLink="true">https://br-linux.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
@@ -48,182 +49,208 @@
 
     <item>
       <title>[Fonte] Diolinux - GNU/Linux e tecnologia open source</title>
-      <link>https://diolinux.com.br/feed</link>
+      <link>https://diolinux.com.br/</link>
+      <source url="https://diolinux.com.br/feed">Diolinux Feed</source>
       <guid isPermaLink="true">https://diolinux.com.br/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] Movimento Software Livre</title>
-      <link>https://movimento.softwarelivre.tec.br/feed/</link>
+      <link>https://movimento.softwarelivre.tec.br/</link>
+      <source url="https://movimento.softwarelivre.tec.br/feed/">Movimento Software Livre Feed</source>
       <guid isPermaLink="true">https://movimento.softwarelivre.tec.br/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] Debian News - Notícias oficiais do Projeto Debian</title>
-      <link>https://www.debian.org/News/news</link>
+      <link>https://www.debian.org/</link>
+      <source url="https://www.debian.org/News/news">Debian News Feed</source>
       <guid isPermaLink="true">https://www.debian.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] Fedora Magazine - Novidades do ecossistema Fedora</title>
-      <link>https://fedoramagazine.org/feed</link>
+      <link>https://fedoramagazine.org/</link>
+      <source url="https://fedoramagazine.org/feed">Fedora Magazine Feed</source>
       <guid isPermaLink="true">https://fedoramagazine.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] Ubuntu Blog - Blog oficial da Canonical</title>
-      <link>https://ubuntu.com/blog/feed</link>
+      <link>https://ubuntu.com/blog</link>
+      <source url="https://ubuntu.com/blog/feed">Ubuntu Blog Feed</source>
       <guid isPermaLink="true">https://ubuntu.com/blog</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] Linux Mint Blog - Atualizações e lançamentos</title>
-      <link>https://blog.linuxmint.com/?feed=rss2</link>
+      <link>https://www.linuxmint.com/</link>
+      <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog Feed</source>
       <guid isPermaLink="true">https://www.linuxmint.com/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] BigLinux - Distro brasileira baseada em Arch</title>
-      <link>https://www.biglinux.com.br/feed</link>
+      <link>https://www.biglinux.com.br/</link>
+      <source url="https://www.biglinux.com.br/feed">BigLinux Feed</source>
       <guid isPermaLink="true">https://www.biglinux.com.br/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] openSUSE News - Novidades do projeto openSUSE</title>
-      <link>https://news.opensuse.org/feed/</link>
+      <link>https://www.opensuse.org/</link>
+      <source url="https://news.opensuse.org/feed/">openSUSE News Feed</source>
       <guid isPermaLink="true">https://www.opensuse.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] Planet GNOME - Blogs da comunidade GNOME</title>
-      <link>https://planet.gnome.org/rss20.xml</link>
+      <link>https://planet.gnome.org/</link>
+      <source url="https://planet.gnome.org/rss20.xml">Planet GNOME RSS</source>
       <guid isPermaLink="true">https://planet.gnome.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] Planet KDE - Comunidade e desenvolvimento KDE</title>
-      <link>https://planet.kde.org/index.xml</link>
+      <link>https://planet.kde.org/</link>
+      <source url="https://planet.kde.org/index.xml">Planet KDE RSS</source>
       <guid isPermaLink="true">https://planet.kde.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] Ubuntu MATE - Novidades do Ubuntu MATE</title>
-      <link>https://ubuntu-mate.org/rss.xml</link>
+      <link>https://ubuntu-mate.org/</link>
+      <source url="https://ubuntu-mate.org/rss.xml">Ubuntu MATE RSS</source>
       <guid isPermaLink="true">https://ubuntu-mate.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] Xfce News - Atualizações do ambiente Xfce</title>
-      <link>https://xfce.org/feed</link>
+      <link>https://xfce.org/</link>
+      <source url="https://xfce.org/feed">Xfce Feed</source>
       <guid isPermaLink="true">https://xfce.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] i3wm - Releases no GitHub</title>
-      <link>https://github.com/i3/i3/releases.atom</link>
+      <link>https://i3wm.org/</link>
+      <source url="https://github.com/i3/i3/releases.atom">i3wm Releases Atom</source>
       <guid isPermaLink="true">https://i3wm.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] Sway - Releases no GitHub</title>
-      <link>https://github.com/swaywm/sway/releases.atom</link>
+      <link>https://swaywm.org/</link>
+      <source url="https://github.com/swaywm/sway/releases.atom">Sway Releases Atom</source>
       <guid isPermaLink="true">https://swaywm.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] Hyprland - Releases no GitHub</title>
-      <link>https://github.com/hyprwm/Hyprland/releases.atom</link>
+      <link>https://hypr.land/</link>
+      <source url="https://github.com/hyprwm/Hyprland/releases.atom">Hyprland Releases Atom</source>
       <guid isPermaLink="true">https://hypr.land/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] FSF News - Free Software Foundation</title>
-      <link>https://www.fsf.org/news/RSS</link>
+      <link>https://www.fsf.org/</link>
+      <source url="https://www.fsf.org/news/RSS">FSF News RSS</source>
       <guid isPermaLink="true">https://www.fsf.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] Planet GNU - Blogs da comunidade GNU</title>
-      <link>https://planet.gnu.org/rss20.xml</link>
+      <link>https://planet.gnu.org/</link>
+      <source url="https://planet.gnu.org/rss20.xml">Planet GNU RSS</source>
       <guid isPermaLink="true">https://planet.gnu.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] OSI - Open Source Initiative</title>
-      <link>https://opensource.org/feed/</link>
+      <link>https://opensource.org/</link>
+      <source url="https://opensource.org/feed/">OSI Feed</source>
       <guid isPermaLink="true">https://opensource.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] Linux Today - Notícias GNU/Linux</title>
-      <link>https://www.linuxtoday.com/news/feed/</link>
+      <link>https://www.linuxtoday.com/</link>
+      <source url="https://www.linuxtoday.com/news/feed/">Linux Today Feed</source>
       <guid isPermaLink="true">https://www.linuxtoday.com/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] Linux Foundation - Blog oficial</title>
-      <link>https://www.linuxfoundation.org/feed</link>
+      <link>https://www.linuxfoundation.org/</link>
+      <source url="https://www.linuxfoundation.org/feed">Linux Foundation Feed</source>
       <guid isPermaLink="true">https://www.linuxfoundation.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] The Linux Kernel - kernel.org</title>
-      <link>https://www.kernel.org/feeds/all.atom.xml</link>
+      <link>https://www.kernel.org/</link>
+      <source url="https://www.kernel.org/feeds/all.atom.xml">kernel.org Atom Feed</source>
       <guid isPermaLink="true">https://www.kernel.org/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] GitHub Blog - Novidades da plataforma GitHub</title>
-      <link>https://github.blog/feed</link>
+      <link>https://github.blog/</link>
+      <source url="https://github.blog/feed">GitHub Blog Feed</source>
       <guid isPermaLink="true">https://github.blog/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] Phoronix - Benchmark e notícias GNU/Linux e open source</title>
-      <link>https://www.phoronix.com/rss.php</link>
+      <link>https://www.phoronix.com/</link>
+      <source url="https://www.phoronix.com/rss.php">Phoronix RSS</source>
       <guid isPermaLink="true">https://www.phoronix.com/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] OMG! Ubuntu - Notícias e dicas sobre Ubuntu</title>
-      <link>https://www.omgubuntu.co.uk/feed</link>
+      <link>https://www.omgubuntu.co.uk/</link>
+      <source url="https://www.omgubuntu.co.uk/feed">OMG! Ubuntu Feed</source>
       <guid isPermaLink="true">https://www.omgubuntu.co.uk/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] It's FOSS - GNU/Linux para todos os níveis</title>
-      <link>https://itsfoss.com/feed</link>
+      <link>https://itsfoss.com/</link>
+      <source url="https://itsfoss.com/feed">It's FOSS Feed</source>
       <guid isPermaLink="true">https://itsfoss.com/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
 
     <item>
       <title>[Fonte] The Verge - Tecnologia e cultura digital</title>
-      <link>https://www.theverge.com/rss/index.xml</link>
+      <link>https://www.theverge.com/</link>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge RSS</source>
       <guid isPermaLink="true">https://www.theverge.com/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 -0300</pubDate>
     </item>
