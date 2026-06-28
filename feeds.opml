@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>LibreUFOP - Fontes RSS</title>
+    <dateCreated>Fri, 26 Jun 2026 00:00:00 -0300</dateCreated>
+    <ownerName>LibreUFOP</ownerName>
+    <ownerEmail>libreufop@ufop.edu.br</ownerEmail>
+    <docs>http://opml.org/spec2.opml</docs>
+  </head>
+  <body>
+
+    <!-- Notícias Brasileiras -->
+    <outline text="BR-Linux - Notícias sobre GNU/Linux em português"
+             title="BR-Linux"
+             type="rss"
+             xmlUrl="https://br-linux.org/feed"
+             htmlUrl="https://br-linux.org/"/>
+
+    <outline text="Viva o Linux - Tutoriais e comunidade"
+             title="Viva o Linux"
+             type="rss"
+             xmlUrl="https://www.vivaolinux.com.br/rss"
+             htmlUrl="https://www.vivaolinux.com.br/"/>
+
+    <outline text="Diolinux - GNU/Linux e tecnologia open source"
+             title="Diolinux"
+             type="rss"
+             xmlUrl="https://diolinux.com.br/feed"
+             htmlUrl="https://diolinux.com.br/"/>
+
+    <outline text="Movimento Software Livre"
+             title="Movimento Software Livre"
+             type="rss"
+             xmlUrl="https://movimento.softwarelivre.tec.br/feed/"
+             htmlUrl="https://movimento.softwarelivre.tec.br/"/>
+
+    <!-- Distribuições GNU/Linux -->
+    <outline text="Debian News - Notícias oficiais do Projeto Debian"
+             title="Debian News"
+             type="rss"
+             xmlUrl="https://www.debian.org/News/news"
+             htmlUrl="https://www.debian.org/News/"/>
+
+    <outline text="Fedora Magazine - Novidades do ecossistema Fedora"
+             title="Fedora Magazine"
+             type="rss"
+             xmlUrl="https://fedoramagazine.org/feed"
+             htmlUrl="https://fedoramagazine.org/"/>
+
+    <outline text="Ubuntu Blog - Blog oficial da Canonical"
+             title="Ubuntu Blog"
+             type="rss"
+             xmlUrl="https://ubuntu.com/blog/feed"
+             htmlUrl="https://ubuntu.com/blog"/>
+
+    <outline text="Linux Mint Blog - Atualizações e lançamentos"
+             title="Linux Mint Blog"
+             type="rss"
+             xmlUrl="https://blog.linuxmint.com/?feed=rss2"
+             htmlUrl="https://www.linuxmint.com/"/>
+
+    <outline text="BigLinux - Distro brasileira baseada em Arch"
+             title="BigLinux"
+             type="rss"
+             xmlUrl="https://www.biglinux.com.br/feed"
+             htmlUrl="https://www.biglinux.com.br/"/>
+
+    <outline text="openSUSE News - Novidades do projeto openSUSE"
+             title="openSUSE News"
+             type="rss"
+             xmlUrl="https://news.opensuse.org/feed/"
+             htmlUrl="https://www.opensuse.org/"/>
+
+    <!-- Ambientes Gráficos -->
+    <outline text="Planet GNOME - Blogs da comunidade GNOME"
+             title="Planet GNOME"
+             type="rss"
+             xmlUrl="https://planet.gnome.org/rss20.xml"
+             htmlUrl="https://planet.gnome.org/"/>
+
+    <outline text="Planet KDE - Comunidade e desenvolvimento KDE"
+             title="Planet KDE"
+             type="rss"
+             xmlUrl="https://planet.kde.org/index.xml"
+             htmlUrl="https://planet.kde.org/"/>
+
+    <outline text="Ubuntu MATE - Novidades do Ubuntu MATE"
+             title="Ubuntu MATE"
+             type="rss"
+             xmlUrl="https://ubuntu-mate.org/rss.xml"
+             htmlUrl="https://ubuntu-mate.org/"/>
+
+    <outline text="Xfce News - Atualizações do ambiente Xfce"
+             title="Xfce News"
+             type="rss"
+             xmlUrl="https://xfce.org/feed"
+             htmlUrl="https://xfce.org/"/>
+
+    <!-- Gerenciadores de Janelas -->
+    <outline text="i3wm - Releases no GitHub"
+             title="i3wm"
+             type="rss"
+             xmlUrl="https://github.com/i3/i3/releases.atom"
+             htmlUrl="https://i3wm.org/"/>
+
+    <outline text="Sway - Releases no GitHub"
+             title="Sway"
+             type="rss"
+             xmlUrl="https://github.com/swaywm/sway/releases.atom"
+             htmlUrl="https://swaywm.org/"/>
+
+    <outline text="Hyprland - Releases no GitHub"
+             title="Hyprland"
+             type="rss"
+             xmlUrl="https://github.com/hyprwm/Hyprland/releases.atom"
+             htmlUrl="https://hypr.land/"/>
+
+    <!-- Software Livre e Open Source -->
+    <outline text="FSF News - Free Software Foundation"
+             title="FSF News"
+             type="rss"
+             xmlUrl="https://www.fsf.org/news/RSS"
+             htmlUrl="https://www.fsf.org/"/>
+
+    <outline text="Planet GNU - Blogs da comunidade GNU"
+             title="Planet GNU"
+             type="rss"
+             xmlUrl="https://planet.gnu.org/rss20.xml"
+             htmlUrl="https://planet.gnu.org/"/>
+
+    <outline text="OSI - Open Source Initiative"
+             title="OSI"
+             type="rss"
+             xmlUrl="https://opensource.org/feed/"
+             htmlUrl="https://opensource.org/"/>
+
+    <!-- Tecnologia e Open Source -->
+    <outline text="Linux Today - Notícias GNU/Linux"
+             title="Linux Today"
+             type="rss"
+             xmlUrl="https://www.linuxtoday.com/news/feed/"
+             htmlUrl="https://www.linuxtoday.com/"/>
+
+    <outline text="Linux Foundation - Blog oficial"
+             title="Linux Foundation"
+             type="rss"
+             xmlUrl="https://www.linuxfoundation.org/feed"
+             htmlUrl="https://www.linuxfoundation.org/"/>
+
+    <outline text="The Linux Kernel - kernel.org"
+             title="kernel.org"
+             type="rss"
+             xmlUrl="https://www.kernel.org/feeds/all.atom.xml"
+             htmlUrl="https://www.kernel.org/"/>
+
+    <outline text="GitHub Blog - Novidades da plataforma GitHub"
+             title="GitHub Blog"
+             type="rss"
+             xmlUrl="https://github.blog/feed"
+             htmlUrl="https://github.blog/"/>
+
+    <outline text="Phoronix - Benchmark e notícias GNU/Linux e open source"
+             title="Phoronix"
+             type="rss"
+             xmlUrl="https://www.phoronix.com/rss.php"
+             htmlUrl="https://www.phoronix.com/"/>
+
+    <outline text="OMG! Ubuntu - Notícias e dicas sobre Ubuntu"
+             title="OMG! Ubuntu"
+             type="rss"
+             xmlUrl="https://www.omgubuntu.co.uk/feed"
+             htmlUrl="https://www.omgubuntu.co.uk/"/>
+
+    <outline text="It's FOSS - GNU/Linux para todos os níveis"
+             title="It's FOSS"
+             type="rss"
+             xmlUrl="https://itsfoss.com/feed"
+             htmlUrl="https://itsfoss.com/"/>
+
+    <outline text="The Verge - Tecnologia e cultura digital"
+             title="The Verge"
+             type="rss"
+             xmlUrl="https://www.theverge.com/rss/index.xml"
+             htmlUrl="https://www.theverge.com/"/>
+
+  </body>
+</opml>
