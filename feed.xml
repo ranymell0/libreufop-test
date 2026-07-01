@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Wed, 01 Jul 2026 17:16:09 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 19:56:19 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://ranymell0.github.io/libreufop-test/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -127,6 +127,46 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
     </item>
     <item>
+      <title>[BR-Linux] Linux no PlayStation 5: PS5-Linux agora roda em mais modelos e mais versões de firmware</title>
+      <link>https://br-linux.org/2026/01/linux-no-playstation-5-ps5-linux-agora-roda-em-mais-modelos-e-mais-versoes-de-firmware.html</link>
+      <description>O projeto ps5-linux continua expandindo o suporte, que passou a incluir também as versões de firmware 7.61, 7.20 e 6.50 – não apenas nos modelos originais maiorzões, mas também em alguns dos PlayStation 5 Slim.</description>
+      <pubDate>Wed, 01 Jul 2026 18:12:19 -0000</pubDate>
+      <guid isPermaLink="false">https://br-linux.org/2026/01/linux-no-playstation-5-ps5-linux-agora-roda-em-mais-modelos-e-mais-versoes-de-firmware.html</guid>
+      <source url="https://br-linux.org/feed">BR-Linux</source>
+    </item>
+    <item>
+      <title>[BR-Linux] Linux rodando (bem devagar) no Sega MegaDrive</title>
+      <link>https://br-linux.org/2026/01/linux-rodando-bem-devagar-no-sega-megadrive.html</link>
+      <description>O desenvolvedor Daniel Palmer anunciou, e disponibilizou o código, do seu port minimalista do Linux para o videogame Sega MegaDrive, de 1988.</description>
+      <pubDate>Wed, 01 Jul 2026 18:07:49 -0000</pubDate>
+      <guid isPermaLink="false">https://br-linux.org/2026/01/linux-rodando-bem-devagar-no-sega-megadrive.html</guid>
+      <source url="https://br-linux.org/feed">BR-Linux</source>
+    </item>
+    <item>
+      <title>[Phoronix] System76 Launches New Lemur Pro Laptop Powered By Intel Panther Lake</title>
+      <link>https://www.phoronix.com/news/System76-Lemur-Pro-Panther-Lake</link>
+      <description>System76 today announced their new Lemur Pro high-end Linux laptop that is now powered by the Core Ultra Series 3 &quot;Panther Lake&quot; SoCs...</description>
+      <pubDate>Wed, 01 Jul 2026 18:01:20 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/System76-Lemur-Pro-Panther-Lake</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[The Verge] Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million</title>
+      <link>https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds</link>
+      <description>After a lengthy legal dispute, Krafton has settled with its subsidiary Unknown Worlds Entertainment, which is developing Subnautica 2, and will pay bonuses to the studio&apos;s staff, Bloomberg reports. The dispute began last year after Krafton pushed out Unknown Worlds&apos; cofounders, Charlie Cleveland and Max McGuire, and its CEO, Ted Gill, ahead of a potential [&amp;#8230;]</description>
+      <pubDate>Wed, 01 Jul 2026 17:45:23 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=960354</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[The Verge] Xbox testing disc-to-digital feature that digitizes a physical game collection</title>
+      <link>https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection</link>
+      <description>Microsoft will likely soon follow Sony and stop the production of physical discs for Xbox games. But instead of leaving physical discs behind entirely, sources familiar with Microsoft&apos;s plans tell me the company has quietly been working on a disc-to-digital feature that will allow Xbox owners to digitize their existing physical game collections. Xbox employees [&amp;#8230;]</description>
+      <pubDate>Wed, 01 Jul 2026 17:41:23 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=960173</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
       <title>[The Verge] My favorite Kindle alternative is $30 off after a recent price increase</title>
       <link>https://www.theverge.com/gadgets/960282/kobo-libra-colour-july-fourth-sale-deal-sale</link>
       <description>Kobo recently raised the price of its Libra Colour e-reader to $259.99, but today&amp;#8217;s deal effectively erases that hike. The company, Best Buy, and Target, are all selling it for its old $229.99 price as part of broader sales, making now one of the best times to grab my favorite alternative to Amazon&amp;#8217;s Kindle. If [&amp;#8230;]</description>
@@ -173,14 +213,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <description>Dbrand apparently knows how to really whiff a product launch, as we recently saw with the Steam Machine Companion Cube shell. But it also makes the best case out there for the Nintendo Switch 2, which happens to be discounted right now. The Killswitch 2 is versatile, with better build quality than other similar models, [&amp;#8230;]</description>
       <pubDate>Wed, 01 Jul 2026 15:00:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=960185</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>[The Verge] Sony is killing discs — and showing us why it’s a terrible idea</title>
-      <link>https://www.theverge.com/games/960212/sony-playstation-killing-discs-digital-preservation</link>
-      <description>The future of video game preservation just took a major hit. This morning, Sony announced that, starting in January 2028, the company will no longer produce physical PlayStation discs, which means that from that moment on you can only purchase new PS5 games digitally. At the same time, Sony also announced that it&apos;s going to [&amp;#8230;]</description>
-      <pubDate>Wed, 01 Jul 2026 15:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960212</guid>
       <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
     </item>
     <item>
@@ -265,14 +297,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
     <item>
-      <title>[The Verge] Sony is closing the PS3 and Vita digital stores</title>
-      <link>https://www.theverge.com/games/960168/sony-playstation-ps3-vita-store-shut-down</link>
-      <description>It&apos;s the end of an era for the PlayStation store on PS3 and PS Vita, with Sony now planning to shut down its digital distribution service on both consoles. The PlayStation store on PS3 will close in select markets later this year, including Mexico, Honduras, and Nicaragua starting in August, with &quot;additional Latin American and [&amp;#8230;]</description>
-      <pubDate>Wed, 01 Jul 2026 12:37:52 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960168</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
       <title>[Planet KDE] Steam Deck and Wayland</title>
       <link>https://notmart.org/blog/2026/07/steamdeck-and-wayland/</link>
       <description>&lt;p class=&quot;wp-block-paragraph&quot;&gt;A while ago, Steam OS 3.8 was released. Among its many improvements, it includes a particularly important one for the Desktop Mode: it finally uses a Wayland session by default.&lt;/p&gt;
@@ -301,14 +325,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <pubDate>Wed, 01 Jul 2026 10:48:38 -0000</pubDate>
       <guid isPermaLink="false">6a41fea246ba4400013fc58f</guid>
       <source url="https://itsfoss.com/feed">It&apos;s FOSS</source>
-    </item>
-    <item>
-      <title>[Phoronix] GCC 16.2 Being Planned For Early August Release</title>
-      <link>https://www.phoronix.com/news/GCC-16.2-Early-August</link>
-      <description>For those that prefer waiting until the first bug-fix/point release before upgrading to a major new feature series, GCC 16.2 is being planned for an early August release for delivering back-ported bug fixes to the GCC 16 compiler...</description>
-      <pubDate>Wed, 01 Jul 2026 10:31:04 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/GCC-16.2-Early-August</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
     <item>
       <title>[Ubuntu Blog] DirtyClone Linux kernel local privilege escalation vulnerability fixes available</title>
@@ -515,22 +531,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <description>O Krita não é o primeiro nome que vem à cabeça quando se pensa em aplicativo open source para substituir o Photoshop, mas mereceria ser, pois faz muito mais do que a sua reputação sugere.</description>
       <pubDate>Tue, 30 Jun 2026 14:41:22 -0000</pubDate>
       <guid isPermaLink="false">https://br-linux.org/2026/01/90-krita-se-sai-muito-bem-em-comparativo-para-substituir-photoshop.html</guid>
-      <source url="https://br-linux.org/feed">BR-Linux</source>
-    </item>
-    <item>
-      <title>[BR-Linux] Por que não usar serviços de VPN</title>
-      <link>https://br-linux.org/2026/01/por-que-nao-usar-servicos-de-vpn.html</link>
-      <description>VPN é bom e útil, mas os provedores que vendem esse serviço são um assunto mais complicado, e as notícias do final de semana voltaram a colocar em evidência esse conselho de 2015 (mas atualizado várias vezes desde então): Não use</description>
-      <pubDate>Tue, 30 Jun 2026 14:29:35 -0000</pubDate>
-      <guid isPermaLink="false">https://br-linux.org/2026/01/por-que-nao-usar-servicos-de-vpn.html</guid>
-      <source url="https://br-linux.org/feed">BR-Linux</source>
-    </item>
-    <item>
-      <title>[BR-Linux] Microsoft anuncia o WSLC: Windows rodando containers feitos para Linux</title>
-      <link>https://br-linux.org/2026/01/microsoft-anuncia-o-wslc-windows-rodando-containers-feitos-para-linux.html</link>
-      <description>A Microsoft anunciou a versão preliminar do WSL Containers, ou WSLC, tentando mais uma cartada para puxar para o Windows os desenvolvedores que usam Linux.</description>
-      <pubDate>Tue, 30 Jun 2026 14:24:38 -0000</pubDate>
-      <guid isPermaLink="false">https://br-linux.org/2026/01/microsoft-anuncia-o-wslc-windows-rodando-containers-feitos-para-linux.html</guid>
       <source url="https://br-linux.org/feed">BR-Linux</source>
     </item>
     <item>
