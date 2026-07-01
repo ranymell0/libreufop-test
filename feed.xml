@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Wed, 01 Jul 2026 14:35:54 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 17:16:09 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://ranymell0.github.io/libreufop-test/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -127,6 +127,79 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
     </item>
     <item>
+      <title>[The Verge] My favorite Kindle alternative is $30 off after a recent price increase</title>
+      <link>https://www.theverge.com/gadgets/960282/kobo-libra-colour-july-fourth-sale-deal-sale</link>
+      <description>Kobo recently raised the price of its Libra Colour e-reader to $259.99, but today&amp;#8217;s deal effectively erases that hike. The company, Best Buy, and Target, are all selling it for its old $229.99 price as part of broader sales, making now one of the best times to grab my favorite alternative to Amazon&amp;#8217;s Kindle. If [&amp;#8230;]</description>
+      <pubDate>Wed, 01 Jul 2026 16:28:40 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=960282</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[Phoronix] Linux 7.3 To Overcome &quot;Significant Bottleneck&quot; For Small I/O With PCIe Gen5 NVMe SSDs</title>
+      <link>https://www.phoronix.com/news/Linux-7.3-Faster-Small-Direct</link>
+      <description>While the Linux 7.2 feature merge window ended just days ago and the better part of two months now before v7.2 will be released as stable, there are already features beginning to accumulate that will target the Linux 7.3 cycle. The most exciting change I&apos;ve seen to kick off that dance ahead of Linux 7.3 is addressing a &quot;significant&quot; bottleneck affecting small direct I/O performance with speedy storage such as PCIe Gen5 NVMe SSDs...</description>
+      <pubDate>Wed, 01 Jul 2026 16:06:06 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/Linux-7.3-Faster-Small-Direct</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[GitHub Blog] 6 security settings every GitHub maintainer should enable this week</title>
+      <link>https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/</link>
+      <description>&lt;p&gt;These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it was before.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/&quot;&gt;6 security settings every GitHub maintainer should enable this week&lt;/a&gt; appeared first on &lt;a href=&quot;https://github.blog&quot;&gt;The GitHub Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 15:59:29 -0000</pubDate>
+      <guid isPermaLink="false">https://github.blog/?p=97204</guid>
+      <source url="https://github.blog/feed">GitHub Blog</source>
+    </item>
+    <item>
+      <title>[Phoronix] AMD Sends Out Latest Linux Patches For RMPOPT Optimization</title>
+      <link>https://www.phoronix.com/news/AMD-RMPOPT-Linux-v10</link>
+      <description>Earlier this year AMD disclosed the RMPOPT instruction that given the timing will seemingly be introduced with upcoming Zen 6 EPYC &quot;Venice&quot; processors. The RMPOPT feature amounts to a performance optimization for AMD EPYC SEV-SNP enabled servers by cutting down on the associated Reverse Map Table (RMP) overhead. Linux enablement of AMD RMPOPT remains ongoing and out this week is the latest iteration of the enablement...</description>
+      <pubDate>Wed, 01 Jul 2026 15:38:00 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/AMD-RMPOPT-Linux-v10</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[The Verge] Comcast’s split could make or break Peacock</title>
+      <link>https://www.theverge.com/streaming/960235/comcast-breakup-peacock-streaming</link>
+      <description>NBCUniversal executives are about to find out whether Peacock will sink or swim in the streaming industry. Now that Comcast is planning to split NBCUniversal, Peacock, and Sky from its broadband and wireless businesses, Peacock will be forced to stand on its own - without the backing of a combined company that pulled in more [&amp;#8230;]</description>
+      <pubDate>Wed, 01 Jul 2026 15:30:00 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=960235</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[The Verge] The best Switch 2 case I’ve tried is cheaper than usual</title>
+      <link>https://www.theverge.com/gadgets/960185/dbrand-killswitch-switch-2-deal-sale</link>
+      <description>Dbrand apparently knows how to really whiff a product launch, as we recently saw with the Steam Machine Companion Cube shell. But it also makes the best case out there for the Nintendo Switch 2, which happens to be discounted right now. The Killswitch 2 is versatile, with better build quality than other similar models, [&amp;#8230;]</description>
+      <pubDate>Wed, 01 Jul 2026 15:00:00 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=960185</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[The Verge] Sony is killing discs — and showing us why it’s a terrible idea</title>
+      <link>https://www.theverge.com/games/960212/sony-playstation-killing-discs-digital-preservation</link>
+      <description>The future of video game preservation just took a major hit. This morning, Sony announced that, starting in January 2028, the company will no longer produce physical PlayStation discs, which means that from that moment on you can only purchase new PS5 games digitally. At the same time, Sony also announced that it&apos;s going to [&amp;#8230;]</description>
+      <pubDate>Wed, 01 Jul 2026 15:00:00 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=960212</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[BR-Linux] COSMIC 1.2.0: nova versão do desktop traz refinamentos e amplia suporte para placas Intel</title>
+      <link>https://br-linux.org/2026/01/cosmic-120-nova-versao-do-desktop-traz-refinamentos-e-amplia-suporte-para-placas-intel.html</link>
+      <description>A nova versão do ambiente COSMIC chega apenas uma semana desde a atualização anterior, resolvendo uma oscilação na tela ao abrir a visão geral do desktop, corrigindo um possível travamento ao lidar com arquivos compactados,</description>
+      <pubDate>Wed, 01 Jul 2026 14:50:24 -0000</pubDate>
+      <guid isPermaLink="false">https://br-linux.org/2026/01/cosmic-120-nova-versao-do-desktop-traz-refinamentos-e-amplia-suporte-para-placas-intel.html</guid>
+      <source url="https://br-linux.org/feed">BR-Linux</source>
+    </item>
+    <item>
+      <title>[Planet GNU] FSF Blogs: June GNU Spotlight with Amin Bandali featuring eighteen new GNU releases: Linux-libre, Direvent, and more!</title>
+      <link>http://www.fsf.org/blogs/community/2026-june-gnu-spotlight</link>
+      <description></description>
+      <pubDate>Wed, 01 Jul 2026 14:34:49 -0000</pubDate>
+      <guid isPermaLink="false">http://www.fsf.org/blogs/community/2026-june-gnu-spotlight</guid>
+      <source url="https://planet.gnu.org/rss20.xml">Planet GNU</source>
+    </item>
+    <item>
       <title>[BR-Linux] Site OS News vai recusar cobrir os sistemas “sloperacioniais” – e eu aplaudo</title>
       <link>https://br-linux.org/2026/01/site-os-news-vai-recusar-cobrir-os-sistemas-sloperacioniais-e-eu-aplaudo.html</link>
       <description>O Thom Holwerda (@thomholwerda@exquisite⸱social) avisa que não vai mais cobrir no OS News os novos &quot;sistemas operacionais&quot; que tem surgido como parte da onda de slop produzida pelos usuários de IA.</description>
@@ -135,9 +208,33 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://br-linux.org/feed">BR-Linux</source>
     </item>
     <item>
+      <title>[Planet KDE] A Cross-Platform Rust UI Framework via Qt’s Bridging Technology</title>
+      <link>https://www.qt.io/blog/rust-ui-framework-via-bridging-technology</link>
+      <description>&lt;div class=&quot;hs-featured-image-wrapper&quot;&gt;
+&lt;a class=&quot;hs-featured-image-link&quot; href=&quot;https://www.qt.io/blog/rust-ui-framework-via-bridging-technology?hsLang=en&quot; target=&quot;_blank&quot; title=&quot;&quot;&gt; &lt;img alt=&quot;Simple illustration on how Qt Bridges enables QML frontends for Rust backends&quot; class=&quot;hs-featured-image&quot; src=&quot;https://www.qt.io/hubfs/QtBridges-RustUIFramework-FeaturedImage-1200x628.webp&quot; style=&quot;width: auto !important; float: left; margin: 0 15px 15px 0;&quot; /&gt; &lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;span style=&quot;line-height: 25.575px;&quot;&gt;Rust has achieved something extraordinary: it genuinely excites people to write software. But when it comes to building a real user interface, the ecosystem is still finding its footing. There are numerous options to pick your Rust UI framework from, including those gaining traction, like Iced and egui. Most of the available UI frameworks, however, are still establishing themselves in production environments and fall short in feature-richness. Qt Bridges, a bridging technology in public beta for Rust, brings something different to the table: over three decades of real-world use, commercial support, and a framework that already runs in automotive dashboards, medical devices, and industrial systems worldwide. Qt Bridge for Rust makes that maturity available to Rust developers, providing access to a UI framework that lets you keep your Rust codebase while using Qt Quick’s feature-rich UI libraries and APIs, hardware acceleration, and genuine cross-platform support.&lt;/span&gt;&lt;/p&gt;
+&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;https://track-eu1.hubspot.com/__ptq.gif?a=149513&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fwww.qt.io%2Fblog%2Frust-ui-framework-via-bridging-technology&amp;amp;bu=https%253A%252F%252Fwww.qt.io%252Fblog&amp;amp;bvt=rss&quot; style=&quot;width: 1px!important;&quot; width=&quot;1&quot; /&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 14:15:22 -0000</pubDate>
+      <guid isPermaLink="false">https://www.qt.io/blog/rust-ui-framework-via-bridging-technology</guid>
+      <source url="https://planet.kde.org/index.xml">Planet KDE</source>
+    </item>
+    <item>
+      <title>[Planet KDE] Qt Bridges: Public Beta for the Rust Bridge Is Out!</title>
+      <link>https://www.qt.io/blog/qt-bridges-public-beta-for-rust</link>
+      <description>&lt;div class=&quot;hs-featured-image-wrapper&quot;&gt;
+&lt;a class=&quot;hs-featured-image-link&quot; href=&quot;https://www.qt.io/blog/qt-bridges-public-beta-for-rust?hsLang=en&quot; target=&quot;_blank&quot; title=&quot;&quot;&gt; &lt;img alt=&quot;Qt Bridges: Public Beta for the Rust Bridge Is Out!&quot; class=&quot;hs-featured-image&quot; src=&quot;https://www.qt.io/hubfs/QtBridges-Bridging-Technology-tinified.webp&quot; style=&quot;width: auto !important; float: left; margin: 0 15px 15px 0;&quot; /&gt; &lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.qt.io/development/qt-bridges?hsLang=en&quot; target=&quot;_blank&quot;&gt;Qt Bridges&lt;/a&gt; is a project we have been developing since 2025 to bring &lt;a href=&quot;https://www.qt.io/development/qt-framework/ui-framework?hsLang=en&quot; target=&quot;_blank&quot;&gt;Qt’s UI framework&lt;/a&gt; capabilities to other programming languages, without going through the full set of bindings. The focus is on the interaction with backend data objects, seamlessly integrated as QML components in a Qt Quick interface.&lt;/p&gt;
+&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;https://track-eu1.hubspot.com/__ptq.gif?a=149513&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fwww.qt.io%2Fblog%2Fqt-bridges-public-beta-for-rust&amp;amp;bu=https%253A%252F%252Fwww.qt.io%252Fblog&amp;amp;bvt=rss&quot; style=&quot;width: 1px!important;&quot; width=&quot;1&quot; /&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 14:15:20 -0000</pubDate>
+      <guid isPermaLink="false">https://www.qt.io/blog/qt-bridges-public-beta-for-rust</guid>
+      <source url="https://planet.kde.org/index.xml">Planet KDE</source>
+    </item>
+    <item>
       <title>[OMG! Ubuntu] Firefox is adding Vulkan video decoding for Nvidia GPUs</title>
       <link>https://www.omgubuntu.co.uk/2026/07/firefox-vulkan-video-decoding-nvidia</link>
-      <description>&lt;p&gt;&lt;img alt=&quot;Firefox logo with a pleased face drawn on it, sitting on a purple background.&quot; class=&quot;attachment-post-list size-post-list wp-post-image&quot; height=&quot;232&quot; src=&quot;https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/kit-firefox-logo.webp?resize=406%2C232&amp;amp;ssl=1&quot; width=&quot;406&quot; /&gt;Firefox is adding hardware-accelerated Vulkan Video decoding, saving Nvidia users on Linux the hassle of manually configuring the nvidia-vaapi-driver package. The change will be included in Firefox 153, out July 21, but it will not be enabled by default – not to start with. Instead, users will be able to flip a pair of preferences in about:config to try it out, with the awareness that there may be hiccups and edge cases (especially on devices with hybrid graphics, mentioned further down). Given that Nvidia GPUs are capable (understatement klaxon), I was surprised to hear that this didn&amp;#8217;t already work. Turns out, Firefox&amp;#8217;s [&amp;#8230;]&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&quot;Firefox logo with a pleased face drawn on it, sitting on a purple background.&quot; class=&quot;attachment-post-list size-post-list wp-post-image&quot; height=&quot;232&quot; src=&quot;https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/kit-firefox-logo.webp?resize=406%2C232&amp;amp;ssl=1&quot; width=&quot;406&quot; /&gt;Firefox is adding hardware-accelerated Vulkan Video decoding, saving Nvidia users on Linux the hassle of manually configuring the&amp;#160;nvidia-vaapi-driver&amp;#160;package. The change will be included in Firefox 153, out July 21, but it will not be enabled by default – not to start with. Instead, users will be able to flip a pair of preferences in about:config to try it out, with the awareness that there may be hiccups and edge cases (especially on devices with hybrid graphics, mentioned further down). Given that Nvidia GPUs are capable (understatement klaxon), I was surprised to hear that this didn&amp;#8217;t already work. Turns out, Firefox&amp;#8217;s [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;You&apos;re reading &lt;a href=&quot;https://www.omgubuntu.co.uk/2026/07/firefox-vulkan-video-decoding-nvidia&quot;&gt;Firefox is adding Vulkan video decoding for Nvidia GPUs&lt;/a&gt;, a blog post from &lt;a href=&quot;https://www.omgubuntu.co.uk&quot;&gt;OMG! Ubuntu&lt;/a&gt;. Do not reproduce elsewhere without permission.&lt;/p&gt;</description>
       <pubDate>Wed, 01 Jul 2026 14:10:29 -0000</pubDate>
       <guid isPermaLink="false">https://www.omgubuntu.co.uk/?p=333856</guid>
@@ -190,38 +287,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://planet.kde.org/index.xml">Planet KDE</source>
     </item>
     <item>
-      <title>[The Verge] Sony is killing all physical PlayStation game discs</title>
-      <link>https://www.theverge.com/games/960160/sony-playstation-disc-production-ending</link>
-      <description>Sony has announced that from January 2028 it will entirely stop the production of physical discs for new PlayStation games. From that point onwards, new releases will only be available in digital versions from the PlayStation Store and other retailers. Games released before January 2028 will still be available on disc. &quot;This is a natural [&amp;#8230;]</description>
-      <pubDate>Wed, 01 Jul 2026 12:15:13 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960160</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>[The Verge] Google built a great smart speaker, but Gemini isn’t ready for it</title>
-      <link>https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home</link>
-      <description>Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they&apos;ve struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last fall, and now it&apos;s finally Google&apos;s turn. [&amp;#8230;]</description>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=959503</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>[The Verge] Rhythm Heaven never misses a beat</title>
-      <link>https://www.theverge.com/entertainment/959757/rhythm-heaven-groove-review-nintendo-switch</link>
-      <description>Rhythm Heaven isn&apos;t Nintendo&apos;s best-known series, nor its most prolific. Prior to the launch of Rhythm Heaven Groove on the Switch this week - it&apos;s out on July 2nd - there were only four previous entries, one of which was exclusive to Japan. The most recent came out more than a decade ago. Even still, [&amp;#8230;]</description>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=959757</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>[The Verge] Range anxiety</title>
-      <link>https://www.theverge.com/cs/features/938196/rivian-r2-ev-factory-supply-chain</link>
-      <description>The storm developed quickly over west central Illinois on April 17th, first as a single high-intensity system called a supercell, and then later that evening transforming into a long squall line of thunderstorms. Tucked inside a wall of wind were several smaller, quick-forming tornadoes, one of which landed directly on Rivian’s electric vehicle factory on [&amp;#8230;]</description>
-      <pubDate>Wed, 01 Jul 2026 11:00:02 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?post_type=vm_custom_story&amp;p=938196</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
       <title>[openSUSE News] Tumbleweed Monthly Update - June 2026</title>
       <link>https://news.opensuse.org/2026/07/01/tw-monthly-update-june/</link>
       <description>Contributors to openSUSE had a great time at the openSUSE Conference in June. Even as many of them gathered in Nuremberg to discuss how to drive development of the rolling release forward, software package updates for openSUSE Tumbleweed kept rolling out. June brought major version bumps across the stack with...</description>
@@ -243,22 +308,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <description>For those that prefer waiting until the first bug-fix/point release before upgrading to a major new feature series, GCC 16.2 is being planned for an early August release for delivering back-ported bug fixes to the GCC 16 compiler...</description>
       <pubDate>Wed, 01 Jul 2026 10:31:04 -0000</pubDate>
       <guid isPermaLink="false">https://www.phoronix.com/news/GCC-16.2-Early-August</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
-    </item>
-    <item>
-      <title>[Phoronix] Asahi Linux Fixes Booting With macOS 27, Progress On M3 &amp; Apple Video Decode</title>
-      <link>https://www.phoronix.com/news/Asahi-Linux-AVD-Firmware-M3</link>
-      <description>The Asahi Linux project published a new blog post outlining recent development efforts in getting Apple Silicon hardware working with their downstream Linux distribution. There is ongoing work on bringing up Apple M3 support, fixing boot support for macOS 27 beta systems, Apple Video Decoder (AVD) support progress, and more...</description>
-      <pubDate>Wed, 01 Jul 2026 10:21:25 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/Asahi-Linux-AVD-Firmware-M3</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
-    </item>
-    <item>
-      <title>[Phoronix] Arch Linux AUR Malware, Linux 7.2 Developments &amp; Other June Highlights</title>
-      <link>https://www.phoronix.com/news/June-2026-Highlights</link>
-      <description>Last month on Phoronix there were 294 original news articles and 18 Linux hardware reviews / multi-page benchmark articles. Beyond Phoronix.com turning 22 years old in June, there were also a lot of exciting Linux hardware and open-source software developments worth recapping...</description>
-      <pubDate>Wed, 01 Jul 2026 10:18:20 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/June-2026-Highlights</guid>
       <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
     <item>
@@ -436,34 +485,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://github.blog/feed">GitHub Blog</source>
     </item>
     <item>
-      <title>[Planet KDE] GSoC - Working on Marknote</title>
-      <link>https://prayag2.github.io/posts/gsoc-june-update/</link>
-      <description>&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
-&lt;p&gt;I&amp;rsquo;m working on Marknote to introduce a block-editor inspired by popular note taking apps such as Notion. A block editor is a modern text editor that allows you to insert elements such as paragraphs, lists, tables, code, block quotes, etc. into separate blocks. Each block can be reordered, edited, and deleted. Such editors also give you the ability to insert elements by pressing &amp;ldquo;/&amp;rdquo; followed by the name of the element. This block based design of these editors make them very fun and intuitive to use.&lt;/p&gt;
-&lt;p&gt;A problem that most of these editors have in common is incomplete markdown support. They do not support the full &lt;a href=&quot;https://commonmark.org/&quot; target=&quot;_blank&quot;&gt;commonmark&lt;/a&gt; spec. This means many things like nested blockquotes are not possible to use. Other problems include privacy concerns due to their closed sourced nature. They also are mostly web-based applications so they&amp;rsquo;re slow. This is where Marknote comes in. Marknote already is a popular note taking app by KDE. By introducing a robust block editor, users will be able to have a similar experience in an app that integrates beautifully with the KDE ecosystem, is offline, and most importantly respects privacy.&lt;/p&gt;
-&lt;h1 id=&quot;current-status&quot;&gt;Current Status&lt;/h1&gt;
-&lt;p&gt;GSoC&amp;rsquo;s coding period began on 25th May 2026. Unfortunately, my university exams began at the same time and ended on 11th June 2026. So I was not available for the first few weeks. I was still able to implement a big portion of the project.&lt;/p&gt;
-&lt;h2 id=&quot;integrating-md4qt&quot;&gt;Integrating md4qt&lt;/h2&gt;
-&lt;p&gt;I spent the first few days making md4qt a dependency of Marknote. It involved adding it into CI images, creating a KDE Craft blueprint, updating the flatpak config as well, and finally making sure it builds correctly using CMake.&lt;/p&gt;
-&lt;h2 id=&quot;building-markdown-model&quot;&gt;Building Markdown Model&lt;/h2&gt;
-&lt;p&gt;After md4qt was finally usable in Marknote, I started working on developing the &lt;code&gt;AsyncDocBuilder&lt;/code&gt;. This class allows Marknote to read a markdown file asynchronously (without blocking the UI), and emit a signal with an Abstract Syntax Tree (AST) which represents the parsed markdown document.&lt;/p&gt;
-&lt;p&gt;After that, I had to implement a tree model that represents the AST. The tree model inherits from &lt;code&gt;QAbstractItemModel&lt;/code&gt;. It uses a wrapper class called the &lt;code&gt;TreeItem&lt;/code&gt; that wraps around the AST. This represents a simple tree data structure where each node can have more than 1 children nodes. I was able to implement a working model succesfully, although it required a lot of brainstorming.&lt;/p&gt;
-&lt;h2 id=&quot;getting-data-to-qml&quot;&gt;Getting Data to QML&lt;/h2&gt;
-&lt;p&gt;The tree model represented elements in the parsed markdown document. Each element may have different properties. For example, headings have a &lt;code&gt;level&lt;/code&gt;, lists have a &lt;code&gt;listType&lt;/code&gt;, etc. Since this model will be used in QML, the data must be accessible in QML. For that, I wrote multiple helper functions that would extract data from each node and insert them into a &lt;code&gt;QVariantMap&lt;/code&gt;. This map would be accessible from the &lt;code&gt;blockData&lt;/code&gt; role of the tree model, allowing me to easily access properties about these nodes in QML.&lt;/p&gt;
-&lt;h2 id=&quot;implementing-delegates&quot;&gt;Implementing Delegates&lt;/h2&gt;
-&lt;p&gt;Now that the model is ready to use, we need QML delegates that will actually be rendered on screen. The biggest challenge here is that this model represents a tree. This means some elements can be present inside other elements. The standard built-in &lt;code&gt;TreeView&lt;/code&gt; would not work here. The reason is that, instead of truly nesting QML elements, it uses indents to show a tree like structure. This is fine for things like file trees, but not for a block editor. In a markdown compliant block editor, the QML elements must truly be nested. To tackle this problem, I had to brainstorm for a week. I tried multiple techniques. One was using a Repeater where the Delegates call themselves, recursively. While this worked, it wasn&amp;rsquo;t compatible with the tree model that we have created. After a bunch of research, I found out about &lt;code&gt;DelegateModel&lt;/code&gt;. It acts as a filter for models in QML. So I could just define a root index for the current view without modifying the actual model. So recursion was finally compatible with the existing tree model.&lt;/p&gt;
-&lt;p&gt;This step is still under progress. You can see in the attached video that basic markdown elements can be rendered. These are not editable yet, but markdown parsing and rendering works flawlessly.&lt;/p&gt;
-&lt;video controls=&quot;controls&quot; width=&quot;100%&quot;&gt;
-&lt;source src=&quot;https://prayag2.github.io/posts/gsoc-june-update/video.webm&quot; type=&quot;video/mp4&quot; /&gt;
-Your browser does not support the video tag.
-&lt;/video&gt;
-&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
-&lt;p&gt;Working on the block editor this month has been very exciting and challenging. There were some totally new problems that I had to solve that I didn&amp;rsquo;t foresee submitting my proposal. As always, this blog post does not involve the use of AI. All words are my own so it may contain grammatical errors :P&lt;/p&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 17:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://prayag2.github.io/posts/gsoc-june-update/</guid>
-      <source url="https://planet.kde.org/index.xml">Planet KDE</source>
-    </item>
-    <item>
       <title>[OMG! Ubuntu] Ubuntu’s ‘Myna’ project lets you talk instead of type – what is it?</title>
       <link>https://www.omgubuntu.co.uk/2026/06/what-is-myna-ubuntu-ai-dictation</link>
       <description>&lt;p&gt;&lt;img alt=&quot;Poster collage of open mouth with AI letters inside over blue wall of text.&quot; class=&quot;attachment-post-list size-post-list wp-post-image&quot; height=&quot;232&quot; src=&quot;https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/06/ai-text-to-speech.webp?resize=406%2C232&amp;amp;ssl=1&quot; width=&quot;406&quot; /&gt;Ubuntu is working on speech-to-text AI transcription so you can talk to type. It&apos;s powered by project Myna. Here&apos;s how it&apos;ll work and why it&apos;s adding it.&lt;/p&gt;
@@ -511,81 +532,6 @@ Your browser does not support the video tag.
       <pubDate>Tue, 30 Jun 2026 14:24:38 -0000</pubDate>
       <guid isPermaLink="false">https://br-linux.org/2026/01/microsoft-anuncia-o-wslc-windows-rodando-containers-feitos-para-linux.html</guid>
       <source url="https://br-linux.org/feed">BR-Linux</source>
-    </item>
-    <item>
-      <title>[BR-Linux] Transmission 4.1.3 chega trazendo correção para vulnerabilidade</title>
-      <link>https://br-linux.org/2026/01/transmission-413-chega-trazendo-correcao-para-vulnerabilidade.html</link>
-      <description>Em momento oportuno tendo em vista as novidades da Sony, o popular aplicativo de BitTorrent Transmission anunciou hoje sua nova versão.</description>
-      <pubDate>Tue, 30 Jun 2026 14:17:30 -0000</pubDate>
-      <guid isPermaLink="false">https://br-linux.org/2026/01/transmission-413-chega-trazendo-correcao-para-vulnerabilidade.html</guid>
-      <source url="https://br-linux.org/feed">BR-Linux</source>
-    </item>
-    <item>
-      <title>[Planet KDE] Ocean Updates – June 2026</title>
-      <link>https://anditosan.wordpress.com/2026/06/30/ocean-updates-june-2026-2/</link>
-      <description>&lt;h2 class=&quot;wp-block-heading&quot;&gt;Ocean Icons in Penpot&lt;/h2&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;I began the process of moving icons from Figma to Penpot. The icons are locate in the Icons page inside Penpot. This page contains some placeholder icon components created by our contributors. This was done so that we could use generic icons for UI as we complete more parts of Ocean design.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Including new icons from Figma into Penpot is not easy. There are a couple of drawbacks we see. Penpot does not have the same shape control that Figma does. Because of that, Penpot does not recognize shapes like circles, squares, lines, etc. Another issue is the importing erases the naming schemes that the icons have. This is a known bug at Penpot and they are working to resolve it.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Penpot also seems to do something pretty interesting on import. It creates a folder where the graphics are contained, it adds an invisible background image, and in some cases, a bitmap in the same structure. I believe these are just import issues that Penpot resolves in different ways. I hope their parsing on import gets better overtime.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;However, with the new rendering engine in Penpot, the icon collection, though slow at times, is able to keep up with the rendering and I am able to load up thousands of svg icons in Penpot. Under the previous set up, this would not be possible without crashing.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Because of these two drawbacks, I had to flatten all the images before exporting. Otherwise, Penpot could run into rendering issues as svg code from Figma has its own quirks. Still, with these compromises, I was still able to copy all the monochrome icons built for Ocean into Penpot. Now, I have to take the time to rename all the icons to their proper names. There are also some icons that don&amp;#8217;t render properly, or at all. For those icons, I will have to take them case by case and fix them.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;After renaming all these icons and getting them to their proper organization, I will create components from them that can be used in UI throughout the file.&lt;/p&gt;
-&lt;div class=&quot;wp-block-image&quot;&gt;
-&lt;figure class=&quot;aligncenter size-large&quot;&gt;&lt;a href=&quot;https://anditosan.wordpress.com/wp-content/uploads/2026/06/image.png&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;wp-image-637&quot; height=&quot;1023&quot; src=&quot;https://anditosan.wordpress.com/wp-content/uploads/2026/06/image.png?w=707&quot; width=&quot;707&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
-&lt;/div&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;Ocean + Union June Meeting&lt;/h2&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Earlier this month, we also connected with the Union team to discuss the implementation support of reference tokens and semantic tokens from Penpot into Plasma. We also discussed the creation of Ocean assets.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Providing support in Plasma for Ocean design tokens is no small feat. It requires careful preparation. This is one of those elements that Ocean Design provides. The goal here is that Plasma and applications are able to support the tokens/variables provided by the Ocean design system.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;In a distant future, our goal would be to give the Ocean system to anyone willing to create their own version. They would export their tokens and Plasma would support them without the need for additional code. This achieves a couple of great things, one is that designers work in an environment that is ready for editing with all the graphical sources needed, no need for coding skills. On the other hand, this should push interested users into designing and testing their designs first, without the need to push code first, which requires the mobilization of our teams to review, adapt and provide feedback. It&amp;#8217;s a &amp;#8220;cheaper&amp;#8221; effort to work with graphics first and see how they would look after export.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;There are more benefits to this approach, but these are two that I always go back to.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;From this meeting, our determination is that I should provide a series of spec files containing all the technical details from the foundational components in Penpot. These components are the smallest bit of interaction in graphical systems. Buttons, shadows, typography, etc. These are akin to the bricks on a wall.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;With this idea in mind, I was able to create and provide the specs to the Union team.&lt;/p&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;New Components in Penpot&lt;/h2&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Continuing with the process of creating sample components in Penpot, we now feature:&lt;/p&gt;
-&lt;ul class=&quot;wp-block-list&quot;&gt;
-&lt;li&gt;Application Navigation: This page contains sidebars for desktop and mobile.&lt;/li&gt;
-&lt;li&gt;Section Footers: This page contains footers used in application footers or even websites, for desktop and mobile sizes.&lt;/li&gt;
-&lt;li&gt;Inline CTAs (Calls to action): These CTAs help users make quick decisions on a piece of information without the need for taking over the screen using Modals, for example.&lt;/li&gt;
-&lt;li&gt;Section Headers (Received an expansion): Section headers used to be just one version of the component. This was expanded to add more versions.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;figure class=&quot;wp-block-image size-large&quot;&gt;&lt;a href=&quot;https://anditosan.wordpress.com/wp-content/uploads/2026/06/image-6.png&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;wp-image-647&quot; height=&quot;454&quot; src=&quot;https://anditosan.wordpress.com/wp-content/uploads/2026/06/image-6.png?w=1024&quot; width=&quot;1024&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
-&lt;figure class=&quot;wp-block-image size-large&quot;&gt;&lt;a href=&quot;https://anditosan.wordpress.com/wp-content/uploads/2026/06/image-7.png&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;wp-image-648&quot; height=&quot;930&quot; src=&quot;https://anditosan.wordpress.com/wp-content/uploads/2026/06/image-7.png?w=1024&quot; width=&quot;1024&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
-&lt;figure class=&quot;wp-block-image size-large&quot;&gt;&lt;a href=&quot;https://anditosan.wordpress.com/wp-content/uploads/2026/06/image-8.png&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;wp-image-650&quot; height=&quot;495&quot; src=&quot;https://anditosan.wordpress.com/wp-content/uploads/2026/06/image-8.png?w=1024&quot; width=&quot;1024&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
-&lt;h6 class=&quot;wp-block-heading has-text-align-center&quot;&gt;&lt;code&gt;Please note that these components are &quot;not&quot; Plasma components and is not indicative of Plasma&apos;s future state. These are here for inspiration for the future, and for users looking to test their design edits and results. Eventually, these could serve as starting points for layout design, component creation, etc.&lt;/code&gt;&lt;/h6&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;In addition to these component samples, I am now working on building a calendar view component. I am taking inspiration from Merkuro Calendar and also including some ideas from Ocean. The idea is that a calendar view could be available for others to use and test designs against. More to come on this.&lt;/p&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;Fixes in Ocean Design System&lt;/h2&gt;
-&lt;ul class=&quot;wp-block-list&quot;&gt;
-&lt;li&gt;Fixed layout and design for dropdown items. They were previously just text in a layout. They are supposed to behave differently inside dropdown menus. They need to have inner margins and separation from other items in a list. The shortcut component also received updates and looks more legit than before. This should make it easier to use dropdown components in Penpot.&lt;/li&gt;
-&lt;li&gt;Created a dot component that is used in Calendars to show activity or reminders inside monthly views.&lt;/li&gt;
-&lt;li&gt;Inputs components received updates so they behave better when manipulating sizing. There were some issues with containers and components inside containers so I tried fixing those. There is an existing Penpot bug that when components are updated at the source, the component copies tend to go back to use fixed sizing instead of dynamic sizing. This makes me cycle through fixing not just sources but copies of the components. It seems the issue is in nested components where the parent takes over some of the sizing properties. Penpot is working on this.&lt;/li&gt;
-&lt;li&gt;Created the checkmark inside a circle component. This component is meant to be used when running through selections that need to indicate success in their interaction. For example, completing a survey, or a multi-step installation procedure. A checkbox is not appropriate there but a circle with a checkmark inside. So now that&amp;#8217;s available. It&amp;#8217;s not using a monochrome Ocean icon checkmark yet, but that can be changed in the future.&lt;/li&gt;
-&lt;li&gt;Avatars are now using an image with color all inside. Previously I had an avatar image that was white and it made it difficult to see the white border around the avatar image.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;wp-block-image&quot;&gt;
-&lt;figure class=&quot;aligncenter size-large&quot;&gt;&lt;a href=&quot;https://anditosan.wordpress.com/wp-content/uploads/2026/06/image-1.png&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;wp-image-638&quot; height=&quot;1024&quot; src=&quot;https://anditosan.wordpress.com/wp-content/uploads/2026/06/image-1.png?w=538&quot; width=&quot;538&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
-&lt;/div&gt;
-&lt;figure class=&quot;wp-block-image size-large&quot;&gt;&lt;a href=&quot;https://anditosan.wordpress.com/wp-content/uploads/2026/06/image-3.png&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;wp-image-642&quot; height=&quot;898&quot; src=&quot;https://anditosan.wordpress.com/wp-content/uploads/2026/06/image-3.png?w=1024&quot; width=&quot;1024&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
-&lt;figure class=&quot;wp-block-image size-large&quot;&gt;&lt;a href=&quot;https://anditosan.wordpress.com/wp-content/uploads/2026/06/image-2.png&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;wp-image-640&quot; height=&quot;498&quot; src=&quot;https://anditosan.wordpress.com/wp-content/uploads/2026/06/image-2.png?w=1024&quot; width=&quot;1024&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
-&lt;figure class=&quot;wp-block-image size-large&quot;&gt;&lt;a href=&quot;https://anditosan.wordpress.com/wp-content/uploads/2026/06/image-4.png&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;wp-image-644&quot; height=&quot;1024&quot; src=&quot;https://anditosan.wordpress.com/wp-content/uploads/2026/06/image-4.png?w=744&quot; width=&quot;744&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Next in Component Design&lt;/p&gt;
-&lt;ul class=&quot;wp-block-list&quot;&gt;
-&lt;li&gt;Calendar view&lt;/li&gt;
-&lt;li&gt;Slideout menus&lt;/li&gt;
-&lt;li&gt;Progress steps&lt;/li&gt;
-&lt;/ul&gt;
-&lt;figure class=&quot;wp-block-image size-large&quot;&gt;&lt;a href=&quot;https://anditosan.wordpress.com/wp-content/uploads/2026/06/image-9.png&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;wp-image-651&quot; height=&quot;1023&quot; src=&quot;https://anditosan.wordpress.com/wp-content/uploads/2026/06/image-9.png?w=981&quot; width=&quot;981&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;Thanks&lt;/h2&gt;
-&lt;ul class=&quot;wp-block-list&quot;&gt;
-&lt;li&gt;Thanks to Beryesa for creating the Penpot Design Notes page. This is super helpful when users need to understand what they are looking at and how it is used in the system. &lt;img alt=&quot;🙏&quot; class=&quot;wp-smiley&quot; src=&quot;https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f64f.png&quot; style=&quot;height: 1em;&quot; /&gt;&lt;img alt=&quot;🙏&quot; class=&quot;wp-smiley&quot; src=&quot;https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f64f.png&quot; style=&quot;height: 1em;&quot; /&gt;&lt;img alt=&quot;🙏&quot; class=&quot;wp-smiley&quot; src=&quot;https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f64f.png&quot; style=&quot;height: 1em;&quot; /&gt;&lt;/li&gt;
-&lt;li&gt;Thanks to iclone for his work on commenting around UX issues in the VDG channel.&lt;/li&gt;
-&lt;li&gt;Thanks to the Union team for all their support for Ocean.&lt;/li&gt;
-&lt;li&gt;Thanks to Lorenz for helping me troubleshoot some crashes in Penpot.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;Penpot Issues and Features&lt;/h2&gt;
-&lt;a class=&quot;wp-block-read-more&quot; href=&quot;https://anditosan.wordpress.com/2026/06/30/ocean-updates-june-2026-2/&quot; target=&quot;_self&quot;&gt;https://github.com/penpot/penpot/issues&lt;span class=&quot;screen-reader-text&quot;&gt;: Ocean Updates &amp;#8211; June&amp;nbsp;2026&lt;/span&gt;&lt;/a&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 13:27:11 -0000</pubDate>
-      <guid isPermaLink="false">http://anditosan.wordpress.com/?p=616</guid>
-      <source url="https://planet.kde.org/index.xml">Planet KDE</source>
     </item>
     <item>
       <title>[Ubuntu Blog] Canonical becomes Gold Sponsor of Trifecta Tech Foundation</title>
@@ -1013,14 +959,6 @@ rewine (1):
       <pubDate>Thu, 25 Jun 2026 21:10:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.omgubuntu.co.uk/?p=334386</guid>
       <source url="https://www.omgubuntu.co.uk/feed">OMG! Ubuntu</source>
-    </item>
-    <item>
-      <title>[Planet GNU] FSF Blogs: Ten stories from around the world: LibreLocal 2026, part one</title>
-      <link>http://www.fsf.org/blogs/community/2026-librelocal-report-part-1</link>
-      <description></description>
-      <pubDate>Thu, 25 Jun 2026 21:00:00 -0000</pubDate>
-      <guid isPermaLink="false">http://www.fsf.org/blogs/community/2026-librelocal-report-part-1</guid>
-      <source url="https://planet.gnu.org/rss20.xml">Planet GNU</source>
     </item>
     <item>
       <title>[Ubuntu Blog] Hunting a 16-year-old SQLite bug with TLA+: is dqlite affected?</title>
@@ -2878,15 +2816,6 @@ someever (1):
       <pubDate>Fri, 26 Jun 2026 14:00:00 -0000</pubDate>
       <guid isPermaLink="false">https://news.opensuse.org/2026/06/26/when-code-stays-clear-turst-collapses-anyway/</guid>
       <source url="https://news.opensuse.org/feed/">openSUSE News</source>
-    </item>
-    <item>
-      <title>[GitHub Blog] Transitioning as a Hubber</title>
-      <link>https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/</link>
-      <description>&lt;p&gt;How GitHub&apos;s culture and benefits helped me be the best version of myself.&lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/&quot;&gt;Transitioning as a Hubber&lt;/a&gt; appeared first on &lt;a href=&quot;https://github.blog&quot;&gt;The GitHub Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 12:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://github.blog/?p=97031</guid>
-      <source url="https://github.blog/feed">GitHub Blog</source>
     </item>
     <item>
       <title>[Ubuntu Blog] Challenges designers face in open source (and how to fix them)</title>
