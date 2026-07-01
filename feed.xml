@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Wed, 01 Jul 2026 19:56:19 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 21:39:46 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://ranymell0.github.io/libreufop-test/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -127,6 +127,75 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
     </item>
     <item>
+      <title>[Phoronix] KDE Linux Introduces &quot;Developer Mode&quot; Option, Easier Log Collection</title>
+      <link>https://www.phoronix.com/news/KDE-Linux-June-2026</link>
+      <description>With the start of the new month comes a new progress report on the KDE Linux distribution for the prior month. Even with KDE developers being busy to ship Plasma 6.7 in June, they still accomplished a lot when it comes to KDE Linux...</description>
+      <pubDate>Wed, 01 Jul 2026 21:06:06 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/KDE-Linux-June-2026</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[The Verge] Xbox’s ‘reset’: all the news about Microsoft&amp;#8217;s looming layoffs and studio closures</title>
+      <link>https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures</link>
+      <description>Xbox is making some big changes — again. On June 10th, a few months after Asha Sharma took over as CEO, she and newly-promoted chief content officer Matt Booty sent a memo to staff warning of an &amp;#8220;Xbox reset.&amp;#8221; The business, they said, is facing significant challenges, including a 3 percent &amp;#8220;accountability margin,&amp;#8221; massively higher [&amp;#8230;]</description>
+      <pubDate>Wed, 01 Jul 2026 21:00:00 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?post_type=vm_stream&amp;p=959900</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[The Verge] Elon Musk denies a report about SpaceX&amp;#8217;s AI phone prototype</title>
+      <link>https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk</link>
+      <description>Elon Musk says a report about a SpaceX AI phone prototype is &quot;utterly false.&quot; The report, published on Wednesday by The Wall Street Journal, says SpaceX showed off a &quot;handset-like prototype&quot; to some investors before launching its record-breaking initial public offering in June. The device was &quot;slimmer than an iPhone,&quot; and they were told it [&amp;#8230;]</description>
+      <pubDate>Wed, 01 Jul 2026 20:10:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=960442</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[Planet KDE] This month in KDE Linux: June 2026</title>
+      <link>https://pointieststick.com/2026/07/01/this-month-in-kde-linux-june-2026/</link>
+      <description>&lt;div class=&quot;wp-block-image&quot;&gt;
+&lt;figure class=&quot;alignright size-full is-resized&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;wp-image-24549&quot; src=&quot;https://pointieststick.com/wp-content/uploads/2025/10/kde-linux-logo.png&quot; style=&quot;width: 217px; height: auto;&quot; /&gt;&lt;/figure&gt;
+&lt;/div&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;Welcome to another edition of “This month in KDE Linux” — KDE&amp;#8217;s &lt;a href=&quot;https://linux.kde.org&quot; target=&quot;_blank&quot;&gt;in-progress operating system&lt;/a&gt;.&lt;/p&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;This month was pretty smooth; we had no build delivery drama, and all OS images we shipped were of satisfactory quality. The project is maturing, and we&amp;#8217;re 78% of the way towards completing &lt;a href=&quot;https://invent.kde.org/groups/kde-linux/-/milestones/2#tab-issues&quot; target=&quot;_blank&quot;&gt;the beta milestone&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 class=&quot;wp-block-heading&quot;&gt;QA &amp;amp; testing&lt;/h2&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;Bhushan Shah and Thomas Duckworth continued working on the project to build a robust and modern automatic QA system. It&amp;#8217;s really really close to being integrated at this point, and will act as a full-stack integration test for all of KDE Plasma in addition to a test system for KDE Linux specifically.&lt;/p&gt;
+&lt;h2 class=&quot;wp-block-heading&quot;&gt;More user-friendly installation&lt;/h2&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;Hadi Chokr did the huge amount of work necessary to &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/merge_requests/481&quot; target=&quot;_blank&quot;&gt;transform KDE Linux&amp;#8217;s &lt;code&gt;.raw&lt;/code&gt; image file into a hybrid image that&amp;#8217;s also a valid &lt;code&gt;.iso&lt;/code&gt; file&lt;/a&gt;! This allows KDE Linux to be installed more easily using VM software that often expects to be given an &lt;code&gt;.iso&lt;/code&gt; file.&lt;/p&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;Remember that you&amp;#8217;ll still need to turn on UEFI mode, as KDE Linux still intentionally doesn&amp;#8217;t support the legacy BIOS system!&lt;/p&gt;
+&lt;h2 class=&quot;wp-block-heading&quot;&gt;Better audio CD ripping&lt;/h2&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;Harald Sitter, Jan Rathmann, and I completed &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/work_items/649&quot; target=&quot;_blank&quot;&gt;a small project&lt;/a&gt; to get KDE&amp;#8217;s &lt;a href=&quot;https://apps.kde.org/audex/&quot; target=&quot;_blank&quot;&gt;Audex&lt;/a&gt; app up on Flathub as a replacement for the &lt;code&gt;audiocd-kio&lt;/code&gt; software we had previously been pre-installing on the image.&lt;/p&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;The problem with &lt;code&gt;audiocd-kio&lt;/code&gt; is that it included two System Settings pages of questionable utility that offered a fairly old-fashioned UX. Now we don&amp;#8217;t include those things, and instead we &lt;a href=&quot;https://linux.kde.org/docs/rip-audio-cds/&quot; target=&quot;_blank&quot;&gt;document how to download Audex and use it to rip CDs&lt;/a&gt;. And this way, you get automatic metadata lookup, too!&lt;/p&gt;
+&lt;h2 class=&quot;wp-block-heading&quot;&gt;Easier log collection&lt;/h2&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;Felix Araújo &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/work_items/547&quot; target=&quot;_blank&quot;&gt;built a tool to ease the collection of logs&lt;/a&gt; called &lt;code&gt;collect-logs&lt;/code&gt;. It also does some data sanitization. This will be very useful for bug reporting purposes!&lt;/p&gt;
+&lt;h2 class=&quot;wp-block-heading&quot;&gt;Rudimentary &amp;#8220;Developer Mode&amp;#8221;&lt;/h2&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;I &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/work_items/33&quot; target=&quot;_blank&quot;&gt;created a very simple system to show and hide developer tools&lt;/a&gt;, and they&amp;#8217;re hidden by default until you run &lt;code&gt;toggle-developer-mode&lt;/code&gt;, which is &lt;a href=&quot;https://linux.kde.org/docs/dev/&quot; target=&quot;_blank&quot;&gt;documented here&lt;/a&gt;.&lt;/p&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;This reduces clutter in the launcher widgets of users who aren&amp;#8217;t software developers. In the future we&amp;#8217;ll add more to this script, and we might consider moving more tools off the base image and into Flatpak apps or even downloadable meta-packages, thereby coming full circle by re-inventing packaging. Go figure.&lt;/p&gt;
+&lt;h2 class=&quot;wp-block-heading&quot;&gt;Documentation&lt;/h2&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;I wrote &lt;a href=&quot;https://linux.kde.org/docs/cjkv-input/&quot; target=&quot;_blank&quot;&gt;documentation for how to configure input methods for Chinese, Japanese, Korean, and Vietnamese text input&lt;/a&gt;, in consultation with several speakers of these languages.&lt;/p&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;And in the near future, we plan to pre-install some of these tools to make things easier for the world&amp;#8217;s 1.7 billion people who use one of them to communicate on their digital devices.&lt;/p&gt;
+&lt;h2 class=&quot;wp-block-heading&quot;&gt;Grab bag&lt;/h2&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;Thomas Duckworth made Plasma Browser Integration &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/merge_requests/567&quot; target=&quot;_blank&quot;&gt;continue to be enabled by default&lt;/a&gt; with the latest version of Firefox.&lt;/p&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;I &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/commit/7be0db7845e5a9fe488f964aa4033895958d6f3d&quot; target=&quot;_blank&quot;&gt;fixed &lt;code&gt;ydotool&lt;/code&gt;&lt;/a&gt;, which I had previously broken by trying to force to run as a systemd service. Turns out it can&amp;#8217;t do that. So now it&amp;#8217;s at least disabled by default.&lt;/p&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;Yago Raña Gayoso &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/merge_requests/543&quot; target=&quot;_blank&quot;&gt;enabled shell completions&lt;/a&gt; for &lt;code&gt;kde-builder&lt;/code&gt;.&lt;/p&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;Aleix Pol Gonzalez &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/merge_requests/548&quot; target=&quot;_blank&quot;&gt;removed a few pre-installed GTK libraries&lt;/a&gt; that it turns out weren&amp;#8217;t used for anything.&lt;/p&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;Vishal Rao &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/merge_requests/455&quot; target=&quot;_blank&quot;&gt;prevented the live session from writing to the system&amp;#8217;s real-time clock&lt;/a&gt;, which could be a nuisance for people who don&amp;#8217;t end up installing the OS and go back to their already-installed OS.&lt;/p&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;Clément Villemur made the Calamares installer &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/work_items/672&quot; target=&quot;_blank&quot;&gt;not bug you to connect to the internet&lt;/a&gt;, because it doesn&amp;#8217;t actually need internet access.&lt;/p&gt;
+&lt;hr class=&quot;wp-block-separator has-alpha-channel-opacity&quot; /&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;And that wraps up June! There are a lot of projects in flight right now, from finishing up the new QA system, to building moving the base OS with BuildStream, to hardening the kernel, to improving each image&amp;#8217;s changelogs.&lt;/p&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;So there&amp;#8217;s still lots to do! If you&amp;#8217;re a fan of the project, please help out; there are many ways:&lt;/p&gt;
+&lt;ul class=&quot;wp-block-list&quot;&gt;
+&lt;li&gt;&lt;strong&gt;User support:&lt;/strong&gt; &lt;a href=&quot;https://discuss.kde.org/tag/kde-linux/450&quot; target=&quot;_blank&quot;&gt;help support people on discuss.kde.org using KDE Linux&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Issue reporting:&lt;/strong&gt; &lt;a href=&quot;https://linux.kde.org/docs/install/&quot; target=&quot;_blank&quot;&gt;install KDE Linux&lt;/a&gt; and &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/issues/&quot; target=&quot;_blank&quot;&gt;report issues&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Documentation:&lt;/strong&gt; &lt;a href=&quot;https://linux.kde.org/docs/&quot; target=&quot;_blank&quot;&gt;improve docs&lt;/a&gt;; submit merge requests &lt;a href=&quot;https://invent.kde.org/websites/linux-kde-org/-/merge_requests/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flatpak:&lt;/strong&gt; fix &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/issues/71&quot; target=&quot;_blank&quot;&gt;packaging or code issues in Flatpak-packaged apps&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OS development:&lt;/strong&gt; &lt;a href=&quot;https://linux.kde.org/docs/kde-linux-dev/&quot; target=&quot;_blank&quot;&gt;help build KDE Linux!&lt;/a&gt; There&amp;#8217;s &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/work_items/?sort=created_date&amp;amp;state=opened&amp;amp;milestone_title=Beta&amp;amp;first_page_size=100&quot; target=&quot;_blank&quot;&gt;plenty to do&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 18:52:57 -0000</pubDate>
+      <guid isPermaLink="false">http://pointieststick.com/?p=29573</guid>
+      <source url="https://planet.kde.org/index.xml">Planet KDE</source>
+    </item>
+    <item>
       <title>[BR-Linux] Linux no PlayStation 5: PS5-Linux agora roda em mais modelos e mais versões de firmware</title>
       <link>https://br-linux.org/2026/01/linux-no-playstation-5-ps5-linux-agora-roda-em-mais-modelos-e-mais-versoes-de-firmware.html</link>
       <description>O projeto ps5-linux continua expandindo o suporte, que passou a incluir também as versões de firmware 7.61, 7.20 e 6.50 – não apenas nos modelos originais maiorzões, mas também em alguns dos PlayStation 5 Slim.</description>
@@ -200,22 +269,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
     <item>
-      <title>[The Verge] Comcast’s split could make or break Peacock</title>
-      <link>https://www.theverge.com/streaming/960235/comcast-breakup-peacock-streaming</link>
-      <description>NBCUniversal executives are about to find out whether Peacock will sink or swim in the streaming industry. Now that Comcast is planning to split NBCUniversal, Peacock, and Sky from its broadband and wireless businesses, Peacock will be forced to stand on its own - without the backing of a combined company that pulled in more [&amp;#8230;]</description>
-      <pubDate>Wed, 01 Jul 2026 15:30:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960235</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>[The Verge] The best Switch 2 case I’ve tried is cheaper than usual</title>
-      <link>https://www.theverge.com/gadgets/960185/dbrand-killswitch-switch-2-deal-sale</link>
-      <description>Dbrand apparently knows how to really whiff a product launch, as we recently saw with the Steam Machine Companion Cube shell. But it also makes the best case out there for the Nintendo Switch 2, which happens to be discounted right now. The Killswitch 2 is versatile, with better build quality than other similar models, [&amp;#8230;]</description>
-      <pubDate>Wed, 01 Jul 2026 15:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960185</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
       <title>[BR-Linux] COSMIC 1.2.0: nova versão do desktop traz refinamentos e amplia suporte para placas Intel</title>
       <link>https://br-linux.org/2026/01/cosmic-120-nova-versao-do-desktop-traz-refinamentos-e-amplia-suporte-para-placas-intel.html</link>
       <description>A nova versão do ambiente COSMIC chega apenas uma semana desde a atualização anterior, resolvendo uma oscilação na tela ao abrir a visão geral do desktop, corrigindo um possível travamento ao lidar com arquivos compactados,</description>
@@ -286,14 +339,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <description>Red Hat has contributed new system-wide tunables infrastructure to the GNU C Library &quot;glibc&quot; that allows specifying system-wide tunables via the new /etc/tunables.conf configuration file...</description>
       <pubDate>Wed, 01 Jul 2026 13:32:03 -0000</pubDate>
       <guid isPermaLink="false">https://www.phoronix.com/news/Glibc-System-Tunables</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
-    </item>
-    <item>
-      <title>[Phoronix] RADV &amp; RadeonSI Drivers See New Fixes For AMD GCN 1.0/1.1 GPUs</title>
-      <link>https://www.phoronix.com/news/RADV-L2-Flush-Fix-GFX6-GFX7</link>
-      <description>Timur Kristóf of Valve&apos;s Linux graphics driver team continues taking special focus on AMD Radeon GCN 1.0 and GCN 1.1 era GPUs for enhancing the open-source graphics driver support for these aging graphics cards...</description>
-      <pubDate>Wed, 01 Jul 2026 13:18:33 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/RADV-L2-Flush-Fix-GFX6-GFX7</guid>
       <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
     <item>
@@ -376,120 +421,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <pubDate>Tue, 30 Jun 2026 18:35:31 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsf.org/blogs/community/2026-digital-bulletin-issue-48</guid>
       <source url="https://planet.gnu.org/rss20.xml">Planet GNU</source>
-    </item>
-    <item>
-      <title>[Planet KDE] C++ Library Headers &amp; CMake Config Files: Are We Serviceable?</title>
-      <link>https://frinring.wordpress.com/2026/06/30/c-library-headers-cmake-config-files-are-we-serviceable/</link>
-      <description>&lt;p class=&quot;wp-block-paragraph&quot;&gt;When working on a software library which is targeting 3rd-party consumers, it is rather of self-interest to make the library uncomplicated to use. Unless perhaps there is opportunity seen in having to help out in the process &lt;img alt=&quot;😉&quot; class=&quot;wp-smiley&quot; src=&quot;https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f609.png&quot; style=&quot;height: 1em;&quot; /&gt;&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;And to know if it is uncomplicated to use, best before learning otherwise the hard way, one has to take the position of the consumers. Even better if this can be automated, after all that is why people developed machines, like computers, to pass on the dull part.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Many things of a library can be tested during the build, based on the sources and build artifacts. Like functionality of methods, proper export/visibility of their public entry points or the code any special pre-processor macros are resolved to. Here CMake&amp;#8217;s &lt;a href=&quot;https://cmake.org/cmake/help/latest/prop_tgt/VERIFY_INTERFACE_HEADER_SETS.html&quot; target=&quot;_blank&quot;&gt;VERIFY_INTERFACE_HEADER_SETS&lt;/a&gt; also offers a solution to verify that headers can be included on their own, though being bound to the build interface of the library.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Now, the consumer will only see the installed files, and there are for one things that can go wrong when installing even already tested files, as are there files which only work in the installation location or might work differently there, so can be only properly tested there.&lt;/p&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;Public Header Fails&lt;/h2&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;When about to use a feature of a library, one would see to apply the documented needed include statement. E.g. when writing code dealing with the class &lt;code&gt;KContacts::Picture&lt;/code&gt; of the KDE Frameworks module KContacts, the &lt;a href=&quot;https://api.kde.org/kcontacts-picture.html&quot; target=&quot;_blank&quot;&gt;docs&lt;/a&gt; hint to use the following include to have any needed declarations available:&lt;/p&gt;
-&lt;div class=&quot;wp-block-code&quot;&gt;
-&lt;div class=&quot;cm-editor&quot;&gt;
-&lt;div class=&quot;cm-scroller&quot;&gt;
-&lt;pre&gt;
-&lt;code class=&quot;language-c++&quot;&gt;&lt;div class=&quot;cm-line&quot;&gt;&lt;span class=&quot;tok-meta&quot;&gt;#include&lt;/span&gt; &lt;span class=&quot;tok-string2&quot;&gt;&amp;lt;KContacts/Picture&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;So what could go wrong with such header file (e.g. &lt;code&gt;Picture&lt;/code&gt; in the example above):&lt;/p&gt;
-&lt;ul class=&quot;wp-block-list&quot;&gt;
-&lt;li&gt;the header file is not installed&lt;/li&gt;
-&lt;li&gt;the header file is not placed in the relative location as by the documented include statement and the official include search directories&lt;/li&gt;
-&lt;li&gt;the header file includes another header from the same library that is not installed (e.g. for test utils)&lt;/li&gt;
-&lt;li&gt;the header file includes another header from the same library which is placed in a relative location not resolvable by the official include search directories&lt;/li&gt;
-&lt;li&gt;the header file includes another header from a private dependency, so not resolvable by the inherited official include search directories&lt;/li&gt;
-&lt;li&gt;the header file uses language features unconditionally of a standard not enforced in the public build flags&lt;/li&gt;
-&lt;li&gt;the header file relies on macro definitions not provided correctly, either missing or with wrong value&lt;/li&gt;
-&lt;li&gt;the header file is not self-contained with the variants of the headers part of the installation (violating C++ Core Guidelines, &lt;a href=&quot;https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#sf11-header-files-should-be-self-contained&quot; target=&quot;_blank&quot;&gt;SF.11: Header files should be self-contained&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;(&amp;#8230; possibly more, please mention in comments)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;All these can be mainly checked by simply creating a C++ source file which only includes the very header file, by the documented include statement, and testing for its successful compilation/code parsing, applying the official include search directories and build flags (and the inherited ones of public dependencies).&lt;/p&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;CMake Config Fails&lt;/h2&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;When about to use a library at all, one would see to use the meta data blobs which also integrate with one&amp;#8217;s (meta) build system. E.g. in case of using CMake and as in the example above KF module KContacts, one would for setting up building against the library do as documented, relying on the CMake config files provided:&lt;/p&gt;
-&lt;div class=&quot;wp-block-code&quot;&gt;
-&lt;div class=&quot;cm-editor&quot;&gt;
-&lt;div class=&quot;cm-scroller&quot;&gt;
-&lt;pre&gt;
-&lt;code class=&quot;language-cmake&quot;&gt;&lt;div class=&quot;cm-line&quot;&gt;&lt;span class=&quot;tok-variableName tok-definition&quot;&gt;find_package&lt;/span&gt;&lt;span class=&quot;tok-punctuation&quot;&gt;(&lt;/span&gt;KF6 REQUIRED COMPONENTS Contacts&lt;span class=&quot;tok-punctuation&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;&lt;span class=&quot;tok-variableName tok-definition&quot;&gt;target_link_libraries&lt;/span&gt;&lt;span class=&quot;tok-punctuation&quot;&gt;(&lt;/span&gt;MySoftwareProject PRIVATE KF6::Contacts&lt;span class=&quot;tok-punctuation&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;So what could go wrong with those CMake config files:&lt;/p&gt;
-&lt;ul class=&quot;wp-block-list&quot;&gt;
-&lt;li&gt;the CMake config files are not installed&lt;/li&gt;
-&lt;li&gt;the CMake config files are not installed by the correct name and in the correct location&lt;/li&gt;
-&lt;li&gt;the library target is not provided by the CMake config files at all&lt;/li&gt;
-&lt;li&gt;the library target is not provided by the documented name and the optional namespace&lt;/li&gt;
-&lt;li&gt;the library target does not have the correct include search directories set&lt;/li&gt;
-&lt;li&gt;the library target does not have the correct build flags set&lt;/li&gt;
-&lt;li&gt;the library target misses some documented properties&lt;/li&gt;
-&lt;li&gt;the library target misses a dependency in the public link interface, to inherit as needed include search directories and build flags&lt;/li&gt;
-&lt;li&gt;the library target has an item in the public link interface not checked for by the CMake config files&lt;/li&gt;
-&lt;li&gt;other documented utility targets or variables are not defined or have wrong values&lt;/li&gt;
-&lt;li&gt;(&amp;#8230; possibly more, please mention in comments)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Most of these issues can be simply checked by creating a CMake project which searches for the library and links some dummy software to it, and testing for its successful configuration and build.&lt;/p&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;Other Fails&lt;/h2&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;There are further library-related artifacts which should see checks after installation.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Any resources used from a library which are installed as separate files, like translation catalogs, images, sounds, or domain-specific data, could again be missed to be installed, installed by a wrong name or into the wrong location, or otherwise be badly processed before or during the installation process. Those are not specific to libraries though, thus not looked at more here.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Other artifacts are some which themselves are to be built against the library, such as project templates (like the &lt;a href=&quot;https://api.kde.org/ecm/kde-module/KDEPackageAppTemplates.html&quot; target=&quot;_blank&quot;&gt;KAppTemplate&lt;/a&gt; ones, e.g. for plugins) or examples for using the library. Those are not critical to the direct usage of a library though, thus also not looked at more here.&lt;/p&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;Continuous Integration As Limited Safe Guard&lt;/h2&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Software libraries are usually not developed in a void, but based on needs by other software. Changes in the public interface are made together with the respective changes in at least one consumer. So many issues would be detected in the process.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Then the library and many of its consumers, not just the ones a changes was made for, might be part of the same CI setup, where all these consumers would see at least some regular rebuild against the latest version of a library and thus would catch further regressions before the next release of the library.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;But not all API of a library might be used by those known consumers, instead only by 3rd-party without any integration into the library development. And some issues of API while used can be shadowed by the usage pattern. So for a more complete check some generic own solution is needed.&lt;/p&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;Some Automation: ECMInstalledLibraryCheck&lt;/h2&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Combining the simple check ideas for headers and CMake config files above, some addition to KDE&amp;#8217;s &lt;a href=&quot;https://api.kde.org/ecm/&quot; target=&quot;_blank&quot;&gt;Extra CMake Modules&lt;/a&gt; is proposed in this &lt;a href=&quot;https://invent.kde.org/frameworks/extra-cmake-modules/-/merge_requests/590&quot; target=&quot;_blank&quot;&gt;merge request&lt;/a&gt;: &lt;code&gt;ECMInstalledLibraryCheck&lt;/code&gt;. That module provides a macro to add checks for the installed library artifacts, from consumer POV. Currently it covers the public headers (includability) &amp;amp; CMake config files (proper data delivery needed for compiling). It adds one global target &lt;code&gt;all_installed_library_check&lt;/code&gt;, to run the checks for all libraries, and a target per library, &lt;code&gt;&amp;lt;library_target&amp;gt;_installed_library_check&lt;/code&gt;. Those targets would be used after installation only, obviously.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;For the example used above, KF&amp;#8217;s KContacts library, the check would be deployed like this:&lt;/p&gt;
-&lt;div class=&quot;wp-block-code&quot;&gt;
-&lt;div class=&quot;cm-editor&quot;&gt;
-&lt;div class=&quot;cm-scroller&quot;&gt;
-&lt;pre&gt;
-&lt;code class=&quot;language-cmake&quot;&gt;&lt;div class=&quot;cm-line&quot;&gt;&lt;span class=&quot;tok-comment&quot;&gt;# use the module from ECM&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;&lt;span class=&quot;tok-variableName tok-definition&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;tok-punctuation&quot;&gt;(&lt;/span&gt;ECMInstalledLibraryCheck&lt;span class=&quot;tok-punctuation&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;&lt;span class=&quot;tok-comment&quot;&gt;# for the library target KF6Contacts set up the check&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;&lt;span class=&quot;tok-variableName tok-definition&quot;&gt;ecm_add_installed_library_check&lt;/span&gt;&lt;span class=&quot;tok-punctuation&quot;&gt;(&lt;/span&gt;KF6Contacts&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt; PACKAGE_NAME &lt;span class=&quot;tok-string&quot;&gt;&amp;quot;KF6Contacts&amp;quot;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt; PACKAGE_VERSION &lt;span class=&quot;tok-variableName2&quot;&gt;$&amp;#123;KCONTACTS_VERSION}&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt; PACKAGE_TARGET_NAMESPACE &lt;span class=&quot;tok-string&quot;&gt;&amp;quot;KF6::&amp;quot;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;&lt;span class=&quot;tok-punctuation&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;&lt;span class=&quot;tok-comment&quot;&gt;# register the official include statements for the check&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;&lt;span class=&quot;tok-variableName tok-definition&quot;&gt;ecm_installed_library_check_include_strings&lt;/span&gt;&lt;span class=&quot;tok-punctuation&quot;&gt;(&lt;/span&gt;KF6Contacts&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt; HEADERS &lt;span class=&quot;tok-variableName2&quot;&gt;$&amp;#123;KContacts_CamelCase_HEADERS}&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt; PREFIX KContacts&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;&lt;span class=&quot;tok-punctuation&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Given the library target &lt;code&gt;KF6Contacts&lt;/code&gt; thus this adds the target named &lt;code&gt;KF6Contacts_installed_library_check&lt;/code&gt;. This target generates and builds a separate CMake-based project for a dummy library linking against the installed library, whose sources are one source file per passed include string, with a single code line &lt;code&gt;#include &amp;lt;include_string&amp;gt;&lt;/code&gt;. The check is considered passed if the builds completes without an error.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Additionally the checks can be extended to also cover CMake variables or preprocessor defines, by functions like &lt;code&gt;ecm_installed_library_check_cmake_variable()&lt;/code&gt;, &lt;code&gt;ecm_installed_library_check_compile_definition()&lt;/code&gt; and &lt;code&gt;ecm_installed_library_check_preprocessor_macro()&lt;/code&gt;. The last also has some convenience variant &lt;code&gt;ecm_installed_library_check_version_preprocessor_macros()&lt;/code&gt;, in our example deployed like this:&lt;/p&gt;
-&lt;div class=&quot;wp-block-code&quot;&gt;
-&lt;div class=&quot;cm-editor&quot;&gt;
-&lt;div class=&quot;cm-scroller&quot;&gt;
-&lt;pre&gt;
-&lt;code class=&quot;language-cmake&quot;&gt;&lt;div class=&quot;cm-line&quot;&gt;&lt;span class=&quot;tok-comment&quot;&gt;# check all includes also have the usual version macros defined afterwards, only report errors&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;&lt;span class=&quot;tok-variableName tok-definition&quot;&gt;ecm_installed_library_check_version_preprocessor_macros&lt;/span&gt;&lt;span class=&quot;tok-punctuation&quot;&gt;(&lt;/span&gt;KF6Contacts&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt; PREFIX KCONTACTS&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt; VERSION &lt;span class=&quot;tok-variableName2&quot;&gt;$&amp;#123;KCONTACTS_VERSION}&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt; SILENT&lt;/div&gt;&lt;div class=&quot;cm-line&quot;&gt;&lt;span class=&quot;tok-punctuation&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;The current state of the prototype has already found a number of existing issues in a number of libraries, which so far had not yet been uncovered by consumers&amp;#8217; usage pattern, and first fixes have been rolled out to prevent consumers hitting them in the future.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt; It also has exposed a principal issues with projects like some KF modules that provide multiple libraries, yet only a single CMake config file for their module. Such file would need to ensure the combined dependencies of all libraries, which then adds unneeded burden to consumers of just one library. Currently the dependency checks in KF CMake config files are rather pragmatically added, when existing consumers stumble over something missing.&lt;/p&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;Hurdles To Adopting The Check Automation&lt;/h2&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Checks can only return value for the cost of integrating them if they are also routinely applied and their results considered. Worse, if not used they run chance of bit-rot and actually clutter a project.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Typically a library has a suite of auto-tests, covering all the features. While developers are encouraged to use them on their local system during development, they are at least used on the central CI system, against as many platforms and configurations as possible.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;A first challenge with merging post-installation checks to the other checks and tests is that auto-tests are usually designed or at least prepared to be run pre-installation. KDE has had some &amp;#8220;&lt;a href=&quot;https://community.kde.org/Guidelines_and_HOWTOs/Making_apps_run_uninstalled&quot; target=&quot;_blank&quot;&gt;Running apps uninstalled&lt;/a&gt;&amp;#8221; initiative, which resulted at least for auto-tests of KDE Frameworks to be also run on CI before installation. CMake only has the concept of one suite of tests, without an idea of pre-installation and post-installation test times. So one would have e.g. to create some custom system on top, e.g. by using CMake/CTest test labels. And for CI do extra work to run and process the two sets of tests separately.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Another challenge is that like all tests the &lt;code&gt;ECMInstalledLibraryCheck&lt;/code&gt; checks come at a cost. While their creation is quickly done (generating a buildsystem file), the execution is taking some time. Because it mainly consists of a full compilation per each tested include statement, which despite just being a simple include line still results in lot of processing due to all the implicit overhead, even more when transitively including many template-ridden headers. And being a new system with some people the cost will scale the normal &amp;#8220;don&amp;#8217;t need this, never done that, no changes wanted&amp;#8221; reaction.&lt;/p&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;Collaboration Wanted&lt;/h2&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;The author is currently done when it comes to own immediate desires for the features of &lt;code&gt;ECMInstalledLibraryCheck&lt;/code&gt; and uses it in personal projects as is. It has been though developed in the (KDE) public with the intent to share it, to have it be useful to others like KDE projects and gain from common usage and feedback.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Not being a CI system person, the author now is mainly looking for someone who can work on integrating the execution of &lt;code&gt;ECMInstalledLibraryCheck&lt;/code&gt; checks with KDE CI (or also their own projects&amp;#8217; CI). The idea would be that the check of the installed library artifacts is as useful as any unit test, to catch issues with new code and regressions immediately, so should be run along the normal unit tests, just in its own post-installation stage. This stage could also later see the addition of post-install checks for templates and examples as well as other things which are found useful to test post-install. Ideally the check result would be integrated into the test result display, but for a start just successfully completing the build target should be already useful as indication. Possibly projects would opt in to the test using some configuration flag, or in case of KF could default to it. Perhaps CI integration will also require certain things from the macros, so ideally the CI deployment can be sorted out before &lt;code&gt;ECMInstalledLibraryCheck&lt;/code&gt; gets merged and released. So if you find this kind of check useful and are experienced with (KDE) CI setup, please get in contact. &lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Then post-installation check of library artifacts might have further constraints or desires with some. Would people need doing parallel test of the installed library with different configurations or usage flags? Would people like to use this in cross-compilation (so far no generated code is executed, so in theory should be usable) and does that need further support? Are there other aspects of the installed artifacts you would like to see covered? Please give the current state of the check module a try for your own library projects and get in contact.&lt;/p&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;Try ECMInstalledLibraryCheck: Does Your Library Pass?&lt;/h2&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;The file &lt;code&gt;ECMInstalledLibraryCheck.cmake&lt;/code&gt; should only depend on CMake, so can be just copied into your own project:&lt;/p&gt;
-&lt;ul class=&quot;wp-block-list&quot;&gt;
-&lt;li&gt;download the raw file from &lt;a href=&quot;https://invent.kde.org/frameworks/extra-cmake-modules/-/blob/work/kossebau/ECMInstalledLibraryCheck/modules/ECMInstalledLibraryCheck.cmake&quot; target=&quot;_blank&quot;&gt;https://invent.kde.org/frameworks/extra-cmake-modules/-/blob/work/kossebau/ECMInstalledLibraryCheck/modules/ECMInstalledLibraryCheck.cmake&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;create subdir &lt;code&gt;cmake/ecmcopy&lt;/code&gt; in your project, place &lt;code&gt;ECMInstalledLibraryCheck.cmake&lt;/code&gt; inside&lt;/li&gt;
-&lt;li&gt;make subdir known to CMake: &lt;code&gt;list(APPEND CMAKE_MODULE_PATH $&amp;#123;CMAKE_SOURCE_DIR}/cmake/ecmcopy)&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;include module: &lt;code&gt;include(ECMInstalledLibraryCheck)&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;setup check for your library targets, see docs at begin of module file how to do that&lt;/li&gt;
-&lt;li&gt;run the installation target, then the target &lt;code&gt;all_installed_library_check&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;see how per library a project &amp;#8220;InstalledLibraryCheck&amp;#8221; is generated and build, the build log serves as success report&lt;/li&gt;
-&lt;li&gt;if the check build fails, try to fix it, install (easy to forget &lt;img alt=&quot;🙂&quot; class=&quot;wp-smiley&quot; src=&quot;https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f642.png&quot; style=&quot;height: 1em;&quot; /&gt; ) and run the check target again&lt;/li&gt;
-&lt;li&gt;if curious, peek into the build directory and look at the generated file &lt;code&gt;$&amp;#123;library_target}_ECMInstalledLibraryCheck/CMakeLists.txt&lt;/code&gt;, it holds the complete check and can be also played directly with&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;The author has done this with many projects already, in KDE for all of KF modules as well as some graphics, games, multimedia, utility and education software libraries.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Now go and check your own library, and report back how useful &lt;code&gt;ECMInstalledLibraryCheck&lt;/code&gt; is for you, what issues it discovered and what your further needs are here &lt;img alt=&quot;🙂&quot; class=&quot;wp-smiley&quot; src=&quot;https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f642.png&quot; style=&quot;height: 1em;&quot; /&gt;&lt;/p&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 17:33:05 -0000</pubDate>
-      <guid isPermaLink="false">http://frinring.wordpress.com/?p=2934</guid>
-      <source url="https://planet.kde.org/index.xml">Planet KDE</source>
     </item>
     <item>
       <title>[GitHub Blog] How GitHub maintains compliance for open source dependencies</title>
