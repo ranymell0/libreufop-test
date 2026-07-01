@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Wed, 01 Jul 2026 21:39:46 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 23:18:16 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://ranymell0.github.io/libreufop-test/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -94,14 +94,6 @@ must be tested before they can be …&lt;/dd&gt;&lt;/dl&gt;</description>
       <source url="https://github.com/hyprwm/Hyprland/releases.atom">Hyprland</source>
     </item>
     <item>
-      <title>[Linux Mint Blog] Monthly News – January 2026</title>
-      <link>https://blog.linuxmint.com/?p=4991</link>
-      <description>Hi everyone, Before we start with the news, I&amp;#8217;d like to thank you for your donations and for your support! We received donations from more than a thousand people in December! I know I talked about this before, but I&amp;#8217;ll do it again because this number of donors in a single month is unprecedented. I [&amp;#8230;]</description>
-      <pubDate>Wed, 11 Feb 2026 15:36:15 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.linuxmint.com/?p=4991</guid>
-      <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
-    </item>
-    <item>
       <title>[OSI] From G7’s Vision on AI Openness to EU’s Tech Sovereignty Package</title>
       <link>https://opensource.org/blog/from-g7s-vision-on-ai-openness-to-eus-tech-sovereignty-package</link>
       <description>Members Newsletter – June 2026
@@ -119,12 +111,36 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://github.com/i3/i3/releases.atom">i3wm</source>
     </item>
     <item>
-      <title>[Linux Mint Blog] Monthly News – February 2026</title>
-      <link>https://blog.linuxmint.com/?p=5010</link>
-      <description>Hi everyone, First of all, thank you for your support and your donation! And many thanks to all the people involved in helping Linux Mint. Here&amp;#8217;s a preview of what we worked on recently, and which will be featured in the next release. Sensors A page dedicated to sensors was added to the System Reports [&amp;#8230;]</description>
-      <pubDate>Wed, 04 Mar 2026 15:01:31 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.linuxmint.com/?p=5010</guid>
-      <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
+      <title>[Diolinux] O alerta do BIS: a bolha da IA pode estourar e arrastar a economia global</title>
+      <link>https://diolinux.com.br/noticias/o-alerta-do-bis-a-bolha-da-ia.html</link>
+      <description>O Banco de Compensações Internacionais (BIS) alerta que os investimentos bilionários em IA podem formar uma bolha semelhante à da internet nos anos 2000, com riscos para toda a economia mundial.</description>
+      <pubDate>Wed, 01 Jul 2026 22:50:16 -0000</pubDate>
+      <guid isPermaLink="false">https://diolinux.com.br/?p=122051</guid>
+      <source url="https://diolinux.com.br/feed">Diolinux</source>
+    </item>
+    <item>
+      <title>[The Verge] Apple’s entry-level MacBook Pro could be up for a redesign</title>
+      <link>https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update</link>
+      <description>Apple is working on a &quot;revamped&quot; version of its entry-level MacBook Pro that it could launch as soon as the first half of 2027, Bloomberg reports. The company is also testing four new iPad Pros that are set to launch in the spring with a focus on &quot;internal improvements.&quot; The updated MacBook Pro, which will [&amp;#8230;]</description>
+      <pubDate>Wed, 01 Jul 2026 22:39:43 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=960541</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[The Verge] The funeral for PlayStation discs has begun</title>
+      <link>https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores</link>
+      <description>Cody Spencer, the co-owner of the small games retail chain Pink Gorilla Games, put it well when I asked about the impact of Sony&apos;s recent announcement that it will stop making discs for new games starting January 2028. &quot;It&apos;s sad to see. This decision is only a negative for gamers. We&apos;re losing the ability to [&amp;#8230;]</description>
+      <pubDate>Wed, 01 Jul 2026 22:03:37 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=960476</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[Planet GNU] FSF Blogs: We&apos;re campaigning for free software. We need your help</title>
+      <link>http://www.fsf.org/blogs/community/2026-were-campaigning-for-free-software</link>
+      <description></description>
+      <pubDate>Wed, 01 Jul 2026 21:44:57 -0000</pubDate>
+      <guid isPermaLink="false">http://www.fsf.org/blogs/community/2026-were-campaigning-for-free-software</guid>
+      <source url="https://planet.gnu.org/rss20.xml">Planet GNU</source>
     </item>
     <item>
       <title>[Phoronix] KDE Linux Introduces &quot;Developer Mode&quot; Option, Easier Log Collection</title>
@@ -225,22 +241,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <description>After a lengthy legal dispute, Krafton has settled with its subsidiary Unknown Worlds Entertainment, which is developing Subnautica 2, and will pay bonuses to the studio&apos;s staff, Bloomberg reports. The dispute began last year after Krafton pushed out Unknown Worlds&apos; cofounders, Charlie Cleveland and Max McGuire, and its CEO, Ted Gill, ahead of a potential [&amp;#8230;]</description>
       <pubDate>Wed, 01 Jul 2026 17:45:23 -0000</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=960354</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>[The Verge] Xbox testing disc-to-digital feature that digitizes a physical game collection</title>
-      <link>https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection</link>
-      <description>Microsoft will likely soon follow Sony and stop the production of physical discs for Xbox games. But instead of leaving physical discs behind entirely, sources familiar with Microsoft&apos;s plans tell me the company has quietly been working on a disc-to-digital feature that will allow Xbox owners to digitize their existing physical game collections. Xbox employees [&amp;#8230;]</description>
-      <pubDate>Wed, 01 Jul 2026 17:41:23 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960173</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>[The Verge] My favorite Kindle alternative is $30 off after a recent price increase</title>
-      <link>https://www.theverge.com/gadgets/960282/kobo-libra-colour-july-fourth-sale-deal-sale</link>
-      <description>Kobo recently raised the price of its Libra Colour e-reader to $259.99, but today&amp;#8217;s deal effectively erases that hike. The company, Best Buy, and Target, are all selling it for its old $229.99 price as part of broader sales, making now one of the best times to grab my favorite alternative to Amazon&amp;#8217;s Kindle. If [&amp;#8230;]</description>
-      <pubDate>Wed, 01 Jul 2026 16:28:40 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960282</guid>
       <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
     </item>
     <item>
@@ -627,14 +627,6 @@ addresses. We do not have the resources to reply to them.&lt;/strong&gt;&lt;/p&g
       <source url="https://www.kernel.org/feeds/all.atom.xml">kernel.org</source>
     </item>
     <item>
-      <title>[Linux Mint Blog] Monthly News – April 2026</title>
-      <link>https://blog.linuxmint.com/?p=5022</link>
-      <description>Hi everyone, Thank you for your support and your donations! Many thanks to everyone involved in helping Linux Mint. HWE ISOs Earlier this month we announced a longer development cycle and the decision not to release until Christmas 2026. To address compatibility issues with brand new hardware, we decided to start publishing updated ISO images [&amp;#8230;]</description>
-      <pubDate>Thu, 30 Apr 2026 16:42:56 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.linuxmint.com/?p=5022</guid>
-      <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
-    </item>
-    <item>
       <title>[BigLinux] BigLinux traz novos kerneis no seu repositório oficial.</title>
       <link>https://www.biglinux.com.br/biglinux-tras-novos-kerneis-no-seu-repositorio-oficial/</link>
       <description>&lt;p&gt;Xanmod, Liquorix (lqx), Zen, TKG e Cachyos (alem dos kerneis tradicionais e RT fornecidos pela base manjaro).Todos disponíveis na loja BigStore. Lista completa de novos kerneis:linux-xanmodlinux-xanmod-ltslinux-xanmod-rt linux-lqx linux-zen-515lts linux61-tkg-bmqlinux61-tkg-cfslinux61-tkg-pds linux-cachyoslinux-cachyos-bmqlinux-cachyos-borelinux-cachyos-caculelinux-cachyos-cfslinux-cachyos-pdslinux-cachyos-tt&lt;/p&gt;
@@ -974,14 +966,6 @@ rewine (1):
       <pubDate>Thu, 18 Jun 2026 12:01:51 -0000</pubDate>
       <guid isPermaLink="false">https://opensource.org/?p=416937</guid>
       <source url="https://opensource.org/feed/">OSI</source>
-    </item>
-    <item>
-      <title>[Linux Mint Blog] Monthly News – March 2026</title>
-      <link>https://blog.linuxmint.com/?p=5019</link>
-      <description>Hi everyone, Before we start with the news, I’d like to apologize for posting so late. Release Strategy In February I mentioned we were at a crossroads and that it was the right time to consider important changes. The following decisions were made: Linux Mint will adopt a longer development lifecycle. The next release is [&amp;#8230;]</description>
-      <pubDate>Thu, 16 Apr 2026 11:27:22 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.linuxmint.com/?p=5019</guid>
-      <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
     </item>
     <item>
       <title>[Xfce News] Xfce 4.18 released</title>
@@ -1608,209 +1592,6 @@ odyxz (1):
       <source url="https://xfce.org/feed">Xfce News</source>
     </item>
     <item>
-      <title>[Planet GNU] parallel @ Savannah: GNU Parallel 20260622 (&apos;Rape Gang Inquiry&apos;) released [stable]</title>
-      <link>https://savannah.gnu.org/news/?id=10908</link>
-      <description>&lt;p&gt;GNU Parallel 20260622 (&apos;Rape Gang Inquiry&apos;) has been released. It is available for download at: lbry://@GnuParallel:4
-&lt;br /&gt;
-
-&lt;br /&gt;
-Quote of the month:
-&lt;br /&gt;
-
-&lt;br /&gt;
-  GNU Parallel is much nicer than xargs and more powerful ... definitely recommended!
-&lt;br /&gt;
-    -- boomertsfx@reddit
-&lt;br /&gt;
-
-&lt;br /&gt;
-New in this release:
-&lt;br /&gt;
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;testsuite reorganized.
-&lt;/li&gt;
-&lt;li&gt;Bug fixes and man page updates.
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-&lt;br /&gt;
-GNU Parallel - For people who live life in the parallel lane.
-&lt;br /&gt;
-
-&lt;br /&gt;
-If you like GNU Parallel record a video testimonial: Say who you are, what you use GNU Parallel for, how it helps you, and what you like most about it. Include a command that uses GNU Parallel if you feel like it.
-&lt;br /&gt;
-
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;/p&gt;
-&lt;h2&gt;About GNU Parallel&lt;/h2&gt;
-&lt;p&gt;
-&lt;br /&gt;
-GNU Parallel is a shell tool for executing jobs in parallel using one or more computers. A job can be a single command or a small script that has to be run for each of the lines in the input. The typical input is a list of files, a list of hosts, a list of users, a list of URLs, or a list of tables. A job can also be a command that reads from a pipe. GNU Parallel can then split the input and pipe it into commands in parallel.
-&lt;br /&gt;
-
-&lt;br /&gt;
-If you use xargs and tee today you will find GNU Parallel very easy to use as GNU Parallel is written to have the same options as xargs. If you write loops in shell, you will find GNU Parallel may be able to replace most of the loops and make them run faster by running several jobs in parallel. GNU Parallel can even replace nested loops.
-&lt;br /&gt;
-
-&lt;br /&gt;
-GNU Parallel makes sure output from the commands is the same output as you would get had you run the commands sequentially. This makes it possible to use output from GNU Parallel as input for other programs.
-&lt;br /&gt;
-
-&lt;br /&gt;
-For example you can run this to convert all jpeg files into png and gif files and have a progress bar:
-&lt;br /&gt;
-
-&lt;br /&gt;
-  parallel --bar convert {1} {1.}.{2} ::: *.jpg ::: png gif
-&lt;br /&gt;
-
-&lt;br /&gt;
-Or you can generate big, medium, and small thumbnails of all jpeg files in sub dirs:
-&lt;br /&gt;
-
-&lt;br /&gt;
-  find . -name &apos;*.jpg&apos; |
-&lt;br /&gt;
-    parallel convert -geometry {2} {1} {1//}/thumb{2}_{1/} :::: - ::: 50 100 200
-&lt;br /&gt;
-
-&lt;br /&gt;
-You can find more about GNU Parallel at: &lt;a href=&quot;http://www.gnu.org/s/parallel/&quot;&gt;http://www.gnu ... rg/s/parallel/&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-You can install GNU Parallel in just 10 seconds with:
-&lt;br /&gt;
-
-&lt;br /&gt;
-    $ (wget -O - pi.dk/3 || lynx -source pi.dk/3 || curl pi.dk/3/ || \
-&lt;br /&gt;
-       fetch -o - &lt;a href=&quot;http://pi.dk/3&quot;&gt;http://pi.dk/3&lt;/a&gt; ) &amp;gt; install.sh
-&lt;br /&gt;
-    $ sha1sum install.sh | grep c555f616391c6f7c28bf938044f4ec50
-&lt;br /&gt;
-    12345678 c555f616 391c6f7c 28bf9380 44f4ec50
-&lt;br /&gt;
-    $ md5sum install.sh | grep 707275363428aa9e9a136b9a7296dfe4
-&lt;br /&gt;
-    70727536 3428aa9e 9a136b9a 7296dfe4
-&lt;br /&gt;
-    $ sha512sum install.sh | grep b24bfe249695e0236f6bc7de85828fe1f08f4259
-&lt;br /&gt;
-    83320d89 f56698ec 77454856 895edc3e aa16feab 2757966e 5092ef2d 661b8b45
-&lt;br /&gt;
-    b24bfe24 9695e023 6f6bc7de 85828fe1 f08f4259 6ce5480a 5e1571b2 8b722f21
-&lt;br /&gt;
-    $ bash install.sh
-&lt;br /&gt;
-
-&lt;br /&gt;
-Watch the intro video on &lt;a href=&quot;http://www.youtube.com/playlist?list=PL284C9FF2488BC6D1&quot;&gt;http://www.youtub ... L284C9FF2488BC6D1&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Walk through the tutorial (man parallel_tutorial). Your command line will love you for it.
-&lt;br /&gt;
-
-&lt;br /&gt;
-When using programs that use GNU Parallel to process data for publication please cite:
-&lt;br /&gt;
-
-&lt;br /&gt;
-O. Tange (2018): GNU Parallel 2018, March 2018, &lt;a href=&quot;https://doi.org/10.5281/zenodo.1146014&quot;&gt;https://doi.org/1 ... 81/zenodo.1146014&lt;/a&gt;.
-&lt;br /&gt;
-
-&lt;br /&gt;
-If you like GNU Parallel:
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Give a demo at your local user group/team/colleagues
-&lt;/li&gt;
-&lt;li&gt;Post the intro videos on Reddit/Diaspora*/forums/blogs/ Identi.ca/Google+/Twitter/Facebook/Linkedin/mailing lists
-&lt;/li&gt;
-&lt;li&gt;Get the merchandise &lt;a href=&quot;https://gnuparallel.threadless.com/designs/gnu-parallel&quot;&gt;https://gnuparall ... igns/gnu-parallel&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;Request or write a review for your favourite blog or magazine
-&lt;/li&gt;
-&lt;li&gt;Request or build a package for your favourite distribution (if it is not already there)
-&lt;/li&gt;
-&lt;li&gt;Invite me for your next conference
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-&lt;br /&gt;
-If you use programs that use GNU Parallel for research:
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Please cite GNU Parallel in you publications (use --citation)
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-&lt;br /&gt;
-If GNU Parallel saves you money:
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;(Have your company) donate to FSF &lt;a href=&quot;https://my.fsf.org/donate/&quot;&gt;https://my.f ... .org/donate/&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;/p&gt;
-&lt;h2&gt;About GNU SQL&lt;/h2&gt;
-&lt;p&gt;
-&lt;br /&gt;
-GNU sql aims to give a simple, unified interface for accessing databases through all the different databases&apos; command line clients. So far the focus has been on giving a common way to specify login information (protocol, username, password, hostname, and port number), size (database and table size), and running queries.
-&lt;br /&gt;
-
-&lt;br /&gt;
-The database is addressed using a DBURL. If commands are left out you will get that database&apos;s interactive shell.
-&lt;br /&gt;
-
-&lt;br /&gt;
-When using GNU SQL for a publication please cite:
-&lt;br /&gt;
-
-&lt;br /&gt;
-O. Tange (2011): GNU SQL - A Command Line Tool for Accessing Different Databases Using DBURLs, ;login: The USENIX Magazine, April 2011:29-32.
-&lt;br /&gt;
-
-&lt;br /&gt;
-
-&lt;br /&gt;
-&lt;/p&gt;
-&lt;h2&gt;About GNU Niceload&lt;/h2&gt;
-&lt;p&gt;
-&lt;br /&gt;
-GNU niceload slows down a program when the computer load average (or other system activity) is above a certain limit. When the limit is reached the program will be suspended for some time. If the limit is a soft limit the program will be allowed to run for short amounts of time before being suspended again. If the limit is a hard limit the program will only be allowed to run when the system is below the limit.&lt;br /&gt;
-&lt;/p&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 10:24:15 -0000</pubDate>
-      <guid isPermaLink="false">https://savannah.gnu.org/news/?id=10908</guid>
-      <source url="https://planet.gnu.org/rss20.xml">Planet GNU</source>
-    </item>
-    <item>
-      <title>[Linux Mint Blog] Monthly News – May 2026</title>
-      <link>https://blog.linuxmint.com/?p=5025</link>
-      <description>Hi everyone, We&amp;#8217;ve got a lot of exciting news this month! But first of all, let us thank everyone involved in helping our project. Many thanks for your support and your donations! Note that the improvements and features mentioned in this blog post are planned for the next version of Linux Mint, which is scheduled [&amp;#8230;]</description>
-      <pubDate>Sat, 23 May 2026 14:32:46 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.linuxmint.com/?p=5025</guid>
-      <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
-    </item>
-    <item>
       <title>[Hyprland] v0.55.2</title>
       <link>https://github.com/hyprwm/Hyprland/releases/tag/v0.55.2</link>
       <description>&lt;p&gt;Another round of minor fixes backported from main onto 0.55.1.&lt;/p&gt;
@@ -2321,14 +2102,6 @@ have already been published separately and are referenced where available.</desc
       <description>A Oracle anunciou mudanças na governança do MySQL e promete maior participação da comunidade, mas desenvolvedores afirmam que ainda faltam compromissos permanentes.</description>
       <pubDate>Mon, 29 Jun 2026 13:00:00 -0000</pubDate>
       <guid isPermaLink="false">https://diolinux.com.br/?p=121978</guid>
-      <source url="https://diolinux.com.br/feed">Diolinux</source>
-    </item>
-    <item>
-      <title>[Diolinux] Você não precisa querer IA. Ela vai chegar ao seu PC do mesmo jeito</title>
-      <link>https://diolinux.com.br/editorial/voce-nao-precisa-querer-ia.html</link>
-      <description>Mesmo que você não tenha interesse em inteligência artificial, ela já está chegando ao Windows, macOS, Linux e aos principais aplicativos. E isso está causando mudanças até mesmo no hardware.</description>
-      <pubDate>Mon, 29 Jun 2026 11:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://diolinux.com.br/?p=121976</guid>
       <source url="https://diolinux.com.br/feed">Diolinux</source>
     </item>
     <item>
