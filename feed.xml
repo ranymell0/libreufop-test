@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Wed, 01 Jul 2026 11:27:10 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 14:35:54 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://ranymell0.github.io/libreufop-test/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -30,15 +30,6 @@ must be tested before they can be …&lt;/dd&gt;&lt;/dl&gt;</description>
       <pubDate>Wed, 25 Feb 2026 18:15:52 -0000</pubDate>
       <guid isPermaLink="false">tag:www.kernel.org,2026-02-25:/releases.html</guid>
       <source url="https://www.kernel.org/feeds/all.atom.xml">kernel.org</source>
-    </item>
-    <item>
-      <title>[OMG! Ubuntu] Ubuntu brings Livepatch to arm64 for rebootless kernel updates</title>
-      <link>https://www.omgubuntu.co.uk/2026/06/ubuntu-livepatch-arm64</link>
-      <description>&lt;p&gt;&lt;img alt=&quot;Kernel mascot on Ubuntu logo against tv static.&quot; class=&quot;attachment-post-list size-post-list wp-post-image&quot; height=&quot;232&quot; src=&quot;https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/08/kernel-paused.jpg?resize=406%2C232&amp;amp;ssl=1&quot; width=&quot;406&quot; /&gt;Canonical has brought&amp;#160;Livepatch to Arm64 devices for the first time, allowing Ubuntu systems on Arm hardware to apply critical kernel security patches without a full reboot. Livepatch is one of Ubuntu&amp;#8217;s best hidden security features – it&amp;#8217;s not enabled by default, requires Ubuntu Pro – as it allows kernel security updates to be applied in memory while your system is running. Normally, a restart is needed. Perfect if you&amp;#8217;re a bit lazy running a task or workload you don&amp;#8217;t want interrupted. Livepatch is now available on Ubuntu 26.04 LTS and&amp;#160;Ubuntu Core 26 running on Arm64 devices for the first time [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;You&apos;re reading &lt;a href=&quot;https://www.omgubuntu.co.uk/2026/06/ubuntu-livepatch-arm64&quot;&gt;Ubuntu brings Livepatch to arm64 for rebootless kernel updates&lt;/a&gt;, a blog post from &lt;a href=&quot;https://www.omgubuntu.co.uk&quot;&gt;OMG! Ubuntu&lt;/a&gt;. Do not reproduce elsewhere without permission.&lt;/p&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 22:10:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.omgubuntu.co.uk/?p=334366</guid>
-      <source url="https://www.omgubuntu.co.uk/feed">OMG! Ubuntu</source>
     </item>
     <item>
       <title>[OSI] The OSI 2025 Annual Report Is Now Available</title>
@@ -136,6 +127,93 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
     </item>
     <item>
+      <title>[BR-Linux] Site OS News vai recusar cobrir os sistemas “sloperacioniais” – e eu aplaudo</title>
+      <link>https://br-linux.org/2026/01/site-os-news-vai-recusar-cobrir-os-sistemas-sloperacioniais-e-eu-aplaudo.html</link>
+      <description>O Thom Holwerda (@thomholwerda@exquisite⸱social) avisa que não vai mais cobrir no OS News os novos &quot;sistemas operacionais&quot; que tem surgido como parte da onda de slop produzida pelos usuários de IA.</description>
+      <pubDate>Wed, 01 Jul 2026 14:27:35 -0000</pubDate>
+      <guid isPermaLink="false">https://br-linux.org/2026/01/site-os-news-vai-recusar-cobrir-os-sistemas-sloperacioniais-e-eu-aplaudo.html</guid>
+      <source url="https://br-linux.org/feed">BR-Linux</source>
+    </item>
+    <item>
+      <title>[OMG! Ubuntu] Firefox is adding Vulkan video decoding for Nvidia GPUs</title>
+      <link>https://www.omgubuntu.co.uk/2026/07/firefox-vulkan-video-decoding-nvidia</link>
+      <description>&lt;p&gt;&lt;img alt=&quot;Firefox logo with a pleased face drawn on it, sitting on a purple background.&quot; class=&quot;attachment-post-list size-post-list wp-post-image&quot; height=&quot;232&quot; src=&quot;https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/kit-firefox-logo.webp?resize=406%2C232&amp;amp;ssl=1&quot; width=&quot;406&quot; /&gt;Firefox is adding hardware-accelerated Vulkan Video decoding, saving Nvidia users on Linux the hassle of manually configuring the nvidia-vaapi-driver package. The change will be included in Firefox 153, out July 21, but it will not be enabled by default – not to start with. Instead, users will be able to flip a pair of preferences in about:config to try it out, with the awareness that there may be hiccups and edge cases (especially on devices with hybrid graphics, mentioned further down). Given that Nvidia GPUs are capable (understatement klaxon), I was surprised to hear that this didn&amp;#8217;t already work. Turns out, Firefox&amp;#8217;s [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;You&apos;re reading &lt;a href=&quot;https://www.omgubuntu.co.uk/2026/07/firefox-vulkan-video-decoding-nvidia&quot;&gt;Firefox is adding Vulkan video decoding for Nvidia GPUs&lt;/a&gt;, a blog post from &lt;a href=&quot;https://www.omgubuntu.co.uk&quot;&gt;OMG! Ubuntu&lt;/a&gt;. Do not reproduce elsewhere without permission.&lt;/p&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 14:10:29 -0000</pubDate>
+      <guid isPermaLink="false">https://www.omgubuntu.co.uk/?p=333856</guid>
+      <source url="https://www.omgubuntu.co.uk/feed">OMG! Ubuntu</source>
+    </item>
+    <item>
+      <title>[Diolinux] Linux Foundation quer criar um “DNS para agentes de IA” com identidades verificadas</title>
+      <link>https://diolinux.com.br/noticias/linux-foundation-dns-agentes-de-ia.html</link>
+      <description>A Linux Foundation anunciou o Agent Name Service (ANS), um padrão aberto que usa o DNS para criar identidades verificáveis para agentes de IA, aumentando segurança, confiança e interoperabilidade.</description>
+      <pubDate>Wed, 01 Jul 2026 14:07:00 -0000</pubDate>
+      <guid isPermaLink="false">https://diolinux.com.br/?p=122043</guid>
+      <source url="https://diolinux.com.br/feed">Diolinux</source>
+    </item>
+    <item>
+      <title>[Phoronix] Glibc Introduces /etc/tunables.conf For System-Wide Tunables</title>
+      <link>https://www.phoronix.com/news/Glibc-System-Tunables</link>
+      <description>Red Hat has contributed new system-wide tunables infrastructure to the GNU C Library &quot;glibc&quot; that allows specifying system-wide tunables via the new /etc/tunables.conf configuration file...</description>
+      <pubDate>Wed, 01 Jul 2026 13:32:03 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/Glibc-System-Tunables</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[Phoronix] RADV &amp; RadeonSI Drivers See New Fixes For AMD GCN 1.0/1.1 GPUs</title>
+      <link>https://www.phoronix.com/news/RADV-L2-Flush-Fix-GFX6-GFX7</link>
+      <description>Timur Kristóf of Valve&apos;s Linux graphics driver team continues taking special focus on AMD Radeon GCN 1.0 and GCN 1.1 era GPUs for enhancing the open-source graphics driver support for these aging graphics cards...</description>
+      <pubDate>Wed, 01 Jul 2026 13:18:33 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/RADV-L2-Flush-Fix-GFX6-GFX7</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[The Verge] Sony is closing the PS3 and Vita digital stores</title>
+      <link>https://www.theverge.com/games/960168/sony-playstation-ps3-vita-store-shut-down</link>
+      <description>It&apos;s the end of an era for the PlayStation store on PS3 and PS Vita, with Sony now planning to shut down its digital distribution service on both consoles. The PlayStation store on PS3 will close in select markets later this year, including Mexico, Honduras, and Nicaragua starting in August, with &quot;additional Latin American and [&amp;#8230;]</description>
+      <pubDate>Wed, 01 Jul 2026 12:37:52 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=960168</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[Planet KDE] Steam Deck and Wayland</title>
+      <link>https://notmart.org/blog/2026/07/steamdeck-and-wayland/</link>
+      <description>&lt;p class=&quot;wp-block-paragraph&quot;&gt;A while ago, Steam OS 3.8 was released. Among its many improvements, it includes a particularly important one for the Desktop Mode: it finally uses a Wayland session by default.&lt;/p&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;There are many reasons why this is important for both us and our users. It is more stable, more feature-rich, and does a better job showcasing what Plasma can do.&lt;/p&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;For now, though, I just want to highlight one neat little feature that is especially handy on a touchscreen device like the Steam Deck: touchscreen gestures.&lt;/p&gt;
+&lt;figure class=&quot;wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio&quot;&gt;&lt;div class=&quot;wp-block-embed__wrapper&quot;&gt;
+
+&lt;/div&gt;&lt;/figure&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;Out of the box, a three-finger vertical swipe enters Overview mode, showing thumbnails of all open windows. This provides a much more touch-friendly way to multitask, and you can also close a window with a downward swipe gesture. Of course this is a feature available on any device with a touchscreen.&lt;/p&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 12:23:26 -0000</pubDate>
+      <guid isPermaLink="false">https://notmart.org/blog/?p=6892</guid>
+      <source url="https://planet.kde.org/index.xml">Planet KDE</source>
+    </item>
+    <item>
+      <title>[The Verge] Sony is killing all physical PlayStation game discs</title>
+      <link>https://www.theverge.com/games/960160/sony-playstation-disc-production-ending</link>
+      <description>Sony has announced that from January 2028 it will entirely stop the production of physical discs for new PlayStation games. From that point onwards, new releases will only be available in digital versions from the PlayStation Store and other retailers. Games released before January 2028 will still be available on disc. &quot;This is a natural [&amp;#8230;]</description>
+      <pubDate>Wed, 01 Jul 2026 12:15:13 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=960160</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[The Verge] Google built a great smart speaker, but Gemini isn’t ready for it</title>
+      <link>https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home</link>
+      <description>Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they&apos;ve struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last fall, and now it&apos;s finally Google&apos;s turn. [&amp;#8230;]</description>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=959503</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[The Verge] Rhythm Heaven never misses a beat</title>
+      <link>https://www.theverge.com/entertainment/959757/rhythm-heaven-groove-review-nintendo-switch</link>
+      <description>Rhythm Heaven isn&apos;t Nintendo&apos;s best-known series, nor its most prolific. Prior to the launch of Rhythm Heaven Groove on the Switch this week - it&apos;s out on July 2nd - there were only four previous entries, one of which was exclusive to Japan. The most recent came out more than a decade ago. Even still, [&amp;#8230;]</description>
+      <pubDate>Wed, 01 Jul 2026 12:00:00 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=959757</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
       <title>[The Verge] Range anxiety</title>
       <link>https://www.theverge.com/cs/features/938196/rivian-r2-ev-factory-supply-chain</link>
       <description>The storm developed quickly over west central Illinois on April 17th, first as a single high-intensity system called a supercell, and then later that evening transforming into a long squall line of thunderstorms. Tucked inside a wall of wind were several smaller, quick-forming tornadoes, one of which landed directly on Rivian’s electric vehicle factory on [&amp;#8230;]</description>
@@ -150,14 +228,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <pubDate>Wed, 01 Jul 2026 11:00:00 -0000</pubDate>
       <guid isPermaLink="false">https://news.opensuse.org/2026/07/01/tw-monthly-update-june/</guid>
       <source url="https://news.opensuse.org/feed/">openSUSE News</source>
-    </item>
-    <item>
-      <title>[The Verge] The cube was a lie: up close with our Dbrand Companion Cube before it gets destroyed</title>
-      <link>https://www.theverge.com/games/959890/dbrand-companion-cube-photos-hands-on</link>
-      <description>Dbrand is the company that shipped a product that told Nintendo&apos;s legal team to &quot;go fuck yourself,&quot; and the company that had a second set of lawyer-dodging PS5 plates ready when Sony threatened to sue over the originals. But on June 29th, the company finally ate some serious humble pie, canceling its Portal-themed Companion Cube [&amp;#8230;]</description>
-      <pubDate>Wed, 01 Jul 2026 11:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=959890</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
     </item>
     <item>
       <title>[It's FOSS] 6 Backup Tools for Linux Users of All Kind</title>
@@ -192,38 +262,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
     <item>
-      <title>[Phoronix] ASUS ROG Strix Laptop Sees Driver Fix For Linux Performance Too Low Compared To Windows</title>
-      <link>https://www.phoronix.com/news/ASUS-ROG-Strix-G16-Fix</link>
-      <description>With modern laptops, proper platform/WMI drivers are becoming more depended upon not only for supporting all typical functionality from keyboards to backlights and other handling, but also for achieving proper performance. For many laptop vendors, the Linux platform drivers are maintained by the open-source community and actual customers. The latest example of the challenges of the community-maintained support rather than from the vendor is with the ASUS ROG Strix G16 G614PR gaming laptop seeing inappropriate power values set in the open-source driver that were incorrect and led to lower power/performance than Windows...</description>
-      <pubDate>Wed, 01 Jul 2026 10:11:34 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/ASUS-ROG-Strix-G16-Fix</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
-    </item>
-    <item>
-      <title>[The Verge] Fujifilm launches two new QuickSnap cameras because Gen Z can&amp;#8217;t get enough</title>
-      <link>https://www.theverge.com/gadgets/960067/fujifilm-quicksnap-active-black-and-white-price-availability</link>
-      <description>Fujifilm is expanding its QuickSnap lineup with a new disposable camera focused on taking monochrome photos and another built to survive harsh outdoor environments. The $22.90 QuickSnap Black and White and the $24.75 QuickSnap Active are expected to launch sometime later this fall, to the delight of Gen Z snappers driving the current resurgence in [&amp;#8230;]</description>
-      <pubDate>Wed, 01 Jul 2026 10:05:28 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960067</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>[Phoronix] NVIDIA Working On New &quot;TLV&quot; Firmware Binary Format For Nova Driver</title>
-      <link>https://www.phoronix.com/news/NVIDIA-Nova-Driver-TLV</link>
-      <description>NVIDIA engineers have been developing a new binary format for their GPU firmware images for use with the in-development, open-source Nova kernel driver. With this new TLV binary firmware format it aims to be easier to parse by their Rust-based driver code...</description>
-      <pubDate>Wed, 01 Jul 2026 09:34:21 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/NVIDIA-Nova-Driver-TLV</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
-    </item>
-    <item>
-      <title>[The Verge] Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart</title>
-      <link>https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination</link>
-      <description>Getty is planning to axe its $3.7 billion merger agreement with Shutterstock after a UK regulator imposed restrictions that would prevent part of Shutterstock&apos;s business from being included in the deal. The move comes despite the US Department of Justice granting the deal &quot;unconditional antitrust clearance&quot; in February. In an SEC filing published on Tuesday [&amp;#8230;]</description>
-      <pubDate>Wed, 01 Jul 2026 08:41:26 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960047</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
       <title>[Ubuntu Blog] DirtyClone Linux kernel local privilege escalation vulnerability fixes available</title>
       <link>https://ubuntu.com//blog/dirtyclone-linux-vulnerability-fixes-available</link>
       <description>&lt;p&gt;On June 25, 2026, JFrog published their research into CVE-2026-43503, referring to the vulnerability as DirtyClone. The vulnerability had previously been responsibly disclosed to the Linux kernel maintainers and the CVE record published on May 23, 2026. The vulnerability affects multiple Linux distributions, including all Ubuntu releases. The first security updates for Ubuntu were released [&amp;hellip;]&lt;/p&gt;</description>
@@ -238,14 +276,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <pubDate>Wed, 01 Jul 2026 07:50:02 -0000</pubDate>
       <guid isPermaLink="false">https://ubuntu.com//blog/pedit-cow-linux-vulnerability-fixes-available</guid>
       <source url="https://ubuntu.com/blog/feed">Ubuntu Blog</source>
-    </item>
-    <item>
-      <title>[The Verge] Meta is adding ridiculous &amp;#8216;rate limits&amp;#8217; and a soft paywall to its smart glasses</title>
-      <link>https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit</link>
-      <description>Would you pay $20 a month for access to AI hardware you already own? That appears to be one of Meta&apos;s next bets. This week, it quietly announced that your glasses&apos; Conversation Focus feature will soon be limited to three hours of use per month, unless you pay for a $19.99 Meta One Premium subscription. [&amp;#8230;]</description>
-      <pubDate>Wed, 01 Jul 2026 00:51:03 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=959899</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
     </item>
     <item>
       <title>[Planet KDE] The Steam Machine is here!</title>
@@ -491,14 +521,6 @@ Your browser does not support the video tag.
       <source url="https://br-linux.org/feed">BR-Linux</source>
     </item>
     <item>
-      <title>[BR-Linux] Sony vai remover 550 filmes da coleção de usuários que os compraram no Playstation</title>
-      <link>https://br-linux.org/2026/01/sony-vai-remover-550-filmes-da-colecao-de-usuarios-que-os-compraram-no-playstation.html</link>
-      <description>Em mais um movimento que reforça as convicções de quem tem pouca confiança em adquirir filmes e séries de serviços on-line, a Sony notificou os usuários de Playstation que vai bloquear em seus dispositivos os filmes e episódios</description>
-      <pubDate>Tue, 30 Jun 2026 14:10:21 -0000</pubDate>
-      <guid isPermaLink="false">https://br-linux.org/2026/01/sony-vai-remover-550-filmes-da-colecao-de-usuarios-que-os-compraram-no-playstation.html</guid>
-      <source url="https://br-linux.org/feed">BR-Linux</source>
-    </item>
-    <item>
       <title>[Planet KDE] Ocean Updates – June 2026</title>
       <link>https://anditosan.wordpress.com/2026/06/30/ocean-updates-june-2026-2/</link>
       <description>&lt;h2 class=&quot;wp-block-heading&quot;&gt;Ocean Icons in Penpot&lt;/h2&gt;
@@ -588,17 +610,6 @@ Your browser does not support the video tag.
       <pubDate>Tue, 30 Jun 2026 08:58:33 -0000</pubDate>
       <guid isPermaLink="false">6a42123f46ba4400013fc617</guid>
       <source url="https://itsfoss.com/feed">It&apos;s FOSS</source>
-    </item>
-    <item>
-      <title>[Planet KDE] KDE Plasma 6.7.2, Bugfix Release for June</title>
-      <link>https://kde.org/announcements/plasma/6/6.7.2/</link>
-      <description>&lt;p&gt;Today KDE releases a bugfix update to KDE Plasma 6, versioned 6.7.2.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://kde.org/announcements/plasma/6/6.7.0/&quot; target=&quot;_blank&quot;&gt;Plasma 6.7&lt;/a&gt; was released in June 2026 with many feature refinements and new modules to complete the desktop experience.&lt;/p&gt;
-&lt;p&gt;This release adds a week’s worth of new translations and fixes from KDE’s contributors. The bugfixes are typically small but important and include:&lt;/p&gt;
-&lt;a href=&quot;https://kde.org/announcements/changelogs/plasma/6/6.7.1-6.7.2&quot; target=&quot;_blank&quot;&gt;View full changelog&lt;/a&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://kde.org/announcements/plasma/6/6.7.2/</guid>
-      <source url="https://planet.kde.org/index.xml">Planet KDE</source>
     </item>
     <item>
       <title>[Planet GNOME] Nick Richards: Fuzzy Time Everywhere</title>
@@ -1256,14 +1267,6 @@ and
       <pubDate>Sun, 28 Jun 2026 22:10:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.omgubuntu.co.uk/?p=334398</guid>
       <source url="https://www.omgubuntu.co.uk/feed">OMG! Ubuntu</source>
-    </item>
-    <item>
-      <title>[Diolinux] Micron garante preços elevados para memórias até 2030</title>
-      <link>https://diolinux.com.br/noticias/micron-precos-memorias-ate-2030.html</link>
-      <description>A Micron fechou acordos que garantem preços historicamente altos para memórias até 2030. Entenda como isso afeta PCs, servidores, smartphones e o mercado de tecnologia.</description>
-      <pubDate>Sun, 28 Jun 2026 15:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://diolinux.com.br/?p=121968</guid>
-      <source url="https://diolinux.com.br/feed">Diolinux</source>
     </item>
     <item>
       <title>[It's FOSS] Every Physics Teacher (And Student) Should Try This Open Source Software</title>
