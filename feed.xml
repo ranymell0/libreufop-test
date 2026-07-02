@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 02 Jul 2026 12:58:45 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 15:24:16 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://SEU_USUARIO_OU_ORG.github.io/SEU_REPO/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -632,14 +632,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://diolinux.com.br/feed">Diolinux</source>
     </item>
     <item>
-      <title>[The Verge] Apple’s entry-level MacBook Pro could be up for a redesign</title>
-      <link>https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update</link>
-      <description>Apple is working on a &quot;revamped&quot; version of its entry-level MacBook Pro that it could launch as soon as the first half of 2027, Bloomberg reports. The company is also testing four new iPad Pros that are set to launch in the spring with a focus on &quot;internal improvements.&quot; The updated MacBook Pro, which will [&amp;#8230;]</description>
-      <pubDate>Wed, 01 Jul 2026 22:39:43 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960541</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
       <title>[OMG! Ubuntu] Linux App Release Roundup (June 2026)</title>
       <link>https://www.omgubuntu.co.uk/2026/07/linux-app-release-roundup-june-2026</link>
       <description>&lt;p&gt;&lt;img alt=&quot;Bag fill with app icons, Tux the Linux mascot behind.&quot; class=&quot;attachment-post-list size-post-list wp-post-image&quot; height=&quot;232&quot; src=&quot;https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/linux-app-release-roundup-june-2026.webp?resize=406%2C232&amp;amp;ssl=1&quot; width=&quot;406&quot; /&gt;June was sweltering, but the summer heat didn’t slow down open-source software developers.&amp;#160; Last month delivered a wave of app updates, including the release of Firefox 152 with its streamlined settings, HandBrake resolved its Linux WebM handling and the Audacity 4.0 beta made a brand-new design available for public scrutiny (mainly of the &amp;#8220;much better&amp;#8221; variety). But underneath those highs – yes, I&amp;#8217;m determined to make this heat theme work – a quiet simmer of smaller maintenance updates rolled out too&amp;#8230; Cine gained Watch History I spotlighted the Cine Linux video player earlier this year. It&amp;#8217;s an MPV-based player with [&amp;#8230;]&lt;/p&gt;
@@ -647,14 +639,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <pubDate>Wed, 01 Jul 2026 22:35:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.omgubuntu.co.uk/?p=333876</guid>
       <source url="https://www.omgubuntu.co.uk/feed">OMG! Ubuntu</source>
-    </item>
-    <item>
-      <title>[The Verge] The funeral for PlayStation discs has begun</title>
-      <link>https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores</link>
-      <description>Cody Spencer, the co-owner of the small games retail chain Pink Gorilla Games, put it well when I asked about the impact of Sony&apos;s recent announcement that it will stop making discs for new games starting January 2028. &quot;It&apos;s sad to see. This decision is only a negative for gamers. We&apos;re losing the ability to [&amp;#8230;]</description>
-      <pubDate>Wed, 01 Jul 2026 22:03:37 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960476</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
     </item>
     <item>
       <title>[Planet GNU] FSF Blogs: We&apos;re campaigning for free software. We need your help</title>
@@ -766,20 +750,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <pubDate>Wed, 01 Jul 2026 14:07:00 -0000</pubDate>
       <guid isPermaLink="false">https://diolinux.com.br/?p=122043</guid>
       <source url="https://diolinux.com.br/feed">Diolinux</source>
-    </item>
-    <item>
-      <title>[Planet KDE] Steam Deck and Wayland</title>
-      <link>https://notmart.org/blog/2026/07/steamdeck-and-wayland/</link>
-      <description>&lt;p class=&quot;wp-block-paragraph&quot;&gt;A while ago, Steam OS 3.8 was released. Among its many improvements, it includes a particularly important one for the Desktop Mode: it finally uses a Wayland session by default.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;There are many reasons why this is important for both us and our users. It is more stable, more feature-rich, and does a better job showcasing what Plasma can do.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;For now, though, I just want to highlight one neat little feature that is especially handy on a touchscreen device like the Steam Deck: touchscreen gestures.&lt;/p&gt;
-&lt;figure class=&quot;wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio&quot;&gt;&lt;div class=&quot;wp-block-embed__wrapper&quot;&gt;
-
-&lt;/div&gt;&lt;/figure&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Out of the box, a three-finger vertical swipe enters Overview mode, showing thumbnails of all open windows. This provides a much more touch-friendly way to multitask, and you can also close a window with a downward swipe gesture. Of course this is a feature available on any device with a touchscreen.&lt;/p&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 12:23:26 -0000</pubDate>
-      <guid isPermaLink="false">https://notmart.org/blog/?p=6892</guid>
-      <source url="https://planet.kde.org/index.xml">Planet KDE</source>
     </item>
     <item>
       <title>[openSUSE News] Tumbleweed Monthly Update - June 2026</title>
@@ -1033,6 +1003,35 @@ addresses. We do not have the resources to reply to them.&lt;/strong&gt;&lt;/p&g
       <pubDate>Thu, 29 Dec 2022 15:08:12 -0000</pubDate>
       <guid isPermaLink="false">https://www.biglinux.com.br/?p=3325</guid>
       <source url="https://www.biglinux.com.br/feed">BigLinux</source>
+    </item>
+    <item>
+      <title>[Planet GNOME] Benjamin Otte: Snapping</title>
+      <link>https://blogs.gnome.org/gtk/2026/05/28/snapping/</link>
+      <description>&lt;p&gt;With the release of 4.23.1, GTK’s renderer will come with a new feature that we’ve called &lt;strong&gt;snapping&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3&gt;How does it work?&lt;/h3&gt;
+&lt;p&gt;Snapping is enabled by calling &lt;a class=&quot;external&quot; href=&quot;https://docs.gtk.org/gtk4/method.Snapshot.set_snap.html&quot;&gt;gtk_snapshot_set_snap()&lt;/a&gt;. If enabled, it will slightly adjust the placement of rectangles when drawing so that they align with the pixel grid and don’t cover half a pixel.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;GSK_RECT_SNAP_ROUND&quot; class=&quot;alignnone size-medium&quot; src=&quot;https://docs.gtk.org/gsk4/snap-round.svg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Content drawn with GTK is scaled automatically by the desktop’s scale factor. But with the arrival of native fractional scaling, it is no longer possible to know if content is aligned to the pixel grid.&lt;/p&gt;
+&lt;p&gt;While that is usually not a problem, there are a few cases where it is:&lt;/p&gt;
+&lt;h3&gt;Sprite grids&lt;/h3&gt;
+&lt;p&gt;&lt;a class=&quot;external&quot; href=&quot;https://github.com/tchx84/gameeky&quot;&gt;Gameeky&lt;/a&gt; is a learning game that plays on a grid. Unfortunately, on a fractionally scaled machine, it can end up looking like this:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blogs.gnome.org/gtk/files/2026/04/image.png&quot;&gt;&lt;img alt=&quot;A screenshot of a Gameeky game without snapping. A distracting grid can be seen between the sprites.&quot; class=&quot;aligncenter size-full wp-image-10693&quot; height=&quot;313&quot; src=&quot;https://blogs.gnome.org/gtk/files/2026/04/image.png&quot; width=&quot;313&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Once those sprites are snapped to the pixel grid by rounding to the nearest pixel, the same image looks like this&lt;br /&gt;
+&lt;a href=&quot;https://blogs.gnome.org/gtk/files/2026/04/image2.png&quot;&gt;&lt;img alt=&quot;A screenshot of a Gameeky game with snapping. No grid is visible anymore and it looks like a single image.&quot; class=&quot;aligncenter size-full wp-image-10694&quot; height=&quot;313&quot; src=&quot;https://blogs.gnome.org/gtk/files/2026/04/image2.png&quot; width=&quot;313&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Sharp images&lt;/h3&gt;
+&lt;p&gt;Often Applications want to display images in a way that matches the pixels of the image 1:1 with pixels of the monitor. This is a challenge on a fractionally scaled display. Not only is it important to get the scale factor right, it’s also important to align the pixels correctly, or they will appear slightly blurry.&lt;/p&gt;
+&lt;p&gt;The use case is not just image viewers that want to offer a 1:1 zoom factor, but all applications that redirect drawing, from game emulators to viewers like &lt;a class=&quot;external&quot; href=&quot;https://apps.gnome.org/Boxes/&quot;&gt;Boxes&lt;/a&gt; or &lt;a class=&quot;external&quot; href=&quot;https://apps.gnome.org/Connections/&quot;&gt;Connections&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Hardware optimizations&lt;/h3&gt;
+&lt;p&gt;And finally, there are optimizations like &lt;a href=&quot;https://blogs.gnome.org/gtk/2023/11/15/introducing-graphics-offload/&quot;&gt;graphics offload&lt;/a&gt; that rely on content being aligned to the pixel grid or the hardware cannot optimize them. So it is important to snap content to the pixel grid for those cases.&lt;/p&gt;
+&lt;h3&gt;Why don’t we just always snap to the grid?&lt;/h3&gt;
+&lt;p&gt;There is one big problem with automatic snapping: smoothness. Because snapping only works on full pixels, doing slow animations causes content to jump from one pixel to the next. And that causes jitter.&lt;/p&gt;
+&lt;p&gt;The main situation where one can see this is smooth scrolling, like in this example:&lt;/p&gt;
+&lt;div class=&quot;wp-video&quot; style=&quot;width: 466px;&quot;&gt;&lt;video class=&quot;wp-video-shortcode&quot; controls=&quot;controls&quot; height=&quot;402&quot; id=&quot;video-10690-1&quot; loop=&quot;loop&quot; preload=&quot;metadata&quot; width=&quot;466&quot;&gt;&lt;source src=&quot;https://blogs.gnome.org/gtk/files/2026/04/jitter.webm?_=1&quot; type=&quot;video/webm&quot; /&gt;&lt;a href=&quot;https://blogs.gnome.org/gtk/files/2026/04/jitter.webm&quot;&gt;https://blogs.gnome.org/gtk/files/2026/04/jitter.webm&lt;/a&gt;&lt;/video&gt;&lt;/div&gt;
+&lt;h3&gt;Summary&lt;/h3&gt;
+&lt;p&gt;The next GTK release will offer a new way to tame the effects of fractional scaling.  Please try it out and let us know how it works!&lt;/p&gt;</description>
+      <pubDate>Thu, 28 May 2026 01:41:00 -0000</pubDate>
+      <guid isPermaLink="false">https://blogs.gnome.org/gtk/2026/05/28/snapping/</guid>
+      <source url="https://planet.gnome.org/rss20.xml">Planet GNOME</source>
     </item>
     <item>
       <title>[Sway] 1.12-rc1</title>
@@ -1300,48 +1299,6 @@ rewine (1):
       <source url="https://ubuntu.com/blog/feed">Ubuntu Blog</source>
     </item>
     <item>
-      <title>[Planet GNOME] Michael Catanzaro: Single-Click Code Execution Exploit for Evince, Atril, and Xreader</title>
-      <link>https://blogs.gnome.org/mcatanzaro/2026/05/21/single-click-code-execution-exploit-for-evince-atril-and-xreader/</link>
-      <description>&lt;p class=&quot;wp-block-paragraph&quot;&gt;CVE-2026-46529 is an argument injection vulnerability in Evince, Atril, and Xreader caused by missing shell quoting when composing a command line. The reporter, João Medeiros, has published a &lt;a class=&quot;external&quot; href=&quot;https://github.com/N1et/CVE-2026-46529&quot;&gt;GitHub repo&lt;/a&gt; for the CVE and a &lt;a class=&quot;external&quot; href=&quot;https://medeiros.zip/posts/CVE-2026-46529-evince&quot;&gt;blog post&lt;/a&gt; with the story of how he discovered the flaw and developed the exploit. He also created an &lt;a class=&quot;external&quot; href=&quot;https://github.com/mate-desktop/atril/security/advisories/GHSA-vgv2-m826-8f6f&quot;&gt;Atril security advisory&lt;/a&gt; and an &lt;a class=&quot;external&quot; href=&quot;https://gitlab.gnome.org/GNOME/evince/-/work_items/2153&quot;&gt;Evince issue report&lt;/a&gt;.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;The vulnerability is fixed in:&lt;/p&gt;
-&lt;ul class=&quot;wp-block-list&quot;&gt;
-&lt;li&gt;Evince 48.4 (&lt;a class=&quot;external&quot; href=&quot;https://gitlab.gnome.org/GNOME/evince/-/commit/970c219e861a5fcc3e7b9e05bedf18cf0de39245&quot;&gt;fix commit&lt;/a&gt;) (I originally reported that it is fixed in 48.2, but there was no successful release for that tag)&lt;/li&gt;
-&lt;li&gt;Atril 1.28.4 and 1.26.3 (&lt;a class=&quot;external&quot; href=&quot;https://github.com/mate-desktop/atril/commit/b989b7922a454ed81f8bb14786a958828513f576&quot;&gt;fix commit&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Xreader 4.6.4 and 3.6.7 (&lt;a class=&quot;external&quot; href=&quot;https://github.com/linuxmint/xreader/commit/50052eaa91c3c750c51c245799e3747495feeece&quot;&gt;fix commit&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;If you use one of these PDF readers, update immediately. Or at least please be seriously paranoid about clicking on links in PDFs until you do update.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;&lt;a class=&quot;external&quot; href=&quot;https://gitlab.gnome.org/GNOME/papers/-/commit/1b82bf627b4d8b414a57b55a9095e6d361799d6c&quot;&gt;This vulnerability also affects Papers&lt;/a&gt;, but it’s probably not urgent to update Papers. (No, not because it uses Rust. Keep reading!)&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;The Flatpak sandbox could have drastically reduced the danger of this attack, limiting the compromise to only files that you had previously opened in the PDF reader. Sadly, Evince and Papers both use sandbox holes that render the sandbox totally meaningless. (Atril and Xreader are not available on Flathub.)&lt;/p&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;The Vulnerability&lt;/h2&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;When you click on a link in a PDF, Evince may execute itself to display the link. Normally the command line used would look something like this:&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;&lt;code&gt;/usr/bin/evince --named-dest=/home/foo/hello.pdf&lt;/code&gt;&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;But an evil PDF may trick Evince into executing a command that is quite different than expected:&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;&lt;code&gt;/usr/bin/evince --named-dest= --gtk-module=/home/foo/evil.so /home/foo/hello.pdf&lt;/code&gt;&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Oops. The first part of the command is always going to be &lt;code&gt;/usr/bin/evince&lt;/code&gt;, but the evil PDF is nevertheless able to unexpectedly load a GTK module into Evince. The fix is to quote the untrusted input using &lt;code&gt;g_shell_quote()&lt;/code&gt; to ensure it cannot “break out” of its intended context:&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;&lt;code&gt;/usr/bin/evince --named-dest=&apos;/home/foo/hello.pdf&apos;&lt;/code&gt;&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Or:&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;&lt;code&gt;/usr/bin/evince --named-dest=&apos; --gtk-module=/home/foo/evil.so /home/foo/hello.pdf&apos;&lt;/code&gt;&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Much better: now the threat is neutralized. &lt;code&gt;g_shell_quote()&lt;/code&gt; is safe to use even if the untrusted input itself contains quotes. (However, beware: this only works because GLib is parsing the command line itself, and GLib is not a real Unix shell. &lt;a class=&quot;external&quot; href=&quot;https://gitlab.gnome.org/GNOME/glib/-/merge_requests/5187/#note_2762996&quot;&gt;It’s not safe if the input is going to be passed to an actual Unix shell.&lt;/a&gt; It might not even be theoretically possible to do that safely, because it’s valid for filenames to contain entirely arbitrary characters!)&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;All GTK 3 apps support the &lt;code&gt;--gtk-module&lt;/code&gt; command line argument for injecting a shared library into the application. The library may of course then execute whatever code it wants via its library constructor. But GTK 4 no longer has standard GTK command line flags, so this does not work for GTK 4 applications like Papers. It’s still possible to tell a GTK 4 app to load a GTK module, but only via environment variables, not via command line flags, and I don’t see any opportunity for the malicious command to set environment variables. It’s probably not possible to exploit this vulnerability in Papers: although it has the exact same vulnerability as the other PDF readers, the impact is different.&lt;/p&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;The Exploit&lt;/h2&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;So far this looks like a pretty typical security bug. OK, so if you trick the user into downloading an archive (or perhaps a git repo) that contains both a malicious PDF and also a malicious shared library, then you can trick the PDF reader into loading the shared library and thereby execute arbitrary code. That’s a pretty bad foreseeable exploit, sure, but at least the attacker is at considerable risk of arousing suspicion if the user is trying to download a PDF and also receives a shared library. You’d have to try pretty hard to hide the library in a forest of other boring files if you want the attack to look convincing and unsuspicious. Right?&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Nope.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;João used Claude Opus 4.7 to develop a sophisticated script for building malicious polyglot PDFs that are simultaneously both valid PDF files and also valid ELF binaries, so the attacker only needs to trick the victim into downloading one evil PDF file. When the victim clicks on a link in that PDF, the PDF reader will dlopen the PDF itself. The PDF/ELF polyglot’s library constructor will then execute arbitrary code. Much less suspicious, and much scarier. Polyglot files are &lt;a class=&quot;external&quot; href=&quot;https://github.com/Polydet/polyglot-database&quot;&gt;not entirely novel&lt;/a&gt;, but I’d still say this required substantial creativity and expertise from the AI, and substantial persistence from the human. Needless to say, very nice job to both Claude and João.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;You can easily build your own malicious PDF using the provided script and sample GTK module. The script in the Evince and Atril issue reports requires that the attacker predict the absolute path that the malicious PDF file will be saved to; however, João’s blog post and GitHub repo refine the exploit to remove that requirement.&lt;/p&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;Thoughts on AI Vulnerability Reports&lt;/h2&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;A human inspecting this code should have been able to find the parameter injection vulnerability, but that requires considerable time and effort, so unsurprisingly nobody did. We’re probably in for a rough time in the short term as the volume of AI-generated vulnerability findings remains temporarily very high and attackers have a much easier time crafting working exploits. But in the long term, I expect we are going to be much more secure than we were before, so this will be worth it.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;A human working alone would have almost certainly stopped and moved on after finding the vulnerability. Claude allowed taking the investigation much farther. It’s highly unusual for a GNOME vulnerability report to come with a working exploit. This is a dangerous change. Perhaps it will be a one-time event, but I suspect we will be seeing more frequent exploits in the future.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Silver lining: the exploit helps us better appreciate the severity of the issue. It’s often hard to assess how bad a vulnerability is. If not for the weaponized exploit, I would have thought this bug was not very scary, and would have treated it as not a big deal. We would have fixed it, perhaps or perhaps not with a CVE ID, surely without any blog post or fanfare, and probably without distro security updates. But since there is an exploit, we instead had no doubt that this vulnerability was dangerous, and were able to handle it accordingly.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Several GNOME projects have begun outright prohibiting all AI-generated contributions, including issue reports, with no exception for vulnerability reports. Such policies are misguided and unacceptable. I can sort of understand why some projects might (misguidedly) wish to prohibit AI-generated code contributions. OK, fine. But blocking AI vulnerability reports will make GNOME less safe. AI-assisted vulnerability reporting is the new industry standard for good reason: it is highly effective.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Some humans are not good at preparing AI-assisted vulnerability reports and will spam maintainers with low-quality reports. Sometimes they will be outright bogus, although more often there may be valid underlying bugs with exaggerated severity claims or bad proof of concept demos. This is annoying, but bad issue reports are a cost we are just going to have to accept and deal with.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;The quality level of AI vulnerability reports reviewed by conscientious humans — as well as AI assessments of AI vulnerability reports — is now often quite encouraging. But just like humans, AIs may also miss things, especially subtle distinctions that may be highly relevant. Although I’m quite impressed with these AIs, we still need experienced humans to review and manage reports. Please don’t abuse the technology by submitting vulnerability reports that you do not understand or have not validated. And certainly please do not allow an AI agent to interact with an issue tracker on your behalf!&lt;/p&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;For Security Geeks&lt;/h2&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;This was my first time scoring a vulnerability using CVSS 4.0 rather than CVSS 3.1. It’s also the first time I wasn’t terribly confused about how to set the parameters, because the &lt;a class=&quot;external&quot; href=&quot;https://www.first.org/cvss/v4.0/user-guide&quot;&gt;scoring guide&lt;/a&gt; contained answers to all of my questions. Nice. My CVSS vector for CVE-2026-46529 is CVSS:4.0/AV:L/AC:L/AT:N/PR:N/UI:A/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N, the base score is 8.4, and I’m pretty sure my choices for each parameter are good. By comparison, using CVSS 3.1 I came up with CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H and base score 7.8.&lt;/p&gt;</description>
-      <pubDate>Thu, 21 May 2026 20:49:51 -0000</pubDate>
-      <guid isPermaLink="false">https://blogs.gnome.org/mcatanzaro/2026/05/21/single-click-code-execution-exploit-for-evince-atril-and-xreader/</guid>
-      <source url="https://planet.gnome.org/rss20.xml">Planet GNOME</source>
-    </item>
-    <item>
       <title>[Ubuntu MATE] Ubuntu MATE 23.04 Release Notes</title>
       <link>https://ubuntu-mate.org/blog/ubuntu-mate-lunar-lobster-release-notes/</link>
       <description>What&apos;s new in Ubuntu MATE 23.04 (Lunar Lobster)</description>
@@ -1472,10 +1429,18 @@ rewine (1):
       <source url="https://feeds.feedburner.com/linuxtoday/linux">Linux Today</source>
     </item>
     <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1080162/</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 15:24:16 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1080162/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
       <title>[LWN] local BPF storage API</title>
       <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 12:58:45 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 15:24:16 -0000</pubDate>
       <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1483,7 +1448,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1078968/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 12:58:45 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 15:24:16 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1078968/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1491,7 +1456,7 @@ rewine (1):
       <title>[LWN] Secure Boot</title>
       <link>https://en.wikipedia.org/wiki/UEFI#Secure_Boot</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 12:58:45 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 15:24:16 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/UEFI#Secure_Boot</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1499,63 +1464,15 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1079808/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 12:58:45 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 15:24:16 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1079808/</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Racket</title>
-      <link>https://racket-lang.org/</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 12:58:45 -0000</pubDate>
-      <guid isPermaLink="false">https://racket-lang.org/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Brave Origin chega ao Linux com modo minimalista e grátis</title>
-      <link>https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 12:58:41 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Tails 7.9.1 corrige falhas no kernel e atualiza o Tor Browser</title>
-      <link>https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 12:58:41 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Rocky Linux 10.2 chega com avanços em criptografia pós-quântica</title>
-      <link>https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 12:58:41 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Ubuntu prepara o Myna, um ditado por IA local para falar e ver o texto aparecer</title>
-      <link>https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 12:58:41 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Canonical confirma correções no Ubuntu para falha DirtyClone no kernel Linux</title>
-      <link>https://www.vivaolinux.com.br/noticia/canonical-confirma-correcoes-no-ubuntu-para-falha-dirtyclone-no-kernel-linux/</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 12:58:41 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/canonical-confirma-correcoes-no-ubuntu-para-falha-dirtyclone-no-kernel-linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 12:58:41 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 15:24:11 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1563,7 +1480,7 @@ rewine (1):
       <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
       <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 12:58:41 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 15:24:11 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1571,7 +1488,7 @@ rewine (1):
       <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
       <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 12:58:41 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 15:24:11 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1579,7 +1496,7 @@ rewine (1):
       <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
       <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 12:58:41 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 15:24:11 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1587,9 +1504,132 @@ rewine (1):
       <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 12:58:41 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 15:24:11 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Brave Origin chega ao Linux com modo minimalista e grátis</title>
+      <link>https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 15:24:10 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Tails 7.9.1 corrige falhas no kernel e atualiza o Tor Browser</title>
+      <link>https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 15:24:10 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Rocky Linux 10.2 chega com avanços em criptografia pós-quântica</title>
+      <link>https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 15:24:10 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Ubuntu prepara o Myna, um ditado por IA local para falar e ver o texto aparecer</title>
+      <link>https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 15:24:10 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Canonical confirma correções no Ubuntu para falha DirtyClone no kernel Linux</title>
+      <link>https://www.vivaolinux.com.br/noticia/canonical-confirma-correcoes-no-ubuntu-para-falha-dirtyclone-no-kernel-linux/</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 15:24:10 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/canonical-confirma-correcoes-no-ubuntu-para-falha-dirtyclone-no-kernel-linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Phoronix] Linux Kernel Developers Again Discussing AI Agent Attribution - Potentially Dropping It</title>
+      <link>https://www.phoronix.com/news/Linux-AI-Attribution-Again</link>
+      <description>When AI/LLM agents are used in the creation of Linux kernel patches, the policy for a while now has been that it should be specified using an &quot;Assisted-by&quot; tag as part of the patches/commits. But Linux kernel developers this week have been discussing whether to revise that policy or to potentially eliminate it...</description>
+      <pubDate>Thu, 02 Jul 2026 15:11:00 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/Linux-AI-Attribution-Again</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[The Verge] Godox’s feature-packed key light is down to its best price yet</title>
+      <link>https://www.theverge.com/gadgets/960664/godox-key-light-elgato-insta360-deal-sale</link>
+      <description>If you don’t want to spend $180 on the Elgato Key Light, the Godox ES45 Desktop LED Key Light is a more affordable option that offers nearly as much brightness and plenty of features, including adjustable brightness and color temperature. Right now, it’s cheaper than usual for the first time this year, selling for $119 [&amp;#8230;]</description>
+      <pubDate>Thu, 02 Jul 2026 15:00:00 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=960664</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[The Verge] Tesla&amp;#8217;s Q2 sales jump 25 percent</title>
+      <link>https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report</link>
+      <description>Tesla just released its second-quarter delivery and production report, showing that the automaker is starting to recover after a particularly brutal sales year in 2025. The company said that it produced a total of 451,758 vehicles between April and June of this year, including 442,936 Model 3 and Model Y vehicles, as well as 8,822 [&amp;#8230;]</description>
+      <pubDate>Thu, 02 Jul 2026 14:14:48 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=957685</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[Phoronix] RISC-V RVV Vector Performance Benchmarks With The SpacemiT K3 SoC</title>
+      <link>https://www.phoronix.com/review/risc-v-rvv-vector-benchmarks</link>
+      <description>Since May we have been benchmarking the SpacemiT K3 RISC-V SoC as one of the first to market RISC-V chips supporting the RVA23 profile. The SpacemiT K3 has shown how far RISC-V performance has come in the past half decade and one of the promising elements of this modern RISC-V SoC with its X100/A100 cores is supporting the RISC-V Vector Extension &quot;RVV&quot; 1.0. In this article are some initial benchmarks looking specifically at the RISC-V RVV 1.0 performance impact in different supported software.</description>
+      <pubDate>Thu, 02 Jul 2026 14:10:00 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/review/risc-v-rvv-vector-benchmarks</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[Diolinux] Sincronize seu OneDrive no Linux com este cliente de código aberto</title>
+      <link>https://diolinux.com.br/tutoriais/sincronize-seu-onedrive-no-linux-com-este-cliente-de-codigo-aberto.html</link>
+      <description>Aprenda a sincronizar arquivos do OneDrive no Linux usando um cliente open source gratuito, compatível com contas pessoais, corporativas e SharePoint.</description>
+      <pubDate>Thu, 02 Jul 2026 14:09:00 -0000</pubDate>
+      <guid isPermaLink="false">https://diolinux.com.br/?p=122068</guid>
+      <source url="https://diolinux.com.br/feed">Diolinux</source>
+    </item>
+    <item>
+      <title>[The Verge] AI won’t save advertising, says Digitas’ Amy Lanzi</title>
+      <link>https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators</link>
+      <description>We’ve got a special Decoder today — I had the chance to talk with Amy Lanzi, the CEO of Digitas North America, in front of a live audience at the Uber Villa at the Cannes Lions advertising festival in the South of France. I know, it’s a hard gig, but I do it for you. [&amp;#8230;]</description>
+      <pubDate>Thu, 02 Jul 2026 14:00:00 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=959792</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[It's FOSS] FOSS Weekly #26.27: Dev Mode in KDE Linux, Local AI, De-Google Android, Free Terminal Starter Course, KDE Step and More</title>
+      <link>https://feed.itsfoss.com/link/24361/17371670/foss-weekly-26-27</link>
+      <description>To AI or not to AI, that is the intelligent question.</description>
+      <pubDate>Thu, 02 Jul 2026 13:28:53 -0000</pubDate>
+      <guid isPermaLink="false">6a4209b746ba4400013fc5b7</guid>
+      <source url="https://itsfoss.com/feed">It&apos;s FOSS</source>
+    </item>
+    <item>
+      <title>[Phoronix] Intel Posts Initial GCC Compiler Patches For AI Compute Extensions &quot;ACE&quot;</title>
+      <link>https://www.phoronix.com/news/Intel-GCC-ACE-AI-Patches</link>
+      <description>The x86 Ecosystem Advisory Group led by Intel and AMD recently firmed up the AI Compute Extensions (ACE) specification for optimizing x86 for AI computation tasks around matrix multiplication and the like for machine learning workloads. The cross-vendor ACE extension is ultimately a successor to Intel&apos;s Advanced Matrix Extensions (AMX). Posted to the GCC mailing list today by Intel engineers are the initial patches in preparing the compiler support for ACE...</description>
+      <pubDate>Thu, 02 Jul 2026 13:08:38 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/Intel-GCC-ACE-AI-Patches</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[Planet KDE] Week 5: KWallet XML Import &amp; Password Generator</title>
+      <link>https://roshani-gsoc.bearblog.dev/week-5-kwallet-xml-import-password-generator/</link>
+      <description>&lt;p&gt;This week I shipped two new features for KeepSecret.
+KWallet XML Import (&lt;a href=&quot;https://invent.kde.org/utilities/keepsecret/-/merge_requests/34&quot; target=&quot;_blank&quot;&gt;!34&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;The Import menu on the wallet page is now a submenu with two options:&lt;/p&gt;
+&lt;p&gt;-KeepSecret…
+-KWallet XML…&lt;/p&gt;
+&lt;p&gt;Both import formats are converted into the same internal format, allowing them to use the existing import code. I only implemented import support, since exporting to the old KWallet format wasn&apos;t necessary because KWallet is being deprecated.&lt;/p&gt;
+&lt;p&gt;Password Generator (&lt;a href=&quot;https://invent.kde.org/utilities/keepsecret/-/merge_requests/35&quot; target=&quot;_blank&quot;&gt;!35&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I added a Generate button to the Create New Entry dialog. Clicking it generates a random 16-character password and fills the password field.&lt;/p&gt;
+&lt;p&gt;The password is generated in SecretItemProxy::generatePassword() using QRandomGenerator::global(), which uses the operating system&apos;s secure random source. A character set is built from the selected options (lowercase letters, uppercase letters, numbers, and symbols), and each character is chosen randomly from that set. This also allows passwords to include symbols like !@#$%^&amp;*.&lt;/p&gt;
+&lt;p&gt;The function returns a QByteArray instead of a QString, matching the existing code and avoiding an unnecessary copy of the secret in C++.&lt;/p&gt;
+&lt;p&gt;During code review, &lt;a href=&quot;https://invent.kde.org/michaelkde&quot; target=&quot;_blank&quot;&gt;Michael K83&lt;/a&gt; pointed out that secrets stored in normal QByteArray or QString objects are not automatically erased from memory after use. He suggested looking at how ksecretd and KeePassXC handle secure memory.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://invent.kde.org/mart&quot; target=&quot;_blank&quot;&gt;Marco Martin&lt;/a&gt; explained that an even bigger challenge exists once the password reaches QML. The password becomes a QString inside the QML engine, where Qt may create multiple internal copies that cannot be explicitly cleared. It will be addressed separately in issue &lt;a href=&quot;https://invent.kde.org/utilities/keepsecret/-/work_items/25#note_1531060&quot; target=&quot;_blank&quot;&gt;#25&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 12:48:00 -0000</pubDate>
+      <guid isPermaLink="false">https://roshani-gsoc.bearblog.dev/week-5-kwallet-xml-import-password-generator/</guid>
+      <source url="https://planet.kde.org/index.xml">Planet KDE</source>
     </item>
     <item>
       <title>[BR-Linux] RootBoard: computador de bolso feito para rodar Linux</title>
@@ -1640,6 +1680,14 @@ rewine (1):
       <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
     <item>
+      <title>[The Verge] Mystery box shows are complicated for everyone — even the actors</title>
+      <link>https://www.theverge.com/entertainment/960265/silo-season-3-apple-tv-interview-mystery-box</link>
+      <description>Silo is such a complicated show that even its showrunner gets confused sometimes. While filming the final seasons of the Apple TV sci-fi thriller, Graham Yost remembers two instances where he messed up details: once it was an actor who realized that a conversation they were about to shoot should&apos;ve already taken place, the other [&amp;#8230;]</description>
+      <pubDate>Thu, 02 Jul 2026 12:00:00 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=960265</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
       <title>[Phoronix] KDE Plasma Affected By Arbitrary Code Execution To Break Sandboxes With &quot;Open New Window&quot;</title>
       <link>https://www.phoronix.com/news/KDE-Plasma-ACE-New-Window</link>
       <description>A security disclosure has been made public today for a yet-to-be-patched arbitrary code execution vulnerability with the KDE Plasma desktop...</description>
@@ -1669,46 +1717,6 @@ rewine (1):
       <description>Twenty-five years ago today, a young, little-known programmer by the name of Bram Cohen fired off a short message to a mailing list for peer-to-peer enthusiasts. &quot;My new app, BitTorrent, is now in working order, check it out here,&quot; Cohen wrote, followed by a link to his personal website. &quot;What&apos;s BitTorrent, Bram?&quot; the founder of [&amp;#8230;]</description>
       <pubDate>Thu, 02 Jul 2026 11:00:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=959848</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>[The Verge] OpenAI floats giving Trump administration 5 percent cut of AI boom</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump</link>
-      <description>OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial interest in the company would be the best way to share [&amp;#8230;]</description>
-      <pubDate>Thu, 02 Jul 2026 10:23:27 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960588</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>[Phoronix] Linux Looking To Retire A Number Of Old ARM Platforms In Early 2027</title>
-      <link>https://www.phoronix.com/news/Linux-Drop-Old-ARM-2027</link>
-      <description>It&apos;s not only old x86 i486 CPU support being removed from the Linux kernel but a number of older ARM platforms and features are on the chopping block too. A proposal has been laid out for deprecating and then removing a number of outdated ARM platforms and features from the Linux kernel in early 2027...</description>
-      <pubDate>Thu, 02 Jul 2026 10:18:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/Linux-Drop-Old-ARM-2027</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
-    </item>
-    <item>
-      <title>[Phoronix] FFmpeg Introduces Vulkan APV Encoder</title>
-      <link>https://www.phoronix.com/news/FFmpeg-Vulkan-Encoder-APV</link>
-      <description>Back in May the FFmpeg project introduced Vulkan-accelerated decoding for the APV video format. The Advanced Professional Video (APV) codec was being handled using Vulkan shaders in a similar way to how FFmpeg implemented Vulkan acceleration for Apple ProRes. Now there is Vulkan-accelerated APV encoding too...</description>
-      <pubDate>Thu, 02 Jul 2026 10:04:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/FFmpeg-Vulkan-Encoder-APV</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
-    </item>
-    <item>
-      <title>[Phoronix] Rusticl OpenCL Driver Improving Hardware Utilization In Mesa 26.2</title>
-      <link>https://www.phoronix.com/news/Rusticl-Better-Utilization-Mesa</link>
-      <description>Red Hat engineer Karol Herbst has landed his latest optimization work to Rusticl in Mesa 26.2. The latest effort for this Rust-based OpenCL driver that works across Gallium3D drivers is around better hardware utilization...</description>
-      <pubDate>Thu, 02 Jul 2026 09:54:21 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/Rusticl-Better-Utilization-Mesa</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
-    </item>
-    <item>
-      <title>[The Verge] Amazon has enough satellites to launch its Starlink competitor</title>
-      <link>https://www.theverge.com/science/960563/amazon-leo-service-tipping-point</link>
-      <description>Amazon says it now has enough satellites operating in low-Earth orbit to light up its Starlink internet competitor. With last night&apos;s launch, Amazon Leo has 396 satellites deployed, which is &quot;enough to support continuous service across initial latitudes,&quot; according to Chris Weber, VP heading up business and product for Amazon Leo. That puts the company [&amp;#8230;]</description>
-      <pubDate>Thu, 02 Jul 2026 09:13:39 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960563</guid>
       <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
     </item>
     <item>
@@ -3119,14 +3127,6 @@ have already been published separately and are referenced where available.</desc
       <source url="https://github.blog/feed">GitHub Blog</source>
     </item>
     <item>
-      <title>[Diolinux] Google quer regulamentação para IA, mas defende um modelo favorável à indústria</title>
-      <link>https://diolinux.com.br/noticias/google-quer-regulamentacao-para-ia.html</link>
-      <description>O Google propôs um novo modelo de regulamentação para inteligência artificial nos EUA. Entenda como funcionaria a proposta e por que ela já gera críticas.</description>
-      <pubDate>Mon, 29 Jun 2026 15:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://diolinux.com.br/?p=121980</guid>
-      <source url="https://diolinux.com.br/feed">Diolinux</source>
-    </item>
-    <item>
       <title>[4Linux] IA no Universo Kubernetes: detecte e resolva incidentes com inteligência artificial</title>
       <link>https://blog.4linux.com.br/ia-no-universo-kubernetes-detecte-e-resolva-incidentes-com-inteligencia-artificial/</link>
       <description>&lt;p&gt;Salve salve pessoal! Tudo bem com vocês? Espero que sim! Hoje trago um assunto que tenho trabalhado bastante aqui e que tenho certeza que vai fazer diferença no dia a&lt;/p&gt;
@@ -3134,14 +3134,6 @@ have already been published separately and are referenced where available.</desc
       <pubDate>Mon, 29 Jun 2026 13:28:09 -0000</pubDate>
       <guid isPermaLink="false">https://blog.4linux.com.br/?p=13539</guid>
       <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[It's FOSS] You Can Spend Up to $11,944 on Purism&amp;#x27;s Librem 16 Linux Laptop</title>
-      <link>https://feed.itsfoss.com/link/24361/17369622/purism-librem-16</link>
-      <description>The laptop starts at $2,899 and scales up to an eye-watering $11,944 for a custom config.</description>
-      <pubDate>Mon, 29 Jun 2026 10:18:32 -0000</pubDate>
-      <guid isPermaLink="false">6a422f2f46ba4400013fc6c0</guid>
-      <source url="https://itsfoss.com/feed">It&apos;s FOSS</source>
     </item>
     <item>
       <title>[openSUSE News] Building a Local, Offline openSUSE Assistant for GSoC</title>
