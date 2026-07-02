@@ -13,10 +13,59 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 02 Jul 2026 03:37:59 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 07:33:17 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://SEU_USUARIO_OU_ORG.github.io/SEU_REPO/feed.xml" rel="self" type="application/rss+xml"/>
 
+    <item>
+      <title>[Planet GNOME] Michael Calabrese: Synchronizing Timeline Ticks with GES Framerates in Rust</title>
+      <link>https://mccalabrese.github.io/gnome-blog/posts/ges-sync/</link>
+      <description>&lt;p&gt;While working on my GSoC project (rewriting the Pitivi timeline in Rust), I ran into an issue getting precise UI ticks that map to the
+absolute nanosecond timestamps of the video frames. Initially I hardcoded NTSC fractional math (24000/1001) to calculate the boundaries of frames.&lt;/p&gt;
+&lt;p&gt;This led to issues with truncated timestamps, and had a glaring issue with other framerates (like 30fps). I needed a more robust solution that could handle any framerate and provide accurate tick positions.&lt;/p&gt;
+&lt;p&gt;I assumed that I could extract the framerate directly from &lt;code&gt;ges::Timeline&lt;/code&gt;, however there is no direct getter in the Rust bindings. After some digging, I discovered that the framerate is actually stored in the &lt;code&gt;gst::Caps&lt;/code&gt; of the timeline&apos;s video stream as a &lt;code&gt;gst::Fraction&lt;/code&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;my-approach&quot;&gt;My Approach&lt;/h3&gt;
+&lt;p&gt;The steps I used:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Enumerate the timeline tracks (&lt;code&gt;timeline.tracks()&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Filter for the video track (checking &lt;code&gt;ges::TrackType::VIDEO&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;Read the track&apos;s &lt;code&gt;restriction_caps&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Extract the &lt;code&gt;gst::Fraction&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;my-helper&quot;&gt;My helper&lt;/h3&gt;
+&lt;p&gt;I wrote a helper function to extract the framerate from the timeline:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;
+pub fn get_fps(&amp;amp;self, timeline: &amp;amp;ges::Timeline) -&amp;gt; Option&amp;lt;(i128, i128)&amp;gt; {
+    timeline
+        .tracks()
+        .into_iter()
+        .find(|track| track.track_type().contains(ges::TrackType::VIDEO))
+        .and_then(|track| {
+            let caps = track.restriction_caps().or_else(|| track.caps())?;
+            let structure = caps.structure(0)?;
+            let fps = structure.get::&amp;lt;gst::Fraction&amp;gt;(&quot;framerate&quot;).ok()?;
+
+            // Extract the safe numerator and denominator
+            Some((fps.numer() as i128, fps.denom() as i128))
+        })
+}
+
+// ... inside the timeline injection logic:
+if let Some((fps_num, fps_denom)) = self.get_fps(timeline) {
+    self.fps_num.set(fps_num.max(1) as i32);
+    self.fps_denom.set(fps_denom.max(1) as i32);
+} else {
+    // Default to 23.976 if we can&apos;t find a valid framerate caps
+    self.fps_num.set(24_000);
+    self.fps_denom.set(1_001);
+}
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;I make some assumptions here, such as only one video track existing, and that the framerate is always present in the caps. This solution made the tick spacing and labels line up with the timeline’s actual frame boundaries at any framerate.&lt;/p&gt;</description>
+      <pubDate>Wed, 27 May 2026 00:00:00 -0000</pubDate>
+      <guid isPermaLink="false">https://mccalabrese.github.io/gnome-blog/posts/ges-sync/</guid>
+      <source url="https://planet.gnome.org/rss20.xml">Planet GNOME</source>
+    </item>
     <item>
       <title>[kernel.org] Active kernel releases</title>
       <link>https://www.kernel.org/releases.html</link>
@@ -575,6 +624,14 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
     </item>
     <item>
+      <title>[Diolinux] O alerta do BIS: a bolha da IA pode estourar e arrastar a economia global</title>
+      <link>https://diolinux.com.br/noticias/o-alerta-do-bis-a-bolha-da-ia.html</link>
+      <description>O Banco de Compensações Internacionais (BIS) alerta que os investimentos bilionários em IA podem formar uma bolha semelhante à da internet nos anos 2000, com riscos para toda a economia mundial.</description>
+      <pubDate>Wed, 01 Jul 2026 22:50:16 -0000</pubDate>
+      <guid isPermaLink="false">https://diolinux.com.br/?p=122051</guid>
+      <source url="https://diolinux.com.br/feed">Diolinux</source>
+    </item>
+    <item>
       <title>[The Verge] Apple’s entry-level MacBook Pro could be up for a redesign</title>
       <link>https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update</link>
       <description>Apple is working on a &quot;revamped&quot; version of its entry-level MacBook Pro that it could launch as soon as the first half of 2027, Bloomberg reports. The company is also testing four new iPad Pros that are set to launch in the spring with a focus on &quot;internal improvements.&quot; The updated MacBook Pro, which will [&amp;#8230;]</description>
@@ -783,6 +840,14 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://www.omgubuntu.co.uk/feed">OMG! Ubuntu</source>
     </item>
     <item>
+      <title>[Diolinux] Linux Foundation quer criar um “DNS para agentes de IA” com identidades verificadas</title>
+      <link>https://diolinux.com.br/noticias/linux-foundation-dns-agentes-de-ia.html</link>
+      <description>A Linux Foundation anunciou o Agent Name Service (ANS), um padrão aberto que usa o DNS para criar identidades verificáveis para agentes de IA, aumentando segurança, confiança e interoperabilidade.</description>
+      <pubDate>Wed, 01 Jul 2026 14:07:00 -0000</pubDate>
+      <guid isPermaLink="false">https://diolinux.com.br/?p=122043</guid>
+      <source url="https://diolinux.com.br/feed">Diolinux</source>
+    </item>
+    <item>
       <title>[Planet KDE] Steam Deck and Wayland</title>
       <link>https://notmart.org/blog/2026/07/steamdeck-and-wayland/</link>
       <description>&lt;p class=&quot;wp-block-paragraph&quot;&gt;A while ago, Steam OS 3.8 was released. Among its many improvements, it includes a particularly important one for the Desktop Mode: it finally uses a Wayland session by default.&lt;/p&gt;
@@ -912,6 +977,14 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <pubDate>Tue, 30 Jun 2026 12:04:30 -0000</pubDate>
       <guid isPermaLink="false">https://ubuntu.com//blog/canonical-becomes-gold-sponsor-of-trifecta-tech-foundation</guid>
       <source url="https://ubuntu.com/blog/feed">Ubuntu Blog</source>
+    </item>
+    <item>
+      <title>[Diolinux] Como montar um Homelab sem comprar outro computador</title>
+      <link>https://diolinux.com.br/tutoriais/homelab-sem-comprar-computador.html</link>
+      <description>Aprenda como transformar seu computador pessoal em um Homelab usando Docker e Umbrel, rodando serviços self-hosted sem abrir mão do trabalho ou dos jogos.</description>
+      <pubDate>Tue, 30 Jun 2026 11:00:00 -0000</pubDate>
+      <guid isPermaLink="false">https://diolinux.com.br/?p=122012</guid>
+      <source url="https://diolinux.com.br/feed">Diolinux</source>
     </item>
     <item>
       <title>[It's FOSS] AI Agents Could Get Verified Identities, Courtesy of DNS</title>
@@ -1384,24 +1457,6 @@ rewine (1):
       <source url="https://planet.gnome.org/rss20.xml">Planet GNOME</source>
     </item>
     <item>
-      <title>[Planet GNOME] Bart Piotrowski: Why are Flathub downloads so slow sometimes?</title>
-      <link>https://barthalion.blog/flathub-internals-cdn-and-deltas/</link>
-      <description>&lt;p&gt;It&apos;s probably not your fault.&lt;/p&gt;
-&lt;p&gt;On a cache miss, there are two things a reverse proxy (which Fastly is to us) can do. It can make the client wait until the proxy itself fetches the requested content and then serve it, with subsequent requests being served from the cache. From a user&apos;s perspective, it means staring at &quot;hung&quot; process, and people tend not to be understanding when a program is stuck seemingly doing nothing.&lt;/p&gt;
-&lt;p&gt;Instead, the proxy can stream the response from the origin, caching it at the end. This makes the client receive the data right away, although it&apos;s not without drawbacks.&lt;/p&gt;
-&lt;p&gt;In a streaming setup like Flathub&apos;s, an all-MISS path adds some upstream latency before the first byte, but also limits the download speed to what the slowest link can deliver. As we don&apos;t run servers in the same datacenter or on a single backbone network, the hop from Fastly through the caching proxy to the master server incurs a penalty that may affect how quickly the data gets back.&lt;/p&gt;
-&lt;p&gt;In order to cache files larger than 20MB, Fastly expects customers who use streaming misses to use segmented caching. Anything larger than that gets broken down into smaller chunks. When Fastly wants the data from us, it will add a &lt;code&gt;Range&lt;/code&gt; header specifying which bytes we should respond with. Fastly will then serve the request after reconstructing the file from various chunks. Our caching proxies also use the value of the &lt;code&gt;Range&lt;/code&gt; header in the caching key to avoid requesting the full file over and over again from the master server as well.&lt;/p&gt;
-&lt;p&gt;While great for caching, many concurrent range MISSes can turn what would be a sequential file read into scattered, random reads. It wouldn&apos;t matter with SSD or NVMe, but as the repository is stored on HDDs, when combined with streaming misses, it can turn cold transfer speed into &lt;code&gt;min(network bottleneck, ZFS random-read bottleneck)&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Counterintuitively, you may improve your download speeds by aborting the ongoing Flatpak operation and starting it again. While the initial request was slow, there&apos;s a non-zero chance it went through all the caching layers and it will become a cache hit in the meantime.&lt;/p&gt;
-&lt;h2 id=&quot;flatpak&quot;&gt;Flatpak&lt;/h2&gt;&lt;p&gt;Let&apos;s talk Flatpak. When installing or upgrading applications, Flatpak will try to use delta files. A typical delta is an update file that contains only the difference between versions. There are also from-scratch deltas, which effectively are an archive with all files required to install an app from scratch, thus the name.&lt;/p&gt;
-&lt;p&gt;Flathub generates a single upgrade delta and a from-scratch delta for the latest version. Delta generation is an expensive process in terms of disk reads and writes, but also disk space. Because our ZFS setup isn&apos;t exactly the fastest, generating more delta files also affects how quickly we can publish an update. Yes, in theory we could be doing this out of band but we don&apos;t. In hindsight, Titanic wasn&apos;t unsinkable after all.&lt;/p&gt;
-&lt;p&gt;What happens if you are not updating often enough? A lot of suffering. Flatpak will download each missing file between the version you are on and the one you want to upgrade to, separately. This is an almost certain cache miss causing even more random seeks on the master server. At this point Flatpak would be better off downloading the from-scratch delta but it can&apos;t. The behaviour is controlled by OSTree, which &lt;a href=&quot;https://github.com/ostreedev/ostree/blob/1d2b902b5513287355ad3322cb4027b67bb71b88/src/libostree/ostree-repo-pull.c#L3275&quot;&gt;doesn&apos;t offer any knobs to affect it&lt;/a&gt;. It is the right choice if the goal is to limit the bandwidth used by the client to fetch updates, but an incredibly bad one for anyone on a reliable connection; downloading a single large file is almost always faster than fetching multiple smaller ones.&lt;/p&gt;
-&lt;p&gt;What do? Some brave soul could fix OSTree to apply a better heuristic on when to use from-scratch deltas for upgrades, or at least make it expose an API that lets Flatpak choose. For the rest of us mere mortals, we can only update regularly or wait patiently for the update to finish.&lt;/p&gt;</description>
-      <pubDate>Thu, 21 May 2026 13:11:00 -0000</pubDate>
-      <guid isPermaLink="false">https://barthalion.blog/flathub-internals-cdn-and-deltas/</guid>
-      <source url="https://planet.gnome.org/rss20.xml">Planet GNOME</source>
-    </item>
-    <item>
       <title>[Ubuntu MATE] Ubuntu MATE 23.04 Release Notes</title>
       <link>https://ubuntu-mate.org/blog/ubuntu-mate-lunar-lobster-release-notes/</link>
       <description>What&apos;s new in Ubuntu MATE 23.04 (Lunar Lobster)</description>
@@ -1535,7 +1590,7 @@ rewine (1):
       <title>[LWN] local BPF storage API</title>
       <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 03:37:59 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 07:33:17 -0000</pubDate>
       <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1543,7 +1598,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1078968/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 03:37:59 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 07:33:17 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1078968/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1551,7 +1606,7 @@ rewine (1):
       <title>[LWN] Secure Boot</title>
       <link>https://en.wikipedia.org/wiki/UEFI#Secure_Boot</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 03:37:59 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 07:33:17 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/UEFI#Secure_Boot</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1559,7 +1614,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1079808/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 03:37:59 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 07:33:17 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1079808/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1567,7 +1622,7 @@ rewine (1):
       <title>[LWN] Racket</title>
       <link>https://racket-lang.org/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 03:37:59 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 07:33:17 -0000</pubDate>
       <guid isPermaLink="false">https://racket-lang.org/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1575,7 +1630,7 @@ rewine (1):
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 03:37:55 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 07:33:10 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1583,7 +1638,7 @@ rewine (1):
       <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
       <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 03:37:55 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 07:33:10 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1591,7 +1646,7 @@ rewine (1):
       <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
       <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 03:37:55 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 07:33:10 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1599,7 +1654,7 @@ rewine (1):
       <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
       <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 03:37:55 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 07:33:10 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1607,7 +1662,7 @@ rewine (1):
       <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 03:37:55 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 07:33:10 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1615,7 +1670,7 @@ rewine (1):
       <title>[Viva o Linux] Brave Origin chega ao Linux com modo minimalista e grátis</title>
       <link>https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 03:37:54 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 07:33:09 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1623,7 +1678,7 @@ rewine (1):
       <title>[Viva o Linux] Tails 7.9.1 corrige falhas no kernel e atualiza o Tor Browser</title>
       <link>https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 03:37:54 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 07:33:09 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1631,7 +1686,7 @@ rewine (1):
       <title>[Viva o Linux] Rocky Linux 10.2 chega com avanços em criptografia pós-quântica</title>
       <link>https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 03:37:54 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 07:33:09 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1639,7 +1694,7 @@ rewine (1):
       <title>[Viva o Linux] Ubuntu prepara o Myna, um ditado por IA local para falar e ver o texto aparecer</title>
       <link>https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 03:37:54 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 07:33:09 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1647,7 +1702,7 @@ rewine (1):
       <title>[Viva o Linux] Canonical confirma correções no Ubuntu para falha DirtyClone no kernel Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/canonical-confirma-correcoes-no-ubuntu-para-falha-dirtyclone-no-kernel-linux/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 03:37:54 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 07:33:09 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/canonical-confirma-correcoes-no-ubuntu-para-falha-dirtyclone-no-kernel-linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -3062,6 +3117,14 @@ have already been published separately and are referenced where available.</desc
       <source url="https://github.blog/feed">GitHub Blog</source>
     </item>
     <item>
+      <title>[Diolinux] Google quer regulamentação para IA, mas defende um modelo favorável à indústria</title>
+      <link>https://diolinux.com.br/noticias/google-quer-regulamentacao-para-ia.html</link>
+      <description>O Google propôs um novo modelo de regulamentação para inteligência artificial nos EUA. Entenda como funcionaria a proposta e por que ela já gera críticas.</description>
+      <pubDate>Mon, 29 Jun 2026 15:00:00 -0000</pubDate>
+      <guid isPermaLink="false">https://diolinux.com.br/?p=121980</guid>
+      <source url="https://diolinux.com.br/feed">Diolinux</source>
+    </item>
+    <item>
       <title>[4Linux] IA no Universo Kubernetes: detecte e resolva incidentes com inteligência artificial</title>
       <link>https://blog.4linux.com.br/ia-no-universo-kubernetes-detecte-e-resolva-incidentes-com-inteligencia-artificial/</link>
       <description>&lt;p&gt;Salve salve pessoal! Tudo bem com vocês? Espero que sim! Hoje trago um assunto que tenho trabalhado bastante aqui e que tenho certeza que vai fazer diferença no dia a&lt;/p&gt;
@@ -3069,6 +3132,14 @@ have already been published separately and are referenced where available.</desc
       <pubDate>Mon, 29 Jun 2026 13:28:09 -0000</pubDate>
       <guid isPermaLink="false">https://blog.4linux.com.br/?p=13539</guid>
       <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
+    <item>
+      <title>[Diolinux] Oracle promete abrir a governança do MySQL, mas a comunidade ainda cobra garantias</title>
+      <link>https://diolinux.com.br/noticias/oracle-abrir-a-governanca-do-mysql.html</link>
+      <description>A Oracle anunciou mudanças na governança do MySQL e promete maior participação da comunidade, mas desenvolvedores afirmam que ainda faltam compromissos permanentes.</description>
+      <pubDate>Mon, 29 Jun 2026 13:00:00 -0000</pubDate>
+      <guid isPermaLink="false">https://diolinux.com.br/?p=121978</guid>
+      <source url="https://diolinux.com.br/feed">Diolinux</source>
     </item>
     <item>
       <title>[It's FOSS] You Can Spend Up to $11,944 on Purism&amp;#x27;s Librem 16 Linux Laptop</title>
