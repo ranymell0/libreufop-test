@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  LibreUFOP - Feed RSS Agregador
-  Projeto de Extensão - ICEA/UFOP
-  Grupo de Trabalho: RSS / Newsletter / Podcast
-  Gerado automaticamente por GitHub Actions.
--->
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LibreUFOP</title>
