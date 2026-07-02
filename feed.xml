@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+  LibreUFOP - Feed RSS Agregador
+  Projeto de Extensão - ICEA/UFOP
+  Grupo de Trabalho: RSS / Newsletter / Podcast
+  Gerado automaticamente por GitHub Actions.
+-->
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LibreUFOP</title>
-    <link>https://ranymell0.github.io/libreufop-test/</link>
+    <link>https://SEU_USUARIO_OU_ORG.github.io/SEU_REPO/</link>
     <description>Feed agregador do projeto LibreUFOP (ICEA/UFOP). Reúne notícias sobre Software Livre, GNU/Linux, distribuições, ambientes gráficos e tecnologia open source.</description>
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 02 Jul 2026 02:10:56 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 02:25:02 -0000</lastBuildDate>
     <ttl>60</ttl>
-    <atom:link href="https://ranymell0.github.io/libreufop-test/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://SEU_USUARIO_OU_ORG.github.io/SEU_REPO/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
       <title>[kernel.org] Active kernel releases</title>
@@ -24,6 +30,454 @@ must be tested before they can be …&lt;/dd&gt;&lt;/dl&gt;</description>
       <pubDate>Wed, 25 Feb 2026 18:15:52 -0000</pubDate>
       <guid isPermaLink="false">tag:www.kernel.org,2026-02-25:/releases.html</guid>
       <source url="https://www.kernel.org/feeds/all.atom.xml">kernel.org</source>
+    </item>
+    <item>
+      <title>[FSFLA] IRPF-Livre 2023 released</title>
+      <link>http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.en.html</link>
+      <description>&lt;h1&gt;IRPF-Livre 2023 released&lt;/h1&gt;
+
+&lt;p&gt;Governments come and go, but the oppression of imposed taxing software
+for taxation remains.&lt;/p&gt;
+
+&lt;p&gt;For a lot of people, using software they cannot control is like water
+for a fish: a part of the environment they&apos;re in.  When the water is
+low on oxygen, they may even feel the discomfort, but they seldom
+trace it back to the root cause.&lt;/p&gt;
+
+&lt;p&gt;For us who love, live and breathe software freedom, any program that
+takes it away, that attempts to control our computing and ultimately
+ourselves, is painful like a sore toe in a tight shoe.&lt;/p&gt;
+
+&lt;p&gt;Uncomfortable and painful as the oxygen-deprived water and the tight
+shoe might be, being forced to breathe or wear them, prevented from
+seeking better waters or from taking the shoes out, is unbearable.&lt;/p&gt;
+
+&lt;p&gt;We struggle to correct an analogous injustice.  We had a chance to
+relieve one case of imposed taxing software for taxation, so we took
+it, and held on to it:&lt;/p&gt;
+
+&lt;p&gt;Back in 2007, IRPF, the program that Brazilian taxpayers are required
+to run to prepare their income tax returns, was released without
+obfuscation, with debug information and surprisingly even under an
+acceptable license, which enabled us to reverse engineer it and from
+then on to update the rescued source code.&lt;/p&gt;
+
+&lt;p&gt;That relieved the primary oppression, but the government changes the
+software yearly, so every year brings a new threat to our freedom, and
+defending it requires duplicating the changes.  That, too, is unjustly
+taxing!&lt;/p&gt;
+
+&lt;p&gt;Democratic governments ought to respect our freedom, not threaten it.
+The tax laws and regulations that the program implements are and must
+be public code.  Nothing that the software is programmed to do should
+be a secret.  The tax returns need to be and are verified after
+turning in.  Nothing justifies making the program freedom depriving.&lt;/p&gt;
+
+&lt;p&gt;That it remains so is a manifestation of the bad habit of abusing
+power through software, of hijacking others&apos; computers to serve one&apos;s
+purposes, without thinking much of it.  Thus we draw the fish&apos;s
+attention to the toxic water, and to the root cause of its toxicity.&lt;/p&gt;
+
+&lt;p&gt;As we celebrate the 16th anniversary of the IRPF-Livre project, and
+take the too-tight shoes out by releasing its updates for 2023, we
+call upon the new Brazilian government, and indeed upon all democratic
+governments, to quit this bad habit, and to release, under freedom-
+and transparency-respecting terms, the source code for all
+government-mandated programs, so that they are not imposed taxing
+software.
+&lt;br /&gt;&lt;a href=&quot;https://www.fsfla.org/~lxoliva/fsfla/irpf-livre/2023/&quot;&gt;https://www.fsfla.org/~lxoliva/fsfla/irpf-livre/2023/&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a name=&quot;softimp&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1&gt;About Imposed Taxing Software&lt;/h1&gt;
+
+&lt;p&gt;Since 2006, we have been running a campaign against imposed taxing
+software: programs that are imposed in the sense that you cannot avoid
+them, and taxing in the sense that they burden you in a way that
+resembles a tax, but is exempt from social benefits and paid for with
+your freedom.&lt;/p&gt;
+
+&lt;p&gt;Nonfree programs are unjust and too onerous (even when they are
+nominally gratis), because they imply a loss of freedom, that is, of
+control over your digital life.  When this burden (of suppressed
+freedom) is compounded with the imposition of use of such programs,
+they become profoundly oppressive: imposed taxing software.&lt;/p&gt;
+
+&lt;p&gt;Our initial focus was on oppressive software imposed by governments,
+such as mandatory tax-related programs and software required to
+interact with public banks.
+&lt;br /&gt;&lt;a href=&quot;https://www.fsfla.org/circular/2006-11#Editorial&quot;&gt;https://www.fsfla.org/circular/2006-11#Editorial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;While pressuring the government to liberate income tax software in
+Brazil, we have been updating and publishing a compatible and
+freedom-respecting version every year since 2007.
+&lt;br /&gt;&lt;a href=&quot;https://www.fsfla.org/anuncio/2012-10-Acesso-SoftImp&quot;&gt;https://www.fsfla.org/anuncio/2012-10-Acesso-SoftImp&lt;/a&gt;
+&lt;br /&gt;&lt;a href=&quot;https://www.fsfla.org/~lxoliva/fsfla/irpf-livre/&quot;&gt;https://www.fsfla.org/~lxoliva/fsfla/irpf-livre/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In 2023, we extended the campaign to taxing software imposed by
+private providers: when freedom-depriving software is required to
+obtain or enjoy products or services.&lt;/p&gt;
+
+&lt;p&gt;To be clear, this campaign is not (solely) about software for
+taxation, but rather about software that is taxing (an unjust burden,
+because it taxes your freedom; the software is itself like a tax), and
+that, on top of that, is imposed, thus profoundly oppressive.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1&gt;About IRPF-Livre&lt;/h1&gt;
+
+&lt;p&gt;It&apos;s a software development project to prepare Natural Person&apos;s Income
+Tax returns compliant with the standards defined by the Brazilian
+Secretaria de Receita Federal (IRS), but without the technical and
+legal insecurity imposed by it.&lt;/p&gt;
+
+&lt;p&gt;IRPF-Livre is Free Software, that is, software that respects users&apos;
+freedom to run it for any purpose, to study its source code and adapt
+it to their needs, and to distribute copies, modified or not.&lt;/p&gt;
+
+&lt;p&gt;The program is available both in source and Java object code forms:
+&lt;br /&gt;&lt;a href=&quot;http://www.fsfla.org/~lxoliva/fsfla/irpf-livre/&quot;&gt;http://www.fsfla.org/~lxoliva/fsfla/irpf-livre/&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1&gt;About FSFLA&lt;/h1&gt;
+
+&lt;p&gt;Free Software Foundation Latin America joined in 2005 the
+international FSF network, previously formed by Free Software
+Foundations in the United States, in Europe and in India.  These
+sister organizations work in their corresponding geographies towards
+promoting the same Free Software ideals and defending the same
+freedoms for software users and developers, working locally but
+cooperating globally.
+&lt;br /&gt;&lt;a href=&quot;https://www.fsfla.org/&quot;&gt;https://www.fsfla.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Copyright 2023 FSFLA&lt;/p&gt;
+
+&lt;p&gt;Permission is granted to make and distribute verbatim copies of this
+entire document without royalty, provided the copyright notice, the
+document&apos;s official URL, and this permission notice are preserved.&lt;/p&gt;
+
+&lt;p&gt;Permission is also granted to make and distribute verbatim copies of
+individual sections of this document worldwide without royalty
+provided the copyright notice and the permission notice above are
+preserved, and the document&apos;s official URL is preserved or replaced by
+the individual section&apos;s official URL.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.fsfla.org/anuncio/2023-05-IRPF-Livre-2023&quot;&gt;https://www.fsfla.org/anuncio/2023-05-IRPF-Livre-2023&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Wed, 17 May 2023 22:00:24 -0000</pubDate>
+      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.en.html</guid>
+      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
+    </item>
+    <item>
+      <title>[FSFLA] IRPF-Livre 2023 liberado</title>
+      <link>http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.es.html</link>
+      <description>&lt;h1&gt;IRPF-Livre 2023 liberado&lt;/h1&gt;
+
+&lt;p&gt;Gobiernos vienen y van pero la opresi&amp;oacute;n de los softwares impuestos
+para impuestos sigue.&lt;/p&gt;
+
+&lt;p&gt;Para mucha gente, usar software que no controlan es como agua a un
+pez: una parte del ambiente en donde est&amp;aacute;n.  Cuando el agua falta de
+ox&amp;iacute;geno, podr&amp;iacute;an sentir la molestia, pero raramente rastrean el origen
+de la causa.&lt;/p&gt;
+
+&lt;p&gt;Para nosotros quienes amamos, vivimos y respiramos la libertad de
+software, cualquier programa que nos la quita, que intenta controlar
+nuestra computaci&amp;oacute;n y finalmente a nosotros mismos, es doloroso como
+un dedo lacerado en un zapato apretado.&lt;/p&gt;
+
+&lt;p&gt;Inc&amp;oacute;modo y doloroso como el agua privada de ox&amp;iacute;geno y el zapato
+apretado pueden ser, el ser requeridos a respirarla o usarlo,
+impedidos de buscar mejores aguas o de poderse sacar el zapato, es
+insoportable.&lt;/p&gt;
+
+&lt;p&gt;Luchamos para corregir una injusticia an&amp;aacute;loga.  Tuvimos una
+oportunidad de aliviar un caso de softwares impuestos para impuestos,
+entonces fuimos por ello y la afianzamos fuerte:&lt;/p&gt;
+
+&lt;p&gt;All&amp;aacute; en el 2007, IRPF, el programa que los contribuyentes brasile&amp;ntilde;os
+son requeridos a usar para preparar sus declaraciones anuales, fue
+publicado sin ofuscaci&amp;oacute;n, con la informaci&amp;oacute;n de depuraci&amp;oacute;n, y
+sorprendentemente incluso bajo una licencia aceptable, lo que nos
+permiti&amp;oacute; aplicarle ingenier&amp;iacute;a inversa y desde &amp;eacute;se momento actualizar
+el c&amp;oacute;digo fuente rescatado.&lt;/p&gt;
+
+&lt;p&gt;Eso alivi&amp;oacute; la opresi&amp;oacute;n primaria, pero el gobierno cambia el programa
+todos los a&amp;ntilde;os, entonces cada a&amp;ntilde;o trae una nueva amenaza a la nuestra
+libertad, y defenderla requiere duplicar los cambios.  &amp;iexcl;Eso tambi&amp;eacute;n es
+un impuesto injusto!&lt;/p&gt;
+
+&lt;p&gt;Los gobiernos democr&amp;aacute;ticos deber&amp;iacute;an respetar nuestra libertad, no
+amenazarla.  Las leyes y regulaciones fiscales que el programa
+implementa son y deben ser c&amp;oacute;digos p&amp;uacute;blicos.  Nada de lo que el
+software est&amp;aacute; programado para hacer debe ser un secreto.  Las
+declaraciones anuales necesitan ser y son verificadas despu&amp;eacute;s de
+presentarlas.  Nada justifica que el programa sea privativo de
+libertad.&lt;/p&gt;
+
+&lt;p&gt;Que lo siga siendo es una manifestaci&amp;oacute;n de la mala costumbre del abuso
+de poder a trav&amp;eacute;s del software, de secuestrar las computadoras de los
+otros para que sirvan a los prop&amp;oacute;sitos de uno, sin pensar mucho al
+respecto.  Por eso llamamos la atenci&amp;oacute;n de los peces al agua t&amp;oacute;xica y a
+la causa de su toxicidad.&lt;/p&gt;
+
+&lt;p&gt;Mientras celebramos el 16to cumplea&amp;ntilde;os del proyecto IRPF-Livre y
+liberamos su actualizaci&amp;oacute;n para el 2023, sac&amp;aacute;ndonos los zapatos
+demasiado (in)justos, llamamos al nuevo gobierno brasile&amp;ntilde;o, y de hecho
+a todos los gobiernos democr&amp;aacute;ticos, a que dejen esa mala costumbre y
+publiquen, bajo t&amp;eacute;rminos respetuosos de la libertad y la
+transparencia, el c&amp;oacute;digo fuente para todos los programas obligados por
+el gobierno, para que no sean softwares impuestos.
+&lt;br /&gt;&lt;a href=&quot;https://www.fsfla.org/~lxoliva/fsfla/irpf-livre/2023/&quot;&gt;https://www.fsfla.org/~lxoliva/fsfla/irpf-livre/2023/&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a name=&quot;softimp&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1&gt;Acerca de los Softwares Impuestos&lt;/h1&gt;
+
+&lt;p&gt;Desde el 2006, hemos mantenido la campa&amp;ntilde;a en contra de los softwares
+impuestos: programas que son impuestos tanto en el sentido de
+imposici&amp;oacute;n como en el de carga similar a la tributaria, pero exenta de
+beneficios sociales y pagada con la libertad.&lt;/p&gt;
+
+&lt;p&gt;Programas no-libres son injustos y demasiado onerosos (aun cuando sean
+nominalmente gratis), porque implican la p&amp;eacute;rdida de la libertad, es
+decir, del control de la vida digital.  Cuando se suma a &amp;eacute;sa carga (de
+la libertad suprimida) la imposici&amp;oacute;n del uso de tales programas,
+resultan profundamente opresivos: son softwares impuestos.&lt;/p&gt;
+
+&lt;p&gt;Nuestro enfoque inicial era en los programas opresivos impuestos por
+gobiernos, tales como los de uso obligatorio, relacionados a tributos,
+y los exigidos para interactuar con la banca p&amp;uacute;blica.
+&lt;br /&gt;&lt;a href=&quot;https://www.fsfla.org/circular/2006-11#Editorial&quot;&gt;https://www.fsfla.org/circular/2006-11#Editorial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mientras presionamos al gobierno a liberar el programa del impuesto a
+la renta en Brasil, hemos actualizado y publicado una versi&amp;oacute;n
+compatible y libre anualmente desde el 2007.
+&lt;br /&gt;&lt;a href=&quot;https://www.fsfla.org/anuncio/2012-10-Acesso-SoftImp&quot;&gt;https://www.fsfla.org/anuncio/2012-10-Acesso-SoftImp&lt;/a&gt;
+&lt;br /&gt;&lt;a href=&quot;https://www.fsfla.org/~lxoliva/fsfla/irpf-livre/&quot;&gt;https://www.fsfla.org/~lxoliva/fsfla/irpf-livre/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;En 2023, expandimos la campa&amp;ntilde;a a los softwares impuestos por
+proveedores privados: cuando se exige el software privativo de
+libertad para obtener productos o servicios.&lt;/p&gt;
+
+&lt;p&gt;Para claridad, la campa&amp;ntilde;a no es (solamente) acerca de software para
+los impuestos, sino de software que es un impuesto (injusto, porque
+grava la libertad) y que adem&amp;aacute;s es impuesto y por lo tanto
+profundamente opresivo.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1&gt;Sobre IRPF-Livre&lt;/h1&gt;
+
+&lt;p&gt;Es un proyecto de desarrollo de software para preparar declaraciones
+de Impuesto a la Renta de Personas Naturales con los est&amp;aacute;ndares
+establecidos por la Secretar&amp;iacute;a de Receita Federal de Brasil, pero sin
+la inseguridad t&amp;eacute;cnica y jur&amp;iacute;dica impuesta por ella.&lt;/p&gt;
+
+&lt;p&gt;IRPF-Livre es Software Libre, es decir, software que respeta las
+libertades de los usuarios de ejecutarlo para cualquier prop&amp;oacute;sito,
+estudiar su c&amp;oacute;digo fuente y adaptarlo a sus necesidades, y de
+distribuir copias, modificadas o no.&lt;/p&gt;
+
+&lt;p&gt;El programa est&amp;aacute; disponible en forma de c&amp;oacute;digo fuente y ejecutable
+Java:
+&lt;br /&gt;&lt;a href=&quot;http://www.fsfla.org/~lxoliva/fsfla/irpf-livre/&quot;&gt;http://www.fsfla.org/~lxoliva/fsfla/irpf-livre/&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1&gt;Acerca de FSFLA&lt;/h1&gt;
+
+&lt;p&gt;La Fundaci&amp;oacute;n Software Libre Am&amp;eacute;rica Latina se ha sumado desde el 2005
+a la red internacional de FSFs, anteriormente formada por las Free
+Software Foundations de los Estados Unidos, de Europa y de la India.
+Esas organizaciones hermanas act&amp;uacute;an en sus respectivas &amp;aacute;reas
+geogr&amp;aacute;ficas con el sentido de promover los mismos ideales de Software
+Libre y defender las mismas Libertades para usuarios y desarrolladores
+de software, trabajando localmente, pero cooperando globalmente.
+&lt;br /&gt;&lt;a href=&quot;https://www.fsfla.org/&quot;&gt;https://www.fsfla.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Copyright 2023 FSFLA&lt;/p&gt;
+
+&lt;p&gt;Se permite la distribuci&amp;oacute;n y la copia literal de este art&amp;iacute;culo en su
+totalidad por cualquier medio en todo el mundo sin pago de derechos,
+siempre y cuando se conserve la nota de copyright, el URL oficial del
+art&amp;iacute;culo y esta nota de permiso.&lt;/p&gt;
+
+&lt;p&gt;Se permite tambi&amp;eacute;n la distribuci&amp;oacute;n y la copia literal de secciones
+individuales de este art&amp;iacute;culo por cualquier medio en todo el mundo sin
+pago de derechos, siempre y cuando se conserve la nota de copyright y
+la nota de permiso arriba, y se conserve la URL oficial del documento
+o se la substituya por la URL oficial de la secci&amp;oacute;n individual.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.fsfla.org/anuncio/2023-05-IRPF-Livre-2023&quot;&gt;https://www.fsfla.org/anuncio/2023-05-IRPF-Livre-2023&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Wed, 17 May 2023 22:00:24 -0000</pubDate>
+      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.es.html</guid>
+      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
+    </item>
+    <item>
+      <title>[FSFLA] IRPF-Livre 2023 liberado</title>
+      <link>http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.pt.html</link>
+      <description>&lt;h1&gt;IRPF-Livre 2023 liberado&lt;/h1&gt;
+
+&lt;p&gt;Governos v&amp;ecirc;m e v&amp;atilde;o, mas a opress&amp;atilde;o dos softwares impostos para
+impostos continua.&lt;/p&gt;
+
+&lt;p&gt;Para muitas pessoas, usar software que n&amp;atilde;o podem controlar &amp;eacute; como &amp;aacute;gua
+para um peixe, parte do ambiente em que est&amp;atilde;o.  Quando na &amp;aacute;gua falta
+oxig&amp;ecirc;nio, podem at&amp;eacute; sentir o desconforto, mas raramente identificam a
+raiz do problema.&lt;/p&gt;
+
+&lt;p&gt;Para n&amp;oacute;s que amamos, vivemos e respiramos liberdade de software,
+qualquer programa que a suprima, que tente controlar nossa computa&amp;ccedil;&amp;atilde;o
+e, no fim, n&amp;oacute;s mesmos, &amp;eacute; doloroso como um dedo machucado num sapato
+apertado.&lt;/p&gt;
+
+&lt;p&gt;Desconfort&amp;aacute;vel e doloroso como &amp;aacute;gua desoxigenada e sapato apertado
+possam ser, a exig&amp;ecirc;ncia de respir&amp;aacute;-la ou cal&amp;ccedil;&amp;aacute;-lo, o impedimento de
+buscar &amp;aacute;guas melhores ou de tirar os sapatos, s&amp;atilde;o insuport&amp;aacute;veis.&lt;/p&gt;
+
+&lt;p&gt;Lutamos para corrigir uma injusti&amp;ccedil;a an&amp;aacute;loga.  Tivemos a chance de
+aliviar um caso de softwares impostos para impostos, ent&amp;atilde;o n&amp;oacute;s fomos
+atr&amp;aacute;s e a agarramos com for&amp;ccedil;a:&lt;/p&gt;
+
+&lt;p&gt;Nos idos 2007, IRPF, o programa que contribuintes brasileiros precisam
+rodar para preparar declara&amp;ccedil;&amp;otilde;es de imposto de renda, foi publicado sem
+ofuscamento, com informa&amp;ccedil;&amp;atilde;o para depura&amp;ccedil;&amp;atilde;o e surpreendentemente at&amp;eacute;
+sob uma licen&amp;ccedil;a aceit&amp;aacute;vel, o que nos permitiu fazer engenharia reversa
+e desde ent&amp;atilde;o atualizar o c&amp;oacute;digo fonte resgatado.&lt;/p&gt;
+
+&lt;p&gt;Isso aliviou a opress&amp;atilde;o prim&amp;aacute;ria, mas o governo modifica o programa
+todo ano, ent&amp;atilde;o cada ano traz uma nova amea&amp;ccedil;a &amp;agrave; nossa liberdade, e
+defend&amp;ecirc;-la requer que dupliquemos as modifica&amp;ccedil;&amp;otilde;es.  Isso tamb&amp;eacute;m &amp;eacute; um
+imposto injusto!&lt;/p&gt;
+
+&lt;p&gt;Governos democr&amp;aacute;ticos deveriam respeitar nossa liberdade, n&amp;atilde;o
+amea&amp;ccedil;&amp;aacute;-la.  As leis e regulamentos fiscais que o programa implementa
+s&amp;atilde;o e devem ser c&amp;oacute;digos p&amp;uacute;blicos.  Nada que o software est&amp;aacute; programado
+para fazer deveria ser um segredo.  As declara&amp;ccedil;&amp;otilde;es precisam ser e s&amp;atilde;o
+verificadas depois de entregues.  Nada justifica que o programa seja
+privativo de liberdade.&lt;/p&gt;
+
+&lt;p&gt;Que ele continue sendo &amp;eacute; manifesta&amp;ccedil;&amp;atilde;o do mau h&amp;aacute;bito de abuso de poder
+atrav&amp;eacute;s de software, de sequestrar computadores dos outros para que
+sirvam aos prop&amp;oacute;sitos de um, sem pensar muito a respeito.  Por isso
+chamamos a aten&amp;ccedil;&amp;atilde;o dos peixes para a &amp;aacute;gua t&amp;oacute;xica e para a causa da
+toxicidade.&lt;/p&gt;
+
+&lt;p&gt;Ao celebrarmos o 16&amp;ordm; anivers&amp;aacute;rio do projeto IRPF-Livre e liberarmos
+sua atualiza&amp;ccedil;&amp;atilde;o para 2023, tirando-nos os sapatos (in)justos demais,
+conclamamos o novo governo brasileiro, e de fato todos os governos
+democr&amp;aacute;ticos, a abandonarem esse mau h&amp;aacute;bito e a lan&amp;ccedil;arem, sob termos
+respeitosos &amp;agrave; liberdade e &amp;agrave; transpar&amp;ecirc;ncia, o c&amp;oacute;digo fonte para todos
+os programas exigidos pelo governo, para que n&amp;atilde;o sejam softwares
+impostos.
+&lt;br /&gt;&lt;a href=&quot;https://www.fsfla.org/~lxoliva/fsfla/irpf-livre/2023/&quot;&gt;https://www.fsfla.org/~lxoliva/fsfla/irpf-livre/2023/&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a name=&quot;softimp&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1&gt;Sobre os Softwares Impostos&lt;/h1&gt;
+
+&lt;p&gt;Desde 2006, mantemos uma campanha contra os softwares impostos:
+programas que s&amp;atilde;o impostos tanto no sentido de imposi&amp;ccedil;&amp;otilde;es quanto no de
+encargos quase tribut&amp;aacute;rios, por&amp;eacute;m isentos de benef&amp;iacute;cios sociais e
+pagos com a liberdade.&lt;/p&gt;
+
+&lt;p&gt;Programas n&amp;atilde;o-livres s&amp;atilde;o injustos e demasiadamente onerosos (mesmo
+quando s&amp;atilde;o nominalmente gratuitos), porque implicam a perda da
+liberdade, isto &amp;eacute;, do controle da vida digital.  Quando se soma a esse
+encargo (da liberdade suprimida) a imposi&amp;ccedil;&amp;atilde;o do uso de tais programas,
+resultam profundamente opressivos: s&amp;atilde;o softwares impostos.&lt;/p&gt;
+
+&lt;p&gt;Nosso enfoque inicial era nos programas opressivos impostos por
+governos, tais como os de uso obrigat&amp;oacute;rio, relacionados a tributos, e
+os exigidos para interagir com bancos p&amp;uacute;blicos.
+&lt;br /&gt;&lt;a href=&quot;https://www.fsfla.org/circular/2006-11#Editorial&quot;&gt;https://www.fsfla.org/circular/2006-11#Editorial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Enquanto pressionamos o governo a liberar o programa de imposto de
+renda do Brasil, temos atualizado e publicado uma vers&amp;atilde;o compat&amp;iacute;vel e
+livre anualmente desde 2007.
+&lt;br /&gt;&lt;a href=&quot;https://www.fsfla.org/anuncio/2012-10-Acesso-SoftImp&quot;&gt;https://www.fsfla.org/anuncio/2012-10-Acesso-SoftImp&lt;/a&gt;
+&lt;br /&gt;&lt;a href=&quot;https://www.fsfla.org/~lxoliva/fsfla/irpf-livre/&quot;&gt;https://www.fsfla.org/~lxoliva/fsfla/irpf-livre/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Em 2023, expandimos a campanha aos softwares impostos por fornecedores
+privados: quando se exige software privativo de liberdade para obter
+ou usar produtos ou servi&amp;ccedil;os.&lt;/p&gt;
+
+&lt;p&gt;Por clareza, a campanha n&amp;atilde;o trata (somente) de software para impostos,
+mas sim de software que &amp;eacute; um imposto (injusto, por taxar a liberdade)
+e que, ainda por cima, &amp;eacute; imposto e portanto profundamente opressivo.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1&gt;Sobre o IRPF-Livre&lt;/h1&gt;
+
+&lt;p&gt;&amp;Eacute; um projeto de desenvolvimento de software para prepara&amp;ccedil;&amp;atilde;o de
+declara&amp;ccedil;&amp;otilde;es de Imposto de Renda de Pessoa F&amp;iacute;sica nos padr&amp;otilde;es exigidos
+pela Secretaria de Receita Federal do Brasil, por&amp;eacute;m sem a inseguran&amp;ccedil;a
+t&amp;eacute;cnica e jur&amp;iacute;dica imposta por ela.&lt;/p&gt;
+
+&lt;p&gt;IRPF-Livre &amp;eacute; Software Livre, isto &amp;eacute;, software que respeita as
+liberdades dos usu&amp;aacute;rios de execut&amp;aacute;-lo para qualquer prop&amp;oacute;sito, de
+estudar seu c&amp;oacute;digo fonte e adapt&amp;aacute;-lo &amp;agrave;s suas necessidades, e de
+distribuir c&amp;oacute;pias dele, modificadas ou n&amp;atilde;o.&lt;/p&gt;
+
+&lt;p&gt;O programa est&amp;aacute; dispon&amp;iacute;vel tanto na forma de c&amp;oacute;digo fonte quanto
+execut&amp;aacute;vel Java:
+&lt;br /&gt;&lt;a href=&quot;http://www.fsfla.org/~lxoliva/fsfla/irpf-livre/&quot;&gt;http://www.fsfla.org/~lxoliva/fsfla/irpf-livre/&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1&gt;Sobre a FSFLA&lt;/h1&gt;
+
+&lt;p&gt;A Funda&amp;ccedil;&amp;atilde;o Software Livre Am&amp;eacute;rica Latina se uniu em 2005 &amp;agrave; rede
+internacional de FSFs, anteriormente formada pelas Free Software
+Foundations dos Estados Unidos, da Europa e da &amp;Iacute;ndia.  Essas
+organiza&amp;ccedil;&amp;otilde;es irm&amp;atilde;s atuam em suas respectivas &amp;aacute;reas geogr&amp;aacute;ficas no
+sentido de promover os mesmos ideais de Software Livre e defender as
+mesmas Liberdades para usu&amp;aacute;rios e desenvolvedores de software,
+trabalhando localmente mas cooperando globalmente.
+&lt;br /&gt;&lt;a href=&quot;https://www.fsfla.org/&quot;&gt;https://www.fsfla.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Copyright 2023 FSFLA&lt;/p&gt;
+
+&lt;p&gt;Permite-se distribui&amp;ccedil;&amp;atilde;o, publica&amp;ccedil;&amp;atilde;o e c&amp;oacute;pia literal da &amp;iacute;ntegra deste
+documento, em qualquer meio, em todo o mundo, sem pagamento de
+royalties, desde que sejam preservadas a nota de copyright, a URL
+oficial do documento e esta nota de permiss&amp;atilde;o.&lt;/p&gt;
+
+&lt;p&gt;Permite-se tamb&amp;eacute;m distribui&amp;ccedil;&amp;atilde;o, publica&amp;ccedil;&amp;atilde;o e c&amp;oacute;pia literal de se&amp;ccedil;&amp;otilde;es
+individuais deste documento, em qualquer meio, em todo o mundo, sem
+pagamento de royalties, desde que sejam preservadas a nota de
+copyright e a nota de permiss&amp;atilde;o acima, e que a URL oficial do
+documento seja preservada ou substitu&amp;iacute;da pela URL oficial da se&amp;ccedil;&amp;atilde;o
+individual.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.fsfla.org/anuncio/2023-05-IRPF-Livre-2023&quot;&gt;https://www.fsfla.org/anuncio/2023-05-IRPF-Livre-2023&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Wed, 17 May 2023 22:00:24 -0000</pubDate>
+      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.pt.html</guid>
+      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
+    </item>
+    <item>
+      <title>[4Linux] DevOps Sustentável – Green Software e o poder do KubeGreen</title>
+      <link>https://blog.4linux.com.br/devops-sustentavel-green-software-e-o-poder-do-kubegreen/</link>
+      <description>&lt;p&gt;Olá pessoal! Tudo bem com vocês? Hoje no blog da 4Linux, vamos falar sobre Green Software, Que é um conjunto de práticas e princípios que buscam diminuir o impacto ambiental&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://blog.4linux.com.br/devops-sustentavel-green-software-e-o-poder-do-kubegreen/&quot;&gt;DevOps Sustentável &amp;#8211; Green Software e o poder do KubeGreen&lt;/a&gt; appeared first on &lt;a href=&quot;https://blog.4linux.com.br&quot;&gt;Blog 4Linux&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 19:24:54 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13058</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
       <title>[OSI] The OSI 2025 Annual Report Is Now Available</title>
@@ -139,7 +593,7 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
     <item>
       <title>[OMG! Ubuntu] Linux App Release Roundup (June 2026)</title>
       <link>https://www.omgubuntu.co.uk/2026/07/linux-app-release-roundup-june-2026</link>
-      <description>&lt;p&gt;&lt;img alt=&quot;Bag fill with app icons, Tux the Linux mascot behind.&quot; class=&quot;attachment-post-list size-post-list wp-post-image&quot; height=&quot;232&quot; src=&quot;https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/linux-app-release-roundup-june-2026.webp?resize=406%2C232&amp;amp;ssl=1&quot; width=&quot;406&quot; /&gt;June was sweltering, yet the heat didn&amp;#8217;t affect developers too badly as a slew of updates to popular open-source Linux software made it out last month. We saw Firefox 152 released with its new-look settings page. The media converter HandBrake wrangled its WebM handling on Linux. And the Audacity 4.0 beta made its brand-new design available for public scrutiny – mainly of the &amp;#8216;finally, it doesn&amp;#8217;t look bad&amp;#8217; variety. But scores of smaller, minor and maintenance updates made it out too. Cine gained Watch History I spotlighted the Cine Linux video player earlier this year. It&amp;#8217;s an MPV-based player with [&amp;#8230;]&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&quot;Bag fill with app icons, Tux the Linux mascot behind.&quot; class=&quot;attachment-post-list size-post-list wp-post-image&quot; height=&quot;232&quot; src=&quot;https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/linux-app-release-roundup-june-2026.webp?resize=406%2C232&amp;amp;ssl=1&quot; width=&quot;406&quot; /&gt;June was sweltering, but the summer heat didn’t slow down open-source software developers.  Last month delivered a wave of app updates, including the release of Firefox 152 with its streamlined settings, HandBrake resolved its Linux WebM handling and the Audacity 4.0 beta made a brand-new design available for public scrutiny (mainly of the &amp;#8220;much better&amp;#8221; variety). But underneath those highs – yes, I&amp;#8217;m determined to make this heat theme work – a quiet simmer of smaller maintenance updates rolled out too&amp;#8230; Cine gained Watch History I spotlighted the Cine Linux video player earlier this year. It&amp;#8217;s an MPV-based player with [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;You&apos;re reading &lt;a href=&quot;https://www.omgubuntu.co.uk/2026/07/linux-app-release-roundup-june-2026&quot;&gt;Linux App Release Roundup (June 2026)&lt;/a&gt;, a blog post from &lt;a href=&quot;https://www.omgubuntu.co.uk&quot;&gt;OMG! Ubuntu&lt;/a&gt;. Do not reproduce elsewhere without permission.&lt;/p&gt;</description>
       <pubDate>Wed, 01 Jul 2026 22:35:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.omgubuntu.co.uk/?p=333876</guid>
@@ -886,6 +1340,24 @@ rewine (1):
       <source url="https://github.com/swaywm/sway/releases.atom">Sway</source>
     </item>
     <item>
+      <title>[4Linux] Shadow AI: sua empresa já vazou. Só não sabe ainda</title>
+      <link>https://blog.4linux.com.br/compartilhando-conhecimento-de-ia-shadow-ai-sua-empresa-ja-vazou-so-nao-sabe-ainda/</link>
+      <description>&lt;p&gt;Quase dois terços dos profissionais usam ferramentas de IA proibidas. Mesmo depois de levarem advertência. Saudações. A empresa aprovou a IA corporativa, fez treinamento, criou a política de uso aceitável,&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://blog.4linux.com.br/compartilhando-conhecimento-de-ia-shadow-ai-sua-empresa-ja-vazou-so-nao-sabe-ainda/&quot;&gt;Shadow AI: sua empresa já vazou. Só não sabe ainda&lt;/a&gt; appeared first on &lt;a href=&quot;https://blog.4linux.com.br&quot;&gt;Blog 4Linux&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 19:44:22 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13624</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
+    <item>
+      <title>[4Linux] Uma palestra de um economista de Stanford que vale a pena também pelas perguntas no final</title>
+      <link>https://blog.4linux.com.br/ia-para-maiores-uma-palestra-de-um-economista-de-stanford-que-vale-a-pena-tambem-pelas-perguntas-no-final/</link>
+      <description>&lt;p&gt;Poucos são os economistas que fizeram estudos sobre IA. Muitos fizeram estudos econômicos sobre a COVID. Aprendi muito lendo os livros de prêmios Nobel de economia. Um que me marcou&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://blog.4linux.com.br/ia-para-maiores-uma-palestra-de-um-economista-de-stanford-que-vale-a-pena-tambem-pelas-perguntas-no-final/&quot;&gt;Uma palestra de um economista de Stanford que vale a pena também pelas perguntas no final&lt;/a&gt; appeared first on &lt;a href=&quot;https://blog.4linux.com.br&quot;&gt;Blog 4Linux&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 19:33:58 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13619</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
+    <item>
       <title>[Ubuntu Blog] Hunting a 16-year-old SQLite bug with TLA+: is dqlite affected?</title>
       <link>https://ubuntu.com//blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected</link>
       <description>&lt;p&gt;This article was written by Marco Manino and Alberto Carretero, dqlite team at Canonical. 1. Anatomy of a SQLite bug Recently SQLite published a new version with a fix to a long-standing bug in the way that the Write Ahead Log (WAL) is checkpointed that leads to the corruption of the database. The important aspect [&amp;hellip;]&lt;/p&gt;</description>
@@ -962,6 +1434,15 @@ rewine (1):
       <source url="https://ubuntu-mate.org/rss.xml">Ubuntu MATE</source>
     </item>
     <item>
+      <title>[4Linux] Lançamento: o novo curso da 4Linux leva você do zero ao seu primeiro modelo corporativo</title>
+      <link>https://blog.4linux.com.br/lancamento-o-novo-curso-da-4linux-leva-voce-do-zero-ao-seu-primeiro-modelo-corporativo/</link>
+      <description>&lt;p&gt;Saudações pessoal! Tem uma pergunta que eu ouço com frequência cada vez maior em times de TI: &amp;#8220;Essa IAtoda funciona mesmo pra usar com dados corporativos?&amp;#8221; A resposta curta é&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://blog.4linux.com.br/lancamento-o-novo-curso-da-4linux-leva-voce-do-zero-ao-seu-primeiro-modelo-corporativo/&quot;&gt;Lançamento: o novo curso da 4Linux leva você do zero ao seu primeiro modelo corporativo&lt;/a&gt; appeared first on &lt;a href=&quot;https://blog.4linux.com.br&quot;&gt;Blog 4Linux&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 16:36:24 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13596</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
+    <item>
       <title>[OSI] Engaging on Age Attestation Policy in Brazil</title>
       <link>https://opensource.org/blog/engaging-on-age-attestation-policy-in-brazil</link>
       <description>OSI recently submitted comments to Brazil’s National Data Protection Authority (ANPD) regarding its draft guidance on technology providers under the ECA Digital framework, a law to protect children and teenagers in digital environments.</description>
@@ -1030,10 +1511,55 @@ rewine (1):
       <source url="https://fedoramagazine.org/feed">Fedora Magazine</source>
     </item>
     <item>
+      <title>[Linux Today] Pangolin Reverse Proxy Moves to Dual Licensing With New Enterprise Edition</title>
+      <link>https://www.linuxtoday.com/blog/pangolin-reverse-proxy-moves-to-dual-licensing-with-new-enterprise-edition/</link>
+      <description>&lt;p&gt;Discover how Pangolin Reverse Proxy&apos;s new dual licensing model enhances flexibility with its Enterprise Edition, catering to diverse business needs.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.linuxtoday.com/blog/pangolin-reverse-proxy-moves-to-dual-licensing-with-new-enterprise-edition/&quot;&gt;Pangolin Reverse Proxy Moves to Dual Licensing With New Enterprise Edition&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.linuxtoday.com&quot;&gt;Linux Today&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 06 Nov 2025 15:56:48 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxtoday.com/?post_type=user_post&amp;p=204507</guid>
+      <source url="https://feeds.feedburner.com/linuxtoday/linux">Linux Today</source>
+    </item>
+    <item>
+      <title>[Linux Today] Fedora Opens the Door to AI Tools, Demands Disclosure and Oversight</title>
+      <link>https://www.linuxtoday.com/blog/fedora-opens-the-door-to-ai-tools-demands-disclosure-and-oversight/</link>
+      <description>&lt;p&gt;Discover how Fedora is paving the way for AI tools while advocating for transparency and oversight in technology. Explore the future of responsible AI.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.linuxtoday.com/blog/fedora-opens-the-door-to-ai-tools-demands-disclosure-and-oversight/&quot;&gt;Fedora Opens the Door to AI Tools, Demands Disclosure and Oversight&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.linuxtoday.com&quot;&gt;Linux Today&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 06 Nov 2025 15:52:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxtoday.com/?post_type=user_post&amp;p=204484</guid>
+      <source url="https://feeds.feedburner.com/linuxtoday/linux">Linux Today</source>
+    </item>
+    <item>
+      <title>[Linux Today] DietPi 9.18 Adds NanoPi R3S, R76S, and M5 Support</title>
+      <link>https://www.linuxtoday.com/blog/dietpi-9-18-adds-nanopi-r3s-r76s-and-m5-support/</link>
+      <description>&lt;p&gt;Discover the latest features of DietPi 9.18, now supporting NanoPi R3S, R76S, and M5. Enhance your lightweight OS experience today!&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.linuxtoday.com/blog/dietpi-9-18-adds-nanopi-r3s-r76s-and-m5-support/&quot;&gt;DietPi 9.18 Adds NanoPi R3S, R76S, and M5 Support&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.linuxtoday.com&quot;&gt;Linux Today&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 06 Nov 2025 15:45:40 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxtoday.com/?post_type=user_post&amp;p=204483</guid>
+      <source url="https://feeds.feedburner.com/linuxtoday/linux">Linux Today</source>
+    </item>
+    <item>
+      <title>[Linux Today] SuperTuxKart 1.5 Open-Source Kart Racing Game Released with Major Changes</title>
+      <link>https://www.linuxtoday.com/blog/supertuxkart-1-5-open-source-kart-racing-game-released-with-major-changes/</link>
+      <description>&lt;p&gt;Discover the exciting updates in SuperTuxKart 1.5! Explore major changes and enhancements in this open-source kart racing game. Join the fun today!&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.linuxtoday.com/blog/supertuxkart-1-5-open-source-kart-racing-game-released-with-major-changes/&quot;&gt;SuperTuxKart 1.5 Open-Source Kart Racing Game Released with Major Changes&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.linuxtoday.com&quot;&gt;Linux Today&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 06 Nov 2025 15:41:11 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxtoday.com/?post_type=user_post&amp;p=204481</guid>
+      <source url="https://feeds.feedburner.com/linuxtoday/linux">Linux Today</source>
+    </item>
+    <item>
+      <title>[Linux Today] VirtualBox 7.2.4 Released with Initial Support for Linux Kernel 6.18</title>
+      <link>https://www.linuxtoday.com/blog/virtualbox-7-2-4-released-with-initial-support-for-linux-kernel-6-18/</link>
+      <description>&lt;p&gt;Discover the latest features of VirtualBox 7.2.4, now with initial support for Linux Kernel 6.18. Upgrade your virtualization experience today!&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://www.linuxtoday.com/blog/virtualbox-7-2-4-released-with-initial-support-for-linux-kernel-6-18/&quot;&gt;VirtualBox 7.2.4 Released with Initial Support for Linux Kernel 6.18&lt;/a&gt; appeared first on &lt;a href=&quot;https://www.linuxtoday.com&quot;&gt;Linux Today&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 06 Nov 2025 15:31:59 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxtoday.com/?post_type=user_post&amp;p=204479</guid>
+      <source url="https://feeds.feedburner.com/linuxtoday/linux">Linux Today</source>
+    </item>
+    <item>
       <title>[LWN] local BPF storage API</title>
       <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:10:56 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 02:25:02 -0000</pubDate>
       <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1041,7 +1567,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1078968/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:10:56 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 02:25:02 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1078968/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1049,7 +1575,7 @@ rewine (1):
       <title>[LWN] Secure Boot</title>
       <link>https://en.wikipedia.org/wiki/UEFI#Secure_Boot</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:10:56 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 02:25:02 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/UEFI#Secure_Boot</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1057,7 +1583,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1079808/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:10:56 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 02:25:02 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1079808/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1065,7 +1591,7 @@ rewine (1):
       <title>[LWN] Racket</title>
       <link>https://racket-lang.org/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:10:56 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 02:25:02 -0000</pubDate>
       <guid isPermaLink="false">https://racket-lang.org/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1073,7 +1599,7 @@ rewine (1):
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:10:53 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 02:24:58 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1081,7 +1607,7 @@ rewine (1):
       <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
       <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:10:53 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 02:24:58 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1089,7 +1615,7 @@ rewine (1):
       <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
       <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:10:53 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 02:24:58 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1097,7 +1623,7 @@ rewine (1):
       <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
       <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:10:53 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 02:24:58 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1105,7 +1631,7 @@ rewine (1):
       <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:10:53 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 02:24:58 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1113,7 +1639,7 @@ rewine (1):
       <title>[Viva o Linux] Brave Origin chega ao Linux com modo minimalista e grátis</title>
       <link>https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:10:52 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 02:24:57 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1121,7 +1647,7 @@ rewine (1):
       <title>[Viva o Linux] Tails 7.9.1 corrige falhas no kernel e atualiza o Tor Browser</title>
       <link>https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:10:52 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 02:24:57 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1129,7 +1655,7 @@ rewine (1):
       <title>[Viva o Linux] Rocky Linux 10.2 chega com avanços em criptografia pós-quântica</title>
       <link>https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:10:52 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 02:24:57 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1137,7 +1663,7 @@ rewine (1):
       <title>[Viva o Linux] Ubuntu prepara o Myna, um ditado por IA local para falar e ver o texto aparecer</title>
       <link>https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:10:52 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 02:24:57 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1145,7 +1671,7 @@ rewine (1):
       <title>[Viva o Linux] Canonical confirma correções no Ubuntu para falha DirtyClone no kernel Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/canonical-confirma-correcoes-no-ubuntu-para-falha-dirtyclone-no-kernel-linux/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:10:52 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 02:24:57 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/canonical-confirma-correcoes-no-ubuntu-para-falha-dirtyclone-no-kernel-linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1164,6 +1690,323 @@ rewine (1):
       <pubDate>Thu, 02 Jul 2026 00:23:25 -0000</pubDate>
       <guid isPermaLink="false">https://www.phoronix.com/news/Steam-Survey-June-2026</guid>
       <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[FSFLA] Suitable Online Bank(rupt)ing</title>
+      <link>http://www.fsfla.org/ikiwiki/texto/bancarrota.en.html</link>
+      <description>&lt;center&gt;
+&lt;h1&gt;
+Suitable Online Bank(rupt)ing
+&lt;/h1&gt;
+&lt;h2&gt;
+Alexandre Oliva 
+&lt;/h2&gt;
+&lt;/center&gt;
+
+
+&lt;p&gt;For the past couple of decades, I&apos;ve entered various fights with
+Brazilian banks over their threats to my software freedom in their
+Internet banking services.  Back in 2002, the main threats were
+websites that required Internet Explorer, or the
+then-still-proprietary Java plugin, and there were plenty of
+alternatives without such abusive requirements.  Nowadays, in the
+early 2020&apos;s, most banks require users to install security-theater
+malware and to use tracking devices, and those that make exceptions to
+the malware upon request are becoming very hard to find.  Before
+running out of alternatives to these morally bankrupt practices, I&apos;ve
+started legal action to defend my freedom using my consumer rights.&lt;/p&gt;
+
+&lt;h1&gt;Java Trap&lt;/h1&gt;
+
+&lt;p&gt;I was a happy customer of Banco do Brasil until around 2001, when it
+rolled out a Java applet for authentication.  The Java VM only &lt;a href=&quot;https://www.fsf.org/news/fsf-welcomes-gpl-java.html&quot;&gt;became
+free software years
+later&lt;/a&gt;, but even
+if the &lt;a href=&quot;http://www.gnu.org/philosophy/java-trap.html&quot;&gt;Java Trap&lt;/a&gt; had
+already been disarmed, the applet itself was a nonfree program I&apos;d be
+required to run on my own computer, analogous to the &lt;a href=&quot;https://www.gnu.org/philosophy/javascript-trap.html&quot;&gt;JavaScript
+Trap&lt;/a&gt; that became
+a grave problem later on.&lt;/p&gt;
+
+&lt;p&gt;Both of these requirements were unacceptable to me, and I let the bank
+know in no uncertain terms.  For some time, changing the
+browser-presented
+&lt;a href=&quot;https://en.wikipedia.org/wiki/User-agent&quot;&gt;User-Agent&lt;/a&gt; identifier to
+pretend to be running some Java-incompatible system served as a
+workaround.  When that was cut off and it became clear that there
+weren&apos;t going to be workarounds any more, I took my business to banks
+that did not &lt;a href=&quot;http://www.fsfla.org/anuncio/2023-04-bancarrota#softimp&quot;&gt;impose&lt;/a&gt; such
+abusive requirements.&lt;/p&gt;
+
+&lt;h1&gt;JavaScript virtual keyboards&lt;/h1&gt;
+
+&lt;p&gt;Banespa and Real, both now part of Santander, at some point also
+started demanding a so-called &amp;quot;security&amp;quot; program on the customer&apos;s
+end, but both of them made exceptions upon request, so I didn&apos;t have
+to move on from them.  Eventually, they also rolled out virtual
+keyboards for authentication in security theater, and at that, I
+blinked: without &lt;a href=&quot;https://www.gnu.org/software/librejs/&quot;&gt;GNU LibreJS&lt;/a&gt;
+to warn me, I did not realize those were also nonfree programs running
+on my computer after being automatically installed by the browser.
+When I learned that this was the case, I had already accepted these
+features for too long, and I rationalized them as layout silliness
+that was borderline acceptable, and so I kept on using them.  I&apos;m
+embarrassed and sorry that I did; resisting back then might have made
+things easier for everyone else later on.&lt;/p&gt;
+
+&lt;h1&gt;Hostile take-over&lt;/h1&gt;
+
+&lt;p&gt;In 2008, my then-employer started paying salaries at Citibank.  I gave
+it a try and was happy with how little JavaScript it used, so it
+became my favorite banking platform, and it &lt;a href=&quot;http://www.fsfla.org/blogs/lxo/2010-08-10-what-would-you-do.en&quot;&gt;served me
+well&lt;/a&gt; for some 10 years,
+until Ita&amp;uacute;-Unibanco (henceforth just Ita&amp;uacute;) bought its retail
+operations in Brazil and switched all customers to its own Internet
+banking service.  That brought me two major problems: in order to
+perform banking transactions, they demanded a piece of malware they
+deemed &amp;quot;Guardian&amp;quot; (Diebold&apos;s Warsaw, really) to be installed on the
+desktop or laptop computer, and the bank&apos;s own &lt;a href=&quot;https://en.wikipedia.org/wiki/One-time_password&quot;&gt;One-Time Password
+(OTP)&lt;/a&gt;
+&lt;a href=&quot;http://www.fsfla.org/anuncio/2023-03-TRApps&quot;&gt;TRApp&lt;/a&gt; had to be installed on a portable
+tracking device (of the kind that usually can also make phone calls)
+for authentication purposes.&lt;/p&gt;
+
+&lt;h1&gt;Workaround&lt;/h1&gt;
+
+&lt;p&gt;Some colleagues mentioned that changing to FreeBSD the operating
+system name sent by the browser in the User-Agent identifier would
+disable the malware requirement, but authentication remained a
+challenge.  It was no use to argue that my phone ran GNU/Linux (my
+smartphone has been a &lt;a href=&quot;https://en.wikipedia.org/wiki/Neo_FreeRunner&quot;&gt;Neo
+Freerunner&lt;/a&gt; for way over
+a decade) and they only had nonfree apps, for other also-nonfree
+mobile operating systems; or that there were other OTP apps I could
+run, on it or elsewhere, that would serve the same purpose.&lt;/p&gt;
+
+&lt;h1&gt;Backup plan&lt;/h1&gt;
+
+&lt;p&gt;Santander still worked for me, but it&apos;s very uncomfortable to be tied
+to a single option, so I contacted a banking cooperative/credit union,
+Sicredi, explained that I was looking for a bank that would offer me
+Internet banking services without requiring me to install anything but
+a standards-compliant browser on any operating system of my choice,
+that this was the reason I had left Banco do Brasil before, and was
+leaving Ita&amp;uacute; now, that I was very serious about not running nonfree
+software, to the point of maintaining my own Free version of Brazilian
+income tax software to avoid the government-provided nonfree version.
+They told me that they could indeed meet my requirements, and they&apos;d
+be happy to take my business.&lt;/p&gt;
+
+&lt;h1&gt;Plot twist&lt;/h1&gt;
+
+&lt;p&gt;So I signed up with Sicredi, went to a branch of Ita&amp;uacute; to transfer the
+balance, and then, only then, did Ita&amp;uacute; think of offering me a hardware
+OTP token for authentication, just like the one Sicredi had offered
+me.  I figured I could give Ita&amp;uacute; a try, so I didn&apos;t trasfer the whole
+balance.  I&apos;m glad I didn&apos;t!  I went back to the Sicredi branch,
+confirmed the transfer that activated the account, got the hardware
+token, moved a significant chunk of the balance to a long-term
+investment fund, and went home.&lt;/p&gt;
+
+&lt;p&gt;When I got there, I tried to access the Internet banking service and
+check everything out, just to find out that it demanded the
+installation of the same piece of &amp;quot;security&amp;quot; malware as Ita&amp;uacute;.  Unlike
+Ita&amp;uacute;, I couldn&apos;t even see my balance without it, whereas Ita&amp;uacute; worked
+beautifully once I had its hardware token and the User-Agent
+workaround.&lt;/p&gt;
+
+&lt;p&gt;For some time, I had FreeBSD as the operating system name in
+User-Agent to authenticate with Ita&amp;uacute;, but eventually I tried GNU
+instead of the &lt;a href=&quot;https://gnu.org/gnu/linux-and-gnu.html&quot;&gt;misnomer
+Linux&lt;/a&gt;, and that worked too.
+Once again, GNU helped me keep my freedom!&lt;/p&gt;
+
+&lt;h1&gt;Seeking consumer protection&lt;/h1&gt;
+
+&lt;p&gt;Still, I felt unsafe, because the User-Agent workaround was not
+documented nor recommended.  The bank even denied its existence.  It
+also unilaterally decided to stop sending me monthly statements by
+mail, which was part of the service I&apos;d hired and was quite important
+to me, since the viable alternative, namely getting the file with the
+Internet banking service, could be cut off at any time.  So I filed
+complaints about both Ita&amp;uacute; and Sicredi with the local consumer
+protection agency, Procon.&lt;/p&gt;
+
+&lt;p&gt;Not that I expected much to come out of it: in my experience, Procon
+could only fine violators, that would be taken as cost of business,
+and even protect the violators from any further complaints from me
+over the same issue.&lt;/p&gt;
+
+&lt;p&gt;In this case, I wasn&apos;t even sure Procon would recognize my rights; its
+agents were not familiar with the notion of software freedom, but once
+I explained that in terms that made sense to consumer protection
+agents, they seemed quite excited about it.  Procon eventually found
+in my favor in both cases, fined both banks, and confirmed the fines
+on appeal.&lt;/p&gt;
+
+&lt;h1&gt;Surprise!&lt;/h1&gt;
+
+&lt;p&gt;I expected the banks wouldn&apos;t change their behavior over it, though.
+It turned out I was surprisigly wrong.  Not long after the initial
+Procon decision, Ita&amp;uacute; started changing its Internet banking service.
+It wasn&apos;t for the better, though.&lt;/p&gt;
+
+&lt;p&gt;Progressively, over several years, some kinds of transactions would no
+longer accept authentication with the secure and entirely offline
+hardware token, and instead insisted on a tracking device-based OTP
+instead.  After some time, they&apos;d start demanding the Guardian
+malware, or their own brand new app, now available for a small
+selection of operating systems, including GNU/Linux/x86_64, but
+nonfree software nevertheless.&lt;/p&gt;
+
+&lt;p&gt;As I write this, relevant features I&apos;ve noticed as blocked are
+payments of bills that aren&apos;t scheduled automatically, payments of
+some taxes, outgoing wire transfers, international wire transfers,
+credit card statements, activating new cards, and even updating
+contact and investor information and obtaining the consolidated
+information needed to fill in income tax returns, all in name of
+&amp;quot;security&amp;quot;.  At least the tax information is made available on another
+website maintained by the bank, that clearly doesn&apos;t care so much
+about &amp;quot;security&amp;quot;.&lt;/p&gt;
+
+&lt;p&gt;That wasn&apos;t all at once.  One day a feature worked, next day it didn&apos;t
+any more.  Then another.  And another...  For some time, even
+redeeming from investment funds (to avoid a negative balance over
+automatically scheduled payments) stopped accepting confirmation with
+the hardware token, but at least on this one they seem to have
+retreated.  Not on the others.&lt;/p&gt;
+
+&lt;h1&gt;Not fine&lt;/h1&gt;
+
+&lt;p&gt;Meanwhile, Sicredi accused me of dishonesty: they wouldn&apos;t believe I
+hadn&apos;t come across the very clear information about their software
+requirements, shown on a web page that&apos;s not even reachable without
+JavaScript, reason why I ended up contacting the branch to explain my
+requirements.  That absurd accusation earned them a reprimand in the
+appeal decision, but not a higher fine.&lt;/p&gt;
+
+&lt;h1&gt;Lawsuit&lt;/h1&gt;
+
+&lt;p&gt;As Ita&amp;uacute; tightened the knot, I talked to my lawyer about defending my
+rights with a lawsuit.  He wasn&apos;t enthusiastic about it at first,
+apparently expecting the bank to take back on the impositions, not
+realizing back then how they were show-stoppers for me, while most
+people wouldn&apos;t even notice or realize that there was an injustice
+there.  We couldn&apos;t count on a public uproar for the bank to retreat.&lt;/p&gt;
+
+&lt;p&gt;We had to demand the bank to live up to the obligations it acquired
+along with the Citibank retail business: it couldn&apos;t unilaterally
+change the terms, quality and requirements of the service I had so
+carefully selected because I wouldn&apos;t use a service that demanded
+nonfree software.  So, in the middle of 2022, he filed a lawsuit
+against Ita&amp;uacute; on my behalf, grounded mainly on consumer rights, asking
+the court to order the bank to offer the services I had hired, under
+the conditions I had hired them, restoring the services that it was
+progressively discontinuing.&lt;/p&gt;
+
+&lt;h1&gt;Picking battles&lt;/h1&gt;
+
+&lt;p&gt;Ironically, because of COVID-19, I had to attend a conciliation
+session held through nonfree software.  My lawyer was surprised that
+even that sort of online program would be objectionable for me, and
+invited me to attend along with him at his office.  That&apos;s no way to
+get full justice, but...  that&apos;s another fight, that we&apos;re going to
+have to have at a higher court.  He&apos;s optimistic about the legal
+arguments in the ongoing lawsuit, and though they&apos;re not quite founded
+on software freedom, we do mention freedom and dignity as
+constitutional rights that the bank&apos;s imposition violates.&lt;/p&gt;
+
+&lt;h1&gt;2023-02 update&lt;/h1&gt;
+
+&lt;p&gt;In February 2023, a sentence landed ordering Ita&amp;uacute; to abide by our
+request, restoring services without demanding the installation of
+additional programs, with a small daily fine in case of noncompliance.
+It&apos;s a full victory in the first round, but my lawyer tells me theirs
+are likely to file an appeal, so we can celebrate some, but this is
+not over yet.&lt;/p&gt;
+
+&lt;p&gt;In other news, the month before Ita&amp;uacute; emailed me about its renewed
+plans to phase out the hardware token: no new ones would be issued,
+though the ones in use would be usable as long as their batteries
+lasted.  The lawsuit will hopefully enable us to come to an agreement
+so that I can start using
+&lt;a href=&quot;https://www.nongnu.org/oath-toolkit/&quot;&gt;oathtool&lt;/a&gt; or
+&lt;a href=&quot;https://f-droid.org/packages/org.liberty.android.freeotpplus/&quot;&gt;FreeOTP+&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;2023-04 update&lt;/h2&gt;
+
+&lt;p&gt;Surprisingly, there was no appeal.  The sentence is final.  It remains
+to be determined whether it will be obeyed.&lt;/p&gt;
+
+&lt;h1&gt;Procon fines Sicredi&lt;/h1&gt;
+
+&lt;p&gt;Back on the week the lawsuit had been filed, coincidentally, Procon
+published the appeal decision in the case against Sicredi, and I was
+contacted by its lawyers trying to find some way to reach an agreement
+and avoid the fine.  I wrote and published a long &lt;a href=&quot;http://www.fsfla.org/blogs/lxo/2022-07-04-resposta-ao-sicredi.pt&quot;&gt;open
+letter&lt;/a&gt; (in Portuguese)
+explaining why I rejected that and any other piece of nonfree software
+over philosophical (defending my software freedom on principle),
+practical (defending my freedom to choose what computer and operating
+system to use) and security (the alleged &lt;a href=&quot;https://en.wikipedia.org/wiki/Security_through_obscurity&quot;&gt;need for
+obscurity&lt;/a&gt;
+suggests &lt;a&gt;insecurity&lt;/a&gt;) concerns.&lt;/p&gt;
+
+&lt;p&gt;I restated my wish for service delivered through a standards-compliant
+browser on any operating system, noting the possibility of removing
+the requirement for specific users, before or after authentication,
+and offering an alternative: getting documentation on the networked
+programming interfaces that their own apps rely on, for me to
+implement relevant features on
+&lt;a href=&quot;https://www.gnu.org/software/gnucash/&quot;&gt;Gnucash&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1&gt;Coincidence?&lt;/h1&gt;
+
+&lt;p&gt;A few days later, I was supposed to make a payment to my lawyer for
+his service in preparing the initial filing against Ita&amp;uacute;.  I went on
+to Santander&apos;s Internet banking website, that had served me well while
+Ita&amp;uacute; and Sicredi let me down, and &lt;a href=&quot;http://www.fsfla.org/blogs/lxo/2022-07-07-self-serving-services.en&quot;&gt;I couldn&apos;t get
+in&lt;/a&gt;: it was demanding
+me to agree to a so-called &lt;a href=&quot;https://web.archive.org/web/20220621212506/https://www.santander.com.br/institucional-santander/seguranca/politica-de-privacidade&quot;&gt;&amp;quot;privacy
+policy&amp;quot;&lt;/a&gt;
+(in Portuguese) that, besides requiring JavaScript to be viewed and
+not allowing printing or saving as a whole, contains abusive terms
+unrelated to the notion of privacy policy, or even to the terms of use
+bundled with it.&lt;/p&gt;
+
+&lt;p&gt;That policy had allegedly been in effect for nearly a whole year, so
+it seemed an unbelievable coincidence that they&apos;d start demanding
+agreement to it right then.  The next day, the requirement was gone,
+only to return a couple of weeks later.  Meanwhile, I could make the
+payment, but my lawyer joked he could already tell the next bank we
+were going to sue.&lt;/p&gt;
+
+&lt;p&gt;Some of the abusive terms were the power to choose computers and
+operating systems the customer would have to use to get service, and
+the power to discontinue the service unilaterally for any reason,
+including changes to the technological platform.  My lawyer&apos;s guess is
+probably right, but I&apos;ve started by &lt;a href=&quot;http://www.fsfla.org/blogs/lxo/2022-08-14-privacidade-santander.pt&quot;&gt;filing a
+complaint&lt;/a&gt; with the
+consumer protection agency and agreeing only to the terms identifiable
+as privacy policy.  The bank did not dispute my understanding in its
+response, so the case got closed with the understanding that they
+agreed, but the fight goes on.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Copyright 2022-2023 Alexandre Oliva
+&lt;br /&gt;
+Copyright 2023 FSFLA&lt;/p&gt;
+
+&lt;p&gt;Permission is granted to make and distribute verbatim copies of this
+entire document worldwide without royalty, provided the copyright
+notice, the document&apos;s official URL, and this permission notice are
+preserved.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.fsfla.org/texto/bancarrota&quot;&gt;https://www.fsfla.org/texto/bancarrota&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Sun, 30 Apr 2023 21:59:53 -0000</pubDate>
+      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/texto/bancarrota.en.html</guid>
+      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
       <title>[i3wm] 4.23</title>
@@ -2251,6 +3094,15 @@ have already been published separately and are referenced where available.</desc
       <source url="https://diolinux.com.br/feed">Diolinux</source>
     </item>
     <item>
+      <title>[4Linux] IA no Universo Kubernetes: detecte e resolva incidentes com inteligência artificial</title>
+      <link>https://blog.4linux.com.br/ia-no-universo-kubernetes-detecte-e-resolva-incidentes-com-inteligencia-artificial/</link>
+      <description>&lt;p&gt;Salve salve pessoal! Tudo bem com vocês? Espero que sim! Hoje trago um assunto que tenho trabalhado bastante aqui e que tenho certeza que vai fazer diferença no dia a&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://blog.4linux.com.br/ia-no-universo-kubernetes-detecte-e-resolva-incidentes-com-inteligencia-artificial/&quot;&gt;IA no Universo Kubernetes: detecte e resolva incidentes com inteligência artificial&lt;/a&gt; appeared first on &lt;a href=&quot;https://blog.4linux.com.br&quot;&gt;Blog 4Linux&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Mon, 29 Jun 2026 13:28:09 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13539</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
+    <item>
       <title>[Diolinux] Oracle promete abrir a governança do MySQL, mas a comunidade ainda cobra garantias</title>
       <link>https://diolinux.com.br/noticias/oracle-abrir-a-governanca-do-mysql.html</link>
       <description>A Oracle anunciou mudanças na governança do MySQL e promete maior participação da comunidade, mas desenvolvedores afirmam que ainda faltam compromissos permanentes.</description>
@@ -2284,6 +3136,42 @@ board of directors.</description>
       <pubDate>Mon, 29 Dec 2025 22:45:00 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsf.org/news/eko-k-a-owen-joins-the-fsf-board-as-the-union-staff-pick</guid>
       <source url="https://www.fsf.org/news/RSS">FSF News</source>
+    </item>
+    <item>
+      <title>[FSFLA] 6point4.en</title>
+      <link>http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</link>
+      <description>&lt;center&gt;
+&lt;h1&gt;
+When I&apos;m Six Point Four
+&lt;/h1&gt;
+&lt;h2&gt;
+Jason Self&lt;br /&gt;
+with a little help from my friend&lt;br /&gt;
+Alex Oliva
+&lt;/h2&gt;
+&lt;/center&gt;
+
+
+&lt;p&gt;  When I get older, &lt;a href=&quot;https://www.gnu.org/help/gnu-bucks.en.html&quot;&gt;losing more bugs&lt;/a&gt;,&lt;br /&gt;
+  In today&apos;s release,&lt;br /&gt;
+  Will you still be sending me your problem reports,&lt;br /&gt;
+  kernel patches, boot me with grub?&lt;br /&gt;
+  &lt;br /&gt;
+  Will you rejoice, and cheer for my might,&lt;br /&gt;
+  Weeding out the blobs?&lt;br /&gt;
+  Will you still boot me, will you still use me,&lt;br /&gt;
+  When I&apos;m Six Point Four?&lt;br /&gt;
+  Will you still boot me, will you still use me,&lt;br /&gt;
+  When I&apos;m Six Point Four? (dash GNU)&lt;/p&gt;
+
+&lt;p&gt;--&lt;/p&gt;
+
+&lt;p&gt;Under &lt;a href=&quot;https://creativecommons.org/publicdomain/zero/1.0/&quot;&gt;CC0&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.fsfla.org/ikiwiki/6point4.en.ogg&quot;&gt;Sung by Alex Oliva&lt;/a&gt;&lt;/p&gt;</description>
+      <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
+      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
+      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
       <title>[Ubuntu MATE] Ubuntu MATE 23.10 Release Notes</title>
