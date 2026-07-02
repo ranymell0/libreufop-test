@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 02 Jul 2026 17:48:12 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 19:25:06 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://SEU_USUARIO_OU_ORG.github.io/SEU_REPO/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -834,14 +834,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://ubuntu.com/blog/feed">Ubuntu Blog</source>
     </item>
     <item>
-      <title>[Diolinux] Como montar um Homelab sem comprar outro computador</title>
-      <link>https://diolinux.com.br/tutoriais/homelab-sem-comprar-computador.html</link>
-      <description>Aprenda como transformar seu computador pessoal em um Homelab usando Docker e Umbrel, rodando serviços self-hosted sem abrir mão do trabalho ou dos jogos.</description>
-      <pubDate>Tue, 30 Jun 2026 11:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://diolinux.com.br/?p=122012</guid>
-      <source url="https://diolinux.com.br/feed">Diolinux</source>
-    </item>
-    <item>
       <title>[Planet GNOME] Nick Richards: Fuzzy Time Everywhere</title>
       <link>https://www.nedrichards.com/2026/05/fuzzy-time-everywhere/</link>
       <description>&lt;p&gt;I do not always want to know what time it is. This is a slightly awkward position for someone who keeps making clocks, but there we are. Quite often the useful answer is not &lt;code&gt;17:42&lt;/code&gt;. It is “quarter to six”, “nearly lunch” or “you should probably start thinking about leaving”. The precise time is useful when catching trains, baking things and joining calls; the rest of the time it can be a bit much.&lt;/p&gt;
@@ -1424,7 +1416,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1080162/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 17:48:12 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 19:25:06 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1080162/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1432,7 +1424,7 @@ rewine (1):
       <title>[LWN] local BPF storage API</title>
       <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 17:48:12 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 19:25:06 -0000</pubDate>
       <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1440,7 +1432,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1078968/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 17:48:12 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 19:25:06 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1078968/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1448,7 +1440,7 @@ rewine (1):
       <title>[LWN] Secure Boot</title>
       <link>https://en.wikipedia.org/wiki/UEFI#Secure_Boot</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 17:48:12 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 19:25:06 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/UEFI#Secure_Boot</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1456,7 +1448,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1079808/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 17:48:12 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 19:25:06 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1079808/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1464,7 +1456,7 @@ rewine (1):
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 17:48:08 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 19:25:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1472,7 +1464,7 @@ rewine (1):
       <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
       <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 17:48:08 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 19:25:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1480,7 +1472,7 @@ rewine (1):
       <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
       <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 17:48:08 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 19:25:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1488,7 +1480,7 @@ rewine (1):
       <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
       <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 17:48:08 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 19:25:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1496,7 +1488,7 @@ rewine (1):
       <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 17:48:08 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 19:25:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1504,7 +1496,7 @@ rewine (1):
       <title>[Viva o Linux] Brave Origin chega ao Linux com modo minimalista e grátis</title>
       <link>https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 17:48:07 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 19:24:59 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1512,7 +1504,7 @@ rewine (1):
       <title>[Viva o Linux] Tails 7.9.1 corrige falhas no kernel e atualiza o Tor Browser</title>
       <link>https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 17:48:07 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 19:24:59 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1520,7 +1512,7 @@ rewine (1):
       <title>[Viva o Linux] Rocky Linux 10.2 chega com avanços em criptografia pós-quântica</title>
       <link>https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 17:48:07 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 19:24:59 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1528,7 +1520,7 @@ rewine (1):
       <title>[Viva o Linux] Ubuntu prepara o Myna, um ditado por IA local para falar e ver o texto aparecer</title>
       <link>https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 17:48:07 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 19:24:59 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1536,9 +1528,33 @@ rewine (1):
       <title>[Viva o Linux] Canonical confirma correções no Ubuntu para falha DirtyClone no kernel Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/canonical-confirma-correcoes-no-ubuntu-para-falha-dirtyclone-no-kernel-linux/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 17:48:07 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 19:24:59 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/canonical-confirma-correcoes-no-ubuntu-para-falha-dirtyclone-no-kernel-linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[The Verge] Weber marks down grills and griddles to their best prices ever for July 4th</title>
+      <link>https://www.theverge.com/gadgets/960558/weber-july-4th-grill-griddle-sale-deal</link>
+      <description>If our recent Decoder interview with Weber Blackstone CEO Roger Dahle has you craving freshly grilled meats or veggies, Weber just so happens to have a variety of grills, smokers, griddles, and accessories selling at big discounts ahead of the July 4th holiday. It makes a bunch of models, but we’ve landed on a range [&amp;#8230;]</description>
+      <pubDate>Thu, 02 Jul 2026 18:19:03 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=960558</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[Diolinux] Proton atualiza o Lumo 2.0, combinando IA avançada com privacidade</title>
+      <link>https://diolinux.com.br/noticias/proton-atualiza-o-lumo-2-0.html</link>
+      <description>A Proton lançou o Lumo 2.0 com modelos de IA mais avançados, geração e análise de imagens, pesquisa na web, memória opcional e criptografia de acesso zero.</description>
+      <pubDate>Thu, 02 Jul 2026 18:18:00 -0000</pubDate>
+      <guid isPermaLink="false">https://diolinux.com.br/?p=122075</guid>
+      <source url="https://diolinux.com.br/feed">Diolinux</source>
+    </item>
+    <item>
+      <title>[Phoronix] EFS File-System Slated For Removal With Linux 7.3 After 20+ Years Unmaintained</title>
+      <link>https://www.phoronix.com/news/EFS-File-System-Removal-Coming</link>
+      <description>The EFS file-system was used for non-ISO9660 CD-ROMs and disk partitions on SGI IRIX before IRIX 6.0 switched over to XFS. Inside the Linux kernel has been a read-only EFS file-system driver without a maintainer for 20+ years while for Linux 7.3 it&apos;s expected to be removed...</description>
+      <pubDate>Thu, 02 Jul 2026 17:39:06 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/EFS-File-System-Removal-Coming</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
     <item>
       <title>[It's FOSS] Collabora Office 26.04 Keeps AI Optional and Refines Writer and Calc</title>
@@ -1612,14 +1628,6 @@ rewine (1):
       <pubDate>Thu, 02 Jul 2026 14:09:00 -0000</pubDate>
       <guid isPermaLink="false">https://diolinux.com.br/?p=122068</guid>
       <source url="https://diolinux.com.br/feed">Diolinux</source>
-    </item>
-    <item>
-      <title>[The Verge] AI won’t save advertising, says Digitas’ Amy Lanzi</title>
-      <link>https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators</link>
-      <description>We’ve got a special Decoder today — I had the chance to talk with Amy Lanzi, the CEO of Digitas North America, in front of a live audience at the Uber Villa at the Cannes Lions advertising festival in the South of France. I know, it’s a hard gig, but I do it for you. [&amp;#8230;]</description>
-      <pubDate>Thu, 02 Jul 2026 14:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=959792</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
     </item>
     <item>
       <title>[It's FOSS] FOSS Weekly #26.27: Dev Mode in KDE Linux, Local AI, De-Google Android, Free Terminal Starter Course, KDE Step and More</title>
@@ -1702,14 +1710,6 @@ KWallet XML Import (&lt;a href=&quot;https://invent.kde.org/utilities/keepsecret
       <description>One month ago we reported on YSERVER as a modern X11 server written in Rust with the help of Claude Code. Since then YSERVER has continued to advance in supporting more X11 functionality thanks to the help of Claude Code (AI) and out today is version 1.3 o this display server...</description>
       <pubDate>Thu, 02 Jul 2026 12:15:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.phoronix.com/news/YSERVER-1.3-Released</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
-    </item>
-    <item>
-      <title>[Phoronix] KDE Plasma Affected By Arbitrary Code Execution To Break Sandboxes With &quot;Open New Window&quot;</title>
-      <link>https://www.phoronix.com/news/KDE-Plasma-ACE-New-Window</link>
-      <description>A security disclosure has been made public today for a yet-to-be-patched arbitrary code execution vulnerability with the KDE Plasma desktop...</description>
-      <pubDate>Thu, 02 Jul 2026 11:51:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/KDE-Plasma-ACE-New-Window</guid>
       <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
     <item>
