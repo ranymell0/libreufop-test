@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 02 Jul 2026 02:25:02 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 03:37:59 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://SEU_USUARIO_OU_ORG.github.io/SEU_REPO/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -575,14 +575,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
     </item>
     <item>
-      <title>[Diolinux] O alerta do BIS: a bolha da IA pode estourar e arrastar a economia global</title>
-      <link>https://diolinux.com.br/noticias/o-alerta-do-bis-a-bolha-da-ia.html</link>
-      <description>O Banco de Compensações Internacionais (BIS) alerta que os investimentos bilionários em IA podem formar uma bolha semelhante à da internet nos anos 2000, com riscos para toda a economia mundial.</description>
-      <pubDate>Wed, 01 Jul 2026 22:50:16 -0000</pubDate>
-      <guid isPermaLink="false">https://diolinux.com.br/?p=122051</guid>
-      <source url="https://diolinux.com.br/feed">Diolinux</source>
-    </item>
-    <item>
       <title>[The Verge] Apple’s entry-level MacBook Pro could be up for a redesign</title>
       <link>https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update</link>
       <description>Apple is working on a &quot;revamped&quot; version of its entry-level MacBook Pro that it could launch as soon as the first half of 2027, Bloomberg reports. The company is also testing four new iPad Pros that are set to launch in the spring with a focus on &quot;internal improvements.&quot; The updated MacBook Pro, which will [&amp;#8230;]</description>
@@ -593,7 +585,7 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
     <item>
       <title>[OMG! Ubuntu] Linux App Release Roundup (June 2026)</title>
       <link>https://www.omgubuntu.co.uk/2026/07/linux-app-release-roundup-june-2026</link>
-      <description>&lt;p&gt;&lt;img alt=&quot;Bag fill with app icons, Tux the Linux mascot behind.&quot; class=&quot;attachment-post-list size-post-list wp-post-image&quot; height=&quot;232&quot; src=&quot;https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/linux-app-release-roundup-june-2026.webp?resize=406%2C232&amp;amp;ssl=1&quot; width=&quot;406&quot; /&gt;June was sweltering, but the summer heat didn’t slow down open-source software developers.  Last month delivered a wave of app updates, including the release of Firefox 152 with its streamlined settings, HandBrake resolved its Linux WebM handling and the Audacity 4.0 beta made a brand-new design available for public scrutiny (mainly of the &amp;#8220;much better&amp;#8221; variety). But underneath those highs – yes, I&amp;#8217;m determined to make this heat theme work – a quiet simmer of smaller maintenance updates rolled out too&amp;#8230; Cine gained Watch History I spotlighted the Cine Linux video player earlier this year. It&amp;#8217;s an MPV-based player with [&amp;#8230;]&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&quot;Bag fill with app icons, Tux the Linux mascot behind.&quot; class=&quot;attachment-post-list size-post-list wp-post-image&quot; height=&quot;232&quot; src=&quot;https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/linux-app-release-roundup-june-2026.webp?resize=406%2C232&amp;amp;ssl=1&quot; width=&quot;406&quot; /&gt;June was sweltering, but the summer heat didn’t slow down open-source software developers.&amp;#160; Last month delivered a wave of app updates, including the release of Firefox 152 with its streamlined settings, HandBrake resolved its Linux WebM handling and the Audacity 4.0 beta made a brand-new design available for public scrutiny (mainly of the &amp;#8220;much better&amp;#8221; variety). But underneath those highs – yes, I&amp;#8217;m determined to make this heat theme work – a quiet simmer of smaller maintenance updates rolled out too&amp;#8230; Cine gained Watch History I spotlighted the Cine Linux video player earlier this year. It&amp;#8217;s an MPV-based player with [&amp;#8230;]&lt;/p&gt;
 &lt;p&gt;You&apos;re reading &lt;a href=&quot;https://www.omgubuntu.co.uk/2026/07/linux-app-release-roundup-june-2026&quot;&gt;Linux App Release Roundup (June 2026)&lt;/a&gt;, a blog post from &lt;a href=&quot;https://www.omgubuntu.co.uk&quot;&gt;OMG! Ubuntu&lt;/a&gt;. Do not reproduce elsewhere without permission.&lt;/p&gt;</description>
       <pubDate>Wed, 01 Jul 2026 22:35:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.omgubuntu.co.uk/?p=333876</guid>
@@ -791,14 +783,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://www.omgubuntu.co.uk/feed">OMG! Ubuntu</source>
     </item>
     <item>
-      <title>[Diolinux] Linux Foundation quer criar um “DNS para agentes de IA” com identidades verificadas</title>
-      <link>https://diolinux.com.br/noticias/linux-foundation-dns-agentes-de-ia.html</link>
-      <description>A Linux Foundation anunciou o Agent Name Service (ANS), um padrão aberto que usa o DNS para criar identidades verificáveis para agentes de IA, aumentando segurança, confiança e interoperabilidade.</description>
-      <pubDate>Wed, 01 Jul 2026 14:07:00 -0000</pubDate>
-      <guid isPermaLink="false">https://diolinux.com.br/?p=122043</guid>
-      <source url="https://diolinux.com.br/feed">Diolinux</source>
-    </item>
-    <item>
       <title>[Planet KDE] Steam Deck and Wayland</title>
       <link>https://notmart.org/blog/2026/07/steamdeck-and-wayland/</link>
       <description>&lt;p class=&quot;wp-block-paragraph&quot;&gt;A while ago, Steam OS 3.8 was released. Among its many improvements, it includes a particularly important one for the Desktop Mode: it finally uses a Wayland session by default.&lt;/p&gt;
@@ -928,14 +912,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <pubDate>Tue, 30 Jun 2026 12:04:30 -0000</pubDate>
       <guid isPermaLink="false">https://ubuntu.com//blog/canonical-becomes-gold-sponsor-of-trifecta-tech-foundation</guid>
       <source url="https://ubuntu.com/blog/feed">Ubuntu Blog</source>
-    </item>
-    <item>
-      <title>[Diolinux] Como montar um Homelab sem comprar outro computador</title>
-      <link>https://diolinux.com.br/tutoriais/homelab-sem-comprar-computador.html</link>
-      <description>Aprenda como transformar seu computador pessoal em um Homelab usando Docker e Umbrel, rodando serviços self-hosted sem abrir mão do trabalho ou dos jogos.</description>
-      <pubDate>Tue, 30 Jun 2026 11:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://diolinux.com.br/?p=122012</guid>
-      <source url="https://diolinux.com.br/feed">Diolinux</source>
     </item>
     <item>
       <title>[It's FOSS] AI Agents Could Get Verified Identities, Courtesy of DNS</title>
@@ -1559,7 +1535,7 @@ rewine (1):
       <title>[LWN] local BPF storage API</title>
       <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:25:02 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 03:37:59 -0000</pubDate>
       <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1567,7 +1543,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1078968/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:25:02 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 03:37:59 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1078968/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1575,7 +1551,7 @@ rewine (1):
       <title>[LWN] Secure Boot</title>
       <link>https://en.wikipedia.org/wiki/UEFI#Secure_Boot</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:25:02 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 03:37:59 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/UEFI#Secure_Boot</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1583,7 +1559,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1079808/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:25:02 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 03:37:59 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1079808/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1591,7 +1567,7 @@ rewine (1):
       <title>[LWN] Racket</title>
       <link>https://racket-lang.org/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:25:02 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 03:37:59 -0000</pubDate>
       <guid isPermaLink="false">https://racket-lang.org/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1599,7 +1575,7 @@ rewine (1):
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:24:58 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 03:37:55 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1607,7 +1583,7 @@ rewine (1):
       <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
       <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:24:58 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 03:37:55 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1615,7 +1591,7 @@ rewine (1):
       <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
       <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:24:58 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 03:37:55 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1623,7 +1599,7 @@ rewine (1):
       <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
       <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:24:58 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 03:37:55 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1631,7 +1607,7 @@ rewine (1):
       <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:24:58 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 03:37:55 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1639,7 +1615,7 @@ rewine (1):
       <title>[Viva o Linux] Brave Origin chega ao Linux com modo minimalista e grátis</title>
       <link>https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:24:57 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 03:37:54 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1647,7 +1623,7 @@ rewine (1):
       <title>[Viva o Linux] Tails 7.9.1 corrige falhas no kernel e atualiza o Tor Browser</title>
       <link>https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:24:57 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 03:37:54 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1655,7 +1631,7 @@ rewine (1):
       <title>[Viva o Linux] Rocky Linux 10.2 chega com avanços em criptografia pós-quântica</title>
       <link>https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:24:57 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 03:37:54 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1663,7 +1639,7 @@ rewine (1):
       <title>[Viva o Linux] Ubuntu prepara o Myna, um ditado por IA local para falar e ver o texto aparecer</title>
       <link>https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:24:57 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 03:37:54 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1671,7 +1647,7 @@ rewine (1):
       <title>[Viva o Linux] Canonical confirma correções no Ubuntu para falha DirtyClone no kernel Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/canonical-confirma-correcoes-no-ubuntu-para-falha-dirtyclone-no-kernel-linux/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 02:24:57 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 03:37:54 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/canonical-confirma-correcoes-no-ubuntu-para-falha-dirtyclone-no-kernel-linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -3086,14 +3062,6 @@ have already been published separately and are referenced where available.</desc
       <source url="https://github.blog/feed">GitHub Blog</source>
     </item>
     <item>
-      <title>[Diolinux] Google quer regulamentação para IA, mas defende um modelo favorável à indústria</title>
-      <link>https://diolinux.com.br/noticias/google-quer-regulamentacao-para-ia.html</link>
-      <description>O Google propôs um novo modelo de regulamentação para inteligência artificial nos EUA. Entenda como funcionaria a proposta e por que ela já gera críticas.</description>
-      <pubDate>Mon, 29 Jun 2026 15:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://diolinux.com.br/?p=121980</guid>
-      <source url="https://diolinux.com.br/feed">Diolinux</source>
-    </item>
-    <item>
       <title>[4Linux] IA no Universo Kubernetes: detecte e resolva incidentes com inteligência artificial</title>
       <link>https://blog.4linux.com.br/ia-no-universo-kubernetes-detecte-e-resolva-incidentes-com-inteligencia-artificial/</link>
       <description>&lt;p&gt;Salve salve pessoal! Tudo bem com vocês? Espero que sim! Hoje trago um assunto que tenho trabalhado bastante aqui e que tenho certeza que vai fazer diferença no dia a&lt;/p&gt;
@@ -3101,14 +3069,6 @@ have already been published separately and are referenced where available.</desc
       <pubDate>Mon, 29 Jun 2026 13:28:09 -0000</pubDate>
       <guid isPermaLink="false">https://blog.4linux.com.br/?p=13539</guid>
       <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[Diolinux] Oracle promete abrir a governança do MySQL, mas a comunidade ainda cobra garantias</title>
-      <link>https://diolinux.com.br/noticias/oracle-abrir-a-governanca-do-mysql.html</link>
-      <description>A Oracle anunciou mudanças na governança do MySQL e promete maior participação da comunidade, mas desenvolvedores afirmam que ainda faltam compromissos permanentes.</description>
-      <pubDate>Mon, 29 Jun 2026 13:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://diolinux.com.br/?p=121978</guid>
-      <source url="https://diolinux.com.br/feed">Diolinux</source>
     </item>
     <item>
       <title>[It's FOSS] You Can Spend Up to $11,944 on Purism&amp;#x27;s Librem 16 Linux Laptop</title>
