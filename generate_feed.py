@@ -33,8 +33,10 @@ SOURCES = [
     ("It's FOSS", "https://itsfoss.com/feed"),
     ("The Verge", "https://www.theverge.com/rss/index.xml"),
     ("Viva o Linux", "https://www.vivaolinux.com.br/rss"),
-    ("Linux Today", "https://www.linuxtoday.com/news/feed/"),
+    ("Linux Today", "https://feeds.feedburner.com/linuxtoday/linux"),
     ("Linux Foundation", "https://www.linuxfoundation.org/feed"),
+    ("FSFLA", "https://www.fsfla.org/ikiwiki/index.all.rss"),
+    ("4Linux", "https://blog.4linux.com.br/feed/"),
 ]
 
 SCRAPE_FALLBACK = {
@@ -45,33 +47,12 @@ SCRAPE_FALLBACK = {
         "link_selector": "a",
         "title_selector": "h2, h3",
     },
-    "Linux Today": {
-        "url": "https://www.linuxtoday.com/blog/",
-        "base_url": "https://www.linuxtoday.com/",
-        "container_selector": "article",
-        "link_selector": "a",
-        "title_selector": "h2, h3",
-    },
     "Linux Foundation": {
         "url": "https://www.linuxfoundation.org/blog",
         "base_url": "https://www.linuxfoundation.org/",
         "container_selector": "article, .blog-card, .card",
         "link_selector": "a",
         "title_selector": "h2, h3",
-    },
-    "FSFLA": {
-        "url": "https://www.fsfla.org/ikiwiki/index.pt.html",
-        "base_url": "https://www.fsfla.org/",
-        "container_selector": "div#content li, div.inline li",
-        "link_selector": "a",
-        "title_selector": None,
-    },
-    "4Linux": {
-        "url": "https://blog.4linux.com.br/",
-        "base_url": "https://blog.4linux.com.br/",
-        "container_selector": "article, .post, .elementor-post",
-        "link_selector": "a",
-        "title_selector": "h2, h3, .elementor-post__title",
     },
     "LWN": {
         "url": "https://lwn.net/",
@@ -82,11 +63,11 @@ SCRAPE_FALLBACK = {
     },
 }
 
-SCRAPE_ONLY_SOURCES = ["FSFLA", "4Linux", "LWN"]
+SCRAPE_ONLY_SOURCES = ["LWN"]
 
 ITEMS_PER_SOURCE = 5
-FEED_URL = "https://ranymell0.github.io/libreufop-test/feed.xml"
-SITE_URL = "https://ranymell0.github.io/libreufop-test/"
+FEED_URL = "https://SEU_USUARIO_OU_ORG.github.io/SEU_REPO/feed.xml"
+SITE_URL = "https://SEU_USUARIO_OU_ORG.github.io/SEU_REPO/"
 
 HEADERS = {
     "User-Agent": (
