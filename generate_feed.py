@@ -1,11 +1,13 @@
 import feedparser
+import requests
+from bs4 import BeautifulSoup
 import datetime
 from email.utils import formatdate
+from urllib.parse import urljoin
 import time
 
 SOURCES = [
     ("BR-Linux", "https://br-linux.org/feed"),
-    ("Viva o Linux", "https://www.vivaolinux.com.br/rss"),
     ("Diolinux", "https://diolinux.com.br/feed"),
     ("Movimento Software Livre", "https://movimento.softwarelivre.tec.br/feed/"),
     ("Debian News", "https://www.debian.org/News/news"),
@@ -24,19 +26,75 @@ SOURCES = [
     ("FSF News", "https://www.fsf.org/news/RSS"),
     ("Planet GNU", "https://planet.gnu.org/rss20.xml"),
     ("OSI", "https://opensource.org/feed/"),
-    ("Linux Today", "https://www.linuxtoday.com/news/feed/"),
-    ("Linux Foundation", "https://www.linuxfoundation.org/feed"),
     ("kernel.org", "https://www.kernel.org/feeds/all.atom.xml"),
     ("GitHub Blog", "https://github.blog/feed"),
     ("Phoronix", "https://www.phoronix.com/rss.php"),
     ("OMG! Ubuntu", "https://www.omgubuntu.co.uk/feed"),
     ("It's FOSS", "https://itsfoss.com/feed"),
     ("The Verge", "https://www.theverge.com/rss/index.xml"),
+    ("Viva o Linux", "https://www.vivaolinux.com.br/rss"),
+    ("Linux Today", "https://www.linuxtoday.com/news/feed/"),
+    ("Linux Foundation", "https://www.linuxfoundation.org/feed"),
 ]
+
+SCRAPE_FALLBACK = {
+    "Viva o Linux": {
+        "url": "https://www.vivaolinux.com.br/",
+        "base_url": "https://www.vivaolinux.com.br/",
+        "container_selector": "div.boxAula, div.list-noticias li, article",
+        "link_selector": "a",
+        "title_selector": "h2, h3",
+    },
+    "Linux Today": {
+        "url": "https://www.linuxtoday.com/blog/",
+        "base_url": "https://www.linuxtoday.com/",
+        "container_selector": "article",
+        "link_selector": "a",
+        "title_selector": "h2, h3",
+    },
+    "Linux Foundation": {
+        "url": "https://www.linuxfoundation.org/blog",
+        "base_url": "https://www.linuxfoundation.org/",
+        "container_selector": "article, .blog-card, .card",
+        "link_selector": "a",
+        "title_selector": "h2, h3",
+    },
+    "FSFLA": {
+        "url": "https://www.fsfla.org/ikiwiki/index.pt.html",
+        "base_url": "https://www.fsfla.org/",
+        "container_selector": "div#content li, div.inline li",
+        "link_selector": "a",
+        "title_selector": None,
+    },
+    "4Linux": {
+        "url": "https://blog.4linux.com.br/",
+        "base_url": "https://blog.4linux.com.br/",
+        "container_selector": "article, .post, .elementor-post",
+        "link_selector": "a",
+        "title_selector": "h2, h3, .elementor-post__title",
+    },
+    "LWN": {
+        "url": "https://lwn.net/",
+        "base_url": "https://lwn.net/",
+        "container_selector": "div.ListLine, div.BlurbListing p",
+        "link_selector": "a",
+        "title_selector": None,
+    },
+}
+
+SCRAPE_ONLY_SOURCES = ["FSFLA", "4Linux", "LWN"]
 
 ITEMS_PER_SOURCE = 5
 FEED_URL = "https://ranymell0.github.io/libreufop-test/feed.xml"
 SITE_URL = "https://ranymell0.github.io/libreufop-test/"
+
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/124.0 Safari/537.36 LibreUFOP-FeedBot/1.0"
+    )
+}
+
 
 def escape_xml(text):
     if not text:
@@ -47,6 +105,7 @@ def escape_xml(text):
         .replace(">", "&gt;")
         .replace('"', "&quot;")
         .replace("'", "&apos;"))
+
 
 def parse_date(entry):
     for attr in ("published_parsed", "updated_parsed"):
@@ -59,10 +118,66 @@ def parse_date(entry):
                 pass
     return formatdate()
 
+
+def scrape_source(name, cfg):
+    try:
+        resp = requests.get(cfg["url"], headers=HEADERS, timeout=20)
+        resp.raise_for_status()
+    except requests.RequestException as e:
+        print(f"  [scrape] Erro ao acessar {cfg['url']}: {e}")
+        return []
+
+    soup = BeautifulSoup(resp.text, "html.parser")
+    containers = soup.select(cfg["container_selector"])
+    itens = []
+    vistos = set()
+
+    for c in containers:
+        a = c.select_one(cfg["link_selector"])
+        if not a or not a.get("href"):
+            continue
+
+        link = urljoin(cfg["base_url"], a["href"])
+        if link in vistos:
+            continue
+
+        if cfg["title_selector"]:
+            title_el = c.select_one(cfg["title_selector"])
+            titulo = title_el.get_text(strip=True) if title_el else a.get_text(strip=True)
+        else:
+            titulo = a.get_text(strip=True)
+
+        titulo = " ".join(titulo.split())
+        if not titulo or len(titulo) < 3:
+            continue
+
+        vistos.add(link)
+        itens.append({
+            "title": f"[{name}] {escape_xml(titulo)}",
+            "link": link,
+            "description": "",
+            "pubDate": formatdate(),
+            "guid": link,
+            "source_name": name,
+            "source_url": cfg["url"],
+        })
+
+        if len(itens) >= ITEMS_PER_SOURCE:
+            break
+
+    return itens
+
+
 def fetch_items():
     items = []
+    fontes_ja_feitas = set()
+
     for name, url in SOURCES:
-        print(f"Buscando: {name}")
+        if name in SCRAPE_ONLY_SOURCES:
+            continue
+
+        print(f"Buscando (feed): {name}")
+        encontrados = []
         try:
             feed = feedparser.parse(url)
             entries = feed.entries[:ITEMS_PER_SOURCE]
@@ -72,7 +187,7 @@ def fetch_items():
                 summary = escape_xml(getattr(entry, "summary", ""))
                 pub_date = parse_date(entry)
                 guid = getattr(entry, "id", link)
-                items.append({
+                encontrados.append({
                     "title": f"[{name}] {title}",
                     "link": link,
                     "description": summary,
@@ -83,8 +198,32 @@ def fetch_items():
                 })
         except Exception as e:
             print(f"  Erro em {name}: {e}")
+
+        if not encontrados and name in SCRAPE_FALLBACK:
+            print(f"  [aviso] Feed vazio para {name}, tentando scraping...")
+            encontrados = scrape_source(name, SCRAPE_FALLBACK[name])
+            if encontrados:
+                print(f"  [ok] {len(encontrados)} itens via scraping.")
+            else:
+                print(f"  [falhou] Nada encontrado nem via scraping para {name}.")
+
+        items.extend(encontrados)
+        fontes_ja_feitas.add(name)
+
+    for name in SCRAPE_ONLY_SOURCES:
+        if name not in SCRAPE_FALLBACK:
+            continue
+        print(f"Buscando (scraping): {name}")
+        encontrados = scrape_source(name, SCRAPE_FALLBACK[name])
+        if encontrados:
+            print(f"  [ok] {len(encontrados)} itens via scraping.")
+        else:
+            print(f"  [falhou] Nada encontrado para {name}.")
+        items.extend(encontrados)
+
     items.sort(key=lambda x: x["pubDate"], reverse=True)
     return items
+
 
 def generate_xml(items):
     now = formatdate()
@@ -120,6 +259,7 @@ def generate_xml(items):
 
     xml += "\n  </channel>\n</rss>\n"
     return xml
+
 
 if __name__ == "__main__":
     print("Iniciando agregação de feeds...")
