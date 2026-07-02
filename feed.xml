@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Wed, 01 Jul 2026 23:18:16 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 02:10:56 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://ranymell0.github.io/libreufop-test/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -94,6 +94,14 @@ must be tested before they can be …&lt;/dd&gt;&lt;/dl&gt;</description>
       <source url="https://github.com/hyprwm/Hyprland/releases.atom">Hyprland</source>
     </item>
     <item>
+      <title>[Linux Mint Blog] Monthly News – January 2026</title>
+      <link>https://blog.linuxmint.com/?p=4991</link>
+      <description>Hi everyone, Before we start with the news, I&amp;#8217;d like to thank you for your donations and for your support! We received donations from more than a thousand people in December! I know I talked about this before, but I&amp;#8217;ll do it again because this number of donors in a single month is unprecedented. I [&amp;#8230;]</description>
+      <pubDate>Wed, 11 Feb 2026 15:36:15 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.linuxmint.com/?p=4991</guid>
+      <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
+    </item>
+    <item>
       <title>[OSI] From G7’s Vision on AI Openness to EU’s Tech Sovereignty Package</title>
       <link>https://opensource.org/blog/from-g7s-vision-on-ai-openness-to-eus-tech-sovereignty-package</link>
       <description>Members Newsletter – June 2026
@@ -109,6 +117,14 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <pubDate>Wed, 06 Nov 2024 17:26:52 -0000</pubDate>
       <guid isPermaLink="false">tag:github.com,2008:Repository/30291090/4.24</guid>
       <source url="https://github.com/i3/i3/releases.atom">i3wm</source>
+    </item>
+    <item>
+      <title>[Linux Mint Blog] Monthly News – February 2026</title>
+      <link>https://blog.linuxmint.com/?p=5010</link>
+      <description>Hi everyone, First of all, thank you for your support and your donation! And many thanks to all the people involved in helping Linux Mint. Here&amp;#8217;s a preview of what we worked on recently, and which will be featured in the next release. Sensors A page dedicated to sensors was added to the System Reports [&amp;#8230;]</description>
+      <pubDate>Wed, 04 Mar 2026 15:01:31 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.linuxmint.com/?p=5010</guid>
+      <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
     </item>
     <item>
       <title>[Diolinux] O alerta do BIS: a bolha da IA pode estourar e arrastar a economia global</title>
@@ -127,6 +143,15 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
     </item>
     <item>
+      <title>[OMG! Ubuntu] Linux App Release Roundup (June 2026)</title>
+      <link>https://www.omgubuntu.co.uk/2026/07/linux-app-release-roundup-june-2026</link>
+      <description>&lt;p&gt;&lt;img alt=&quot;Bag fill with app icons, Tux the Linux mascot behind.&quot; class=&quot;attachment-post-list size-post-list wp-post-image&quot; height=&quot;232&quot; src=&quot;https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/07/linux-app-release-roundup-june-2026.webp?resize=406%2C232&amp;amp;ssl=1&quot; width=&quot;406&quot; /&gt;June was sweltering, yet the heat didn&amp;#8217;t affect developers too badly as a slew of updates to popular open-source Linux software made it out last month. We saw Firefox 152 released with its new-look settings page. The media converter HandBrake wrangled its WebM handling on Linux. And the Audacity 4.0 beta made its brand-new design available for public scrutiny – mainly of the &amp;#8216;finally, it doesn&amp;#8217;t look bad&amp;#8217; variety. But scores of smaller, minor and maintenance updates made it out too. Cine gained Watch History I spotlighted the Cine Linux video player earlier this year. It&amp;#8217;s an MPV-based player with [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;You&apos;re reading &lt;a href=&quot;https://www.omgubuntu.co.uk/2026/07/linux-app-release-roundup-june-2026&quot;&gt;Linux App Release Roundup (June 2026)&lt;/a&gt;, a blog post from &lt;a href=&quot;https://www.omgubuntu.co.uk&quot;&gt;OMG! Ubuntu&lt;/a&gt;. Do not reproduce elsewhere without permission.&lt;/p&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 22:35:00 -0000</pubDate>
+      <guid isPermaLink="false">https://www.omgubuntu.co.uk/?p=333876</guid>
+      <source url="https://www.omgubuntu.co.uk/feed">OMG! Ubuntu</source>
+    </item>
+    <item>
       <title>[The Verge] The funeral for PlayStation discs has begun</title>
       <link>https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores</link>
       <description>Cody Spencer, the co-owner of the small games retail chain Pink Gorilla Games, put it well when I asked about the impact of Sony&apos;s recent announcement that it will stop making discs for new games starting January 2028. &quot;It&apos;s sad to see. This decision is only a negative for gamers. We&apos;re losing the ability to [&amp;#8230;]</description>
@@ -138,7 +163,7 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <title>[Planet GNU] FSF Blogs: We&apos;re campaigning for free software. We need your help</title>
       <link>http://www.fsf.org/blogs/community/2026-were-campaigning-for-free-software</link>
       <description></description>
-      <pubDate>Wed, 01 Jul 2026 21:44:57 -0000</pubDate>
+      <pubDate>Wed, 01 Jul 2026 21:45:00 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsf.org/blogs/community/2026-were-campaigning-for-free-software</guid>
       <source url="https://planet.gnu.org/rss20.xml">Planet GNU</source>
     </item>
@@ -261,14 +286,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://github.blog/feed">GitHub Blog</source>
     </item>
     <item>
-      <title>[Phoronix] AMD Sends Out Latest Linux Patches For RMPOPT Optimization</title>
-      <link>https://www.phoronix.com/news/AMD-RMPOPT-Linux-v10</link>
-      <description>Earlier this year AMD disclosed the RMPOPT instruction that given the timing will seemingly be introduced with upcoming Zen 6 EPYC &quot;Venice&quot; processors. The RMPOPT feature amounts to a performance optimization for AMD EPYC SEV-SNP enabled servers by cutting down on the associated Reverse Map Table (RMP) overhead. Linux enablement of AMD RMPOPT remains ongoing and out this week is the latest iteration of the enablement...</description>
-      <pubDate>Wed, 01 Jul 2026 15:38:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/AMD-RMPOPT-Linux-v10</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
-    </item>
-    <item>
       <title>[BR-Linux] COSMIC 1.2.0: nova versão do desktop traz refinamentos e amplia suporte para placas Intel</title>
       <link>https://br-linux.org/2026/01/cosmic-120-nova-versao-do-desktop-traz-refinamentos-e-amplia-suporte-para-placas-intel.html</link>
       <description>A nova versão do ambiente COSMIC chega apenas uma semana desde a atualização anterior, resolvendo uma oscilação na tela ao abrir a visão geral do desktop, corrigindo um possível travamento ao lidar com arquivos compactados,</description>
@@ -332,14 +349,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <pubDate>Wed, 01 Jul 2026 14:07:00 -0000</pubDate>
       <guid isPermaLink="false">https://diolinux.com.br/?p=122043</guid>
       <source url="https://diolinux.com.br/feed">Diolinux</source>
-    </item>
-    <item>
-      <title>[Phoronix] Glibc Introduces /etc/tunables.conf For System-Wide Tunables</title>
-      <link>https://www.phoronix.com/news/Glibc-System-Tunables</link>
-      <description>Red Hat has contributed new system-wide tunables infrastructure to the GNU C Library &quot;glibc&quot; that allows specifying system-wide tunables via the new /etc/tunables.conf configuration file...</description>
-      <pubDate>Wed, 01 Jul 2026 13:32:03 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/Glibc-System-Tunables</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
     <item>
       <title>[Planet KDE] Steam Deck and Wayland</title>
@@ -627,6 +636,14 @@ addresses. We do not have the resources to reply to them.&lt;/strong&gt;&lt;/p&g
       <source url="https://www.kernel.org/feeds/all.atom.xml">kernel.org</source>
     </item>
     <item>
+      <title>[Linux Mint Blog] Monthly News – April 2026</title>
+      <link>https://blog.linuxmint.com/?p=5022</link>
+      <description>Hi everyone, Thank you for your support and your donations! Many thanks to everyone involved in helping Linux Mint. HWE ISOs Earlier this month we announced a longer development cycle and the decision not to release until Christmas 2026. To address compatibility issues with brand new hardware, we decided to start publishing updated ISO images [&amp;#8230;]</description>
+      <pubDate>Thu, 30 Apr 2026 16:42:56 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.linuxmint.com/?p=5022</guid>
+      <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
+    </item>
+    <item>
       <title>[BigLinux] BigLinux traz novos kerneis no seu repositório oficial.</title>
       <link>https://www.biglinux.com.br/biglinux-tras-novos-kerneis-no-seu-repositorio-oficial/</link>
       <description>&lt;p&gt;Xanmod, Liquorix (lqx), Zen, TKG e Cachyos (alem dos kerneis tradicionais e RT fornecidos pela base manjaro).Todos disponíveis na loja BigStore. Lista completa de novos kerneis:linux-xanmodlinux-xanmod-ltslinux-xanmod-rt linux-lqx linux-zen-515lts linux61-tkg-bmqlinux61-tkg-cfslinux61-tkg-pds linux-cachyoslinux-cachyos-bmqlinux-cachyos-borelinux-cachyos-caculelinux-cachyos-cfslinux-cachyos-pdslinux-cachyos-tt&lt;/p&gt;
@@ -875,15 +892,6 @@ rewine (1):
       <source url="https://github.com/swaywm/sway/releases.atom">Sway</source>
     </item>
     <item>
-      <title>[OMG! Ubuntu] Fed up with complex note taking apps? Try Whisp for Linux</title>
-      <link>https://www.omgubuntu.co.uk/2026/06/whisp-linux-scratchpad</link>
-      <description>&lt;p&gt;&lt;img alt=&quot;Whisp scratchpad showing notes, backgrounds and data picker.&quot; class=&quot;attachment-post-list size-post-list wp-post-image&quot; height=&quot;232&quot; src=&quot;https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/06/whisp.webp?resize=406%2C232&amp;amp;ssl=1&quot; width=&quot;406&quot; /&gt;Whisp is a Linux notes app with a difference. A gesture-driven GTK4/libadwaita UI offering a scratchpad for note taking. Inspired by Antinote for macOS.&lt;/p&gt;
-&lt;p&gt;You&apos;re reading &lt;a href=&quot;https://www.omgubuntu.co.uk/2026/06/whisp-linux-scratchpad&quot;&gt;Fed up with complex note taking apps? Try Whisp for Linux&lt;/a&gt;, a blog post from &lt;a href=&quot;https://www.omgubuntu.co.uk&quot;&gt;OMG! Ubuntu&lt;/a&gt;. Do not reproduce elsewhere without permission.&lt;/p&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 21:10:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.omgubuntu.co.uk/?p=334386</guid>
-      <source url="https://www.omgubuntu.co.uk/feed">OMG! Ubuntu</source>
-    </item>
-    <item>
       <title>[Ubuntu Blog] Hunting a 16-year-old SQLite bug with TLA+: is dqlite affected?</title>
       <link>https://ubuntu.com//blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected</link>
       <description>&lt;p&gt;This article was written by Marco Manino and Alberto Carretero, dqlite team at Canonical. 1. Anatomy of a SQLite bug Recently SQLite published a new version with a fix to a long-standing bug in the way that the Write Ahead Log (WAL) is checkpointed that leads to the corruption of the database. The important aspect [&amp;hellip;]&lt;/p&gt;</description>
@@ -968,6 +976,14 @@ rewine (1):
       <source url="https://opensource.org/feed/">OSI</source>
     </item>
     <item>
+      <title>[Linux Mint Blog] Monthly News – March 2026</title>
+      <link>https://blog.linuxmint.com/?p=5019</link>
+      <description>Hi everyone, Before we start with the news, I’d like to apologize for posting so late. Release Strategy In February I mentioned we were at a crossroads and that it was the right time to consider important changes. The following decisions were made: Linux Mint will adopt a longer development lifecycle. The next release is [&amp;#8230;]</description>
+      <pubDate>Thu, 16 Apr 2026 11:27:22 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.linuxmint.com/?p=5019</guid>
+      <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
+    </item>
+    <item>
       <title>[Xfce News] Xfce 4.18 released</title>
       <link>https://xfce.org/about/news/?post=1671062400</link>
       <description>After almost two years of work, we are happy to announce the release of Xfce 4.18 !</description>
@@ -1018,6 +1034,142 @@ rewine (1):
       <pubDate>Thu, 11 Jun 2026 08:00:00 -0000</pubDate>
       <guid isPermaLink="false">https://fedoramagazine.org/?p=43490</guid>
       <source url="https://fedoramagazine.org/feed">Fedora Magazine</source>
+    </item>
+    <item>
+      <title>[LWN] local BPF storage API</title>
+      <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 02:10:56 -0000</pubDate>
+      <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1078968/</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 02:10:56 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1078968/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Secure Boot</title>
+      <link>https://en.wikipedia.org/wiki/UEFI#Secure_Boot</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 02:10:56 -0000</pubDate>
+      <guid isPermaLink="false">https://en.wikipedia.org/wiki/UEFI#Secure_Boot</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1079808/</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 02:10:56 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1079808/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Racket</title>
+      <link>https://racket-lang.org/</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 02:10:56 -0000</pubDate>
+      <guid isPermaLink="false">https://racket-lang.org/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Measuring OSPO Value</title>
+      <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 02:10:53 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
+      <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 02:10:53 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
+      <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 02:10:53 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
+      <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 02:10:53 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 02:10:53 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Brave Origin chega ao Linux com modo minimalista e grátis</title>
+      <link>https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 02:10:52 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Tails 7.9.1 corrige falhas no kernel e atualiza o Tor Browser</title>
+      <link>https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 02:10:52 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Rocky Linux 10.2 chega com avanços em criptografia pós-quântica</title>
+      <link>https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 02:10:52 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Ubuntu prepara o Myna, um ditado por IA local para falar e ver o texto aparecer</title>
+      <link>https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 02:10:52 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Canonical confirma correções no Ubuntu para falha DirtyClone no kernel Linux</title>
+      <link>https://www.vivaolinux.com.br/noticia/canonical-confirma-correcoes-no-ubuntu-para-falha-dirtyclone-no-kernel-linux/</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 02:10:52 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/canonical-confirma-correcoes-no-ubuntu-para-falha-dirtyclone-no-kernel-linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Phoronix] Fedora Council Seeks To Shutdown Current Discussions Over AI Developer Desktop</title>
+      <link>https://www.phoronix.com/news/Fedora-Council-AI-Desktop</link>
+      <description>Stemming from the widely varying views over the recent Fedora proposal for an &quot;AI Developer Desktop&quot; catering to running local AI and machine learning workloads in pre-configured environments with a seamless hardware-accelerated experience, the Fedora Council issued a statement this evening to effectively shutdown discussions for now over a Fedora AI Developer Desktop and to pause the Fedora Community Initiatives process...</description>
+      <pubDate>Thu, 02 Jul 2026 01:40:00 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/Fedora-Council-AI-Desktop</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[Phoronix] Steam On Linux Usage Receded A Bit In June</title>
+      <link>https://www.phoronix.com/news/Steam-Survey-June-2026</link>
+      <description>Back in March Steam on Linux use shot up to 5.33% as a big 3.1% improvement over February. In April it dropped to 4.52% and then fell to 3.99% in May. Valve just published the Steam Survey numbers for June and it points to another minor setback from the recent all-time high of Steam on Linux...</description>
+      <pubDate>Thu, 02 Jul 2026 00:23:25 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/Steam-Survey-June-2026</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
     <item>
       <title>[i3wm] 4.23</title>
@@ -1590,6 +1742,14 @@ odyxz (1):
       <pubDate>Sat, 28 Feb 2015 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">https://xfce.org/about/news/?post=1425081600</guid>
       <source url="https://xfce.org/feed">Xfce News</source>
+    </item>
+    <item>
+      <title>[Linux Mint Blog] Monthly News – May 2026</title>
+      <link>https://blog.linuxmint.com/?p=5025</link>
+      <description>Hi everyone, We&amp;#8217;ve got a lot of exciting news this month! But first of all, let us thank everyone involved in helping our project. Many thanks for your support and your donations! Note that the improvements and features mentioned in this blog post are planned for the next version of Linux Mint, which is scheduled [&amp;#8230;]</description>
+      <pubDate>Sat, 23 May 2026 14:32:46 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.linuxmint.com/?p=5025</guid>
+      <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
     </item>
     <item>
       <title>[Hyprland] v0.55.2</title>
