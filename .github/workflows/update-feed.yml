@@ -19,7 +19,7 @@ jobs:
           python-version: "3.11"
 
       - name: Instala dependências
-        run: pip install feedparser
+        run: pip install feedparser requests beautifulsoup4
 
       - name: Gera feed.xml
         run: python generate_feed.py
