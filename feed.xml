@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 02 Jul 2026 19:25:06 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 21:07:06 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://SEU_USUARIO_OU_ORG.github.io/SEU_REPO/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -744,14 +744,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://www.omgubuntu.co.uk/feed">OMG! Ubuntu</source>
     </item>
     <item>
-      <title>[Diolinux] Linux Foundation quer criar um “DNS para agentes de IA” com identidades verificadas</title>
-      <link>https://diolinux.com.br/noticias/linux-foundation-dns-agentes-de-ia.html</link>
-      <description>A Linux Foundation anunciou o Agent Name Service (ANS), um padrão aberto que usa o DNS para criar identidades verificáveis para agentes de IA, aumentando segurança, confiança e interoperabilidade.</description>
-      <pubDate>Wed, 01 Jul 2026 14:07:00 -0000</pubDate>
-      <guid isPermaLink="false">https://diolinux.com.br/?p=122043</guid>
-      <source url="https://diolinux.com.br/feed">Diolinux</source>
-    </item>
-    <item>
       <title>[openSUSE News] Tumbleweed Monthly Update - June 2026</title>
       <link>https://news.opensuse.org/2026/07/01/tw-monthly-update-june/</link>
       <description>Contributors to openSUSE had a great time at the openSUSE Conference in June. Even as many of them gathered in Nuremberg to discuss how to drive development of the rolling release forward, software package updates for openSUSE Tumbleweed kept rolling out. June brought major version bumps across the stack with...</description>
@@ -1416,7 +1408,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1080162/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 19:25:06 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 21:07:06 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1080162/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1424,7 +1416,7 @@ rewine (1):
       <title>[LWN] local BPF storage API</title>
       <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 19:25:06 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 21:07:06 -0000</pubDate>
       <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1432,7 +1424,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1078968/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 19:25:06 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 21:07:06 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1078968/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1440,7 +1432,7 @@ rewine (1):
       <title>[LWN] Secure Boot</title>
       <link>https://en.wikipedia.org/wiki/UEFI#Secure_Boot</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 19:25:06 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 21:07:06 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/UEFI#Secure_Boot</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1448,7 +1440,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1079808/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 19:25:06 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 21:07:06 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1079808/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1456,7 +1448,7 @@ rewine (1):
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 19:25:00 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 21:07:02 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1464,7 +1456,7 @@ rewine (1):
       <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
       <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 19:25:00 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 21:07:02 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1472,7 +1464,7 @@ rewine (1):
       <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
       <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 19:25:00 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 21:07:02 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1480,7 +1472,7 @@ rewine (1):
       <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
       <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 19:25:00 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 21:07:02 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1488,15 +1480,23 @@ rewine (1):
       <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 19:25:00 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 21:07:02 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Vaticano cria comissão para coordenar uso de inteligência artificial entre seus órgãos</title>
+      <link>https://www.vivaolinux.com.br/noticia/vaticano-cria-comissao-para-coordenar-uso-de-inteligencia-artificial-entre-seus-orgaos/</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 21:07:01 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/vaticano-cria-comissao-para-coordenar-uso-de-inteligencia-artificial-entre-seus-orgaos/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Viva o Linux] Brave Origin chega ao Linux com modo minimalista e grátis</title>
       <link>https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 19:24:59 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 21:07:01 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1504,7 +1504,7 @@ rewine (1):
       <title>[Viva o Linux] Tails 7.9.1 corrige falhas no kernel e atualiza o Tor Browser</title>
       <link>https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 19:24:59 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 21:07:01 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1512,7 +1512,7 @@ rewine (1):
       <title>[Viva o Linux] Rocky Linux 10.2 chega com avanços em criptografia pós-quântica</title>
       <link>https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 19:24:59 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 21:07:01 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1520,17 +1520,25 @@ rewine (1):
       <title>[Viva o Linux] Ubuntu prepara o Myna, um ditado por IA local para falar e ver o texto aparecer</title>
       <link>https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 19:24:59 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 21:07:01 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
-      <title>[Viva o Linux] Canonical confirma correções no Ubuntu para falha DirtyClone no kernel Linux</title>
-      <link>https://www.vivaolinux.com.br/noticia/canonical-confirma-correcoes-no-ubuntu-para-falha-dirtyclone-no-kernel-linux/</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 19:24:59 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/canonical-confirma-correcoes-no-ubuntu-para-falha-dirtyclone-no-kernel-linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+      <title>[The Verge] The best July 4th sales we found so far</title>
+      <link>https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale</link>
+      <description>July 4th sales are typically a precursor to what we&amp;#8217;d see during a mid-July Prime Day, but obviously things are flipped around this year. Last week&amp;#8217;s big Prime Day sale is over, yet there are a number of familiar deals still poking around in the week leading up to the nation&amp;#8217;s birthday. Best Buy is [&amp;#8230;]</description>
+      <pubDate>Thu, 02 Jul 2026 20:15:45 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=958906</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[Diolinux] Nova versão do COSMIC, brecha no LastPass e a IA continua encarecendo tudo</title>
+      <link>https://diolinux.com.br/noticias/nova-versao-do-cosmic.html</link>
+      <description>Nova versão do COSMIC traz monitor do sistema próprio, LastPass enfrenta mais um incidente de segurança, Microsoft e Apple aumentam preços e muito mais no Diolinux News da semana.</description>
+      <pubDate>Thu, 02 Jul 2026 19:42:23 -0000</pubDate>
+      <guid isPermaLink="false">https://diolinux.com.br/?p=122081</guid>
+      <source url="https://diolinux.com.br/feed">Diolinux</source>
     </item>
     <item>
       <title>[The Verge] Weber marks down grills and griddles to their best prices ever for July 4th</title>
@@ -1603,14 +1611,6 @@ rewine (1):
       <description>If you don’t want to spend $180 on the Elgato Key Light, the Godox ES45 Desktop LED Key Light is a more affordable option that offers nearly as much brightness and plenty of features, including adjustable brightness and color temperature. Right now, it’s cheaper than usual for the first time this year, selling for $119 [&amp;#8230;]</description>
       <pubDate>Thu, 02 Jul 2026 15:00:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=960664</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>[The Verge] Tesla&amp;#8217;s Q2 sales jump 25 percent</title>
-      <link>https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report</link>
-      <description>Tesla just released its second-quarter delivery and production report, showing that the automaker is starting to recover after a particularly brutal sales year in 2025. The company said that it produced a total of 451,758 vehicles between April and June of this year, including 442,936 Model 3 and Model Y vehicles, as well as 8,822 [&amp;#8230;]</description>
-      <pubDate>Thu, 02 Jul 2026 14:14:48 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=957685</guid>
       <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
     </item>
     <item>
