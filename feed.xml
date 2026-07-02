@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 02 Jul 2026 10:42:57 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 12:58:45 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://SEU_USUARIO_OU_ORG.github.io/SEU_REPO/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -665,14 +665,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://planet.gnu.org/rss20.xml">Planet GNU</source>
     </item>
     <item>
-      <title>[The Verge] Xbox’s ‘reset’: all the news about Microsoft&amp;#8217;s looming layoffs and studio closures</title>
-      <link>https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures</link>
-      <description>Xbox is making some big changes — again. On June 10th, a few months after Asha Sharma took over as CEO, she and newly promoted chief content officer Matt Booty sent a memo to staff warning of an &amp;#8220;Xbox reset.&amp;#8221; The business, they said, is facing significant challenges, including a 3 percent &amp;#8220;accountability margin,&amp;#8221; massively [&amp;#8230;]</description>
-      <pubDate>Wed, 01 Jul 2026 21:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?post_type=vm_stream&amp;p=959900</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
       <title>[Planet KDE] This month in KDE Linux: June 2026</title>
       <link>https://pointieststick.com/2026/07/01/this-month-in-kde-linux-june-2026/</link>
       <description>&lt;div class=&quot;wp-block-image&quot;&gt;
@@ -718,22 +710,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://planet.kde.org/index.xml">Planet KDE</source>
     </item>
     <item>
-      <title>[BR-Linux] Linux no PlayStation 5: PS5-Linux agora roda em mais modelos e mais versões de firmware</title>
-      <link>https://br-linux.org/2026/01/linux-no-playstation-5-ps5-linux-agora-roda-em-mais-modelos-e-mais-versoes-de-firmware.html</link>
-      <description>O projeto ps5-linux continua expandindo o suporte, que passou a incluir também as versões de firmware 7.61, 7.20 e 6.50 – não apenas nos modelos originais maiorzões, mas também em alguns dos PlayStation 5 Slim.</description>
-      <pubDate>Wed, 01 Jul 2026 18:12:19 -0000</pubDate>
-      <guid isPermaLink="false">https://br-linux.org/2026/01/linux-no-playstation-5-ps5-linux-agora-roda-em-mais-modelos-e-mais-versoes-de-firmware.html</guid>
-      <source url="https://br-linux.org/feed">BR-Linux</source>
-    </item>
-    <item>
-      <title>[BR-Linux] Linux rodando (bem devagar) no Sega MegaDrive</title>
-      <link>https://br-linux.org/2026/01/linux-rodando-bem-devagar-no-sega-megadrive.html</link>
-      <description>O desenvolvedor Daniel Palmer anunciou, e disponibilizou o código, do seu port minimalista do Linux para o videogame Sega MegaDrive, de 1988.</description>
-      <pubDate>Wed, 01 Jul 2026 18:07:49 -0000</pubDate>
-      <guid isPermaLink="false">https://br-linux.org/2026/01/linux-rodando-bem-devagar-no-sega-megadrive.html</guid>
-      <source url="https://br-linux.org/feed">BR-Linux</source>
-    </item>
-    <item>
       <title>[GitHub Blog] 6 security settings every GitHub maintainer should enable this week</title>
       <link>https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/</link>
       <description>&lt;p&gt;These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it was before.&lt;/p&gt;
@@ -743,28 +719,12 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://github.blog/feed">GitHub Blog</source>
     </item>
     <item>
-      <title>[BR-Linux] COSMIC 1.2.0: nova versão do desktop traz refinamentos e amplia suporte para placas Intel</title>
-      <link>https://br-linux.org/2026/01/cosmic-120-nova-versao-do-desktop-traz-refinamentos-e-amplia-suporte-para-placas-intel.html</link>
-      <description>A nova versão do ambiente COSMIC chega apenas uma semana desde a atualização anterior, resolvendo uma oscilação na tela ao abrir a visão geral do desktop, corrigindo um possível travamento ao lidar com arquivos compactados,</description>
-      <pubDate>Wed, 01 Jul 2026 14:50:24 -0000</pubDate>
-      <guid isPermaLink="false">https://br-linux.org/2026/01/cosmic-120-nova-versao-do-desktop-traz-refinamentos-e-amplia-suporte-para-placas-intel.html</guid>
-      <source url="https://br-linux.org/feed">BR-Linux</source>
-    </item>
-    <item>
       <title>[Planet GNU] FSF Blogs: June GNU Spotlight with Amin Bandali featuring eighteen new GNU releases: Linux-libre, Direvent, and more!</title>
       <link>http://www.fsf.org/blogs/community/2026-june-gnu-spotlight</link>
       <description></description>
       <pubDate>Wed, 01 Jul 2026 14:34:49 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsf.org/blogs/community/2026-june-gnu-spotlight</guid>
       <source url="https://planet.gnu.org/rss20.xml">Planet GNU</source>
-    </item>
-    <item>
-      <title>[BR-Linux] Site OS News vai recusar cobrir os sistemas “sloperacioniais” – e eu aplaudo</title>
-      <link>https://br-linux.org/2026/01/site-os-news-vai-recusar-cobrir-os-sistemas-sloperacioniais-e-eu-aplaudo.html</link>
-      <description>O Thom Holwerda (@thomholwerda@exquisite⸱social) avisa que não vai mais cobrir no OS News os novos &quot;sistemas operacionais&quot; que tem surgido como parte da onda de slop produzida pelos usuários de IA.</description>
-      <pubDate>Wed, 01 Jul 2026 14:27:35 -0000</pubDate>
-      <guid isPermaLink="false">https://br-linux.org/2026/01/site-os-news-vai-recusar-cobrir-os-sistemas-sloperacioniais-e-eu-aplaudo.html</guid>
-      <source url="https://br-linux.org/feed">BR-Linux</source>
     </item>
     <item>
       <title>[Planet KDE] A Cross-Platform Rust UI Framework via Qt’s Bridging Technology</title>
@@ -894,14 +854,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <pubDate>Tue, 30 Jun 2026 14:42:23 -0000</pubDate>
       <guid isPermaLink="false">6a43322c46ba4400013fca29</guid>
       <source url="https://itsfoss.com/feed">It&apos;s FOSS</source>
-    </item>
-    <item>
-      <title>[BR-Linux] 90% – Krita se sai muito bem em comparativo para substituir Photoshop</title>
-      <link>https://br-linux.org/2026/01/90-krita-se-sai-muito-bem-em-comparativo-para-substituir-photoshop.html</link>
-      <description>O Krita não é o primeiro nome que vem à cabeça quando se pensa em aplicativo open source para substituir o Photoshop, mas mereceria ser, pois faz muito mais do que a sua reputação sugere.</description>
-      <pubDate>Tue, 30 Jun 2026 14:41:22 -0000</pubDate>
-      <guid isPermaLink="false">https://br-linux.org/2026/01/90-krita-se-sai-muito-bem-em-comparativo-para-substituir-photoshop.html</guid>
-      <source url="https://br-linux.org/feed">BR-Linux</source>
     </item>
     <item>
       <title>[Ubuntu Blog] Canonical becomes Gold Sponsor of Trifecta Tech Foundation</title>
@@ -1523,7 +1475,7 @@ rewine (1):
       <title>[LWN] local BPF storage API</title>
       <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 10:42:57 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 12:58:45 -0000</pubDate>
       <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1531,7 +1483,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1078968/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 10:42:57 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 12:58:45 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1078968/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1539,7 +1491,7 @@ rewine (1):
       <title>[LWN] Secure Boot</title>
       <link>https://en.wikipedia.org/wiki/UEFI#Secure_Boot</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 10:42:57 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 12:58:45 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/UEFI#Secure_Boot</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1547,7 +1499,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1079808/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 10:42:57 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 12:58:45 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1079808/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1555,55 +1507,15 @@ rewine (1):
       <title>[LWN] Racket</title>
       <link>https://racket-lang.org/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 10:42:57 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 12:58:45 -0000</pubDate>
       <guid isPermaLink="false">https://racket-lang.org/</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Measuring OSPO Value</title>
-      <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 10:42:52 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
-      <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 10:42:52 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
-      <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 10:42:52 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
-      <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 10:42:52 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 10:42:52 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[Viva o Linux] Brave Origin chega ao Linux com modo minimalista e grátis</title>
       <link>https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 10:42:51 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 12:58:41 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1611,7 +1523,7 @@ rewine (1):
       <title>[Viva o Linux] Tails 7.9.1 corrige falhas no kernel e atualiza o Tor Browser</title>
       <link>https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 10:42:51 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 12:58:41 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1619,7 +1531,7 @@ rewine (1):
       <title>[Viva o Linux] Rocky Linux 10.2 chega com avanços em criptografia pós-quântica</title>
       <link>https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 10:42:51 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 12:58:41 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1627,7 +1539,7 @@ rewine (1):
       <title>[Viva o Linux] Ubuntu prepara o Myna, um ditado por IA local para falar e ver o texto aparecer</title>
       <link>https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 10:42:51 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 12:58:41 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1635,9 +1547,129 @@ rewine (1):
       <title>[Viva o Linux] Canonical confirma correções no Ubuntu para falha DirtyClone no kernel Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/canonical-confirma-correcoes-no-ubuntu-para-falha-dirtyclone-no-kernel-linux/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 10:42:51 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 12:58:41 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/canonical-confirma-correcoes-no-ubuntu-para-falha-dirtyclone-no-kernel-linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Measuring OSPO Value</title>
+      <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 12:58:41 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
+      <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 12:58:41 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
+      <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 12:58:41 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
+      <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 12:58:41 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
+      <description></description>
+      <pubDate>Thu, 02 Jul 2026 12:58:41 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[BR-Linux] RootBoard: computador de bolso feito para rodar Linux</title>
+      <link>https://br-linux.org/2026/01/rootboard-computador-de-bolso-feito-para-rodar-linux.html</link>
+      <description>O RootBoard promete ser um computador Linux portátil, com teclado, tela e alto-falantes de verdade, e hardware totalmente aberto, construído para makers, e baseado em plaquinhas da classe Pi Zero.</description>
+      <pubDate>Thu, 02 Jul 2026 12:42:01 -0000</pubDate>
+      <guid isPermaLink="false">https://br-linux.org/2026/01/rootboard-computador-de-bolso-feito-para-rodar-linux.html</guid>
+      <source url="https://br-linux.org/feed">BR-Linux</source>
+    </item>
+    <item>
+      <title>[BR-Linux] Signal é o app favorito da Casa Branca quando querem conversar sem deixar rastros</title>
+      <link>https://br-linux.org/2026/01/signal-e-o-app-favorito-da-casa-branca-quando-querem-conversar-sem-deixar-rastros.html</link>
+      <description>Mais uma vez, vaza a opção de figurões do governo dos EUA pelo uso do app Signal quando querem tentar burlar a legislação que exige que as suas comunicações sejam objeto de registro público.</description>
+      <pubDate>Thu, 02 Jul 2026 12:30:59 -0000</pubDate>
+      <guid isPermaLink="false">https://br-linux.org/2026/01/signal-e-o-app-favorito-da-casa-branca-quando-querem-conversar-sem-deixar-rastros.html</guid>
+      <source url="https://br-linux.org/feed">BR-Linux</source>
+    </item>
+    <item>
+      <title>[BR-Linux] Tails 7.9.1: Distribuição com foco em privacidade atualiza Tor e corrige vulnerabilidade no kernel</title>
+      <link>https://br-linux.org/2026/01/tails-791-distribuicao-com-foco-em-privacidade-atualiza-tor-e-corrige-vulnerabilidade-no-kernel.html</link>
+      <description>O Tails 7.9.1, mantendo seu foco na privacidade, chega trazendo o kernel Linux 6.12.94, que corrige a recente vulnerabilidade DirtyClone.</description>
+      <pubDate>Thu, 02 Jul 2026 12:27:07 -0000</pubDate>
+      <guid isPermaLink="false">https://br-linux.org/2026/01/tails-791-distribuicao-com-foco-em-privacidade-atualiza-tor-e-corrige-vulnerabilidade-no-kernel.html</guid>
+      <source url="https://br-linux.org/feed">BR-Linux</source>
+    </item>
+    <item>
+      <title>[BR-Linux] Seis ferramentas de backup para uso no Linux</title>
+      <link>https://br-linux.org/2026/01/seis-ferramentas-de-backup-para-uso-no-linux.html</link>
+      <description>Usuários clássicos ou jurássicos ainda fazemos backup com o tar e acham suficiente, mas esse artigo do itsfoss  vai bem além e descreve 6 ferramentas mais modernas e interativas para essa tarefa.</description>
+      <pubDate>Thu, 02 Jul 2026 12:24:09 -0000</pubDate>
+      <guid isPermaLink="false">https://br-linux.org/2026/01/seis-ferramentas-de-backup-para-uso-no-linux.html</guid>
+      <source url="https://br-linux.org/feed">BR-Linux</source>
+    </item>
+    <item>
+      <title>[BR-Linux] Obrigado por tanto: Vint Cerf, pai da Internet, se aposenta aos 83 anos</title>
+      <link>https://br-linux.org/2026/01/obrigado-por-tanto-vint-cerf-pai-da-internet-se-aposenta-aos-83-anos.html</link>
+      <description>Vinton Cerf, um dos criadores dos protocolos básicos da Internet, deixará na próxima semana o seu cargo de evangelista-chefe da Internet no Google.</description>
+      <pubDate>Thu, 02 Jul 2026 12:19:57 -0000</pubDate>
+      <guid isPermaLink="false">https://br-linux.org/2026/01/obrigado-por-tanto-vint-cerf-pai-da-internet-se-aposenta-aos-83-anos.html</guid>
+      <source url="https://br-linux.org/feed">BR-Linux</source>
+    </item>
+    <item>
+      <title>[Phoronix] Vibe Coded X11 Server Written In Rust Adds Xinerama, FreeBSD Support &amp; Other Features</title>
+      <link>https://www.phoronix.com/news/YSERVER-1.3-Released</link>
+      <description>One month ago we reported on YSERVER as a modern X11 server written in Rust with the help of Claude Code. Since then YSERVER has continued to advance in supporting more X11 functionality thanks to the help of Claude Code (AI) and out today is version 1.3 o this display server...</description>
+      <pubDate>Thu, 02 Jul 2026 12:15:00 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/YSERVER-1.3-Released</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[Phoronix] KDE Plasma Affected By Arbitrary Code Execution To Break Sandboxes With &quot;Open New Window&quot;</title>
+      <link>https://www.phoronix.com/news/KDE-Plasma-ACE-New-Window</link>
+      <description>A security disclosure has been made public today for a yet-to-be-patched arbitrary code execution vulnerability with the KDE Plasma desktop...</description>
+      <pubDate>Thu, 02 Jul 2026 11:51:00 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/KDE-Plasma-ACE-New-Window</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[Diolinux] Microsoft libera ISOs do Azure Linux baseado no Fedora para testes locais</title>
+      <link>https://diolinux.com.br/noticias/microsoft-libera-isos-azure-linux.html</link>
+      <description>O Azure Linux 4.0 Preview agora pode ser testado fora da nuvem da Microsoft graças à disponibilidade de imagens ISO.</description>
+      <pubDate>Thu, 02 Jul 2026 11:43:55 -0000</pubDate>
+      <guid isPermaLink="false">https://diolinux.com.br/?p=122058</guid>
+      <source url="https://diolinux.com.br/feed">Diolinux</source>
+    </item>
+    <item>
+      <title>[It's FOSS] Sick of AI Slop, Former Microsoft Engineer Built a New, AI-less Notepad</title>
+      <link>https://feed.itsfoss.com/link/24361/17371605/tinyretropad-notepad-clone</link>
+      <description>A former Microsoft engineer who was behind Task Manager has built a fully working, 2.5KB Notepad clone that doesn&amp;#x27;t ship with slop.</description>
+      <pubDate>Thu, 02 Jul 2026 11:31:59 -0000</pubDate>
+      <guid isPermaLink="false">6a461fd046ba4400013fd2a4</guid>
+      <source url="https://itsfoss.com/feed">It&apos;s FOSS</source>
+    </item>
+    <item>
+      <title>[The Verge] BitTorrent&amp;#8217;s disastrous, legendary, and controversial story</title>
+      <link>https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy</link>
+      <description>Twenty-five years ago today, a young, little-known programmer by the name of Bram Cohen fired off a short message to a mailing list for peer-to-peer enthusiasts. &quot;My new app, BitTorrent, is now in working order, check it out here,&quot; Cohen wrote, followed by a link to his personal website. &quot;What&apos;s BitTorrent, Bram?&quot; the founder of [&amp;#8230;]</description>
+      <pubDate>Thu, 02 Jul 2026 11:00:00 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=959848</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
     </item>
     <item>
       <title>[The Verge] OpenAI floats giving Trump administration 5 percent cut of AI boom</title>
@@ -1669,22 +1701,6 @@ rewine (1):
       <description>Red Hat engineer Karol Herbst has landed his latest optimization work to Rusticl in Mesa 26.2. The latest effort for this Rust-based OpenCL driver that works across Gallium3D drivers is around better hardware utilization...</description>
       <pubDate>Thu, 02 Jul 2026 09:54:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.phoronix.com/news/Rusticl-Better-Utilization-Mesa</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
-    </item>
-    <item>
-      <title>[Phoronix] JPEG-XL libjxl 0.12 Brings More Performance Optimizations</title>
-      <link>https://www.phoronix.com/news/JPEG-XL-libjxl-0.12</link>
-      <description>A new release of libjxl is now available for this reference implementation of the JPEG-XL image format, including both image encode and decode support...</description>
-      <pubDate>Thu, 02 Jul 2026 09:44:14 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/JPEG-XL-libjxl-0.12</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
-    </item>
-    <item>
-      <title>[Phoronix] Box3D Debuts As New Open-Source 3D Physics Engine</title>
-      <link>https://www.phoronix.com/news/Box3D-Open-Source-3D-Physics</link>
-      <description>Erin Catto who has been developing the Box2D 2D physics engine for games announced the release of Box3D. Box3D is now providing a new open-source 3D physics engine that is forked off from the Box2D code...</description>
-      <pubDate>Thu, 02 Jul 2026 09:35:13 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/Box3D-Open-Source-3D-Physics</guid>
       <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
     <item>
@@ -2134,14 +2150,6 @@ and
       <pubDate>Sun, 28 Jun 2026 22:10:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.omgubuntu.co.uk/?p=334398</guid>
       <source url="https://www.omgubuntu.co.uk/feed">OMG! Ubuntu</source>
-    </item>
-    <item>
-      <title>[It's FOSS] Every Physics Teacher (And Student) Should Try This Open Source Software</title>
-      <link>https://feed.itsfoss.com/link/24361/17369273/kde-step</link>
-      <description>The free software I used for years as Physics student. I strongly believe teachers can use it to simulate concepts of physics in their classrooms.</description>
-      <pubDate>Sun, 28 Jun 2026 07:41:57 -0000</pubDate>
-      <guid isPermaLink="false">69a6a1fcf757240001a896d3</guid>
-      <source url="https://itsfoss.com/feed">It&apos;s FOSS</source>
     </item>
     <item>
       <title>[Sway] 1.12-rc3</title>
@@ -3126,14 +3134,6 @@ have already been published separately and are referenced where available.</desc
       <pubDate>Mon, 29 Jun 2026 13:28:09 -0000</pubDate>
       <guid isPermaLink="false">https://blog.4linux.com.br/?p=13539</guid>
       <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[Diolinux] Oracle promete abrir a governança do MySQL, mas a comunidade ainda cobra garantias</title>
-      <link>https://diolinux.com.br/noticias/oracle-abrir-a-governanca-do-mysql.html</link>
-      <description>A Oracle anunciou mudanças na governança do MySQL e promete maior participação da comunidade, mas desenvolvedores afirmam que ainda faltam compromissos permanentes.</description>
-      <pubDate>Mon, 29 Jun 2026 13:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://diolinux.com.br/?p=121978</guid>
-      <source url="https://diolinux.com.br/feed">Diolinux</source>
     </item>
     <item>
       <title>[It's FOSS] You Can Spend Up to $11,944 on Purism&amp;#x27;s Librem 16 Linux Laptop</title>
