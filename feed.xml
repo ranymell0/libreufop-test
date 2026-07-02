@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 02 Jul 2026 07:33:17 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 10:42:57 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://SEU_USUARIO_OU_ORG.github.io/SEU_REPO/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -665,27 +665,11 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://planet.gnu.org/rss20.xml">Planet GNU</source>
     </item>
     <item>
-      <title>[Phoronix] KDE Linux Introduces &quot;Developer Mode&quot; Option, Easier Log Collection</title>
-      <link>https://www.phoronix.com/news/KDE-Linux-June-2026</link>
-      <description>With the start of the new month comes a new progress report on the KDE Linux distribution for the prior month. Even with KDE developers being busy to ship Plasma 6.7 in June, they still accomplished a lot when it comes to KDE Linux...</description>
-      <pubDate>Wed, 01 Jul 2026 21:06:06 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/KDE-Linux-June-2026</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
-    </item>
-    <item>
       <title>[The Verge] Xbox’s ‘reset’: all the news about Microsoft&amp;#8217;s looming layoffs and studio closures</title>
       <link>https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures</link>
-      <description>Xbox is making some big changes — again. On June 10th, a few months after Asha Sharma took over as CEO, she and newly-promoted chief content officer Matt Booty sent a memo to staff warning of an &amp;#8220;Xbox reset.&amp;#8221; The business, they said, is facing significant challenges, including a 3 percent &amp;#8220;accountability margin,&amp;#8221; massively higher [&amp;#8230;]</description>
+      <description>Xbox is making some big changes — again. On June 10th, a few months after Asha Sharma took over as CEO, she and newly promoted chief content officer Matt Booty sent a memo to staff warning of an &amp;#8220;Xbox reset.&amp;#8221; The business, they said, is facing significant challenges, including a 3 percent &amp;#8220;accountability margin,&amp;#8221; massively [&amp;#8230;]</description>
       <pubDate>Wed, 01 Jul 2026 21:00:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?post_type=vm_stream&amp;p=959900</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>[The Verge] Elon Musk denies a report about SpaceX&amp;#8217;s AI phone prototype</title>
-      <link>https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk</link>
-      <description>Elon Musk says a report about a SpaceX AI phone prototype is &quot;utterly false.&quot; The report, published on Wednesday by The Wall Street Journal, says SpaceX showed off a &quot;handset-like prototype&quot; to some investors before launching its record-breaking initial public offering in June. The device was &quot;slimmer than an iPhone,&quot; and they were told it [&amp;#8230;]</description>
-      <pubDate>Wed, 01 Jul 2026 20:10:21 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960442</guid>
       <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
     </item>
     <item>
@@ -748,30 +732,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <pubDate>Wed, 01 Jul 2026 18:07:49 -0000</pubDate>
       <guid isPermaLink="false">https://br-linux.org/2026/01/linux-rodando-bem-devagar-no-sega-megadrive.html</guid>
       <source url="https://br-linux.org/feed">BR-Linux</source>
-    </item>
-    <item>
-      <title>[Phoronix] System76 Launches New Lemur Pro Laptop Powered By Intel Panther Lake</title>
-      <link>https://www.phoronix.com/news/System76-Lemur-Pro-Panther-Lake</link>
-      <description>System76 today announced their new Lemur Pro high-end Linux laptop that is now powered by the Core Ultra Series 3 &quot;Panther Lake&quot; SoCs...</description>
-      <pubDate>Wed, 01 Jul 2026 18:01:20 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/System76-Lemur-Pro-Panther-Lake</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
-    </item>
-    <item>
-      <title>[The Verge] Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million</title>
-      <link>https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds</link>
-      <description>After a lengthy legal dispute, Krafton has settled with its subsidiary Unknown Worlds Entertainment, which is developing Subnautica 2, and will pay bonuses to the studio&apos;s staff, Bloomberg reports. The dispute began last year after Krafton pushed out Unknown Worlds&apos; cofounders, Charlie Cleveland and Max McGuire, and its CEO, Ted Gill, ahead of a potential [&amp;#8230;]</description>
-      <pubDate>Wed, 01 Jul 2026 17:45:23 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960354</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>[Phoronix] Linux 7.3 To Overcome &quot;Significant Bottleneck&quot; For Small I/O With PCIe Gen5 NVMe SSDs</title>
-      <link>https://www.phoronix.com/news/Linux-7.3-Faster-Small-Direct</link>
-      <description>While the Linux 7.2 feature merge window ended just days ago and the better part of two months now before v7.2 will be released as stable, there are already features beginning to accumulate that will target the Linux 7.3 cycle. The most exciting change I&apos;ve seen to kick off that dance ahead of Linux 7.3 is addressing a &quot;significant&quot; bottleneck affecting small direct I/O performance with speedy storage such as PCIe Gen5 NVMe SSDs...</description>
-      <pubDate>Wed, 01 Jul 2026 16:06:06 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/Linux-7.3-Faster-Small-Direct</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
     <item>
       <title>[GitHub Blog] 6 security settings every GitHub maintainer should enable this week</title>
@@ -892,33 +852,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <pubDate>Wed, 01 Jul 2026 07:50:02 -0000</pubDate>
       <guid isPermaLink="false">https://ubuntu.com//blog/pedit-cow-linux-vulnerability-fixes-available</guid>
       <source url="https://ubuntu.com/blog/feed">Ubuntu Blog</source>
-    </item>
-    <item>
-      <title>[Planet KDE] The Steam Machine is here!</title>
-      <link>https://pointieststick.com/2026/06/30/the-steam-machine-is-here/</link>
-      <description>&lt;p class=&quot;wp-block-paragraph&quot;&gt;For a while now, my colleagues and I over in &lt;a href=&quot;https://techpaladinsoftware.com/&quot; target=&quot;_blank&quot;&gt;Techpaladin Software&lt;/a&gt; have been working on software support for the &lt;a href=&quot;https://store.steampowered.com/sale/steammachine&quot; target=&quot;_blank&quot;&gt;Steam Machine&lt;/a&gt;, so it&amp;#8217;s so awesome to see the product released!&lt;/p&gt;
-&lt;figure class=&quot;wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio&quot;&gt;&lt;div class=&quot;wp-block-embed__wrapper&quot;&gt;
-
-&lt;/div&gt;&lt;/figure&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Like everyone else, I was surprised by the pricing… until I went out and looked at what other hardware costs these days. It seems like in the past 6 months, everything with RAM got 50-100% more expensive. It&amp;#8217;s kinda nuts. In light of, shall we say, &lt;em&gt;industry trends&lt;/em&gt; (ahem), the price seems reasonable to me.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;…especially if you see it less as a single-purpose gaming console and more as a desktop computer that offers a 10-foot UI living room gaming experience. Its horsepower is competitive for the price, and it offers the flexibility of a well-integrated desktop PC user experience. But don&amp;#8217;t take it from me; ask Linus Sebastian, who&amp;#8217;s rapidly becoming one of the biggest KDE boosters on YouTube:&lt;/p&gt;
-&lt;figure class=&quot;wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio&quot;&gt;&lt;div class=&quot;wp-block-embed__wrapper&quot;&gt;
-
-&lt;/div&gt;&lt;/figure&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Some choice quotes from the video:&lt;/p&gt;
-&lt;blockquote class=&quot;wp-block-quote is-layout-flow wp-block-quote-is-layout-flow&quot;&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;And from the moment I fired it up and said &amp;#8220;goodbye Steam Big Picture Mode&amp;#8221;, and started using it as a desktop, I went… &amp;#8220;This is what I&amp;#8217;ve been waiting for the whole time.&amp;#8221;&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;&amp;#8211; Linus Sebastian&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote class=&quot;wp-block-quote is-layout-flow wp-block-quote-is-layout-flow&quot;&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Plasma&amp;#8217;s great.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;&amp;#8211; Linus Sebastian&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;&amp;#8220;Plasma on retail hardware&amp;#8221; has been my long-term goal for KDE since I first got involved a decade ago. This product is another example that not only can it work, but it can be as good or better than competing offerings.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;So congratulations to everyone in KDE and outside of it who helped make this a reality! I&amp;#8217;m unbelievably happy at how well KDE software is working for this use case these days, and I see even greater things in the future.&lt;/p&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 18:48:11 -0000</pubDate>
-      <guid isPermaLink="false">http://pointieststick.com/?p=29653</guid>
-      <source url="https://planet.kde.org/index.xml">Planet KDE</source>
     </item>
     <item>
       <title>[Planet GNU] FSF Blogs: LibrePhone update, organizing locally, and more in issue 48 of the digital Bulletin</title>
@@ -1590,7 +1523,7 @@ rewine (1):
       <title>[LWN] local BPF storage API</title>
       <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 07:33:17 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 10:42:57 -0000</pubDate>
       <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1598,7 +1531,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1078968/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 07:33:17 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 10:42:57 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1078968/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1606,7 +1539,7 @@ rewine (1):
       <title>[LWN] Secure Boot</title>
       <link>https://en.wikipedia.org/wiki/UEFI#Secure_Boot</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 07:33:17 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 10:42:57 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/UEFI#Secure_Boot</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1614,7 +1547,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1079808/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 07:33:17 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 10:42:57 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1079808/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1622,7 +1555,7 @@ rewine (1):
       <title>[LWN] Racket</title>
       <link>https://racket-lang.org/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 07:33:17 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 10:42:57 -0000</pubDate>
       <guid isPermaLink="false">https://racket-lang.org/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1630,7 +1563,7 @@ rewine (1):
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 07:33:10 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 10:42:52 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1638,7 +1571,7 @@ rewine (1):
       <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
       <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 07:33:10 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 10:42:52 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1646,7 +1579,7 @@ rewine (1):
       <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
       <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 07:33:10 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 10:42:52 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1654,7 +1587,7 @@ rewine (1):
       <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
       <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 07:33:10 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 10:42:52 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1662,7 +1595,7 @@ rewine (1):
       <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 07:33:10 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 10:42:52 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1670,7 +1603,7 @@ rewine (1):
       <title>[Viva o Linux] Brave Origin chega ao Linux com modo minimalista e grátis</title>
       <link>https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 07:33:09 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 10:42:51 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1678,7 +1611,7 @@ rewine (1):
       <title>[Viva o Linux] Tails 7.9.1 corrige falhas no kernel e atualiza o Tor Browser</title>
       <link>https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 07:33:09 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 10:42:51 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1686,7 +1619,7 @@ rewine (1):
       <title>[Viva o Linux] Rocky Linux 10.2 chega com avanços em criptografia pós-quântica</title>
       <link>https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 07:33:09 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 10:42:51 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1694,7 +1627,7 @@ rewine (1):
       <title>[Viva o Linux] Ubuntu prepara o Myna, um ditado por IA local para falar e ver o texto aparecer</title>
       <link>https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 07:33:09 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 10:42:51 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1702,25 +1635,86 @@ rewine (1):
       <title>[Viva o Linux] Canonical confirma correções no Ubuntu para falha DirtyClone no kernel Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/canonical-confirma-correcoes-no-ubuntu-para-falha-dirtyclone-no-kernel-linux/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 07:33:09 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 10:42:51 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/canonical-confirma-correcoes-no-ubuntu-para-falha-dirtyclone-no-kernel-linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
-      <title>[Phoronix] Fedora Council Seeks To Shutdown Current Discussions Over AI Developer Desktop</title>
-      <link>https://www.phoronix.com/news/Fedora-Council-AI-Desktop</link>
-      <description>Stemming from the widely varying views over the recent Fedora proposal for an &quot;AI Developer Desktop&quot; catering to running local AI and machine learning workloads in pre-configured environments with a seamless hardware-accelerated experience, the Fedora Council issued a statement this evening to effectively shutdown discussions for now over a Fedora AI Developer Desktop and to pause the Fedora Community Initiatives process...</description>
-      <pubDate>Thu, 02 Jul 2026 01:40:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/Fedora-Council-AI-Desktop</guid>
+      <title>[The Verge] OpenAI floats giving Trump administration 5 percent cut of AI boom</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump</link>
+      <description>OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial interest in the company would be the best way to share [&amp;#8230;]</description>
+      <pubDate>Thu, 02 Jul 2026 10:23:27 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=960588</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[Phoronix] Linux Looking To Retire A Number Of Old ARM Platforms In Early 2027</title>
+      <link>https://www.phoronix.com/news/Linux-Drop-Old-ARM-2027</link>
+      <description>It&apos;s not only old x86 i486 CPU support being removed from the Linux kernel but a number of older ARM platforms and features are on the chopping block too. A proposal has been laid out for deprecating and then removing a number of outdated ARM platforms and features from the Linux kernel in early 2027...</description>
+      <pubDate>Thu, 02 Jul 2026 10:18:00 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/Linux-Drop-Old-ARM-2027</guid>
       <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
     <item>
-      <title>[Phoronix] Steam On Linux Usage Receded A Bit In June</title>
-      <link>https://www.phoronix.com/news/Steam-Survey-June-2026</link>
-      <description>Back in March Steam on Linux use shot up to 5.33% as a big 3.1% improvement over February. In April it dropped to 4.52% and then fell to 3.99% in May. Valve just published the Steam Survey numbers for June and it points to another minor setback from the recent all-time high of Steam on Linux...</description>
-      <pubDate>Thu, 02 Jul 2026 00:23:25 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/Steam-Survey-June-2026</guid>
+      <title>[Phoronix] FFmpeg Introduces Vulkan APV Encoder</title>
+      <link>https://www.phoronix.com/news/FFmpeg-Vulkan-Encoder-APV</link>
+      <description>Back in May the FFmpeg project introduced Vulkan-accelerated decoding for the APV video format. The Advanced Professional Video (APV) codec was being handled using Vulkan shaders in a similar way to how FFmpeg implemented Vulkan acceleration for Apple ProRes. Now there is Vulkan-accelerated APV encoding too...</description>
+      <pubDate>Thu, 02 Jul 2026 10:04:00 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/FFmpeg-Vulkan-Encoder-APV</guid>
       <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[Phoronix] Rusticl OpenCL Driver Improving Hardware Utilization In Mesa 26.2</title>
+      <link>https://www.phoronix.com/news/Rusticl-Better-Utilization-Mesa</link>
+      <description>Red Hat engineer Karol Herbst has landed his latest optimization work to Rusticl in Mesa 26.2. The latest effort for this Rust-based OpenCL driver that works across Gallium3D drivers is around better hardware utilization...</description>
+      <pubDate>Thu, 02 Jul 2026 09:54:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/Rusticl-Better-Utilization-Mesa</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[Phoronix] JPEG-XL libjxl 0.12 Brings More Performance Optimizations</title>
+      <link>https://www.phoronix.com/news/JPEG-XL-libjxl-0.12</link>
+      <description>A new release of libjxl is now available for this reference implementation of the JPEG-XL image format, including both image encode and decode support...</description>
+      <pubDate>Thu, 02 Jul 2026 09:44:14 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/JPEG-XL-libjxl-0.12</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[Phoronix] Box3D Debuts As New Open-Source 3D Physics Engine</title>
+      <link>https://www.phoronix.com/news/Box3D-Open-Source-3D-Physics</link>
+      <description>Erin Catto who has been developing the Box2D 2D physics engine for games announced the release of Box3D. Box3D is now providing a new open-source 3D physics engine that is forked off from the Box2D code...</description>
+      <pubDate>Thu, 02 Jul 2026 09:35:13 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/Box3D-Open-Source-3D-Physics</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[The Verge] Amazon has enough satellites to launch its Starlink competitor</title>
+      <link>https://www.theverge.com/science/960563/amazon-leo-service-tipping-point</link>
+      <description>Amazon says it now has enough satellites operating in low-Earth orbit to light up its Starlink internet competitor. With last night&apos;s launch, Amazon Leo has 396 satellites deployed, which is &quot;enough to support continuous service across initial latitudes,&quot; according to Chris Weber, VP heading up business and product for Amazon Leo. That puts the company [&amp;#8230;]</description>
+      <pubDate>Thu, 02 Jul 2026 09:13:39 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=960563</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[Planet KDE] KDE Gear 26.04.3</title>
+      <link>https://kde.org/announcements/gear/26.04.3/</link>
+      <description>&lt;p&gt;Over 180 individual programs plus dozens of programmer libraries and feature plugins are released simultaneously as part of KDE Gear.&lt;/p&gt;
+&lt;p&gt;Today they all get new bugfix source releases with updated translations, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;elisa: Change output device when global output is changed (&lt;a href=&quot;https://commits.kde.org/elisa/82a243243ec67c267c1e5e68407680e7ec7f5fa3&quot; target=&quot;_blank&quot;&gt;Commit&lt;/a&gt;, fixes bug &lt;a href=&quot;https://bugs.kde.org/512126&quot; target=&quot;_blank&quot;&gt;#512126&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;kdeconnect: Fix file transfers when notification sending is enabled (&lt;a href=&quot;https://commits.kde.org/kdeconnect-kde/63f88e89935467dbba8aab38926d9f18e0f9065f&quot; target=&quot;_blank&quot;&gt;Commit&lt;/a&gt;, fixes bug &lt;a href=&quot;https://bugs.kde.org/516765&quot; target=&quot;_blank&quot;&gt;#516765&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;kdenlive: Fix timeline playhead going out of view while playing (&lt;a href=&quot;https://commits.kde.org/kdenlive/2f2a35bf4089bb53d8d00b7b5c881cd3bbd97a9f&quot; target=&quot;_blank&quot;&gt;Commit&lt;/a&gt;, fixes bug &lt;a href=&quot;https://bugs.kde.org/517494&quot; target=&quot;_blank&quot;&gt;#517494&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Distro and app store packagers should update their application packages.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://community.kde.org/KDE_Gear/26.04_Release_notes&quot; target=&quot;_blank&quot;&gt;26.04 release notes&lt;/a&gt; for information on tarballs and known issues.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://community.kde.org/Get_KDE_Software_on_Your_Linux_Distro&quot; target=&quot;_blank&quot;&gt;Package download wiki page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://kde.org/info/releases-26.04.3/&quot; target=&quot;_blank&quot;&gt;26.04.3 source info page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://kde.org/announcements/changelogs/gear/26.04.3/&quot; target=&quot;_blank&quot;&gt;26.04.3 full changelog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 -0000</pubDate>
+      <guid isPermaLink="false">https://kde.org/announcements/gear/26.04.3/</guid>
+      <source url="https://planet.kde.org/index.xml">Planet KDE</source>
     </item>
     <item>
       <title>[FSFLA] Suitable Online Bank(rupt)ing</title>
