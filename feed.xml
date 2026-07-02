@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 02 Jul 2026 15:24:16 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 17:48:12 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://SEU_USUARIO_OU_ORG.github.io/SEU_REPO/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -842,14 +842,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <source url="https://diolinux.com.br/feed">Diolinux</source>
     </item>
     <item>
-      <title>[It's FOSS] AI Agents Could Get Verified Identities, Courtesy of DNS</title>
-      <link>https://feed.itsfoss.com/link/24361/17370191/linux-foundation-agent-name-service-announcement</link>
-      <description>The open standard would tie every agent&amp;#x27;s identity to certificates and a public transparency log nobody can edit.</description>
-      <pubDate>Tue, 30 Jun 2026 08:58:33 -0000</pubDate>
-      <guid isPermaLink="false">6a42123f46ba4400013fc617</guid>
-      <source url="https://itsfoss.com/feed">It&apos;s FOSS</source>
-    </item>
-    <item>
       <title>[Planet GNOME] Nick Richards: Fuzzy Time Everywhere</title>
       <link>https://www.nedrichards.com/2026/05/fuzzy-time-everywhere/</link>
       <description>&lt;p&gt;I do not always want to know what time it is. This is a slightly awkward position for someone who keeps making clocks, but there we are. Quite often the useful answer is not &lt;code&gt;17:42&lt;/code&gt;. It is “quarter to six”, “nearly lunch” or “you should probably start thinking about leaving”. The precise time is useful when catching trains, baking things and joining calls; the rest of the time it can be a bit much.&lt;/p&gt;
@@ -1432,7 +1424,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1080162/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 15:24:16 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 17:48:12 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1080162/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1440,7 +1432,7 @@ rewine (1):
       <title>[LWN] local BPF storage API</title>
       <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 15:24:16 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 17:48:12 -0000</pubDate>
       <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1448,7 +1440,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1078968/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 15:24:16 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 17:48:12 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1078968/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1456,7 +1448,7 @@ rewine (1):
       <title>[LWN] Secure Boot</title>
       <link>https://en.wikipedia.org/wiki/UEFI#Secure_Boot</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 15:24:16 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 17:48:12 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/UEFI#Secure_Boot</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1464,7 +1456,7 @@ rewine (1):
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1079808/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 15:24:16 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 17:48:12 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1079808/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -1472,7 +1464,7 @@ rewine (1):
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 15:24:11 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 17:48:08 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1480,7 +1472,7 @@ rewine (1):
       <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
       <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 15:24:11 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 17:48:08 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1488,7 +1480,7 @@ rewine (1):
       <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
       <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 15:24:11 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 17:48:08 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1496,7 +1488,7 @@ rewine (1):
       <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
       <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 15:24:11 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 17:48:08 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1504,7 +1496,7 @@ rewine (1):
       <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 15:24:11 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 17:48:08 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -1512,7 +1504,7 @@ rewine (1):
       <title>[Viva o Linux] Brave Origin chega ao Linux com modo minimalista e grátis</title>
       <link>https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 15:24:10 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 17:48:07 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1520,7 +1512,7 @@ rewine (1):
       <title>[Viva o Linux] Tails 7.9.1 corrige falhas no kernel e atualiza o Tor Browser</title>
       <link>https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 15:24:10 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 17:48:07 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1528,7 +1520,7 @@ rewine (1):
       <title>[Viva o Linux] Rocky Linux 10.2 chega com avanços em criptografia pós-quântica</title>
       <link>https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 15:24:10 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 17:48:07 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1536,7 +1528,7 @@ rewine (1):
       <title>[Viva o Linux] Ubuntu prepara o Myna, um ditado por IA local para falar e ver o texto aparecer</title>
       <link>https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 15:24:10 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 17:48:07 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -1544,9 +1536,42 @@ rewine (1):
       <title>[Viva o Linux] Canonical confirma correções no Ubuntu para falha DirtyClone no kernel Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/canonical-confirma-correcoes-no-ubuntu-para-falha-dirtyclone-no-kernel-linux/</link>
       <description></description>
-      <pubDate>Thu, 02 Jul 2026 15:24:10 -0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 17:48:07 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/canonical-confirma-correcoes-no-ubuntu-para-falha-dirtyclone-no-kernel-linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[It's FOSS] Collabora Office 26.04 Keeps AI Optional and Refines Writer and Calc</title>
+      <link>https://feed.itsfoss.com/link/24361/17371813/collabora-office-26-04</link>
+      <description>The desktop suite&amp;#x27;s first major update pulls features from CODE 26.04.</description>
+      <pubDate>Thu, 02 Jul 2026 16:41:00 -0000</pubDate>
+      <guid isPermaLink="false">6a45f62b46ba4400013fd1b6</guid>
+      <source url="https://itsfoss.com/feed">It&apos;s FOSS</source>
+    </item>
+    <item>
+      <title>[The Verge] The video game disc is dead</title>
+      <link>https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast</link>
+      <description>For decades, to be a gamer was to accumulate a lot of stuff. Consoles, controllers, accessories, weird VR gloves that never worked properly, but mostly the games themselves. Over the years, games have come in every shape and size you can imagine. And now that era appears to be ending. On this episode of The [&amp;#8230;]</description>
+      <pubDate>Thu, 02 Jul 2026 16:31:09 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=960810</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[GitHub Blog] How GitHub used secret scanning to reach inbox zero</title>
+      <link>https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/</link>
+      <description>&lt;p&gt;GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here&apos;s how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/&quot;&gt;How GitHub used secret scanning to reach inbox zero&lt;/a&gt; appeared first on &lt;a href=&quot;https://github.blog&quot;&gt;The GitHub Blog&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 16:00:00 -0000</pubDate>
+      <guid isPermaLink="false">https://github.blog/?p=97226</guid>
+      <source url="https://github.blog/feed">GitHub Blog</source>
+    </item>
+    <item>
+      <title>[The Verge] Influencer screenings aren’t going away</title>
+      <link>https://www.theverge.com/entertainment/960260/the-odyssey-christopher-nolan-influencers-screenings</link>
+      <description>For a few days, it seemed like Universal decided that there would be no advanced screenings of Christopher Nolan&apos;s The Odyssey for influencers. But on Monday, influencers sat alongside traditional critics and journalists at special showings of The Odyssey specifically for the associated press junket. Despite what it may have looked like, Universal was not [&amp;#8230;]</description>
+      <pubDate>Thu, 02 Jul 2026 15:50:26 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=960260</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
     </item>
     <item>
       <title>[Phoronix] Linux Kernel Developers Again Discussing AI Agent Attribution - Potentially Dropping It</title>
@@ -1618,10 +1643,10 @@ rewine (1):
       <description>&lt;p&gt;This week I shipped two new features for KeepSecret.
 KWallet XML Import (&lt;a href=&quot;https://invent.kde.org/utilities/keepsecret/-/merge_requests/34&quot; target=&quot;_blank&quot;&gt;!34&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;The Import menu on the wallet page is now a submenu with two options:&lt;/p&gt;
-&lt;p&gt;-KeepSecret…
--KWallet XML…&lt;/p&gt;
+&lt;p&gt;-KeepSecret…&lt;/p&gt;
+&lt;p&gt;-KWallet XML…&lt;/p&gt;
 &lt;p&gt;Both import formats are converted into the same internal format, allowing them to use the existing import code. I only implemented import support, since exporting to the old KWallet format wasn&apos;t necessary because KWallet is being deprecated.&lt;/p&gt;
-&lt;p&gt;Password Generator (&lt;a href=&quot;https://invent.kde.org/utilities/keepsecret/-/merge_requests/35&quot; target=&quot;_blank&quot;&gt;!35&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Password Generator (&lt;a href=&quot;https://invent.kde.org/utilities/keepsecret/-/merge_requests/35&quot; target=&quot;_blank&quot;&gt;!35&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;I added a Generate button to the Create New Entry dialog. Clicking it generates a random 16-character password and fills the password field.&lt;/p&gt;
 &lt;p&gt;The password is generated in SecretItemProxy::generatePassword() using QRandomGenerator::global(), which uses the operating system&apos;s secure random source. A character set is built from the selected options (lowercase letters, uppercase letters, numbers, and symbols), and each character is chosen randomly from that set. This also allows passwords to include symbols like !@#$%^&amp;*.&lt;/p&gt;
 &lt;p&gt;The function returns a QByteArray instead of a QString, matching the existing code and avoiding an unnecessary copy of the secret in C++.&lt;/p&gt;
@@ -1680,14 +1705,6 @@ KWallet XML Import (&lt;a href=&quot;https://invent.kde.org/utilities/keepsecret
       <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
     <item>
-      <title>[The Verge] Mystery box shows are complicated for everyone — even the actors</title>
-      <link>https://www.theverge.com/entertainment/960265/silo-season-3-apple-tv-interview-mystery-box</link>
-      <description>Silo is such a complicated show that even its showrunner gets confused sometimes. While filming the final seasons of the Apple TV sci-fi thriller, Graham Yost remembers two instances where he messed up details: once it was an actor who realized that a conversation they were about to shoot should&apos;ve already taken place, the other [&amp;#8230;]</description>
-      <pubDate>Thu, 02 Jul 2026 12:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960265</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
       <title>[Phoronix] KDE Plasma Affected By Arbitrary Code Execution To Break Sandboxes With &quot;Open New Window&quot;</title>
       <link>https://www.phoronix.com/news/KDE-Plasma-ACE-New-Window</link>
       <description>A security disclosure has been made public today for a yet-to-be-patched arbitrary code execution vulnerability with the KDE Plasma desktop...</description>
@@ -1710,14 +1727,6 @@ KWallet XML Import (&lt;a href=&quot;https://invent.kde.org/utilities/keepsecret
       <pubDate>Thu, 02 Jul 2026 11:31:59 -0000</pubDate>
       <guid isPermaLink="false">6a461fd046ba4400013fd2a4</guid>
       <source url="https://itsfoss.com/feed">It&apos;s FOSS</source>
-    </item>
-    <item>
-      <title>[The Verge] BitTorrent&amp;#8217;s disastrous, legendary, and controversial story</title>
-      <link>https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy</link>
-      <description>Twenty-five years ago today, a young, little-known programmer by the name of Bram Cohen fired off a short message to a mailing list for peer-to-peer enthusiasts. &quot;My new app, BitTorrent, is now in working order, check it out here,&quot; Cohen wrote, followed by a link to his personal website. &quot;What&apos;s BitTorrent, Bram?&quot; the founder of [&amp;#8230;]</description>
-      <pubDate>Thu, 02 Jul 2026 11:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=959848</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
     </item>
     <item>
       <title>[Planet KDE] KDE Gear 26.04.3</title>
@@ -3553,15 +3562,6 @@ someever (1):
       <pubDate>Mon, 02 Jan 2023 08:39:00 -0000</pubDate>
       <guid isPermaLink="false">tag:github.com,2008:Repository/30291090/4.22</guid>
       <source url="https://github.com/i3/i3/releases.atom">i3wm</source>
-    </item>
-    <item>
-      <title>[GitHub Blog] GitHub and UNDP team up to advance development priorities in Ghana with open source</title>
-      <link>https://github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source/</link>
-      <description>&lt;p&gt;GitHub joined the United Nations Development Programme in Ghana to explore how open source governance can support one of West Africa&apos;s most ambitious digital reform efforts. &lt;/p&gt;
-&lt;p&gt;The post &lt;a href=&quot;https://github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source/&quot;&gt;GitHub and UNDP team up to advance development priorities in Ghana with open source&lt;/a&gt; appeared first on &lt;a href=&quot;https://github.blog&quot;&gt;The GitHub Blog&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 16:53:57 -0000</pubDate>
-      <guid isPermaLink="false">https://github.blog/?p=97118</guid>
-      <source url="https://github.blog/feed">GitHub Blog</source>
     </item>
     <item>
       <title>[OMG! Ubuntu] Ubuntu 26.10 Snapshot 2 is out (with a ‘breaking change’)</title>
