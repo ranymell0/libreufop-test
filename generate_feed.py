@@ -2,36 +2,12 @@ import feedparser
 import requests
 from bs4 import BeautifulSoup
 import datetime
+import re
 from email.utils import formatdate
 from urllib.parse import urljoin
 import time
 
 SOURCES = [
-    ("BR-Linux", "https://br-linux.org/feed"),
-    ("Diolinux", "https://diolinux.com.br/feed"),
-    ("Movimento Software Livre", "https://movimento.softwarelivre.tec.br/feed/"),
-    ("Debian News", "https://www.debian.org/News/news"),
-    ("Fedora Magazine", "https://fedoramagazine.org/feed"),
-    ("Ubuntu Blog", "https://ubuntu.com/blog/feed"),
-    ("Linux Mint Blog", "https://blog.linuxmint.com/?feed=rss2"),
-    ("BigLinux", "https://www.biglinux.com.br/feed"),
-    ("openSUSE News", "https://news.opensuse.org/feed/"),
-    ("Planet GNOME", "https://planet.gnome.org/rss20.xml"),
-    ("Planet KDE", "https://planet.kde.org/index.xml"),
-    ("Ubuntu MATE", "https://ubuntu-mate.org/rss.xml"),
-    ("Xfce News", "https://xfce.org/feed"),
-    ("i3wm", "https://github.com/i3/i3/releases.atom"),
-    ("Sway", "https://github.com/swaywm/sway/releases.atom"),
-    ("Hyprland", "https://github.com/hyprwm/Hyprland/releases.atom"),
-    ("FSF News", "https://www.fsf.org/news/RSS"),
-    ("Planet GNU", "https://planet.gnu.org/rss20.xml"),
-    ("OSI", "https://opensource.org/feed/"),
-    ("kernel.org", "https://www.kernel.org/feeds/all.atom.xml"),
-    ("GitHub Blog", "https://github.blog/feed"),
-    ("Phoronix", "https://www.phoronix.com/rss.php"),
-    ("OMG! Ubuntu", "https://www.omgubuntu.co.uk/feed"),
-    ("It's FOSS", "https://itsfoss.com/feed"),
-    ("The Verge", "https://www.theverge.com/rss/index.xml"),
     ("Viva o Linux", "https://www.vivaolinux.com.br/rss"),
     ("Linux Today", "https://feeds.feedburner.com/linuxtoday/linux"),
     ("Linux Foundation", "https://www.linuxfoundation.org/feed"),
@@ -66,8 +42,8 @@ SCRAPE_FALLBACK = {
 SCRAPE_ONLY_SOURCES = ["LWN"]
 
 ITEMS_PER_SOURCE = 5
-FEED_URL = "https://SEU_USUARIO_OU_ORG.github.io/SEU_REPO/feed.xml"
-SITE_URL = "https://SEU_USUARIO_OU_ORG.github.io/SEU_REPO/"
+FEED_URL = "https://lecompufop.github.io/LibreUFOP/feed.xml"
+SITE_URL = "https://lecompufop.github.io/LibreUFOP/"
 
 HEADERS = {
     "User-Agent": (
@@ -75,6 +51,16 @@ HEADERS = {
         "(KHTML, like Gecko) Chrome/124.0 Safari/537.36 LibreUFOP-FeedBot/1.0"
     )
 }
+
+
+def truncar_descricao(texto, limite=300):
+    if not texto:
+        return ""
+    texto_limpo = re.sub(r"<[^>]+>", " ", texto)
+    texto_limpo = " ".join(texto_limpo.split())
+    if len(texto_limpo) > limite:
+        texto_limpo = texto_limpo[:limite].rsplit(" ", 1)[0] + "..."
+    return escape_xml(texto_limpo)
 
 
 def escape_xml(text):
@@ -165,7 +151,7 @@ def fetch_items():
             for entry in entries:
                 title = escape_xml(getattr(entry, "title", "(sem título)"))
                 link = getattr(entry, "link", url)
-                summary = escape_xml(getattr(entry, "summary", ""))
+                summary = truncar_descricao(getattr(entry, "summary", ""))
                 pub_date = parse_date(entry)
                 guid = getattr(entry, "id", link)
                 encontrados.append({
