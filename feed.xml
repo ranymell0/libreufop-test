@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Fri, 03 Jul 2026 09:59:14 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 12:16:25 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://SEU_USUARIO_OU_ORG.github.io/SEU_REPO/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -765,51 +765,6 @@ build/static/js:
       <source url="https://planet.gnu.org/rss20.xml">Planet GNU</source>
     </item>
     <item>
-      <title>[Planet KDE] This month in KDE Linux: June 2026</title>
-      <link>https://pointieststick.com/2026/07/01/this-month-in-kde-linux-june-2026/</link>
-      <description>&lt;div class=&quot;wp-block-image&quot;&gt;
-&lt;figure class=&quot;alignright size-full is-resized&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;wp-image-24549&quot; src=&quot;https://pointieststick.com/wp-content/uploads/2025/10/kde-linux-logo.png&quot; style=&quot;width: 217px; height: auto;&quot; /&gt;&lt;/figure&gt;
-&lt;/div&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Welcome to another edition of “This month in KDE Linux” — KDE&amp;#8217;s &lt;a href=&quot;https://linux.kde.org&quot; target=&quot;_blank&quot;&gt;in-progress operating system&lt;/a&gt;.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;This month was pretty smooth; we had no build delivery drama, and all OS images we shipped were of satisfactory quality. The project is maturing, and we&amp;#8217;re 78% of the way towards completing &lt;a href=&quot;https://invent.kde.org/groups/kde-linux/-/milestones/2#tab-issues&quot; target=&quot;_blank&quot;&gt;the beta milestone&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;QA &amp;amp; testing&lt;/h2&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Bhushan Shah and Thomas Duckworth continued working on the project to build a robust and modern automatic QA system. It&amp;#8217;s really really close to being integrated at this point, and will act as a full-stack integration test for all of KDE Plasma in addition to a test system for KDE Linux specifically.&lt;/p&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;More user-friendly installation&lt;/h2&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Hadi Chokr did the huge amount of work necessary to &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/merge_requests/481&quot; target=&quot;_blank&quot;&gt;transform KDE Linux&amp;#8217;s &lt;code&gt;.raw&lt;/code&gt; image file into a hybrid image that&amp;#8217;s also a valid &lt;code&gt;.iso&lt;/code&gt; file&lt;/a&gt;! This allows KDE Linux to be installed more easily using VM software that often expects to be given an &lt;code&gt;.iso&lt;/code&gt; file.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Remember that you&amp;#8217;ll still need to turn on UEFI mode, as KDE Linux still intentionally doesn&amp;#8217;t support the legacy BIOS system!&lt;/p&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;Better audio CD ripping&lt;/h2&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Harald Sitter, Jan Rathmann, and I completed &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/work_items/649&quot; target=&quot;_blank&quot;&gt;a small project&lt;/a&gt; to get KDE&amp;#8217;s &lt;a href=&quot;https://apps.kde.org/audex/&quot; target=&quot;_blank&quot;&gt;Audex&lt;/a&gt; app up on Flathub as a replacement for the &lt;code&gt;audiocd-kio&lt;/code&gt; software we had previously been pre-installing on the image.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;The problem with &lt;code&gt;audiocd-kio&lt;/code&gt; is that it included two System Settings pages of questionable utility that offered a fairly old-fashioned UX. Now we don&amp;#8217;t include those things, and instead we &lt;a href=&quot;https://linux.kde.org/docs/rip-audio-cds/&quot; target=&quot;_blank&quot;&gt;document how to download Audex and use it to rip CDs&lt;/a&gt;. And this way, you get automatic metadata lookup, too!&lt;/p&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;Easier log collection&lt;/h2&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Felix Araújo &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/work_items/547&quot; target=&quot;_blank&quot;&gt;built a tool to ease the collection of logs&lt;/a&gt; called &lt;code&gt;collect-logs&lt;/code&gt;. It also does some data sanitization. This will be very useful for bug reporting purposes!&lt;/p&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;Rudimentary &amp;#8220;Developer Mode&amp;#8221;&lt;/h2&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;I &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/work_items/33&quot; target=&quot;_blank&quot;&gt;created a very simple system to show and hide developer tools&lt;/a&gt;, and they&amp;#8217;re hidden by default until you run &lt;code&gt;toggle-developer-mode&lt;/code&gt;, which is &lt;a href=&quot;https://linux.kde.org/docs/dev/&quot; target=&quot;_blank&quot;&gt;documented here&lt;/a&gt;.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;This reduces clutter in the launcher widgets of users who aren&amp;#8217;t software developers. In the future we&amp;#8217;ll add more to this script, and we might consider moving more tools off the base image and into Flatpak apps or even downloadable meta-packages, thereby coming full circle by re-inventing packaging. Go figure.&lt;/p&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;Documentation&lt;/h2&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;I wrote &lt;a href=&quot;https://linux.kde.org/docs/cjkv-input/&quot; target=&quot;_blank&quot;&gt;documentation for how to configure input methods for Chinese, Japanese, Korean, and Vietnamese text input&lt;/a&gt;, in consultation with several speakers of these languages.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;And in the near future, we plan to pre-install some of these tools to make things easier for the world&amp;#8217;s 1.7 billion people who use one of them to communicate on their digital devices.&lt;/p&gt;
-&lt;h2 class=&quot;wp-block-heading&quot;&gt;Grab bag&lt;/h2&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Thomas Duckworth made Plasma Browser Integration &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/merge_requests/567&quot; target=&quot;_blank&quot;&gt;continue to be enabled by default&lt;/a&gt; with the latest version of Firefox.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;I &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/commit/7be0db7845e5a9fe488f964aa4033895958d6f3d&quot; target=&quot;_blank&quot;&gt;fixed &lt;code&gt;ydotool&lt;/code&gt;&lt;/a&gt;, which I had previously broken by trying to force to run as a systemd service. Turns out it can&amp;#8217;t do that. So now it&amp;#8217;s at least disabled by default.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Yago Raña Gayoso &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/merge_requests/543&quot; target=&quot;_blank&quot;&gt;enabled shell completions&lt;/a&gt; for &lt;code&gt;kde-builder&lt;/code&gt;.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Aleix Pol Gonzalez &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/merge_requests/548&quot; target=&quot;_blank&quot;&gt;removed a few pre-installed GTK libraries&lt;/a&gt; that it turns out weren&amp;#8217;t used for anything.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Vishal Rao &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/merge_requests/455&quot; target=&quot;_blank&quot;&gt;prevented the live session from writing to the system&amp;#8217;s real-time clock&lt;/a&gt;, which could be a nuisance for people who don&amp;#8217;t end up installing the OS and go back to their already-installed OS.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;Clément Villemur made the Calamares installer &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/work_items/672&quot; target=&quot;_blank&quot;&gt;not bug you to connect to the internet&lt;/a&gt;, because it doesn&amp;#8217;t actually need internet access.&lt;/p&gt;
-&lt;hr class=&quot;wp-block-separator has-alpha-channel-opacity&quot; /&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;And that wraps up June! There are a lot of projects in flight right now, from finishing up the new QA system, to building moving the base OS with BuildStream, to hardening the kernel, to improving each image&amp;#8217;s changelogs.&lt;/p&gt;
-&lt;p class=&quot;wp-block-paragraph&quot;&gt;So there&amp;#8217;s still lots to do! If you&amp;#8217;re a fan of the project, please help out; there are many ways:&lt;/p&gt;
-&lt;ul class=&quot;wp-block-list&quot;&gt;
-&lt;li&gt;&lt;strong&gt;User support:&lt;/strong&gt; &lt;a href=&quot;https://discuss.kde.org/tag/kde-linux/450&quot; target=&quot;_blank&quot;&gt;help support people on discuss.kde.org using KDE Linux&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Issue reporting:&lt;/strong&gt; &lt;a href=&quot;https://linux.kde.org/docs/install/&quot; target=&quot;_blank&quot;&gt;install KDE Linux&lt;/a&gt; and &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/issues/&quot; target=&quot;_blank&quot;&gt;report issues&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Documentation:&lt;/strong&gt; &lt;a href=&quot;https://linux.kde.org/docs/&quot; target=&quot;_blank&quot;&gt;improve docs&lt;/a&gt;; submit merge requests &lt;a href=&quot;https://invent.kde.org/websites/linux-kde-org/-/merge_requests/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Flatpak:&lt;/strong&gt; fix &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/issues/71&quot; target=&quot;_blank&quot;&gt;packaging or code issues in Flatpak-packaged apps&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;OS development:&lt;/strong&gt; &lt;a href=&quot;https://linux.kde.org/docs/kde-linux-dev/&quot; target=&quot;_blank&quot;&gt;help build KDE Linux!&lt;/a&gt; There&amp;#8217;s &lt;a href=&quot;https://invent.kde.org/kde-linux/kde-linux/-/work_items/?sort=created_date&amp;amp;state=opened&amp;amp;milestone_title=Beta&amp;amp;first_page_size=100&quot; target=&quot;_blank&quot;&gt;plenty to do&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 18:52:57 -0000</pubDate>
-      <guid isPermaLink="false">http://pointieststick.com/?p=29573</guid>
-      <source url="https://planet.kde.org/index.xml">Planet KDE</source>
-    </item>
-    <item>
       <title>[GitHub Blog] 6 security settings every GitHub maintainer should enable this week</title>
       <link>https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/</link>
       <description>&lt;p&gt;These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it was before.&lt;/p&gt;
@@ -825,18 +780,6 @@ build/static/js:
       <pubDate>Wed, 01 Jul 2026 14:34:49 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsf.org/blogs/community/2026-june-gnu-spotlight</guid>
       <source url="https://planet.gnu.org/rss20.xml">Planet GNU</source>
-    </item>
-    <item>
-      <title>[Planet KDE] A Cross-Platform Rust UI Framework via Qt’s Bridging Technology</title>
-      <link>https://www.qt.io/blog/rust-ui-framework-via-bridging-technology</link>
-      <description>&lt;div class=&quot;hs-featured-image-wrapper&quot;&gt;
-&lt;a class=&quot;hs-featured-image-link&quot; href=&quot;https://www.qt.io/blog/rust-ui-framework-via-bridging-technology?hsLang=en&quot; target=&quot;_blank&quot; title=&quot;&quot;&gt; &lt;img alt=&quot;Simple illustration on how Qt Bridges enables QML frontends for Rust backends&quot; class=&quot;hs-featured-image&quot; src=&quot;https://www.qt.io/hubfs/QtBridges-RustUIFramework-FeaturedImage-1200x628.webp&quot; style=&quot;width: auto !important; float: left; margin: 0 15px 15px 0;&quot; /&gt; &lt;/a&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;span style=&quot;line-height: 25.575px;&quot;&gt;Rust has achieved something extraordinary: it genuinely excites people to write software. But when it comes to building a real user interface, the ecosystem is still finding its footing. There are numerous options to pick your Rust UI framework from, including those gaining traction, like Iced and egui. Most of the available UI frameworks, however, are still establishing themselves in production environments and fall short in feature-richness. Qt Bridges, a bridging technology in public beta for Rust, brings something different to the table: over three decades of real-world use, commercial support, and a framework that already runs in automotive dashboards, medical devices, and industrial systems worldwide. Qt Bridge for Rust makes that maturity available to Rust developers, providing access to a UI framework that lets you keep your Rust codebase while using Qt Quick’s feature-rich UI libraries and APIs, hardware acceleration, and genuine cross-platform support.&lt;/span&gt;&lt;/p&gt;
-&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;https://track-eu1.hubspot.com/__ptq.gif?a=149513&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fwww.qt.io%2Fblog%2Frust-ui-framework-via-bridging-technology&amp;amp;bu=https%253A%252F%252Fwww.qt.io%252Fblog&amp;amp;bvt=rss&quot; style=&quot;width: 1px!important;&quot; width=&quot;1&quot; /&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 14:15:22 -0000</pubDate>
-      <guid isPermaLink="false">https://www.qt.io/blog/rust-ui-framework-via-bridging-technology</guid>
-      <source url="https://planet.kde.org/index.xml">Planet KDE</source>
     </item>
     <item>
       <title>[OMG! Ubuntu] Firefox is adding Vulkan video decoding for Nvidia GPUs</title>
@@ -1526,14 +1469,6 @@ rewine (1):
       <source url="https://www.omgubuntu.co.uk/feed">OMG! Ubuntu</source>
     </item>
     <item>
-      <title>[Phoronix] Fedora 45 Considering x86_64 Shadow Stack Usage By Default</title>
-      <link>https://www.phoronix.com/news/Fedora-45-Consider-Shadow-Stack</link>
-      <description>A change proposal under consideration for Fedora Linux 45 would enable x86_64 Shadow Stack usage by default in the name of better security on modern Intel and AMD systems...</description>
-      <pubDate>Thu, 02 Jul 2026 21:17:35 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/Fedora-45-Consider-Shadow-Stack</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
-    </item>
-    <item>
       <title>[The Verge] Meta has a new app called Pocket that is absolutely nothing like the old Pocket</title>
       <link>https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai</link>
       <description>Mozilla shut down the well-loved read-it-later Pocket app last year, and now Meta is launching an app called Pocket with an entirely different, AI-focused pitch: this new app lets you make and share little interactive &quot;gizmos&quot; built from an AI prompt, as reported by Business Insider. Meta CEO Mark Zuckerberg is all in on AI [&amp;#8230;]</description>
@@ -1558,28 +1493,12 @@ rewine (1):
       <source url="https://diolinux.com.br/feed">Diolinux</source>
     </item>
     <item>
-      <title>[The Verge] Weber marks down grills and griddles to their best prices ever for July 4th</title>
-      <link>https://www.theverge.com/gadgets/960558/weber-july-4th-grill-griddle-sale-deal</link>
-      <description>If our recent Decoder interview with Weber Blackstone CEO Roger Dahle has you craving freshly grilled meats or veggies, Weber just so happens to have a variety of grills, smokers, griddles, and accessories selling at big discounts ahead of the July 4th holiday. It makes a bunch of models, but we’ve landed on a range [&amp;#8230;]</description>
-      <pubDate>Thu, 02 Jul 2026 18:19:03 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960558</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
       <title>[Diolinux] Proton atualiza o Lumo 2.0, combinando IA avançada com privacidade</title>
       <link>https://diolinux.com.br/noticias/proton-atualiza-o-lumo-2-0.html</link>
       <description>A Proton lançou o Lumo 2.0 com modelos de IA mais avançados, geração e análise de imagens, pesquisa na web, memória opcional e criptografia de acesso zero.</description>
       <pubDate>Thu, 02 Jul 2026 18:18:00 -0000</pubDate>
       <guid isPermaLink="false">https://diolinux.com.br/?p=122075</guid>
       <source url="https://diolinux.com.br/feed">Diolinux</source>
-    </item>
-    <item>
-      <title>[Phoronix] EFS File-System Slated For Removal With Linux 7.3 After 20+ Years Unmaintained</title>
-      <link>https://www.phoronix.com/news/EFS-File-System-Removal-Coming</link>
-      <description>The EFS file-system was used for non-ISO9660 CD-ROMs and disk partitions on SGI IRIX before IRIX 6.0 switched over to XFS. Inside the Linux kernel has been a read-only EFS file-system driver without a maintainer for 20+ years while for Linux 7.3 it&apos;s expected to be removed...</description>
-      <pubDate>Thu, 02 Jul 2026 17:39:06 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/EFS-File-System-Removal-Coming</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
     <item>
       <title>[Planet GNU] GNU Guix: ‘guix substitute‘ and ‘guix pull‘ Vulnerabilities</title>
@@ -2226,22 +2145,6 @@ the second commit.&quot;
       <source url="https://github.blog/feed">GitHub Blog</source>
     </item>
     <item>
-      <title>[Phoronix] Linux Kernel Developers Again Discussing AI Agent Attribution - Potentially Dropping It</title>
-      <link>https://www.phoronix.com/news/Linux-AI-Attribution-Again</link>
-      <description>When AI/LLM agents are used in the creation of Linux kernel patches, the policy for a while now has been that it should be specified using an &quot;Assisted-by&quot; tag as part of the patches/commits. But Linux kernel developers this week have been discussing whether to revise that policy or to potentially eliminate it...</description>
-      <pubDate>Thu, 02 Jul 2026 15:11:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/Linux-AI-Attribution-Again</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
-    </item>
-    <item>
-      <title>[Phoronix] RISC-V RVV Vector Performance Benchmarks With The SpacemiT K3 SoC</title>
-      <link>https://www.phoronix.com/review/risc-v-rvv-vector-benchmarks</link>
-      <description>Since May we have been benchmarking the SpacemiT K3 RISC-V SoC as one of the first to market RISC-V chips supporting the RVA23 profile. The SpacemiT K3 has shown how far RISC-V performance has come in the past half decade and one of the promising elements of this modern RISC-V SoC with its X100/A100 cores is supporting the RISC-V Vector Extension &quot;RVV&quot; 1.0. In this article are some initial benchmarks looking specifically at the RISC-V RVV 1.0 performance impact in different supported software.</description>
-      <pubDate>Thu, 02 Jul 2026 14:10:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/review/risc-v-rvv-vector-benchmarks</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
-    </item>
-    <item>
       <title>[Diolinux] Sincronize seu OneDrive no Linux com este cliente de código aberto</title>
       <link>https://diolinux.com.br/tutoriais/sincronize-seu-onedrive-no-linux-com-este-cliente-de-codigo-aberto.html</link>
       <description>Aprenda a sincronizar arquivos do OneDrive no Linux usando um cliente open source gratuito, compatível com contas pessoais, corporativas e SharePoint.</description>
@@ -2306,14 +2209,6 @@ KWallet XML Import (&lt;a href=&quot;https://invent.kde.org/utilities/keepsecret
       <description>Usuários clássicos ou jurássicos ainda fazemos backup com o tar e acham suficiente, mas esse artigo do itsfoss  vai bem além e descreve 6 ferramentas mais modernas e interativas para essa tarefa.</description>
       <pubDate>Thu, 02 Jul 2026 12:24:09 -0000</pubDate>
       <guid isPermaLink="false">https://br-linux.org/2026/01/seis-ferramentas-de-backup-para-uso-no-linux.html</guid>
-      <source url="https://br-linux.org/feed">BR-Linux</source>
-    </item>
-    <item>
-      <title>[BR-Linux] Obrigado por tanto: Vint Cerf, pai da Internet, se aposenta aos 83 anos</title>
-      <link>https://br-linux.org/2026/01/obrigado-por-tanto-vint-cerf-pai-da-internet-se-aposenta-aos-83-anos.html</link>
-      <description>Vinton Cerf, um dos criadores dos protocolos básicos da Internet, deixará na próxima semana o seu cargo de evangelista-chefe da Internet no Google.</description>
-      <pubDate>Thu, 02 Jul 2026 12:19:57 -0000</pubDate>
-      <guid isPermaLink="false">https://br-linux.org/2026/01/obrigado-por-tanto-vint-cerf-pai-da-internet-se-aposenta-aos-83-anos.html</guid>
       <source url="https://br-linux.org/feed">BR-Linux</source>
     </item>
     <item>
@@ -4168,7 +4063,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1080162/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 09:59:14 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 12:16:25 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1080162/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -4176,7 +4071,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[LWN] local BPF storage API</title>
       <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 09:59:14 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 12:16:25 -0000</pubDate>
       <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -4184,7 +4079,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1078968/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 09:59:14 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 12:16:25 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1078968/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -4192,7 +4087,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[LWN] Secure Boot</title>
       <link>https://en.wikipedia.org/wiki/UEFI#Secure_Boot</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 09:59:14 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 12:16:25 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/UEFI#Secure_Boot</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -4200,55 +4095,15 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1079808/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 09:59:14 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 12:16:25 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1079808/</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] ReactOS avança na compatibilidade com Windows Vista ao implementar primeiro system call NT6</title>
-      <link>https://www.vivaolinux.com.br/noticia/reactos-avanca-na-compatibilidade-com-windows-vista-ao-implementar-primeiro-system-call-nt6/</link>
-      <description></description>
-      <pubDate>Fri, 03 Jul 2026 09:59:09 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/reactos-avanca-na-compatibilidade-com-windows-vista-ao-implementar-primeiro-system-call-nt6/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Fedora 45 avalia ativar Shadow Stack por padrão em máquinas x86_64</title>
-      <link>https://www.vivaolinux.com.br/noticia/fedora-45-avalia-ativar-shadow-stack-por-padrao-em-maquinas-x86-64/</link>
-      <description></description>
-      <pubDate>Fri, 03 Jul 2026 09:59:09 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/fedora-45-avalia-ativar-shadow-stack-por-padrao-em-maquinas-x86-64/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Ultramarine 44 chega com base no Fedora 44, kernel Linux 7.0 e Plasma 6.7</title>
-      <link>https://www.vivaolinux.com.br/noticia/ultramarine-44-chega-com-base-no-fedora-44-kernel-linux-7-0-e-plasma-6-7/</link>
-      <description></description>
-      <pubDate>Fri, 03 Jul 2026 09:59:09 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ultramarine-44-chega-com-base-no-fedora-44-kernel-linux-7-0-e-plasma-6-7/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] KDE Gear 26.04.3 chega com correções de estabilidade para apps do ecossistema KDE</title>
-      <link>https://www.vivaolinux.com.br/noticia/kde-gear-26-04-3-chega-com-correcoes-de-estabilidade-para-apps-do-ecossistema-kde/</link>
-      <description></description>
-      <pubDate>Fri, 03 Jul 2026 09:59:09 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kde-gear-26-04-3-chega-com-correcoes-de-estabilidade-para-apps-do-ecossistema-kde/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Vaticano cria comissão para coordenar uso de inteligência artificial entre seus órgãos</title>
-      <link>https://www.vivaolinux.com.br/noticia/vaticano-cria-comissao-para-coordenar-uso-de-inteligencia-artificial-entre-seus-orgaos/</link>
-      <description></description>
-      <pubDate>Fri, 03 Jul 2026 09:59:09 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/vaticano-cria-comissao-para-coordenar-uso-de-inteligencia-artificial-entre-seus-orgaos/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 09:59:09 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 12:16:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -4256,7 +4111,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
       <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 09:59:09 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 12:16:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -4264,7 +4119,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
       <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 09:59:09 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 12:16:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -4272,7 +4127,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
       <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 09:59:09 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 12:16:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -4280,9 +4135,216 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 09:59:09 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 12:16:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] ReactOS avança na compatibilidade com Windows Vista ao implementar primeiro system call NT6</title>
+      <link>https://www.vivaolinux.com.br/noticia/reactos-avanca-na-compatibilidade-com-windows-vista-ao-implementar-primeiro-system-call-nt6/</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 12:16:20 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/reactos-avanca-na-compatibilidade-com-windows-vista-ao-implementar-primeiro-system-call-nt6/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Fedora 45 avalia ativar Shadow Stack por padrão em máquinas x86_64</title>
+      <link>https://www.vivaolinux.com.br/noticia/fedora-45-avalia-ativar-shadow-stack-por-padrao-em-maquinas-x86-64/</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 12:16:20 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/fedora-45-avalia-ativar-shadow-stack-por-padrao-em-maquinas-x86-64/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Ultramarine 44 chega com base no Fedora 44, kernel Linux 7.0 e Plasma 6.7</title>
+      <link>https://www.vivaolinux.com.br/noticia/ultramarine-44-chega-com-base-no-fedora-44-kernel-linux-7-0-e-plasma-6-7/</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 12:16:20 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ultramarine-44-chega-com-base-no-fedora-44-kernel-linux-7-0-e-plasma-6-7/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] KDE Gear 26.04.3 chega com correções de estabilidade para apps do ecossistema KDE</title>
+      <link>https://www.vivaolinux.com.br/noticia/kde-gear-26-04-3-chega-com-correcoes-de-estabilidade-para-apps-do-ecossistema-kde/</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 12:16:20 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kde-gear-26-04-3-chega-com-correcoes-de-estabilidade-para-apps-do-ecossistema-kde/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Vaticano cria comissão para coordenar uso de inteligência artificial entre seus órgãos</title>
+      <link>https://www.vivaolinux.com.br/noticia/vaticano-cria-comissao-para-coordenar-uso-de-inteligencia-artificial-entre-seus-orgaos/</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 12:16:20 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/vaticano-cria-comissao-para-coordenar-uso-de-inteligencia-artificial-entre-seus-orgaos/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[The Verge] A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video</link>
+      <description>Midjourney has shown more of its futuristic medical scanner. It still hasn&apos;t shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with cheap, detailed, radiation-free imaging. The nearly 20-minute tour [&amp;#8230;]</description>
+      <pubDate>Fri, 03 Jul 2026 11:49:10 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=961265</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[Phoronix] Intel Prepares More Nova Lake Graphics/Display Enablement For Linux 7.3</title>
+      <link>https://www.phoronix.com/news/Intel-DRM-First-For-Linux-7.3</link>
+      <description>On Thursday Intel sent out their first batch of Intel kernel graphics driver changes of new feature material targeting the Linux 7.3 kernel. This first batch of drm-intel-next for v7.3 continues to focus heavily on lining up Nova Lake&apos;s Xe3P integrated graphics/display support...</description>
+      <pubDate>Fri, 03 Jul 2026 11:30:33 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/Intel-DRM-First-For-Linux-7.3</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[BR-Linux] OpenVPN 2.7.5 corrige 7 vulnerabilidades</title>
+      <link>https://br-linux.org/2026/01/openvpn-275-corrige-7-vulnerabilidades.html</link>
+      <description>A nova versão do OpenVPN saiu ontem, não traz nenhum recurso novo, mas todos os usuários devem considerar atualizar o mais rápido possível, porque ela corrige 7 vulnerabilidades que já são de conhecimento público, e que podem causar</description>
+      <pubDate>Fri, 03 Jul 2026 11:28:53 -0000</pubDate>
+      <guid isPermaLink="false">https://br-linux.org/2026/01/openvpn-275-corrige-7-vulnerabilidades.html</guid>
+      <source url="https://br-linux.org/feed">BR-Linux</source>
+    </item>
+    <item>
+      <title>[Phoronix] NVIDIA VR-NVL BMC Device Tree Being Upstreamed For OpenBMC Support</title>
+      <link>https://www.phoronix.com/news/NVIDIA-VR-NVL-BMC-DT</link>
+      <description>NVIDIA&apos;s latest Linux kernel mailing list patches are for providing the Device Tree for the baseboard management controller (BMC) of their Vera Rubin VR-NVL server platform. With the Linux kernel patches and also for U-Boot, it&apos;s part of the upstreaming effort for supporting the open-source OpenBMC software on their latest hardware...</description>
+      <pubDate>Fri, 03 Jul 2026 11:02:38 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/NVIDIA-VR-NVL-BMC-DT</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[Phoronix] Linux 7.2-rc2 BPF Code Being Hardened Against JIT Spraying Attacks</title>
+      <link>https://www.phoronix.com/news/Linux-7.2-rc3-BPF-Hardening</link>
+      <description>Some post-merge-window code changes merged overnight ahead of Linux 7.2-rc2 this weekend is hardening the kernel&apos;s BPF code against JIT spraying attacks...</description>
+      <pubDate>Fri, 03 Jul 2026 10:49:59 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/Linux-7.2-rc3-BPF-Hardening</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[Planet KDE] Web Review, Week 2026-27</title>
+      <link>https://ervin.ipsquad.net/blog/2026/07/03/web-review-week-2026-27/</link>
+      <description>&lt;p&gt;Let&amp;rsquo;s go for my web review for the week 2026-27.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h4 id=&quot;what-happened-to-the-fight-for-the-internet&quot;&gt;What happened to the fight for the Internet?&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Tags: tech, politics, surveillance&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Excellent piece, where are the netizens who should be fighting back those bills? Looks like we became very complacent and passivity reigns this time around. Didn&amp;rsquo;t think it was related to the pervasive centralisation already in place&amp;hellip; but indeed that might be a strong contributing factor.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://dustycloud.org/blog/what-happened-to-the-fight-for-the-internet/&quot; target=&quot;_blank&quot;&gt;https://dustycloud.org/blog/what-happened-to-the-fight-for-the-internet/&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h4 id=&quot;age-verification-is-just-a-precursor-to-attribution-of-speech&quot;&gt;Age verification is just a precursor to attribution of speech&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Tags: tech, politics, law, surveillance&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Definitely this, we can&amp;rsquo;t trust this kind of mechanism for what they open the door to.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026&quot; target=&quot;_blank&quot;&gt;https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h4 id=&quot;my-review-of-uruky&quot;&gt;my review of uruky&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Tags: tech, web, search&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Several times I bump into articles praising this one. I&amp;rsquo;ve been test driving it a bit, the experience is still a bit bare but it&amp;rsquo;s clearly maturing. Definitely an option to keep an eye on in my opinion.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.sulimans.space/my-review-of-uruky/&quot; target=&quot;_blank&quot;&gt;https://blog.sulimans.space/my-review-of-uruky/&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h4 id=&quot;zuckerbergs-increasingly-bizarre-war-on-whistleblowers&quot;&gt;Zuckerberg’s increasingly bizarre war on whistleblowers&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Tags: tech, social-media, facebook, ethics&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;There might be a method behind the madness of the thin skinned autocrat heading Meta&amp;hellip; Unfortunately it probably works.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://pluralistic.net/2026/06/27/zuckerstreisand-2/&quot; target=&quot;_blank&quot;&gt;https://pluralistic.net/2026/06/27/zuckerstreisand-2/&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h4 id=&quot;chatbots-vs-ozone&quot;&gt;Chatbots vs. Ozone&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Tags: tech, geospatial, ai, machine-learning, gpt, economics, ecology&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;More reasons why the whole &amp;ldquo;data centers in space idea&amp;rdquo; is stupidly dangerous and likely unreachable.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.dshr.org/2026/05/chatbots-vs-ozone.html?m=1&quot; target=&quot;_blank&quot;&gt;https://blog.dshr.org/2026/05/chatbots-vs-ozone.html?m=1&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h4 id=&quot;claude-code-is-steganographically-marking-requests&quot;&gt;Claude Code Is Steganographically Marking Requests&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Tags: tech, ai, machine-learning, gpt, copilot, trust, security, privacy&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;You sure you can trust those systems? It&amp;rsquo;s proprietary software and they&amp;rsquo;re clearly on a slippery slop. For something so security sensitive this is concerning.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://thereallo.dev/blog/claude-code-prompt-steganography&quot; target=&quot;_blank&quot;&gt;https://thereallo.dev/blog/claude-code-prompt-steganography&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h4 id=&quot;prompt-injection-as-role-confusion&quot;&gt;Prompt Injection as Role Confusion&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Tags: tech, ai, machine-learning, gpt, cognition, security, safety&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Interesting paper (go to the full one for all the details) which shows that with the current architecture it&amp;rsquo;s really hard if not impossible to make safe systems with LLMs. This gives interesting insights in the weird form of proto-cognition those models exhibit.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://role-confusion.github.io/&quot; target=&quot;_blank&quot;&gt;https://role-confusion.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h4 id=&quot;text-editor-data-structures&quot;&gt;Text Editor: Data Structures&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Tags: tech, text, editor, design&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Neat introduction to the right data structures to use when making a text editor.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.averylaird.com/programming/the%20text%20editor/2017/09/30/the-piece-table.html&quot; target=&quot;_blank&quot;&gt;https://www.averylaird.com/programming/the%20text%20editor/2017/09/30/the-piece-table.html&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h4 id=&quot;engineering-high-performance-parsers-with-data-oriented-design&quot;&gt;Engineering High-Performance Parsers with Data-Oriented Design&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Tags: tech, data-oriented, architecture, performance, parsing&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Interesting article applying data oriented design to parsing tasks. This is really a good approach for performance.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.arshad.fyi/writings/engineering-high-performance-parsers&quot; target=&quot;_blank&quot;&gt;https://www.arshad.fyi/writings/engineering-high-performance-parsers&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h4 id=&quot;data-access-patterns-that-makes-your-cpu-really-angry&quot;&gt;Data Access Patterns That Makes Your CPU Really Angry&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Tags: tech, cpu, memory, hardware, performance&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Interesting experiment on how to totally break the performance of memory accesses. This gives good insights on the whole chain works.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.weineng.me/posts/slowest_add/&quot; target=&quot;_blank&quot;&gt;https://blog.weineng.me/posts/slowest_add/&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h4 id=&quot;the-physics-of-memory&quot;&gt;The Physics of Memory&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Tags: tech, javascript, memory, data-oriented, performance&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Unsurprisingly cache locality is a very important factor. What&amp;rsquo;s interesting here is that it still applies to a language like Javascript where you&amp;rsquo;d expect to not have enough control on the memory layout to reap any benefits.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.dmurph.com/posts/2026/06/ecs_vs_oop_benchmark/ecs_vs_oop_benchmark.html&quot; target=&quot;_blank&quot;&gt;https://www.dmurph.com/posts/2026/06/ecs_vs_oop_benchmark/ecs_vs_oop_benchmark.html&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h4 id=&quot;high-performance-rust-understanding-and-eliminating-memory-fragmentation&quot;&gt;High-performance Rust: Understanding and eliminating memory fragmentation&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Tags: tech, rust, memory, embedded, performance&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Interesting Rust options to limit the amount of heap allocations if you&amp;rsquo;re constrained by memory or for performance reasons.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://kerkour.com/rust-high-performance-memory-fragmentation-allocations&quot; target=&quot;_blank&quot;&gt;https://kerkour.com/rust-high-performance-memory-fragmentation-allocations&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h4 id=&quot;hobbys-algorithm-for-aesthetic-bézier-splines&quot;&gt;Hobby’s algorithm for aesthetic Bézier splines&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Tags: tech, graphics, mathematics&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Interested in splines? This is a gentle introduction which points to further resources if you want to implement them.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.jakelow.com/blog/hobby-curves#fn-2&quot; target=&quot;_blank&quot;&gt;https://www.jakelow.com/blog/hobby-curves#fn-2&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h4 id=&quot;what-to-learn-to-be-a-real-time-graphics-programmer&quot;&gt;What To Learn To Be A Real Time Graphics Programmer&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Tags: tech, 3d, shader, mathematics, graphics&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Wondering what to learn to get into graphics programming? This is a nice list.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/&quot; target=&quot;_blank&quot;&gt;https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h4 id=&quot;announcing-box3d&quot;&gt;Announcing Box3D&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Tags: tech, physics, simulation, 3d&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Exciting! This looks like a neat 3D physics engine.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://box2d.org/posts/2026/06/announcing-box3d/&quot; target=&quot;_blank&quot;&gt;https://box2d.org/posts/2026/06/announcing-box3d/&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h4 id=&quot;the-essence-of-architectural-work&quot;&gt;The essence of architectural work&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Tags: tech, architecture, complexity&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This is an ongoing series, but there are good insights about software architecture work in the first few articles. Shows quite well the important tradeoffs and the usual traps.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ufried.com/blog/essence_of_architecture_1/&quot; target=&quot;_blank&quot;&gt;https://www.ufried.com/blog/essence_of_architecture_1/&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h4 id=&quot;every-bottlenose-dolphin-invents-a-unique-whistle-that-becomes-its-name&quot;&gt;Every bottlenose dolphin invents a unique whistle that becomes its name&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Tags: biology, nature, cognition&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;So using personal names is not an inherently human trait, this is confirmed through research now. Before their were signs and suspicions, but now the trail of evidences is strong.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://spacedaily.com/d-within-the-first-few-months-of-life-every-bottlenose-dolphin-invents-a-unique-whistle-that-becomes-its-name-for-the-rest-of-its-life-and-other-dolphins-learn-that-whistle-remember-it-and/&quot; target=&quot;_blank&quot;&gt;https://spacedaily.com/d-within-the-first-few-months-of-life-every-bottlenose-dolphin-invents-a-unique-whistle-that-becomes-its-name-for-the-rest-of-its-life-and-other-dolphins-learn-that-whistle-remember-it-and/&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;h4 id=&quot;notes-from-a-burning-paris&quot;&gt;Notes from a burning Paris&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Tags: climate, ecology&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This is what things will look like in the coming years. Only probably worse, and for more and more people.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://sarahwilson.substack.com/p/notes-from-a-burning-paris&quot; target=&quot;_blank&quot;&gt;https://sarahwilson.substack.com/p/notes-from-a-burning-paris&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;hr /&gt;
+&lt;p&gt;Bye for now!&lt;/p&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 10:36:56 -0000</pubDate>
+      <guid isPermaLink="false">https://ervin.ipsquad.net/blog/2026/07/03/web-review-week-2026-27/</guid>
+      <source url="https://planet.kde.org/index.xml">Planet KDE</source>
+    </item>
+    <item>
+      <title>[Phoronix] Linux Preparing To Retire Its 32-bit MSR Interfaces</title>
+      <link>https://www.phoronix.com/news/Linux-Ending-32-bit-MSR-Work</link>
+      <description>Currently measuring in at 32 patches, SUSE engineer Juergen Gross has been leading the effort to end the Linux kernel&apos;s usage of their 32-bit model specific register (MSR) interfaces so the more modern 64-bit interfaces can be exclusively used. This allows for better code unification and cleaning up the MSR code...</description>
+      <pubDate>Fri, 03 Jul 2026 10:32:05 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/Linux-Ending-32-bit-MSR-Work</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[Planet KDE] Attention to Detail</title>
+      <link>https://blog.broulik.de/2026/07/attention-to-detail/</link>
+      <description>&lt;p class=&quot;wp-block-paragraph&quot;&gt;A couple of months ago I improved &lt;a href=&quot;https://blog.broulik.de/2026/02/nifty-dialogs/&quot; target=&quot;_blank&quot;&gt;some of our dialogs&lt;/a&gt; and this time I worked on some more. Did you know that you can just paste the clipboard’s content into the Dolphin file manager or on the desktop to create a new file from it?&lt;/p&gt;
+&lt;figure class=&quot;wp-block-image size-large&quot;&gt;&lt;a href=&quot;https://blog.broulik.de/wp-content/uploads/2026/06/Bildschirmfoto_20260630_103029.png&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;Dialog box &amp;quot;Paste Clipboard Content&amp;quot; prompt for &amp;quot;Filename for clipboard content:&amp;quot;. Name is &amp;quot;pasted file.html&amp;quot;&quot; class=&quot;wp-image-2951&quot; height=&quot;606&quot; src=&quot;https://blog.broulik.de/wp-content/uploads/2026/06/Bildschirmfoto_20260630_103029-1024x606.png&quot; width=&quot;1024&quot; /&gt;&lt;/a&gt;&lt;figcaption class=&quot;wp-element-caption&quot;&gt;Just paste your clipboard’s content to create a new file&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;span id=&quot;more-2922&quot;&gt;&lt;/span&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;Tobias Fella added a proper “platform message dialog” for Qt to use. This replaces the hideous Qt Quick message dialogs you could see in some places. With that, we are also finally able to play our message box sounds for Qt-only applications using &lt;em&gt;QMessageBox&lt;/em&gt; (instead of &lt;em&gt;KMessageBox&lt;/em&gt; or &lt;em&gt;KMessageDialog&lt;/em&gt;). To do this, Qt sends an &lt;em&gt;QAccessible::Alert&lt;/em&gt; event that is then handled by the relevant platform accessibility integration. On Windows it for example calls the win32 &lt;em&gt;PlaySound&lt;/em&gt; API. However, I didn’t want to mess with Qt’s AT-SPI&lt;sup class=&quot;fn&quot;&gt;&lt;a href=&quot;https://planet.kde.org/index.xml#e9594b60-b64f-4758-9c3b-17eaf3423cac&quot; id=&quot;e9594b60-b64f-4758-9c3b-17eaf3423cac-link&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; stack just for this. Now that we provide a custom dialog, we might as well play the sound from there.&lt;/p&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;Just like the “New File” dialog, the paste dialog mentioned above also displays the file icon now. It also tries to guess what kind of file it is and automatically suggests a matching file extension. For example, copying something that looks like HTML will suggest the name “pasted file.html”. You are of course still free to choose a different file name and extension.&lt;/p&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;An application can also suggest a name using the custom &lt;em&gt;application/x-kde-suggestedfilename&lt;/em&gt; MIME type. &lt;a href=&quot;https://apps.kde.org/spectacle/&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Spectacle&lt;/a&gt; does this so a screenshot copied to clipboard and then pasted (rather than saved directly) will nevertheless use a “Screenshot_xyz” file name. The clipboard history now remembers the suggested name when it stores an entry so when you recall it later it will still use that name as expected.&lt;/p&gt;
+&lt;figure class=&quot;wp-block-image size-full&quot;&gt;&lt;a href=&quot;https://blog.broulik.de/wp-content/uploads/2026/06/Bildschirmfoto_20260630_102423.png&quot; target=&quot;_blank&quot;&gt;&lt;img alt=&quot;Configuration dialog “Color Themes”, select theme drop.down with various themes and each one has a little colored square preview for the colors&quot; class=&quot;wp-image-2949&quot; height=&quot;934&quot; src=&quot;https://blog.broulik.de/wp-content/uploads/2026/06/Bildschirmfoto_20260630_102423.png&quot; width=&quot;857&quot; /&gt;&lt;/a&gt;&lt;figcaption class=&quot;wp-element-caption&quot;&gt;Little preview icon when configuring syntax highlighting&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;When dropping a folder into Kate, all files contained within will be opened. Kate has always been able to open files on remote locations thanks to KIO but the drag and drop code only worked with local folders. This is now fixed and you can drop a folder from a SMB or other share into your Kate the same way as any local one. &lt;/p&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;A nifty addition to both the menu and settings page for choosing a syntax highlighting color scheme is a little preview icon similar to the application color scheme. This lets you roughly judge the appearance of the theme before selecting it.&lt;/p&gt;
+&lt;p class=&quot;wp-block-paragraph&quot;&gt;Finally, KWin’s debug console (Open KRunner, type “KWin”) received a “Pick Window…” button. This way you can more easily find a particular window in the potentially long list of windows. The &lt;em&gt;kwindowprop&lt;/em&gt; tool (KWin’s equivalent to &lt;em&gt;xprop&lt;/em&gt;) now also includes the PID of the process owning the window.&lt;/p&gt;
+&lt;ol class=&quot;wp-block-footnotes&quot;&gt;&lt;li id=&quot;e9594b60-b64f-4758-9c3b-17eaf3423cac&quot;&gt;Assistive Technology Service Provider Interface, a cross-desktop accessibility framework &lt;a href=&quot;https://planet.kde.org/index.xml#e9594b60-b64f-4758-9c3b-17eaf3423cac-link&quot;&gt;&lt;img alt=&quot;↩&quot; class=&quot;wp-smiley&quot; src=&quot;https://s.w.org/images/core/emoji/17.0.2/72x72/21a9.png&quot; style=&quot;height: 1em;&quot; /&gt;︎&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 10:23:38 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.broulik.de/?p=2922</guid>
+      <source url="https://planet.kde.org/index.xml">Planet KDE</source>
     </item>
     <item>
       <title>[openSUSE News] Planet News Roundup</title>
