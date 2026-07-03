@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Fri, 03 Jul 2026 12:16:25 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 15:12:08 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://SEU_USUARIO_OU_ORG.github.io/SEU_REPO/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -840,10 +840,10 @@ build/static/js:
       <source url="https://github.blog/feed">GitHub Blog</source>
     </item>
     <item>
-      <title>[OMG! Ubuntu] Ubuntu’s ‘Myna’ project lets you talk instead of type – what is it?</title>
+      <title>[OMG! Ubuntu] Ubuntu’s new ‘Myna’ AI lets you talk instead of type – here’s how</title>
       <link>https://www.omgubuntu.co.uk/2026/06/what-is-myna-ubuntu-ai-dictation</link>
       <description>&lt;p&gt;&lt;img alt=&quot;Poster collage of open mouth with AI letters inside over blue wall of text.&quot; class=&quot;attachment-post-list size-post-list wp-post-image&quot; height=&quot;232&quot; src=&quot;https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/06/ai-text-to-speech.webp?resize=406%2C232&amp;amp;ssl=1&quot; width=&quot;406&quot; /&gt;Ubuntu is working on speech-to-text AI transcription so you can talk to type. It&apos;s powered by project Myna. Here&apos;s how it&apos;ll work and why it&apos;s adding it.&lt;/p&gt;
-&lt;p&gt;You&apos;re reading &lt;a href=&quot;https://www.omgubuntu.co.uk/2026/06/what-is-myna-ubuntu-ai-dictation&quot;&gt;Ubuntu&amp;#8217;s &amp;#8216;Myna&amp;#8217; project lets you talk instead of type – what is it?&lt;/a&gt;, a blog post from &lt;a href=&quot;https://www.omgubuntu.co.uk&quot;&gt;OMG! Ubuntu&lt;/a&gt;. Do not reproduce elsewhere without permission.&lt;/p&gt;</description>
+&lt;p&gt;You&apos;re reading &lt;a href=&quot;https://www.omgubuntu.co.uk/2026/06/what-is-myna-ubuntu-ai-dictation&quot;&gt;Ubuntu&amp;#8217;s new &amp;#8216;Myna&amp;#8217; AI lets you talk instead of type – here&amp;#8217;s how&lt;/a&gt;, a blog post from &lt;a href=&quot;https://www.omgubuntu.co.uk&quot;&gt;OMG! Ubuntu&lt;/a&gt;. Do not reproduce elsewhere without permission.&lt;/p&gt;</description>
       <pubDate>Tue, 30 Jun 2026 16:27:08 -0000</pubDate>
       <guid isPermaLink="false">https://www.omgubuntu.co.uk/?p=334548</guid>
       <source url="https://www.omgubuntu.co.uk/feed">OMG! Ubuntu</source>
@@ -1452,14 +1452,6 @@ rewine (1):
       <source url="https://feeds.feedburner.com/linuxtoday/linux">Linux Today</source>
     </item>
     <item>
-      <title>[The Verge] Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home</title>
-      <link>https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges</link>
-      <description>The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11. 44-year-old Michael Butler was arrested on Wednesday and claimed to have been driving his Model 3 using Tesla&apos;s Full-Self Driving (FSD) [&amp;#8230;]</description>
-      <pubDate>Thu, 02 Jul 2026 22:09:33 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=961161</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
       <title>[OMG! Ubuntu] Ubuntu 26.04 LTS has fixed its missing video/audio thumbnails</title>
       <link>https://www.omgubuntu.co.uk/2026/07/ubuntu-2604-video-audio-thumbnails-fix</link>
       <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-post-list size-post-list wp-post-image&quot; height=&quot;232&quot; src=&quot;https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/ubuntu-bug.jpg?resize=406%2C232&amp;amp;ssl=1&quot; width=&quot;406&quot; /&gt;If you installed Ubuntu 26.04 LTS and noticed video and music files weren&amp;#8217;t showing image thumbnails in the file manager, a packaging oversight was to blame, not anything you did. It turns out that Ubuntu&amp;#8217;s Default install option (aka minimal install) wasn&amp;#8217;t pulling in the gst-audio-thumbnailer and gst-video-thumbnailer packages which generate media thumbnails when you open a folder full of compatible files. A metapackage doesn&amp;#8217;t contain software itself, just a list of the packages that need to be installed for, in this case, an Ubuntu desktop experience. Confusingly, both thumbnailers were present in the full install&amp;#8217;s meta file, so if [&amp;#8230;]&lt;/p&gt;
@@ -1467,22 +1459,6 @@ rewine (1):
       <pubDate>Thu, 02 Jul 2026 21:23:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.omgubuntu.co.uk/?p=334656</guid>
       <source url="https://www.omgubuntu.co.uk/feed">OMG! Ubuntu</source>
-    </item>
-    <item>
-      <title>[The Verge] Meta has a new app called Pocket that is absolutely nothing like the old Pocket</title>
-      <link>https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai</link>
-      <description>Mozilla shut down the well-loved read-it-later Pocket app last year, and now Meta is launching an app called Pocket with an entirely different, AI-focused pitch: this new app lets you make and share little interactive &quot;gizmos&quot; built from an AI prompt, as reported by Business Insider. Meta CEO Mark Zuckerberg is all in on AI [&amp;#8230;]</description>
-      <pubDate>Thu, 02 Jul 2026 21:09:06 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=961086</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>[The Verge] The best July 4th sales we found so far</title>
-      <link>https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale</link>
-      <description>July 4th sales are typically a precursor to what we&amp;#8217;d see during a mid-July Prime Day, but obviously things are flipped around this year. Last week&amp;#8217;s big Prime Day sale is over, yet there are a number of familiar deals still poking around in the week leading up to the nation&amp;#8217;s birthday. Best Buy is [&amp;#8230;]</description>
-      <pubDate>Thu, 02 Jul 2026 20:15:45 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=958906</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
     </item>
     <item>
       <title>[Diolinux] Nova versão do COSMIC, brecha no LastPass e a IA continua encarecendo tudo</title>
@@ -2201,14 +2177,6 @@ KWallet XML Import (&lt;a href=&quot;https://invent.kde.org/utilities/keepsecret
       <description>O Tails 7.9.1, mantendo seu foco na privacidade, chega trazendo o kernel Linux 6.12.94, que corrige a recente vulnerabilidade DirtyClone.</description>
       <pubDate>Thu, 02 Jul 2026 12:27:07 -0000</pubDate>
       <guid isPermaLink="false">https://br-linux.org/2026/01/tails-791-distribuicao-com-foco-em-privacidade-atualiza-tor-e-corrige-vulnerabilidade-no-kernel.html</guid>
-      <source url="https://br-linux.org/feed">BR-Linux</source>
-    </item>
-    <item>
-      <title>[BR-Linux] Seis ferramentas de backup para uso no Linux</title>
-      <link>https://br-linux.org/2026/01/seis-ferramentas-de-backup-para-uso-no-linux.html</link>
-      <description>Usuários clássicos ou jurássicos ainda fazemos backup com o tar e acham suficiente, mas esse artigo do itsfoss  vai bem além e descreve 6 ferramentas mais modernas e interativas para essa tarefa.</description>
-      <pubDate>Thu, 02 Jul 2026 12:24:09 -0000</pubDate>
-      <guid isPermaLink="false">https://br-linux.org/2026/01/seis-ferramentas-de-backup-para-uso-no-linux.html</guid>
       <source url="https://br-linux.org/feed">BR-Linux</source>
     </item>
     <item>
@@ -4060,10 +4028,26 @@ continents thus far. New dates and locations are being added daily.</description
       <source url="https://opensource.org/feed/">OSI</source>
     </item>
     <item>
+      <title>[LWN] Linux Storage, Filesystem, Memory Management, and BPF Summit</title>
+      <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 15:12:08 -0000</pubDate>
+      <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1079407/</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 15:12:08 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1079407/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1080162/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 12:16:25 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 15:12:08 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1080162/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -4071,7 +4055,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[LWN] local BPF storage API</title>
       <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 12:16:25 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 15:12:08 -0000</pubDate>
       <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -4079,31 +4063,15 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1078968/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 12:16:25 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 15:12:08 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1078968/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Secure Boot</title>
-      <link>https://en.wikipedia.org/wiki/UEFI#Secure_Boot</link>
-      <description></description>
-      <pubDate>Fri, 03 Jul 2026 12:16:25 -0000</pubDate>
-      <guid isPermaLink="false">https://en.wikipedia.org/wiki/UEFI#Secure_Boot</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1079808/</link>
-      <description></description>
-      <pubDate>Fri, 03 Jul 2026 12:16:25 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1079808/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
     <item>
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 12:16:21 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 15:12:03 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -4111,7 +4079,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
       <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 12:16:21 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 15:12:03 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -4119,7 +4087,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
       <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 12:16:21 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 15:12:03 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -4127,7 +4095,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
       <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 12:16:21 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 15:12:03 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -4135,7 +4103,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 12:16:21 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 15:12:03 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -4143,7 +4111,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Viva o Linux] ReactOS avança na compatibilidade com Windows Vista ao implementar primeiro system call NT6</title>
       <link>https://www.vivaolinux.com.br/noticia/reactos-avanca-na-compatibilidade-com-windows-vista-ao-implementar-primeiro-system-call-nt6/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 12:16:20 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 15:12:02 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/reactos-avanca-na-compatibilidade-com-windows-vista-ao-implementar-primeiro-system-call-nt6/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -4151,7 +4119,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Viva o Linux] Fedora 45 avalia ativar Shadow Stack por padrão em máquinas x86_64</title>
       <link>https://www.vivaolinux.com.br/noticia/fedora-45-avalia-ativar-shadow-stack-por-padrao-em-maquinas-x86-64/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 12:16:20 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 15:12:02 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/fedora-45-avalia-ativar-shadow-stack-por-padrao-em-maquinas-x86-64/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -4159,7 +4127,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Viva o Linux] Ultramarine 44 chega com base no Fedora 44, kernel Linux 7.0 e Plasma 6.7</title>
       <link>https://www.vivaolinux.com.br/noticia/ultramarine-44-chega-com-base-no-fedora-44-kernel-linux-7-0-e-plasma-6-7/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 12:16:20 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 15:12:02 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ultramarine-44-chega-com-base-no-fedora-44-kernel-linux-7-0-e-plasma-6-7/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -4167,7 +4135,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Viva o Linux] KDE Gear 26.04.3 chega com correções de estabilidade para apps do ecossistema KDE</title>
       <link>https://www.vivaolinux.com.br/noticia/kde-gear-26-04-3-chega-com-correcoes-de-estabilidade-para-apps-do-ecossistema-kde/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 12:16:20 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 15:12:02 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kde-gear-26-04-3-chega-com-correcoes-de-estabilidade-para-apps-do-ecossistema-kde/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -4175,17 +4143,65 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Viva o Linux] Vaticano cria comissão para coordenar uso de inteligência artificial entre seus órgãos</title>
       <link>https://www.vivaolinux.com.br/noticia/vaticano-cria-comissao-para-coordenar-uso-de-inteligencia-artificial-entre-seus-orgaos/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 12:16:20 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 15:12:02 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/vaticano-cria-comissao-para-coordenar-uso-de-inteligencia-artificial-entre-seus-orgaos/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
-      <title>[The Verge] A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video</link>
-      <description>Midjourney has shown more of its futuristic medical scanner. It still hasn&apos;t shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with cheap, detailed, radiation-free imaging. The nearly 20-minute tour [&amp;#8230;]</description>
-      <pubDate>Fri, 03 Jul 2026 11:49:10 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=961265</guid>
+      <title>[The Verge] While you’re watching the World Cup, the feds may be watching you</title>
+      <link>https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras</link>
+      <description>It&apos;s a big year for America. It&apos;s the semiquincentennial, otherwise known as America250, and the United States is cohosting the World Cup. But spectators at these events - and the millions of people who live in the cities hosting them - may not realize that they, too, are being watched. From Kansas City to New [&amp;#8230;]</description>
+      <pubDate>Fri, 03 Jul 2026 15:00:00 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=961004</guid>
       <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[The Verge] This slim camera has a transparent LCD screen for a viewfinder</title>
+      <link>https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen</link>
+      <description>Despite the fact that smartphones have become impressively capable shooters, standalone point-and-shoot cameras are enjoying a renaissance. The tiny Kodak Charmera is still wildly popular, while influencers are scrambling to find aging Canon cameras on eBay. Godox, a company best known for its photography lighting products, is the latest to join the simple camera craze, [&amp;#8230;]</description>
+      <pubDate>Fri, 03 Jul 2026 14:51:38 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=961362</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[The Verge] I finally got my Trump phone</title>
+      <link>https://www.theverge.com/tech/961297/trump-mobile-t1-phone-first-impressions</link>
+      <description>Where&apos;s the Trump phone? We&apos;re going to keep talking about it every week. One year on, our phones have finally arrived. 12 months, 16 days, 21 hours, and 54 minutes after I first heard about Trump Mobile&apos;s T1 Phone 8002 (gold version), I&apos;m finally holding one in my own hands. That&apos;s right, The Verge&apos;s Trump [&amp;#8230;]</description>
+      <pubDate>Fri, 03 Jul 2026 14:41:11 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=961297</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[The Verge] Hydration isn’t complicated: Just drink water</title>
+      <link>https://www.theverge.com/column/960832/optimizer-hydration-electrolytes-health-heat-wave</link>
+      <description>This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they&apos;re going to change your life. Opt in for Optimizer here. Europe is melting, the eastern US is currently trapped in a &quot;heat dome,&quot; the Midwest has the corn sweats to [&amp;#8230;]</description>
+      <pubDate>Fri, 03 Jul 2026 14:00:00 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=960832</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[The Verge] Anthropic wants to develop its own drugs</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development</link>
+      <description>At the event &quot;The Briefing: AI for Science&quot; earlier this week, Anthropic announced Claude Science, a new &quot;AI workbench for scientists&quot; that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it [&amp;#8230;]</description>
+      <pubDate>Fri, 03 Jul 2026 13:56:52 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=961311</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[BR-Linux] Apple Container: alternativa da Apple para o Docker chega à versão 1.0 com máquinas Linux persistentes</title>
+      <link>https://br-linux.org/2026/01/apple-container-alternativa-da-apple-para-o-docker-chega-a-versao-10-com-maquinas-linux-persistentes.html</link>
+      <description>Na mesma semana em que vimos a Microsoft anunciar tentativa similar, a ferramenta de containers da Apple para macOS chega à versão 1.0, com máquinas Linux persistentes, mais integração, e melhorias nos workflows.</description>
+      <pubDate>Fri, 03 Jul 2026 12:57:19 -0000</pubDate>
+      <guid isPermaLink="false">https://br-linux.org/2026/01/apple-container-alternativa-da-apple-para-o-docker-chega-a-versao-10-com-maquinas-linux-persistentes.html</guid>
+      <source url="https://br-linux.org/feed">BR-Linux</source>
+    </item>
+    <item>
+      <title>[Phoronix] Rust Coreutils cp Ended Up Breaking Ubuntu Image Builds With Latest Incompatibility</title>
+      <link>https://www.phoronix.com/news/Rust-Coreutils-cp-Ubuntu-Images</link>
+      <description>While the Rust Coreutils offers better memory safety than GNU Coreutils due to being written in the Rust programming language, subtle incompatibilities continue to be spotted in the Rust Coreutils implementations of the different commands. The latest coming to light this week was the Rust Coreutils cp command breaking Ubuntu image builds due to differences in argument handling...</description>
+      <pubDate>Fri, 03 Jul 2026 12:35:30 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/Rust-Coreutils-cp-Ubuntu-Images</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
     <item>
       <title>[Phoronix] Intel Prepares More Nova Lake Graphics/Display Enablement For Linux 7.3</title>
@@ -4353,22 +4369,6 @@ continents thus far. New dates and locations are being added daily.</description
       <pubDate>Fri, 03 Jul 2026 08:00:00 -0000</pubDate>
       <guid isPermaLink="false">https://news.opensuse.org/2026/07/03/planet-roundup/</guid>
       <source url="https://news.opensuse.org/feed/">openSUSE News</source>
-    </item>
-    <item>
-      <title>[The Verge] Sony’s PlayStation disc factory is already being repurposed</title>
-      <link>https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead</link>
-      <description>The video game disc is dead, and Sony&apos;s been planning to kill it for some time, according to a report out of Austria. The man who leads Sony&apos;s discmaking operations, Sony DADC president Dietmar Tanzer, told ORF Salzburg that the company&apos;s Thalgau plant produces 600,000 discs every day, half of which are for PlayStation. But [&amp;#8230;]</description>
-      <pubDate>Fri, 03 Jul 2026 01:05:13 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=961203</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>[Phoronix] ReactOS Implements First Windows NT6 System Call In Step Toward Vista Compatibility</title>
-      <link>https://www.phoronix.com/news/ReactOS-First-NT6-Syscall</link>
-      <description>The ReactOS project that is striving to be the &quot;open-source Windows&quot; with Windows driver and software binary compatibility hit another milestone today.  ReactOS to date has primarily targeted Windows NT 5.2 as the architecture from Windows XP and Windows Server 2003 but with an eye toward Windows NT 6.0 for Windows Vista and later compatibility with software. ReactOS has now landed their first NT6 system call...</description>
-      <pubDate>Fri, 03 Jul 2026 00:22:38 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/ReactOS-First-NT6-Syscall</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
   </channel>
 </rss>
