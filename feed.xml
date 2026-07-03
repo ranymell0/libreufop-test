@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 02 Jul 2026 23:09:50 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 02:58:33 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://SEU_USUARIO_OU_ORG.github.io/SEU_REPO/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -591,6 +591,14 @@ individual.&lt;/p&gt;
       <source url="https://github.com/hyprwm/Hyprland/releases.atom">Hyprland</source>
     </item>
     <item>
+      <title>[Linux Mint Blog] Monthly News – January 2026</title>
+      <link>https://blog.linuxmint.com/?p=4991</link>
+      <description>Hi everyone, Before we start with the news, I&amp;#8217;d like to thank you for your donations and for your support! We received donations from more than a thousand people in December! I know I talked about this before, but I&amp;#8217;ll do it again because this number of donors in a single month is unprecedented. I [&amp;#8230;]</description>
+      <pubDate>Wed, 11 Feb 2026 15:36:15 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.linuxmint.com/?p=4991</guid>
+      <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
+    </item>
+    <item>
       <title>[OSI] From G7’s Vision on AI Openness to EU’s Tech Sovereignty Package</title>
       <link>https://opensource.org/blog/from-g7s-vision-on-ai-openness-to-eus-tech-sovereignty-package</link>
       <description>Members Newsletter – June 2026
@@ -606,6 +614,14 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <pubDate>Wed, 06 Nov 2024 17:26:52 -0000</pubDate>
       <guid isPermaLink="false">tag:github.com,2008:Repository/30291090/4.24</guid>
       <source url="https://github.com/i3/i3/releases.atom">i3wm</source>
+    </item>
+    <item>
+      <title>[Linux Mint Blog] Monthly News – February 2026</title>
+      <link>https://blog.linuxmint.com/?p=5010</link>
+      <description>Hi everyone, First of all, thank you for your support and your donation! And many thanks to all the people involved in helping Linux Mint. Here&amp;#8217;s a preview of what we worked on recently, and which will be featured in the next release. Sensors A page dedicated to sensors was added to the System Reports [&amp;#8230;]</description>
+      <pubDate>Wed, 04 Mar 2026 15:01:31 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.linuxmint.com/?p=5010</guid>
+      <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
     </item>
     <item>
       <title>[Diolinux] O alerta do BIS: a bolha da IA pode estourar e arrastar a economia global</title>
@@ -1052,6 +1068,14 @@ addresses. We do not have the resources to reply to them.&lt;/strong&gt;&lt;/p&g
       <source url="https://www.kernel.org/feeds/all.atom.xml">kernel.org</source>
     </item>
     <item>
+      <title>[Linux Mint Blog] Monthly News – April 2026</title>
+      <link>https://blog.linuxmint.com/?p=5022</link>
+      <description>Hi everyone, Thank you for your support and your donations! Many thanks to everyone involved in helping Linux Mint. HWE ISOs Earlier this month we announced a longer development cycle and the decision not to release until Christmas 2026. To address compatibility issues with brand new hardware, we decided to start publishing updated ISO images [&amp;#8230;]</description>
+      <pubDate>Thu, 30 Apr 2026 16:42:56 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.linuxmint.com/?p=5022</guid>
+      <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
+    </item>
+    <item>
       <title>[BigLinux] BigLinux traz novos kerneis no seu repositório oficial.</title>
       <link>https://www.biglinux.com.br/biglinux-tras-novos-kerneis-no-seu-repositorio-oficial/</link>
       <description>&lt;p&gt;Xanmod, Liquorix (lqx), Zen, TKG e Cachyos (alem dos kerneis tradicionais e RT fornecidos pela base manjaro).Todos disponíveis na loja BigStore. Lista completa de novos kerneis:linux-xanmodlinux-xanmod-ltslinux-xanmod-rt linux-lqx linux-zen-515lts linux61-tkg-bmqlinux61-tkg-cfslinux61-tkg-pds linux-cachyoslinux-cachyos-bmqlinux-cachyos-borelinux-cachyos-caculelinux-cachyos-cfslinux-cachyos-pdslinux-cachyos-tt&lt;/p&gt;
@@ -1380,6 +1404,14 @@ rewine (1):
       <source url="https://opensource.org/feed/">OSI</source>
     </item>
     <item>
+      <title>[Linux Mint Blog] Monthly News – March 2026</title>
+      <link>https://blog.linuxmint.com/?p=5019</link>
+      <description>Hi everyone, Before we start with the news, I’d like to apologize for posting so late. Release Strategy In February I mentioned we were at a crossroads and that it was the right time to consider important changes. The following decisions were made: Linux Mint will adopt a longer development lifecycle. The next release is [&amp;#8230;]</description>
+      <pubDate>Thu, 16 Apr 2026 11:27:22 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.linuxmint.com/?p=5019</guid>
+      <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
+    </item>
+    <item>
       <title>[Xfce News] Xfce 4.18 released</title>
       <link>https://xfce.org/about/news/?post=1671062400</link>
       <description>After almost two years of work, we are happy to announce the release of Xfce 4.18 !</description>
@@ -1477,132 +1509,21 @@ rewine (1):
       <source url="https://feeds.feedburner.com/linuxtoday/linux">Linux Today</source>
     </item>
     <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1080162/</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 23:09:50 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1080162/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] local BPF storage API</title>
-      <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 23:09:50 -0000</pubDate>
-      <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1078968/</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 23:09:50 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1078968/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Secure Boot</title>
-      <link>https://en.wikipedia.org/wiki/UEFI#Secure_Boot</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 23:09:50 -0000</pubDate>
-      <guid isPermaLink="false">https://en.wikipedia.org/wiki/UEFI#Secure_Boot</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1079808/</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 23:09:50 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1079808/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Measuring OSPO Value</title>
-      <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 23:09:45 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
-      <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 23:09:45 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
-      <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 23:09:45 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
-      <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 23:09:45 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 23:09:45 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Vaticano cria comissão para coordenar uso de inteligência artificial entre seus órgãos</title>
-      <link>https://www.vivaolinux.com.br/noticia/vaticano-cria-comissao-para-coordenar-uso-de-inteligencia-artificial-entre-seus-orgaos/</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 23:09:44 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/vaticano-cria-comissao-para-coordenar-uso-de-inteligencia-artificial-entre-seus-orgaos/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Brave Origin chega ao Linux com modo minimalista e grátis</title>
-      <link>https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 23:09:44 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Brave-Origin-chega-ao-Linux-com-modo-minimalista-e-gratis/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Tails 7.9.1 corrige falhas no kernel e atualiza o Tor Browser</title>
-      <link>https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 23:09:44 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/tails-7-9-1-corrige-falhas-no-kernel-e-atualiza-o-tor-browser/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Rocky Linux 10.2 chega com avanços em criptografia pós-quântica</title>
-      <link>https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 23:09:44 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/rocky-linux-10-2-chega-com-avancos-em-criptografia-pos-quantica/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Ubuntu prepara o Myna, um ditado por IA local para falar e ver o texto aparecer</title>
-      <link>https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</link>
-      <description></description>
-      <pubDate>Thu, 02 Jul 2026 23:09:44 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ubuntu-prepara-o-myna-um-ditado-por-ia-local-para-falar-e-ver-o-texto-aparecer/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
       <title>[The Verge] Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home</title>
       <link>https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges</link>
       <description>The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11. 44-year-old Michael Butler was arrested on Wednesday and claimed to have been driving his Model 3 using Tesla&apos;s Full-Self Driving (FSD) [&amp;#8230;]</description>
       <pubDate>Thu, 02 Jul 2026 22:09:33 -0000</pubDate>
       <guid isPermaLink="false">https://www.theverge.com/?p=961161</guid>
       <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[OMG! Ubuntu] Ubuntu 26.04 LTS has fixed its missing video/audio thumbnails</title>
+      <link>https://www.omgubuntu.co.uk/2026/07/ubuntu-2604-video-audio-thumbnails-fix</link>
+      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-post-list size-post-list wp-post-image&quot; height=&quot;232&quot; src=&quot;https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/ubuntu-bug.jpg?resize=406%2C232&amp;amp;ssl=1&quot; width=&quot;406&quot; /&gt;If you installed Ubuntu 26.04 LTS and noticed video and music files weren&amp;#8217;t showing image thumbnails in the file manager, a packaging oversight was to blame, not anything you did. It turns out that Ubuntu&amp;#8217;s Default install option (aka minimal install) wasn&amp;#8217;t pulling in the gst-audio-thumbnailer and gst-video-thumbnailer packages which generate media thumbnails when you open a folder full of compatible files. A metapackage doesn&amp;#8217;t contain software itself, just a list of the packages that need to be installed for, in this case, an Ubuntu desktop experience. Confusingly, both thumbnailers were present in the full install&amp;#8217;s meta file, so if [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;You&apos;re reading &lt;a href=&quot;https://www.omgubuntu.co.uk/2026/07/ubuntu-2604-video-audio-thumbnails-fix&quot;&gt;Ubuntu 26.04 LTS has fixed its missing video/audio thumbnails&lt;/a&gt;, a blog post from &lt;a href=&quot;https://www.omgubuntu.co.uk&quot;&gt;OMG! Ubuntu&lt;/a&gt;. Do not reproduce elsewhere without permission.&lt;/p&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 21:23:00 -0000</pubDate>
+      <guid isPermaLink="false">https://www.omgubuntu.co.uk/?p=334656</guid>
+      <source url="https://www.omgubuntu.co.uk/feed">OMG! Ubuntu</source>
     </item>
     <item>
       <title>[Phoronix] Fedora 45 Considering x86_64 Shadow Stack Usage By Default</title>
@@ -2296,14 +2217,6 @@ the second commit.&quot;
       <source url="https://itsfoss.com/feed">It&apos;s FOSS</source>
     </item>
     <item>
-      <title>[The Verge] The video game disc is dead</title>
-      <link>https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast</link>
-      <description>For decades, to be a gamer was to accumulate a lot of stuff. Consoles, controllers, accessories, weird VR gloves that never worked properly, but mostly the games themselves. Over the years, games have come in every shape and size you can imagine. And now that era appears to be ending. On this episode of The [&amp;#8230;]</description>
-      <pubDate>Thu, 02 Jul 2026 16:31:09 -0000</pubDate>
-      <guid isPermaLink="false">https://www.theverge.com/?p=960810</guid>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
       <title>[GitHub Blog] How GitHub used secret scanning to reach inbox zero</title>
       <link>https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/</link>
       <description>&lt;p&gt;GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here&apos;s how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months.&lt;/p&gt;
@@ -2345,14 +2258,6 @@ the second commit.&quot;
       <source url="https://itsfoss.com/feed">It&apos;s FOSS</source>
     </item>
     <item>
-      <title>[Phoronix] Intel Posts Initial GCC Compiler Patches For AI Compute Extensions &quot;ACE&quot;</title>
-      <link>https://www.phoronix.com/news/Intel-GCC-ACE-AI-Patches</link>
-      <description>The x86 Ecosystem Advisory Group led by Intel and AMD recently firmed up the AI Compute Extensions (ACE) specification for optimizing x86 for AI computation tasks around matrix multiplication and the like for machine learning workloads. The cross-vendor ACE extension is ultimately a successor to Intel&apos;s Advanced Matrix Extensions (AMX). Posted to the GCC mailing list today by Intel engineers are the initial patches in preparing the compiler support for ACE...</description>
-      <pubDate>Thu, 02 Jul 2026 13:08:38 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/Intel-GCC-ACE-AI-Patches</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
-    </item>
-    <item>
       <title>[Planet KDE] Week 5: KWallet XML Import &amp; Password Generator</title>
       <link>https://roshani-gsoc.bearblog.dev/week-5-kwallet-xml-import-password-generator/</link>
       <description>&lt;p&gt;This week I shipped two new features for KeepSecret.
@@ -2370,6 +2275,46 @@ KWallet XML Import (&lt;a href=&quot;https://invent.kde.org/utilities/keepsecret
       <pubDate>Thu, 02 Jul 2026 12:48:00 -0000</pubDate>
       <guid isPermaLink="false">https://roshani-gsoc.bearblog.dev/week-5-kwallet-xml-import-password-generator/</guid>
       <source url="https://planet.kde.org/index.xml">Planet KDE</source>
+    </item>
+    <item>
+      <title>[BR-Linux] RootBoard: computador de bolso feito para rodar Linux</title>
+      <link>https://br-linux.org/2026/01/rootboard-computador-de-bolso-feito-para-rodar-linux.html</link>
+      <description>O RootBoard promete ser um computador Linux portátil, com teclado, tela e alto-falantes de verdade, e hardware totalmente aberto, construído para makers, e baseado em plaquinhas da classe Pi Zero.</description>
+      <pubDate>Thu, 02 Jul 2026 12:42:01 -0000</pubDate>
+      <guid isPermaLink="false">https://br-linux.org/2026/01/rootboard-computador-de-bolso-feito-para-rodar-linux.html</guid>
+      <source url="https://br-linux.org/feed">BR-Linux</source>
+    </item>
+    <item>
+      <title>[BR-Linux] Signal é o app favorito da Casa Branca quando querem conversar sem deixar rastros</title>
+      <link>https://br-linux.org/2026/01/signal-e-o-app-favorito-da-casa-branca-quando-querem-conversar-sem-deixar-rastros.html</link>
+      <description>Mais uma vez, vaza a opção de figurões do governo dos EUA pelo uso do app Signal quando querem tentar burlar a legislação que exige que as suas comunicações sejam objeto de registro público.</description>
+      <pubDate>Thu, 02 Jul 2026 12:30:59 -0000</pubDate>
+      <guid isPermaLink="false">https://br-linux.org/2026/01/signal-e-o-app-favorito-da-casa-branca-quando-querem-conversar-sem-deixar-rastros.html</guid>
+      <source url="https://br-linux.org/feed">BR-Linux</source>
+    </item>
+    <item>
+      <title>[BR-Linux] Tails 7.9.1: Distribuição com foco em privacidade atualiza Tor e corrige vulnerabilidade no kernel</title>
+      <link>https://br-linux.org/2026/01/tails-791-distribuicao-com-foco-em-privacidade-atualiza-tor-e-corrige-vulnerabilidade-no-kernel.html</link>
+      <description>O Tails 7.9.1, mantendo seu foco na privacidade, chega trazendo o kernel Linux 6.12.94, que corrige a recente vulnerabilidade DirtyClone.</description>
+      <pubDate>Thu, 02 Jul 2026 12:27:07 -0000</pubDate>
+      <guid isPermaLink="false">https://br-linux.org/2026/01/tails-791-distribuicao-com-foco-em-privacidade-atualiza-tor-e-corrige-vulnerabilidade-no-kernel.html</guid>
+      <source url="https://br-linux.org/feed">BR-Linux</source>
+    </item>
+    <item>
+      <title>[BR-Linux] Seis ferramentas de backup para uso no Linux</title>
+      <link>https://br-linux.org/2026/01/seis-ferramentas-de-backup-para-uso-no-linux.html</link>
+      <description>Usuários clássicos ou jurássicos ainda fazemos backup com o tar e acham suficiente, mas esse artigo do itsfoss  vai bem além e descreve 6 ferramentas mais modernas e interativas para essa tarefa.</description>
+      <pubDate>Thu, 02 Jul 2026 12:24:09 -0000</pubDate>
+      <guid isPermaLink="false">https://br-linux.org/2026/01/seis-ferramentas-de-backup-para-uso-no-linux.html</guid>
+      <source url="https://br-linux.org/feed">BR-Linux</source>
+    </item>
+    <item>
+      <title>[BR-Linux] Obrigado por tanto: Vint Cerf, pai da Internet, se aposenta aos 83 anos</title>
+      <link>https://br-linux.org/2026/01/obrigado-por-tanto-vint-cerf-pai-da-internet-se-aposenta-aos-83-anos.html</link>
+      <description>Vinton Cerf, um dos criadores dos protocolos básicos da Internet, deixará na próxima semana o seu cargo de evangelista-chefe da Internet no Google.</description>
+      <pubDate>Thu, 02 Jul 2026 12:19:57 -0000</pubDate>
+      <guid isPermaLink="false">https://br-linux.org/2026/01/obrigado-por-tanto-vint-cerf-pai-da-internet-se-aposenta-aos-83-anos.html</guid>
+      <source url="https://br-linux.org/feed">BR-Linux</source>
     </item>
     <item>
       <title>[Diolinux] Microsoft libera ISOs do Azure Linux baseado no Fedora para testes locais</title>
@@ -3203,6 +3148,14 @@ odyxz (1):
       <pubDate>Sat, 28 Feb 2015 00:00:00 -0000</pubDate>
       <guid isPermaLink="false">https://xfce.org/about/news/?post=1425081600</guid>
       <source url="https://xfce.org/feed">Xfce News</source>
+    </item>
+    <item>
+      <title>[Linux Mint Blog] Monthly News – May 2026</title>
+      <link>https://blog.linuxmint.com/?p=5025</link>
+      <description>Hi everyone, We&amp;#8217;ve got a lot of exciting news this month! But first of all, let us thank everyone involved in helping our project. Many thanks for your support and your donations! Note that the improvements and features mentioned in this blog post are planned for the next version of Linux Mint, which is scheduled [&amp;#8230;]</description>
+      <pubDate>Sat, 23 May 2026 14:32:46 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.linuxmint.com/?p=5025</guid>
+      <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
     </item>
     <item>
       <title>[Hyprland] v0.55.2</title>
@@ -4130,13 +4083,55 @@ someever (1):
       <source url="https://github.com/i3/i3/releases.atom">i3wm</source>
     </item>
     <item>
-      <title>[OMG! Ubuntu] Ubuntu 26.10 Snapshot 2 is out (with a ‘breaking change’)</title>
-      <link>https://www.omgubuntu.co.uk/2026/06/ubuntu-26-10-snapshot-2-released</link>
-      <description>&lt;p&gt;&lt;img alt=&quot;Ubuntu logo behind stingray in the ocean.&quot; class=&quot;attachment-post-list size-post-list wp-post-image&quot; height=&quot;232&quot; src=&quot;https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/04/stonking-stingray-ubuntu.webp?resize=406%2C232&amp;amp;ssl=1&quot; width=&quot;406&quot; /&gt;Ubuntu 26.10 Snapshot 2 is available to download, the second of four snapshots planned for the &amp;#8216;Stonking Stingray&amp;#8217; development cycle ahead of a stable release in October. As with the first snapshot, there&amp;#8217;s not a lot &amp;#8220;new&amp;#8221; stuff to see or test out, so unless you&amp;#8217;re a developer or an avid bug hunter there&amp;#8217;s little reason to rush off and try it. Canonical&amp;#8217;s Utkarsh Gupta, announcing the release on Ubuntu&amp;#8217;s developer mailing list, warns of a &amp;#8220;breaking change&amp;#8221; – don&amp;#8217;t panic: it&amp;#8217;s not in the image itself, but the URL it&amp;#8217;s accessed from. Over the past few weeks the Ubuntu [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;You&apos;re reading &lt;a href=&quot;https://www.omgubuntu.co.uk/2026/06/ubuntu-26-10-snapshot-2-released&quot;&gt;Ubuntu 26.10 Snapshot 2 is out (with a &amp;#8216;breaking change&amp;#8217;)&lt;/a&gt;, a blog post from &lt;a href=&quot;https://www.omgubuntu.co.uk&quot;&gt;OMG! Ubuntu&lt;/a&gt;. Do not reproduce elsewhere without permission.&lt;/p&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 14:52:49 -0000</pubDate>
-      <guid isPermaLink="false">https://www.omgubuntu.co.uk/?p=334458</guid>
-      <source url="https://www.omgubuntu.co.uk/feed">OMG! Ubuntu</source>
+      <title>[Planet GNOME] Laureen Caliman: My Current MR and GSoC Project Start</title>
+      <link>https://blogs.gnome.org/laureen/2026/05/29/my-current-mr-and-gsoc-project-start/</link>
+      <description>&lt;h2&gt;Ongoing Work&lt;/h2&gt;
+&lt;p&gt;Back in March, I started to tackle this &lt;a class=&quot;external&quot; href=&quot;https://gitlab.gnome.org/jrb/crosswords/-/merge_requests/373#note_2761175&quot;&gt;MR&lt;/a&gt; for GNOME Crosswords. It allowed me to learn a lot about navigating the codebase, adhere to naming conventions, and collaborating with others involved in Crosswords.&lt;/p&gt;
+&lt;p&gt;Crosswords Editor features a section for users to input metadata, such as author name, puzzle URL, and date. Originally, the MR was to convert and store the user’s manually typed date to ISO8601. This means storing the entered date in the form YYYY-MM-DD, while the user just needs to type in a date using the&lt;a class=&quot;external&quot; href=&quot;https://api.pygobject.gnome.org/GLib-2.0/structure-Date.html&quot;&gt; GDate struct&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Upon code review, the scope expanded to move from manual typing to selecting a date on a drop-down &lt;a class=&quot;external&quot; href=&quot;https://docs.gtk.org/gtk4/class.Calendar.html&quot;&gt;GTK calendar&lt;/a&gt; widget. I was able to implement this concept by following the architecture of an existing widget (edit-shapebg.c/h/blp) which placed shapes on the crossword puzzle. Then I connected the new calendar widget to the metadata so the chosen date from the now drop-down calendar will be stored in ISO8601 format yet display respective to the locale of the person using g_date_strftime.&lt;/p&gt;
+&lt;h2&gt;Project Start&lt;/h2&gt;
+&lt;p&gt;With the start of GSoC, I have spent a lot of time this week reading, white-boarding, and began setting up some structure to adding vocab-style crosswords to the libipuz library.&lt;/p&gt;
+&lt;p&gt;The basic constraints and workflow that I mapped are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A user can input up to 30 words (strings), with a 25 character capacity.&lt;/li&gt;
+&lt;li&gt;Upon hitting enter or a button to generate, a Depth-First Search (DFS) algorithm starts to piece the words together on a blank grid. The algorithm can backtrack to tear apart words and rearrange them until a valid graph is formed
+&lt;ul&gt;
+&lt;li&gt;I’m going with DFS at the moment to prioritize the longest-to-shortest word seeding the graph in order to increase possibilities of connections&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Every time the user generates the graph, it will be treated like its own isolated creation, recalculating the layout from scratch to allow for cleaner undo/redo states and easier addition/deletion of words&lt;/li&gt;
+&lt;li&gt;I don’t want words being placed right next to each other unless it was intentional for a 2+ word answer, which each word would be separated by thick lines
+&lt;ul&gt;
+&lt;li&gt;Words should only connect through intersections
+&lt;ul&gt;
+&lt;li&gt;The frontend does not mutate the grid but will be able to pass actions to the backend and return a new state&lt;/li&gt;
+&lt;li&gt;For instance: say a user starts off their grid by typing “CAT” and then “DOG.” These words don’t have common characters, so they cannot be connected. However, instead of erasing the user’s desire to incorporate “DOG,” the string gets tucked away and saved in a GArray&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-medium wp-image-42&quot; height=&quot;209&quot; src=&quot;https://blogs.gnome.org/laureen/files/2026/05/Screenshot-from-2026-05-28-14-37-18-300x209.png&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Now our user types and enters “CADET.” The UI takes our list and passes it to the algorithm to start chewing on and deal onto the board anew. This time, allowing for “CAT,” “DOG,” and “CADET” to appear, without the user having to retype “DOG”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-medium wp-image-43&quot; height=&quot;209&quot; src=&quot;https://blogs.gnome.org/laureen/files/2026/05/Screenshot-from-2026-05-28-14-41-12-300x209.png&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I went back and forth with myself on how to represent the puzzle’s state in memory and disk. To write a custom GObject, or not.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Argument Against: &lt;/strong&gt;Standard IpuzCrossword objects have a handle on grids and JSON saving, and one could write a new function that takes an array of strings and return a standard IpuzCrossword.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Argument For: &lt;/strong&gt;Revisiting the “CAT,” “DOG,” and “CADET” conundrum; say an educator is creating a puzzle for his/her/their class, and they have just one word out of 20 that don’t connect to current existing possibilities of intersecting words. If they save their puzzle, it transforms to a standard IpuzCrossword, and the floating word are permanently abandoned.&lt;/p&gt;
+&lt;p&gt;At the current moment, I want the puzzle to be its own vocab-style workspace. Therefore this would allow for the floating word to instead sit in the sidebar and wait for further instruction for a future inserted word that works, or to get deleted.&lt;/p&gt;
+&lt;p&gt;Of course, as I gain more insight about the library, &lt;a class=&quot;external&quot; href=&quot;https://www.redhat.com/en/topics/cloud-native-apps/stateful-vs-stateless&quot;&gt;states&lt;/a&gt;, and optimization within the codebase, this approach is subject to refinement.&lt;/p&gt;</description>
+      <pubDate>Fri, 29 May 2026 00:28:03 -0000</pubDate>
+      <guid isPermaLink="false">https://blogs.gnome.org/laureen/2026/05/29/my-current-mr-and-gsoc-project-start/</guid>
+      <source url="https://planet.gnome.org/rss20.xml">Planet GNOME</source>
     </item>
     <item>
       <title>[openSUSE News] When the Code Stays Clean and Trust Collapses Anyway</title>
@@ -4165,20 +4160,6 @@ continents thus far. New dates and locations are being added daily.</description
       <pubDate>Fri, 22 May 2026 20:14:22 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsf.org/news/2026-librelocal-meetup-update</guid>
       <source url="https://www.fsf.org/news/RSS">FSF News</source>
-    </item>
-    <item>
-      <title>[Planet GNOME] Thibault Martin: I realized that A cheap VPS is a good front</title>
-      <link>https://ergaster.org/thoughts/front-server/</link>
-      <description>&lt;p&gt;I have a server at home. It runs a Kubernetes cluster and a few services. I want to expose them to the Internet, so I can e.g. share public links from my Nextcloud, or synchronize my Kobo reader with &lt;a href=&quot;https://grimmory.org/&quot;&gt;Grimmory&lt;/a&gt;. But I don&apos;t want to expose my home IP to the world, and I want to have some reasonable protection against unsophisticated DoS attacks.&lt;/p&gt;
-&lt;p&gt;I realized that I can achieve that with a cheap VPS that acts as a front, &lt;a href=&quot;https://www.haproxy.org/&quot;&gt;HAProxy&lt;/a&gt;, and &lt;a href=&quot;https://www.wireguard.com/&quot;&gt;Wireguard&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;I rented a tiny VPS for €4/month at &lt;a href=&quot;https://infrawire.fr/en&quot;&gt;Infrawire&lt;/a&gt; (1 vCPU, 2 GB RAM, 25 GB NVMe). I installed a Debian 13 on it, because I want that front server to be as stable and low maintenance as possible, and installed the Debian-packaged HAProxy onto it. I also installed Wireguard. The VPS has a publicly accessible IP, so it will be my Wireguard server: my server at home can reach the VPS to establish a tunnel, the opposite is not true.&lt;/p&gt;
-&lt;p&gt;On my k3s node, I&apos;ve installed Wireguard as well. I configured Wireguard on the VPS and my k3s node to establish a tunnel between the two. I&apos;ve also bound the sshd on my VPS to the wireguard address. Infrawire offers a console so I can unstick myself if I locked me out of my own server (e.g. by misconfiguring Wireguard on any side, or if my server at home had any failure).&lt;/p&gt;
-&lt;p&gt;I pointed all my DNS records to the VPS. The HAProxy is a &quot;dumb&quot; tcp forwarder, so I can keep operating like before on my cluster. In particular, HAProxy doesn&apos;t do TLS termination. My certificates are fetched on my cluster by cert-manager like before, using the http-01 challenge and Let&apos;s Encrypt. I could also move to dns-01 challenges, but http-01 just works and lets me switch to a registrar without an API if need be.&lt;/p&gt;
-&lt;p&gt;That way, I don&apos;t need a fixed IP at home, and I don&apos;t have to do any port-forwarding from my home router to my k3s cluster. Even better: the VPS has an anti-DDoS protection included, and I can also configure HAProxy to refuse too many connections from a same IP, I can make it close TCP connections that take too long to establish, and more. If my VPS gets hammered, I can still access my services from within my home network.&lt;/p&gt;</description>
-      <pubDate>Fri, 22 May 2026 16:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://ergaster.org/thoughts/front-server/</guid>
-      <source url="https://planet.gnome.org/rss20.xml">Planet GNOME</source>
     </item>
     <item>
       <title>[FSF News] Statement regarding GNU Savannah security reports</title>
@@ -4227,6 +4208,142 @@ continents thus far. New dates and locations are being added daily.</description
       <pubDate>Fri, 05 Jun 2026 11:01:26 -0000</pubDate>
       <guid isPermaLink="false">https://opensource.org/?p=413343</guid>
       <source url="https://opensource.org/feed/">OSI</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1080162/</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 02:58:33 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1080162/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] local BPF storage API</title>
+      <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 02:58:33 -0000</pubDate>
+      <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1078968/</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 02:58:33 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1078968/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Secure Boot</title>
+      <link>https://en.wikipedia.org/wiki/UEFI#Secure_Boot</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 02:58:33 -0000</pubDate>
+      <guid isPermaLink="false">https://en.wikipedia.org/wiki/UEFI#Secure_Boot</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1079808/</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 02:58:33 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1079808/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] ReactOS avança na compatibilidade com Windows Vista ao implementar primeiro system call NT6</title>
+      <link>https://www.vivaolinux.com.br/noticia/reactos-avanca-na-compatibilidade-com-windows-vista-ao-implementar-primeiro-system-call-nt6/</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 02:58:29 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/reactos-avanca-na-compatibilidade-com-windows-vista-ao-implementar-primeiro-system-call-nt6/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Fedora 45 avalia ativar Shadow Stack por padrão em máquinas x86_64</title>
+      <link>https://www.vivaolinux.com.br/noticia/fedora-45-avalia-ativar-shadow-stack-por-padrao-em-maquinas-x86-64/</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 02:58:29 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/fedora-45-avalia-ativar-shadow-stack-por-padrao-em-maquinas-x86-64/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Ultramarine 44 chega com base no Fedora 44, kernel Linux 7.0 e Plasma 6.7</title>
+      <link>https://www.vivaolinux.com.br/noticia/ultramarine-44-chega-com-base-no-fedora-44-kernel-linux-7-0-e-plasma-6-7/</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 02:58:29 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ultramarine-44-chega-com-base-no-fedora-44-kernel-linux-7-0-e-plasma-6-7/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] KDE Gear 26.04.3 chega com correções de estabilidade para apps do ecossistema KDE</title>
+      <link>https://www.vivaolinux.com.br/noticia/kde-gear-26-04-3-chega-com-correcoes-de-estabilidade-para-apps-do-ecossistema-kde/</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 02:58:29 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kde-gear-26-04-3-chega-com-correcoes-de-estabilidade-para-apps-do-ecossistema-kde/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Vaticano cria comissão para coordenar uso de inteligência artificial entre seus órgãos</title>
+      <link>https://www.vivaolinux.com.br/noticia/vaticano-cria-comissao-para-coordenar-uso-de-inteligencia-artificial-entre-seus-orgaos/</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 02:58:29 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/vaticano-cria-comissao-para-coordenar-uso-de-inteligencia-artificial-entre-seus-orgaos/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Measuring OSPO Value</title>
+      <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 02:58:29 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
+      <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 02:58:29 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
+      <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 02:58:29 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
+      <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 02:58:29 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 02:58:29 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[The Verge] Sony’s PlayStation disc factory is already being repurposed</title>
+      <link>https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead</link>
+      <description>The video game disc is dead, and Sony&apos;s been planning to kill it for some time, according to a report out of Austria. The man who leads Sony&apos;s discmaking operations, Sony DADC president Dietmar Tanzer, told ORF Salzburg that the company&apos;s Thalgau plant produces 600,000 discs every day, half of which are for PlayStation. But [&amp;#8230;]</description>
+      <pubDate>Fri, 03 Jul 2026 01:05:13 -0000</pubDate>
+      <guid isPermaLink="false">https://www.theverge.com/?p=961203</guid>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>[Phoronix] ReactOS Implements First Windows NT6 System Call In Step Toward Vista Compatibility</title>
+      <link>https://www.phoronix.com/news/ReactOS-First-NT6-Syscall</link>
+      <description>The ReactOS project that is striving to be the &quot;open-source Windows&quot; with Windows driver and software binary compatibility hit another milestone today.  ReactOS to date has primarily targeted Windows NT 5.2 as the architecture from Windows XP and Windows Server 2003 but with an eye toward Windows NT 6.0 for Windows Vista and later compatibility with software. ReactOS has now landed their first NT6 system call...</description>
+      <pubDate>Fri, 03 Jul 2026 00:22:38 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/ReactOS-First-NT6-Syscall</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
   </channel>
 </rss>
