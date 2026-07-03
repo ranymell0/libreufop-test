@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Fri, 03 Jul 2026 15:12:08 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 17:26:08 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://SEU_USUARIO_OU_ORG.github.io/SEU_REPO/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -622,14 +622,6 @@ If you look at the G7’s Vision on AI Openness or the European Union’s Tech S
       <pubDate>Wed, 04 Mar 2026 15:01:31 -0000</pubDate>
       <guid isPermaLink="false">https://blog.linuxmint.com/?p=5010</guid>
       <source url="https://blog.linuxmint.com/?feed=rss2">Linux Mint Blog</source>
-    </item>
-    <item>
-      <title>[Diolinux] O alerta do BIS: a bolha da IA pode estourar e arrastar a economia global</title>
-      <link>https://diolinux.com.br/noticias/o-alerta-do-bis-a-bolha-da-ia.html</link>
-      <description>O Banco de Compensações Internacionais (BIS) alerta que os investimentos bilionários em IA podem formar uma bolha semelhante à da internet nos anos 2000, com riscos para toda a economia mundial.</description>
-      <pubDate>Wed, 01 Jul 2026 22:50:16 -0000</pubDate>
-      <guid isPermaLink="false">https://diolinux.com.br/?p=122051</guid>
-      <source url="https://diolinux.com.br/feed">Diolinux</source>
     </item>
     <item>
       <title>[OMG! Ubuntu] Linux App Release Roundup (June 2026)</title>
@@ -2542,15 +2534,6 @@ preserved.&lt;/p&gt;
       <source url="https://github.com/i3/i3/releases.atom">i3wm</source>
     </item>
     <item>
-      <title>[OMG! Ubuntu] This Flatpak runs a 30-year old version of GIMP – pre-GTK</title>
-      <link>https://www.omgubuntu.co.uk/2026/06/gimp-1996-flatpak</link>
-      <description>&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;attachment-post-list size-post-list wp-post-image&quot; height=&quot;232&quot; src=&quot;https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/06/gimp-1996.webp?resize=406%2C232&amp;amp;ssl=1&quot; width=&quot;406&quot; /&gt;Every wondered what famed FOSS image editor GIMP was like in 1996? Well, now you can find out. Developer balooii has packaged GIMP 0.54 into a Flatpak that runs on modern 64-bit Linux desktops with Wayland. It&amp;#8217;s apparently the earliest version of the app with the source code still available to build. This is not not an official GIMP effort, but a community effort. It&amp;#8217;s also something of a work-in-progress – of an ancient work-in-progress – with the maintainer promising they&amp;#8217;ll share more era-specific plugins and tutorials on using this ancient build in time. Before you skip to the install [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;You&apos;re reading &lt;a href=&quot;https://www.omgubuntu.co.uk/2026/06/gimp-1996-flatpak&quot;&gt;This Flatpak runs a 30-year old version of GIMP – pre-GTK&lt;/a&gt;, a blog post from &lt;a href=&quot;https://www.omgubuntu.co.uk&quot;&gt;OMG! Ubuntu&lt;/a&gt;. Do not reproduce elsewhere without permission.&lt;/p&gt;</description>
-      <pubDate>Sun, 28 Jun 2026 22:10:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.omgubuntu.co.uk/?p=334398</guid>
-      <source url="https://www.omgubuntu.co.uk/feed">OMG! Ubuntu</source>
-    </item>
-    <item>
       <title>[Sway] 1.12-rc3</title>
       <link>https://github.com/swaywm/sway/releases/tag/1.12-rc3</link>
       <description>&lt;p&gt;sway 1.12-rc3&lt;/p&gt;
@@ -3855,30 +3838,6 @@ someever (1):
       <source url="https://github.com/swaywm/sway/releases.atom">Sway</source>
     </item>
     <item>
-      <title>[Planet GNOME] Shivam: Journey Starts : Gitg Port to GTK4</title>
-      <link>https://blogs.gnome.org/shivam/2026/05/25/journey-starts-gitg-port/</link>
-      <description>&lt;h1&gt;&lt;img alt=&quot;&quot; class=&quot;aligncenter wp-image-37 size-full&quot; height=&quot;941&quot; src=&quot;https://blogs.gnome.org/shivam/files/2026/05/ChatGPT-Image-May-24-2026-01_32_26-AM.png&quot; width=&quot;1672&quot; /&gt;&lt;/h1&gt;
-&lt;h1 style=&quot;text-align: center;&quot;&gt;&lt;em&gt;About Me &lt;/em&gt;&lt;/h1&gt;
-&lt;p&gt;Hello Everyone! I am Shivam, I am currently pursing my engineering in Electronics. I have been selected for GSoC 2026 for the port of GNOME-Gitg from GTK 3 to GTK 4. I am starting this blog in order to document my journey of porting &lt;strong&gt;&lt;a class=&quot;external&quot; href=&quot;https://gitlab.gnome.org/GNOME/gitg&quot;&gt;Gitg&lt;/a&gt;&lt;/strong&gt;. I have been contributing in GNOME from several months and in awe with the supportive and helpful nature of the community.&lt;/p&gt;
-&lt;h1&gt;&lt;/h1&gt;
-&lt;h1 style=&quot;text-align: center;&quot;&gt;Project&lt;/h1&gt;
-&lt;p&gt;As many of you probably know, Gitg is still using GTK3, which means it misses out on a lot of the improvements and features that came with GTK4. The main goal of this project is to port Gitg from GTK3 to GTK4 and then gradually modernize the application.&lt;/p&gt;
-&lt;p&gt;The scope of the project itself is quite large, and that’s honestly one of the most exciting parts for me. Working on this port will help me understand the application interacts with different libraries and components behind the scenes.&lt;/p&gt;
-&lt;p&gt;At the same time, I hope that this work will help the new contributors like me easier to get started contributing to the various GNOME projects &lt;img alt=&quot;🙂&quot; class=&quot;wp-smiley&quot; src=&quot;https://s.w.org/images/core/emoji/17.0.2/72x72/1f642.png&quot; style=&quot;height: 1em;&quot; /&gt;&lt;/p&gt;
-&lt;h1&gt;&lt;/h1&gt;
-&lt;h1 style=&quot;text-align: center;&quot;&gt;Conclusive Goal&lt;/h1&gt;
-&lt;p&gt;The final goal of this project is to get Gitg building and running completely with GTK4 dependencies. At the moment, the application still fails to compile, which is expected since many GTK3 APIs are still present throughout the codebase.A separate &lt;a class=&quot;external&quot; href=&quot;https://gitlab.gnome.org/GNOME/gitg/-/tree/gtk4?ref_type=heads&quot;&gt;&lt;strong&gt;GTK4 branch&lt;/strong&gt;&lt;/a&gt; already exists where parts of the migration work have been started, and several components have already been adapted to GTK4. This project will continue building on top of that existing effort and gradually move the remaining parts of the application to the newer toolkit.&lt;/p&gt;
-&lt;p&gt;I would also like to sincerely thank the contributor(s) who have worked on the GTK4 porting work earlier. Their efforts created the foundation for this project, and I’ll be continuing from the work they have already done.&lt;/p&gt;
-&lt;h1&gt;&lt;/h1&gt;
-&lt;h1 style=&quot;text-align: center;&quot;&gt;Thank You For Reading!&lt;/h1&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;PS:- I would also like to thank &lt;strong&gt;&lt;a class=&quot;external&quot; href=&quot;https://wiki.gnome.org/AlbertoFanjul.html&quot;&gt;Alberto Fanjul&lt;/a&gt;&lt;/strong&gt; for mentoring me in this project and &lt;strong&gt;&lt;a class=&quot;external&quot; href=&quot;https://gitlab.gnome.org/felipeborges&quot;&gt;Felipe Borges&lt;/a&gt;&lt;/strong&gt; for this time and support.&lt;/p&gt;</description>
-      <pubDate>Mon, 25 May 2026 17:32:19 -0000</pubDate>
-      <guid isPermaLink="false">https://blogs.gnome.org/shivam/2026/05/25/journey-starts-gitg-port/</guid>
-      <source url="https://planet.gnome.org/rss20.xml">Planet GNOME</source>
-    </item>
-    <item>
       <title>[openSUSE News] Uyuni Joins openSUSE Project Ahead of Annual Conference</title>
       <link>https://news.opensuse.org/2026/06/22/uyuni-joins-opensuse/</link>
       <description>There are moments in open-source history that feel less like announcements and more like finally saying out loud what everyone already knew. Eight years ago, during the annual openSUSE conference, the story began on news.opensuse.org with the announcement that Spacewalk was being forked. Today, as we gear up for the...</description>
@@ -3946,6 +3905,198 @@ someever (1):
       <source url="https://github.com/i3/i3/releases.atom">i3wm</source>
     </item>
     <item>
+      <title>[Planet GNOME] Gedit Technology: News, April-May 2026</title>
+      <link>https://gedit-text-editor.org/blog/2026-05-29-news.html</link>
+      <description>&lt;p&gt;
+  Here are the noteworthy news about the
+  &lt;a href=&quot;https://gedit-text-editor.org/&quot; target=&quot;_blank&quot;&gt;gedit&lt;/a&gt;
+  and
+  &lt;a href=&quot;https://gitlab.gnome.org/World/gedit/enter-tex&quot; target=&quot;_blank&quot;&gt;Enter TeX&lt;/a&gt;
+  text editors. (Some sections are a bit technical).
+&lt;/p&gt;
+&lt;h3&gt;A single package for gedit and its core plugins&lt;/h3&gt;
+&lt;p&gt;
+  Before, users needed to remember to install the
+  &lt;a href=&quot;https://gitlab.gnome.org/World/gedit/gedit-plugins&quot; target=&quot;_blank&quot;&gt;gedit-plugins package&lt;/a&gt;
+  in order to benefit from additional plugins such as &lt;em&gt;Word Completion&lt;/em&gt;
+  or &lt;em&gt;Bookmarks&lt;/em&gt;.
+&lt;/p&gt;
+&lt;p&gt;
+  Now, all core - or “official” - plugins are part of the
+  &lt;a href=&quot;https://gitlab.gnome.org/World/gedit/gedit&quot; target=&quot;_blank&quot;&gt;main gedit module&lt;/a&gt;.
+  So, &lt;em&gt;Word Completion&lt;/em&gt;, &lt;em&gt;Bookmarks&lt;/em&gt; and others have been copied
+  into the gedit module, and gedit-plugins is now empty/archived.
+&lt;/p&gt;
+&lt;p&gt;
+  Note that there are also &lt;em&gt;third-party plugins&lt;/em&gt; which are available in
+  other repositories.
+&lt;/p&gt;
+&lt;h3&gt;New version on the Microsoft Store&lt;/h3&gt;
+&lt;p&gt;
+  gedit 50.0 is now also
+  &lt;a href=&quot;https://www.microsoft.com/store/apps/9NCQ8B0NVCW3&quot; target=&quot;_blank&quot;&gt;available on Windows&lt;/a&gt;.
+&lt;/p&gt;
+&lt;h3&gt;The re-implementation of document loading continues&lt;/h3&gt;
+&lt;p&gt;
+  It&apos;s now a recurrent topic. Progress has been made, but more work is necessary
+  to fully replace the &lt;code&gt;GtkSourceFileLoader&lt;/code&gt; internals.
+&lt;/p&gt;
+&lt;p&gt;
+  This time, here is a general description of the methodologies used along with
+  the current state of affairs, without entering into too much technical
+  details. If you&apos;re an experienced developer, it&apos;ll most probably ring a bell
+  to you :-)
+&lt;/p&gt;
+&lt;p&gt;
+  The typical “divide and conquer” methodology is followed: the problem is
+  divided into several smaller ones. The sub-problems are solved individually,
+  providing utility functions and small classes. Then things are built on top,
+  with several layers, gradually solving bigger and bigger problems.
+&lt;/p&gt;
+&lt;p&gt;
+  It all looks nice, except that an iterative process is also needed, to revise
+  the solutions already built because of unforeseen problems (it happens all the
+  time in computer science).
+&lt;/p&gt;
+&lt;p&gt;
+  The current progress status is that &lt;em&gt;some&lt;/em&gt; utilities need to be
+  reworked in order to be a better fit for the above components, and also to fix
+  a couple of unforeseen problems. Thankfully it&apos;s not a “back to the drawing
+  board” situation, as the utilities that lie at the bottom layers don&apos;t need
+  any change.
+&lt;/p&gt;
+&lt;p&gt;
+  For the curious reader, here are the two unforeseen problems encountered:
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;code&gt;iconv()&lt;/code&gt; can output nul bytes even for UTF-8 as the target
+    charset. Embedded nuls are not valid UTF-8 according to
+    &lt;code&gt;g_utf8_validate()&lt;/code&gt;. So an additional pass of validation is
+    necessary, to escape invalid UTF-8 bytes.
+  &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+      With the new implementation, &lt;em&gt;at most&lt;/em&gt; two copies of the whole file
+      content needs to be present in memory. I stumbled across a corner case where
+      three copies would be necessary, so it needs to be fixed. The three copies
+      were: (1) the content containing a single chunk (or at least a big chunk) of
+      invalid bytes, (2) the invalid chunk escaped, and (3) the content as
+      inserted into the &lt;code&gt;GtkTextBuffer&lt;/code&gt;.
+    &lt;/p&gt;
+&lt;p&gt;
+      It&apos;s just a matter of escaping the invalid bytes directly / at a different
+      place.
+    &lt;/p&gt;
+&lt;p&gt;
+      (Note that this is a concern only for the work-in-progress branch; current
+      stable versions of gedit doesn&apos;t suffer from that issue).
+    &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Enter TeX goodness&lt;/h3&gt;
+&lt;p&gt;
+  The &lt;em&gt;Projects&lt;/em&gt; feature has been re-implemented in a better way (mostly
+  under-the-hood changes).
+&lt;/p&gt;
+&lt;p&gt;
+  The module is again on GNOME Damned Lies, so there are many translation
+  updates. Thank you, all translators around the globe! In the past I
+  contributed to the French translation, and I directly saw that GNOME
+  translation teams do very high quality work. So, thanks again :) !
+&lt;/p&gt;
+&lt;h3&gt;Other stuff&lt;/h3&gt;
+&lt;p&gt;
+  As usual there are some other work items fixed or where progress has been
+  made. Among others:
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The comment/uncomment actions have been fine-tuned.&lt;/li&gt;
+&lt;li&gt;
+    A prototype has been created in order to improve the main “sandwich” menu in
+    gedit.
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Code re-use and Business-to-Business opportunities&lt;/h3&gt;
+&lt;p&gt;
+  There is a lot of potential with the libgedit modules (or also with
+  GtkSourceView for GTK 4), to grow the project into something like the
+  GStreamer multimedia project (but at a smaller scale) where there is a lot of
+  &lt;a href=&quot;https://en.wikipedia.org/wiki/Business-to-business&quot; target=&quot;_blank&quot;&gt;B2B&lt;/a&gt;
+  activity with consultancy companies helping to create new products for other
+  businesses.
+&lt;/p&gt;
+&lt;p&gt;
+  Especially with libgedit-tepl, the name “Text editor product line” means that
+  it&apos;s possible to create other text editors or IDEs products (more easily).
+&lt;/p&gt;
+&lt;p&gt;
+  An example that I have in mind is Arduino and its specialized IDE. But there
+  are new programming languages or development platforms that pop up regularly,
+  so there are opportunities to collaborate with them and develop great
+  developer tools for them.
+&lt;/p&gt;
+&lt;p&gt;
+  I&apos;ll talk about it more in the future, but if you read this and are interested
+  to develop such a business model for gedit and/or GtkSourceView,
+  &lt;a href=&quot;https://wilmet-software.be/&quot; target=&quot;_blank&quot;&gt;talk to me&lt;/a&gt;!
+&lt;/p&gt;</description>
+      <pubDate>Fri, 29 May 2026 10:00:00 -0000</pubDate>
+      <guid isPermaLink="false">https://gedit-text-editor.org/blog/2026-05-29-news.html</guid>
+      <source url="https://planet.gnome.org/rss20.xml">Planet GNOME</source>
+    </item>
+    <item>
+      <title>[Planet GNOME] Laureen Caliman: My Current MR and GSoC Project Start</title>
+      <link>https://blogs.gnome.org/laureen/2026/05/29/my-current-mr-and-gsoc-project-start/</link>
+      <description>&lt;h2&gt;Ongoing Work&lt;/h2&gt;
+&lt;p&gt;Back in March, I started to tackle this &lt;a class=&quot;external&quot; href=&quot;https://gitlab.gnome.org/jrb/crosswords/-/merge_requests/373#note_2761175&quot;&gt;MR&lt;/a&gt; for GNOME Crosswords. It allowed me to learn a lot about navigating the codebase, adhere to naming conventions, and collaborating with others involved in Crosswords.&lt;/p&gt;
+&lt;p&gt;Crosswords Editor features a section for users to input metadata, such as author name, puzzle URL, and date. Originally, the MR was to convert and store the user’s manually typed date to ISO8601. This means storing the entered date in the form YYYY-MM-DD, while the user just needs to type in a date using the&lt;a class=&quot;external&quot; href=&quot;https://api.pygobject.gnome.org/GLib-2.0/structure-Date.html&quot;&gt; GDate struct&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Upon code review, the scope expanded to move from manual typing to selecting a date on a drop-down &lt;a class=&quot;external&quot; href=&quot;https://docs.gtk.org/gtk4/class.Calendar.html&quot;&gt;GTK calendar&lt;/a&gt; widget. I was able to implement this concept by following the architecture of an existing widget (edit-shapebg.c/h/blp) which placed shapes on the crossword puzzle. Then I connected the new calendar widget to the metadata so the chosen date from the now drop-down calendar will be stored in ISO8601 format yet display respective to the locale of the person using g_date_strftime.&lt;/p&gt;
+&lt;h2&gt;Project Start&lt;/h2&gt;
+&lt;p&gt;With the start of GSoC, I have spent a lot of time this week reading, white-boarding, and began setting up some structure to adding vocab-style crosswords to the libipuz library.&lt;/p&gt;
+&lt;p&gt;The basic constraints and workflow that I mapped are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A user can input up to 30 words (strings), with a 25 character capacity.&lt;/li&gt;
+&lt;li&gt;Upon hitting enter or a button to generate, a Depth-First Search (DFS) algorithm starts to piece the words together on a blank grid. The algorithm can backtrack to tear apart words and rearrange them until a valid graph is formed
+&lt;ul&gt;
+&lt;li&gt;I’m going with DFS at the moment to prioritize the longest-to-shortest word seeding the graph in order to increase possibilities of connections&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Every time the user generates the graph, it will be treated like its own isolated creation, recalculating the layout from scratch to allow for cleaner undo/redo states and easier addition/deletion of words&lt;/li&gt;
+&lt;li&gt;I don’t want words being placed right next to each other unless it was intentional for a 2+ word answer, which each word would be separated by thick lines
+&lt;ul&gt;
+&lt;li&gt;Words should only connect through intersections
+&lt;ul&gt;
+&lt;li&gt;The frontend does not mutate the grid but will be able to pass actions to the backend and return a new state&lt;/li&gt;
+&lt;li&gt;For instance: say a user starts off their grid by typing “CAT” and then “DOG.” These words don’t have common characters, so they cannot be connected. However, instead of erasing the user’s desire to incorporate “DOG,” the string gets tucked away and saved in a GArray&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-medium wp-image-42&quot; height=&quot;209&quot; src=&quot;https://blogs.gnome.org/laureen/files/2026/05/Screenshot-from-2026-05-28-14-37-18-300x209.png&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;Now our user types and enters “CADET.” The UI takes our list and passes it to the algorithm to start chewing on and deal onto the board anew. This time, allowing for “CAT,” “DOG,” and “CADET” to appear, without the user having to retype “DOG”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-medium wp-image-43&quot; height=&quot;209&quot; src=&quot;https://blogs.gnome.org/laureen/files/2026/05/Screenshot-from-2026-05-28-14-41-12-300x209.png&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I went back and forth with myself on how to represent the puzzle’s state in memory and disk. To write a custom GObject, or not.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Argument Against: &lt;/strong&gt;Standard IpuzCrossword objects have a handle on grids and JSON saving, and one could write a new function that takes an array of strings and return a standard IpuzCrossword.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Argument For: &lt;/strong&gt;Revisiting the “CAT,” “DOG,” and “CADET” conundrum; say an educator is creating a puzzle for his/her/their class, and they have just one word out of 20 that don’t connect to current existing possibilities of intersecting words. If they save their puzzle, it transforms to a standard IpuzCrossword, and the floating word are permanently abandoned.&lt;/p&gt;
+&lt;p&gt;At the current moment, I want the puzzle to be its own vocab-style workspace. Therefore this would allow for the floating word to instead sit in the sidebar and wait for further instruction for a future inserted word that works, or to get deleted.&lt;/p&gt;
+&lt;p&gt;Of course, as I gain more insight about the library, &lt;a class=&quot;external&quot; href=&quot;https://www.redhat.com/en/topics/cloud-native-apps/stateful-vs-stateless&quot;&gt;states&lt;/a&gt;, and optimization within the codebase, this approach is subject to refinement.&lt;/p&gt;</description>
+      <pubDate>Fri, 29 May 2026 00:28:03 -0000</pubDate>
+      <guid isPermaLink="false">https://blogs.gnome.org/laureen/2026/05/29/my-current-mr-and-gsoc-project-start/</guid>
+      <source url="https://planet.gnome.org/rss20.xml">Planet GNOME</source>
+    </item>
+    <item>
       <title>[openSUSE News] When the Code Stays Clean and Trust Collapses Anyway</title>
       <link>https://news.opensuse.org/2026/06/26/when-code-stays-clear-turst-collapses-anyway/</link>
       <description>Why Europe’s third way needs sovereign open-source assurance, and what the openSUSE community, the SUSE ecosystem and the businesses built on them should do about it Accompanying article to the openSUSE Conference 2026 keynote by Hans de Raad (OpenNovations) - “Open Source Won Distribution. Now It Must Win Assurance.” Most...</description>
@@ -3972,20 +4123,6 @@ continents thus far. New dates and locations are being added daily.</description
       <pubDate>Fri, 22 May 2026 20:14:22 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsf.org/news/2026-librelocal-meetup-update</guid>
       <source url="https://www.fsf.org/news/RSS">FSF News</source>
-    </item>
-    <item>
-      <title>[Planet GNOME] Thibault Martin: I realized that A cheap VPS is a good front</title>
-      <link>https://ergaster.org/thoughts/front-server/</link>
-      <description>&lt;p&gt;I have a server at home. It runs a Kubernetes cluster and a few services. I want to expose them to the Internet, so I can e.g. share public links from my Nextcloud, or synchronize my Kobo reader with &lt;a href=&quot;https://grimmory.org/&quot;&gt;Grimmory&lt;/a&gt;. But I don&apos;t want to expose my home IP to the world, and I want to have some reasonable protection against unsophisticated DoS attacks.&lt;/p&gt;
-&lt;p&gt;I realized that I can achieve that with a cheap VPS that acts as a front, &lt;a href=&quot;https://www.haproxy.org/&quot;&gt;HAProxy&lt;/a&gt;, and &lt;a href=&quot;https://www.wireguard.com/&quot;&gt;Wireguard&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;I rented a tiny VPS for €4/month at &lt;a href=&quot;https://infrawire.fr/en&quot;&gt;Infrawire&lt;/a&gt; (1 vCPU, 2 GB RAM, 25 GB NVMe). I installed a Debian 13 on it, because I want that front server to be as stable and low maintenance as possible, and installed the Debian-packaged HAProxy onto it. I also installed Wireguard. The VPS has a publicly accessible IP, so it will be my Wireguard server: my server at home can reach the VPS to establish a tunnel, the opposite is not true.&lt;/p&gt;
-&lt;p&gt;On my k3s node, I&apos;ve installed Wireguard as well. I configured Wireguard on the VPS and my k3s node to establish a tunnel between the two. I&apos;ve also bound the sshd on my VPS to the wireguard address. Infrawire offers a console so I can unstick myself if I locked me out of my own server (e.g. by misconfiguring Wireguard on any side, or if my server at home had any failure).&lt;/p&gt;
-&lt;p&gt;I pointed all my DNS records to the VPS. The HAProxy is a &quot;dumb&quot; tcp forwarder, so I can keep operating like before on my cluster. In particular, HAProxy doesn&apos;t do TLS termination. My certificates are fetched on my cluster by cert-manager like before, using the http-01 challenge and Let&apos;s Encrypt. I could also move to dns-01 challenges, but http-01 just works and lets me switch to a registrar without an API if need be.&lt;/p&gt;
-&lt;p&gt;That way, I don&apos;t need a fixed IP at home, and I don&apos;t have to do any port-forwarding from my home router to my k3s cluster. Even better: the VPS has an anti-DDoS protection included, and I can also configure HAProxy to refuse too many connections from a same IP, I can make it close TCP connections that take too long to establish, and more. If my VPS gets hammered, I can still access my services from within my home network.&lt;/p&gt;</description>
-      <pubDate>Fri, 22 May 2026 16:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://ergaster.org/thoughts/front-server/</guid>
-      <source url="https://planet.gnome.org/rss20.xml">Planet GNOME</source>
     </item>
     <item>
       <title>[FSF News] Statement regarding GNU Savannah security reports</title>
@@ -4031,7 +4168,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[LWN] Linux Storage, Filesystem, Memory Management, and BPF Summit</title>
       <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 15:12:08 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 17:26:08 -0000</pubDate>
       <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -4039,7 +4176,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1079407/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 15:12:08 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 17:26:08 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1079407/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -4047,7 +4184,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1080162/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 15:12:08 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 17:26:08 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1080162/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -4055,7 +4192,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[LWN] local BPF storage API</title>
       <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 15:12:08 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 17:26:08 -0000</pubDate>
       <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -4063,7 +4200,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1078968/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 15:12:08 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 17:26:08 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1078968/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -4071,7 +4208,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 15:12:03 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 17:26:04 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -4079,7 +4216,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
       <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 15:12:03 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 17:26:04 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -4087,7 +4224,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
       <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 15:12:03 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 17:26:04 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -4095,7 +4232,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
       <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 15:12:03 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 17:26:04 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -4103,15 +4240,23 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 15:12:03 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 17:26:04 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Bilionário da tecnologia acusa o Papa de ser um &quot;agente comunista chinês&quot; ao defender a regulamentação da IA</title>
+      <link>https://www.vivaolinux.com.br/noticia/bilionario-da-tecnologia-acusa-o-papa-de-ser-um-agente-comunista-chines-ao-defender-a-regulamentacao-da-ia/</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 17:26:03 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/bilionario-da-tecnologia-acusa-o-papa-de-ser-um-agente-comunista-chines-ao-defender-a-regulamentacao-da-ia/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Viva o Linux] ReactOS avança na compatibilidade com Windows Vista ao implementar primeiro system call NT6</title>
       <link>https://www.vivaolinux.com.br/noticia/reactos-avanca-na-compatibilidade-com-windows-vista-ao-implementar-primeiro-system-call-nt6/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 15:12:02 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 17:26:03 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/reactos-avanca-na-compatibilidade-com-windows-vista-ao-implementar-primeiro-system-call-nt6/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -4119,7 +4264,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Viva o Linux] Fedora 45 avalia ativar Shadow Stack por padrão em máquinas x86_64</title>
       <link>https://www.vivaolinux.com.br/noticia/fedora-45-avalia-ativar-shadow-stack-por-padrao-em-maquinas-x86-64/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 15:12:02 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 17:26:03 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/fedora-45-avalia-ativar-shadow-stack-por-padrao-em-maquinas-x86-64/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -4127,7 +4272,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Viva o Linux] Ultramarine 44 chega com base no Fedora 44, kernel Linux 7.0 e Plasma 6.7</title>
       <link>https://www.vivaolinux.com.br/noticia/ultramarine-44-chega-com-base-no-fedora-44-kernel-linux-7-0-e-plasma-6-7/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 15:12:02 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 17:26:03 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ultramarine-44-chega-com-base-no-fedora-44-kernel-linux-7-0-e-plasma-6-7/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -4135,17 +4280,42 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Viva o Linux] KDE Gear 26.04.3 chega com correções de estabilidade para apps do ecossistema KDE</title>
       <link>https://www.vivaolinux.com.br/noticia/kde-gear-26-04-3-chega-com-correcoes-de-estabilidade-para-apps-do-ecossistema-kde/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 15:12:02 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 17:26:03 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kde-gear-26-04-3-chega-com-correcoes-de-estabilidade-para-apps-do-ecossistema-kde/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
-      <title>[Viva o Linux] Vaticano cria comissão para coordenar uso de inteligência artificial entre seus órgãos</title>
-      <link>https://www.vivaolinux.com.br/noticia/vaticano-cria-comissao-para-coordenar-uso-de-inteligencia-artificial-entre-seus-orgaos/</link>
-      <description></description>
-      <pubDate>Fri, 03 Jul 2026 15:12:02 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/vaticano-cria-comissao-para-coordenar-uso-de-inteligencia-artificial-entre-seus-orgaos/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+      <title>[Diolinux] Microsoft adiciona runtime de contêineres ao WSL com comandos semelhantes ao Docker</title>
+      <link>https://diolinux.com.br/noticias/microsoft-conteineres-wsl-docker.html</link>
+      <description>Microsoft apresenta o WSL Containers, um novo runtime para contêineres Linux no WSL com CLI semelhante ao Docker, API nativa para Windows e melhorias de desempenho.</description>
+      <pubDate>Fri, 03 Jul 2026 16:38:06 -0000</pubDate>
+      <guid isPermaLink="false">https://diolinux.com.br/?p=122094</guid>
+      <source url="https://diolinux.com.br/feed">Diolinux</source>
+    </item>
+    <item>
+      <title>[OMG! Ubuntu] Snap Store will be down for maintenance this weekend</title>
+      <link>https://www.omgubuntu.co.uk/2026/07/snap-store-offline-july-2026</link>
+      <description>&lt;p&gt;&lt;img alt=&quot;Ubuntu and Snapcraft logos arranged in a grid.&quot; class=&quot;attachment-post-list size-post-list wp-post-image&quot; height=&quot;232&quot; src=&quot;https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/05/ubuntu-logo-and-the-snapcraft-logo-tiled.jpg?resize=406%2C232&amp;amp;ssl=1&quot; width=&quot;406&quot; /&gt;Canonical&amp;#8217;s Snap Store will be shutting down for database maintenance at the weekend, meaning users won&amp;#8217;t be able to install or update snaps until it&amp;#8217;s back online. The planned downtime is expected to last for four hours, starting on Sunday, 5 July 2026 at 22:00 UTC and ending on Monday, 6 July at 02:00 UTC. During the maintenance you will not be able to install or update snaps. If there&amp;#8217;s an app you&amp;#8217;ve been wanting to try, or your IoT or core device runs automated tasks during the affected window, you&amp;#8217;ll want to plan accordingly To make that planning less [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;You&apos;re reading &lt;a href=&quot;https://www.omgubuntu.co.uk/2026/07/snap-store-offline-july-2026&quot;&gt;Snap Store will be down for maintenance this weekend&lt;/a&gt;, a blog post from &lt;a href=&quot;https://www.omgubuntu.co.uk&quot;&gt;OMG! Ubuntu&lt;/a&gt;. Do not reproduce elsewhere without permission.&lt;/p&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 16:28:16 -0000</pubDate>
+      <guid isPermaLink="false">https://www.omgubuntu.co.uk/?p=334567</guid>
+      <source url="https://www.omgubuntu.co.uk/feed">OMG! Ubuntu</source>
+    </item>
+    <item>
+      <title>[Phoronix] Vulkan Adds Extension For OCP&apos;s Microscaling MX Formats To Help Machine Learning</title>
+      <link>https://www.phoronix.com/news/Vulkan-1.4.356-Released</link>
+      <description>Vulkan 1.4.356 is out today and it&apos;s interesting for the lone new extension debuting: VK_EXT_shader_ocp_microscaling_types. The VK_EXT_shader_ocp_microscaling_types is for enabling the Open Compute Project&apos;s Microscaling MX data types to help with machine learning workloads with Vulkan...</description>
+      <pubDate>Fri, 03 Jul 2026 15:42:42 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/Vulkan-1.4.356-Released</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
+    </item>
+    <item>
+      <title>[Phoronix] Coreboot + AMD openSIL On MSI Ryzen Motherboard Now Works With Windows 11</title>
+      <link>https://www.phoronix.com/news/Coreboot-openSIL-MSI-Windows</link>
+      <description>With 3mdeb&apos;s Dasharo port of AMD openSIL and Coreboot running on the Gigabyte EPYC motherboard, 3mdeb engineers have been devoting more time to their bring-up of Coreboot+openSIL on the MSI PRO B850-P consumer motherboard for desktop AMD Ryzen. They now even have Microsoft Windows 11 working atop this open-source firmware alternative along with other features implemented...</description>
+      <pubDate>Fri, 03 Jul 2026 15:10:43 -0000</pubDate>
+      <guid isPermaLink="false">https://www.phoronix.com/news/Coreboot-openSIL-MSI-Windows</guid>
+      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
     <item>
       <title>[The Verge] While you’re watching the World Cup, the feds may be watching you</title>
@@ -4225,14 +4395,6 @@ continents thus far. New dates and locations are being added daily.</description
       <description>NVIDIA&apos;s latest Linux kernel mailing list patches are for providing the Device Tree for the baseboard management controller (BMC) of their Vera Rubin VR-NVL server platform. With the Linux kernel patches and also for U-Boot, it&apos;s part of the upstreaming effort for supporting the open-source OpenBMC software on their latest hardware...</description>
       <pubDate>Fri, 03 Jul 2026 11:02:38 -0000</pubDate>
       <guid isPermaLink="false">https://www.phoronix.com/news/NVIDIA-VR-NVL-BMC-DT</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
-    </item>
-    <item>
-      <title>[Phoronix] Linux 7.2-rc2 BPF Code Being Hardened Against JIT Spraying Attacks</title>
-      <link>https://www.phoronix.com/news/Linux-7.2-rc3-BPF-Hardening</link>
-      <description>Some post-merge-window code changes merged overnight ahead of Linux 7.2-rc2 this weekend is hardening the kernel&apos;s BPF code against JIT spraying attacks...</description>
-      <pubDate>Fri, 03 Jul 2026 10:49:59 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/Linux-7.2-rc3-BPF-Hardening</guid>
       <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
     <item>
@@ -4335,14 +4497,6 @@ continents thus far. New dates and locations are being added daily.</description
       <pubDate>Fri, 03 Jul 2026 10:36:56 -0000</pubDate>
       <guid isPermaLink="false">https://ervin.ipsquad.net/blog/2026/07/03/web-review-week-2026-27/</guid>
       <source url="https://planet.kde.org/index.xml">Planet KDE</source>
-    </item>
-    <item>
-      <title>[Phoronix] Linux Preparing To Retire Its 32-bit MSR Interfaces</title>
-      <link>https://www.phoronix.com/news/Linux-Ending-32-bit-MSR-Work</link>
-      <description>Currently measuring in at 32 patches, SUSE engineer Juergen Gross has been leading the effort to end the Linux kernel&apos;s usage of their 32-bit model specific register (MSR) interfaces so the more modern 64-bit interfaces can be exclusively used. This allows for better code unification and cleaning up the MSR code...</description>
-      <pubDate>Fri, 03 Jul 2026 10:32:05 -0000</pubDate>
-      <guid isPermaLink="false">https://www.phoronix.com/news/Linux-Ending-32-bit-MSR-Work</guid>
-      <source url="https://www.phoronix.com/rss.php">Phoronix</source>
     </item>
     <item>
       <title>[Planet KDE] Attention to Detail</title>
