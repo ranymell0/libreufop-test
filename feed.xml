@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Fri, 03 Jul 2026 06:38:48 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 09:59:14 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://SEU_USUARIO_OU_ORG.github.io/SEU_REPO/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -4083,57 +4083,6 @@ someever (1):
       <source url="https://github.com/i3/i3/releases.atom">i3wm</source>
     </item>
     <item>
-      <title>[Planet GNOME] Laureen Caliman: My Current MR and GSoC Project Start</title>
-      <link>https://blogs.gnome.org/laureen/2026/05/29/my-current-mr-and-gsoc-project-start/</link>
-      <description>&lt;h2&gt;Ongoing Work&lt;/h2&gt;
-&lt;p&gt;Back in March, I started to tackle this &lt;a class=&quot;external&quot; href=&quot;https://gitlab.gnome.org/jrb/crosswords/-/merge_requests/373#note_2761175&quot;&gt;MR&lt;/a&gt; for GNOME Crosswords. It allowed me to learn a lot about navigating the codebase, adhere to naming conventions, and collaborating with others involved in Crosswords.&lt;/p&gt;
-&lt;p&gt;Crosswords Editor features a section for users to input metadata, such as author name, puzzle URL, and date. Originally, the MR was to convert and store the user’s manually typed date to ISO8601. This means storing the entered date in the form YYYY-MM-DD, while the user just needs to type in a date using the&lt;a class=&quot;external&quot; href=&quot;https://api.pygobject.gnome.org/GLib-2.0/structure-Date.html&quot;&gt; GDate struct&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Upon code review, the scope expanded to move from manual typing to selecting a date on a drop-down &lt;a class=&quot;external&quot; href=&quot;https://docs.gtk.org/gtk4/class.Calendar.html&quot;&gt;GTK calendar&lt;/a&gt; widget. I was able to implement this concept by following the architecture of an existing widget (edit-shapebg.c/h/blp) which placed shapes on the crossword puzzle. Then I connected the new calendar widget to the metadata so the chosen date from the now drop-down calendar will be stored in ISO8601 format yet display respective to the locale of the person using g_date_strftime.&lt;/p&gt;
-&lt;h2&gt;Project Start&lt;/h2&gt;
-&lt;p&gt;With the start of GSoC, I have spent a lot of time this week reading, white-boarding, and began setting up some structure to adding vocab-style crosswords to the libipuz library.&lt;/p&gt;
-&lt;p&gt;The basic constraints and workflow that I mapped are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A user can input up to 30 words (strings), with a 25 character capacity.&lt;/li&gt;
-&lt;li&gt;Upon hitting enter or a button to generate, a Depth-First Search (DFS) algorithm starts to piece the words together on a blank grid. The algorithm can backtrack to tear apart words and rearrange them until a valid graph is formed
-&lt;ul&gt;
-&lt;li&gt;I’m going with DFS at the moment to prioritize the longest-to-shortest word seeding the graph in order to increase possibilities of connections&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Every time the user generates the graph, it will be treated like its own isolated creation, recalculating the layout from scratch to allow for cleaner undo/redo states and easier addition/deletion of words&lt;/li&gt;
-&lt;li&gt;I don’t want words being placed right next to each other unless it was intentional for a 2+ word answer, which each word would be separated by thick lines
-&lt;ul&gt;
-&lt;li&gt;Words should only connect through intersections
-&lt;ul&gt;
-&lt;li&gt;The frontend does not mutate the grid but will be able to pass actions to the backend and return a new state&lt;/li&gt;
-&lt;li&gt;For instance: say a user starts off their grid by typing “CAT” and then “DOG.” These words don’t have common characters, so they cannot be connected. However, instead of erasing the user’s desire to incorporate “DOG,” the string gets tucked away and saved in a GArray&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-medium wp-image-42&quot; height=&quot;209&quot; src=&quot;https://blogs.gnome.org/laureen/files/2026/05/Screenshot-from-2026-05-28-14-37-18-300x209.png&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;Now our user types and enters “CADET.” The UI takes our list and passes it to the algorithm to start chewing on and deal onto the board anew. This time, allowing for “CAT,” “DOG,” and “CADET” to appear, without the user having to retype “DOG”&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&quot;&quot; class=&quot;alignnone size-medium wp-image-43&quot; height=&quot;209&quot; src=&quot;https://blogs.gnome.org/laureen/files/2026/05/Screenshot-from-2026-05-28-14-41-12-300x209.png&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;I went back and forth with myself on how to represent the puzzle’s state in memory and disk. To write a custom GObject, or not.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The Argument Against: &lt;/strong&gt;Standard IpuzCrossword objects have a handle on grids and JSON saving, and one could write a new function that takes an array of strings and return a standard IpuzCrossword.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The Argument For: &lt;/strong&gt;Revisiting the “CAT,” “DOG,” and “CADET” conundrum; say an educator is creating a puzzle for his/her/their class, and they have just one word out of 20 that don’t connect to current existing possibilities of intersecting words. If they save their puzzle, it transforms to a standard IpuzCrossword, and the floating word are permanently abandoned.&lt;/p&gt;
-&lt;p&gt;At the current moment, I want the puzzle to be its own vocab-style workspace. Therefore this would allow for the floating word to instead sit in the sidebar and wait for further instruction for a future inserted word that works, or to get deleted.&lt;/p&gt;
-&lt;p&gt;Of course, as I gain more insight about the library, &lt;a class=&quot;external&quot; href=&quot;https://www.redhat.com/en/topics/cloud-native-apps/stateful-vs-stateless&quot;&gt;states&lt;/a&gt;, and optimization within the codebase, this approach is subject to refinement.&lt;/p&gt;</description>
-      <pubDate>Fri, 29 May 2026 00:28:03 -0000</pubDate>
-      <guid isPermaLink="false">https://blogs.gnome.org/laureen/2026/05/29/my-current-mr-and-gsoc-project-start/</guid>
-      <source url="https://planet.gnome.org/rss20.xml">Planet GNOME</source>
-    </item>
-    <item>
       <title>[openSUSE News] When the Code Stays Clean and Trust Collapses Anyway</title>
       <link>https://news.opensuse.org/2026/06/26/when-code-stays-clear-turst-collapses-anyway/</link>
       <description>Why Europe’s third way needs sovereign open-source assurance, and what the openSUSE community, the SUSE ecosystem and the businesses built on them should do about it Accompanying article to the openSUSE Conference 2026 keynote by Hans de Raad (OpenNovations) - “Open Source Won Distribution. Now It Must Win Assurance.” Most...</description>
@@ -4162,20 +4111,26 @@ continents thus far. New dates and locations are being added daily.</description
       <source url="https://www.fsf.org/news/RSS">FSF News</source>
     </item>
     <item>
+      <title>[Planet GNOME] Thibault Martin: I realized that A cheap VPS is a good front</title>
+      <link>https://ergaster.org/thoughts/front-server/</link>
+      <description>&lt;p&gt;I have a server at home. It runs a Kubernetes cluster and a few services. I want to expose them to the Internet, so I can e.g. share public links from my Nextcloud, or synchronize my Kobo reader with &lt;a href=&quot;https://grimmory.org/&quot;&gt;Grimmory&lt;/a&gt;. But I don&apos;t want to expose my home IP to the world, and I want to have some reasonable protection against unsophisticated DoS attacks.&lt;/p&gt;
+&lt;p&gt;I realized that I can achieve that with a cheap VPS that acts as a front, &lt;a href=&quot;https://www.haproxy.org/&quot;&gt;HAProxy&lt;/a&gt;, and &lt;a href=&quot;https://www.wireguard.com/&quot;&gt;Wireguard&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;I rented a tiny VPS for €4/month at &lt;a href=&quot;https://infrawire.fr/en&quot;&gt;Infrawire&lt;/a&gt; (1 vCPU, 2 GB RAM, 25 GB NVMe). I installed a Debian 13 on it, because I want that front server to be as stable and low maintenance as possible, and installed the Debian-packaged HAProxy onto it. I also installed Wireguard. The VPS has a publicly accessible IP, so it will be my Wireguard server: my server at home can reach the VPS to establish a tunnel, the opposite is not true.&lt;/p&gt;
+&lt;p&gt;On my k3s node, I&apos;ve installed Wireguard as well. I configured Wireguard on the VPS and my k3s node to establish a tunnel between the two. I&apos;ve also bound the sshd on my VPS to the wireguard address. Infrawire offers a console so I can unstick myself if I locked me out of my own server (e.g. by misconfiguring Wireguard on any side, or if my server at home had any failure).&lt;/p&gt;
+&lt;p&gt;I pointed all my DNS records to the VPS. The HAProxy is a &quot;dumb&quot; tcp forwarder, so I can keep operating like before on my cluster. In particular, HAProxy doesn&apos;t do TLS termination. My certificates are fetched on my cluster by cert-manager like before, using the http-01 challenge and Let&apos;s Encrypt. I could also move to dns-01 challenges, but http-01 just works and lets me switch to a registrar without an API if need be.&lt;/p&gt;
+&lt;p&gt;That way, I don&apos;t need a fixed IP at home, and I don&apos;t have to do any port-forwarding from my home router to my k3s cluster. Even better: the VPS has an anti-DDoS protection included, and I can also configure HAProxy to refuse too many connections from a same IP, I can make it close TCP connections that take too long to establish, and more. If my VPS gets hammered, I can still access my services from within my home network.&lt;/p&gt;</description>
+      <pubDate>Fri, 22 May 2026 16:00:00 -0000</pubDate>
+      <guid isPermaLink="false">https://ergaster.org/thoughts/front-server/</guid>
+      <source url="https://planet.gnome.org/rss20.xml">Planet GNOME</source>
+    </item>
+    <item>
       <title>[FSF News] Statement regarding GNU Savannah security reports</title>
       <link>http://www.fsf.org/news/statement-regarding-gnu-savannah-security-reports</link>
       <description></description>
       <pubDate>Fri, 19 Jun 2026 21:13:07 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsf.org/news/statement-regarding-gnu-savannah-security-reports</guid>
       <source url="https://www.fsf.org/news/RSS">FSF News</source>
-    </item>
-    <item>
-      <title>[openSUSE News] Planet News Roundup</title>
-      <link>https://news.opensuse.org/2026/06/19/planet-roundup/</link>
-      <description>This is a roundup of articles from the openSUSE community listed on planet.opensuse.org. The community blog feed aggregator lists the featured highlights below from June 12 to 18. Blogs this week cover the release of KDE Plasma 6.7 with per-screen virtual desktops and mic test features, KDE Frameworks 6.27, Agama...</description>
-      <pubDate>Fri, 19 Jun 2026 08:00:00 -0000</pubDate>
-      <guid isPermaLink="false">https://news.opensuse.org/2026/06/19/planet-roundup/</guid>
-      <source url="https://news.opensuse.org/feed/">openSUSE News</source>
     </item>
     <item>
       <title>[i3wm] 4.25</title>
@@ -4213,7 +4168,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1080162/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 06:38:48 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 09:59:14 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1080162/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -4221,7 +4176,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[LWN] local BPF storage API</title>
       <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 06:38:48 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 09:59:14 -0000</pubDate>
       <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -4229,7 +4184,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1078968/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 06:38:48 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 09:59:14 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1078968/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -4237,7 +4192,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[LWN] Secure Boot</title>
       <link>https://en.wikipedia.org/wiki/UEFI#Secure_Boot</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 06:38:48 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 09:59:14 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/UEFI#Secure_Boot</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -4245,55 +4200,15 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1079808/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 06:38:48 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 09:59:14 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1079808/</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Measuring OSPO Value</title>
-      <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
-      <description></description>
-      <pubDate>Fri, 03 Jul 2026 06:38:44 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
-      <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
-      <description></description>
-      <pubDate>Fri, 03 Jul 2026 06:38:44 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
-      <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
-      <description></description>
-      <pubDate>Fri, 03 Jul 2026 06:38:44 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
-      <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
-      <description></description>
-      <pubDate>Fri, 03 Jul 2026 06:38:44 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
-      <description></description>
-      <pubDate>Fri, 03 Jul 2026 06:38:44 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[Viva o Linux] ReactOS avança na compatibilidade com Windows Vista ao implementar primeiro system call NT6</title>
       <link>https://www.vivaolinux.com.br/noticia/reactos-avanca-na-compatibilidade-com-windows-vista-ao-implementar-primeiro-system-call-nt6/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 06:38:43 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 09:59:09 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/reactos-avanca-na-compatibilidade-com-windows-vista-ao-implementar-primeiro-system-call-nt6/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -4301,7 +4216,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Viva o Linux] Fedora 45 avalia ativar Shadow Stack por padrão em máquinas x86_64</title>
       <link>https://www.vivaolinux.com.br/noticia/fedora-45-avalia-ativar-shadow-stack-por-padrao-em-maquinas-x86-64/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 06:38:43 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 09:59:09 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/fedora-45-avalia-ativar-shadow-stack-por-padrao-em-maquinas-x86-64/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -4309,7 +4224,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Viva o Linux] Ultramarine 44 chega com base no Fedora 44, kernel Linux 7.0 e Plasma 6.7</title>
       <link>https://www.vivaolinux.com.br/noticia/ultramarine-44-chega-com-base-no-fedora-44-kernel-linux-7-0-e-plasma-6-7/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 06:38:43 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 09:59:09 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ultramarine-44-chega-com-base-no-fedora-44-kernel-linux-7-0-e-plasma-6-7/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -4317,7 +4232,7 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Viva o Linux] KDE Gear 26.04.3 chega com correções de estabilidade para apps do ecossistema KDE</title>
       <link>https://www.vivaolinux.com.br/noticia/kde-gear-26-04-3-chega-com-correcoes-de-estabilidade-para-apps-do-ecossistema-kde/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 06:38:43 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 09:59:09 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kde-gear-26-04-3-chega-com-correcoes-de-estabilidade-para-apps-do-ecossistema-kde/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -4325,9 +4240,57 @@ continents thus far. New dates and locations are being added daily.</description
       <title>[Viva o Linux] Vaticano cria comissão para coordenar uso de inteligência artificial entre seus órgãos</title>
       <link>https://www.vivaolinux.com.br/noticia/vaticano-cria-comissao-para-coordenar-uso-de-inteligencia-artificial-entre-seus-orgaos/</link>
       <description></description>
-      <pubDate>Fri, 03 Jul 2026 06:38:43 -0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 09:59:09 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/vaticano-cria-comissao-para-coordenar-uso-de-inteligencia-artificial-entre-seus-orgaos/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Measuring OSPO Value</title>
+      <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 09:59:09 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
+      <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 09:59:09 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
+      <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 09:59:09 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
+      <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 09:59:09 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 09:59:09 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[openSUSE News] Planet News Roundup</title>
+      <link>https://news.opensuse.org/2026/07/03/planet-roundup/</link>
+      <description>This is a roundup of articles from the openSUSE community listed on planet.opensuse.org. The community blog feed aggregator lists the featured highlights below from June 26 to July 2. Blogs this week cover Hans de Raad’s openSUSE Conference keynote on the Cyber Resilience Act and sovereign open-source assurance, a Google...</description>
+      <pubDate>Fri, 03 Jul 2026 08:00:00 -0000</pubDate>
+      <guid isPermaLink="false">https://news.opensuse.org/2026/07/03/planet-roundup/</guid>
+      <source url="https://news.opensuse.org/feed/">openSUSE News</source>
     </item>
     <item>
       <title>[The Verge] Sony’s PlayStation disc factory is already being repurposed</title>
