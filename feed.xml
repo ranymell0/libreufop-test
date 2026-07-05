@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Sun, 05 Jul 2026 13:39:05 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 15:12:30 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -93,7 +93,7 @@
       <title>[LWN] Linux Storage, Filesystem, Memory Management, and BPF Summit</title>
       <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
       <description></description>
-      <pubDate>Sun, 05 Jul 2026 13:39:05 -0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 15:12:30 -0000</pubDate>
       <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -101,7 +101,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1079407/</link>
       <description></description>
-      <pubDate>Sun, 05 Jul 2026 13:39:05 -0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 15:12:30 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1079407/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -109,7 +109,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1080162/</link>
       <description></description>
-      <pubDate>Sun, 05 Jul 2026 13:39:05 -0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 15:12:30 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1080162/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -117,7 +117,7 @@
       <title>[LWN] local BPF storage API</title>
       <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
       <description></description>
-      <pubDate>Sun, 05 Jul 2026 13:39:05 -0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 15:12:30 -0000</pubDate>
       <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,55 +125,15 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1078968/</link>
       <description></description>
-      <pubDate>Sun, 05 Jul 2026 13:39:05 -0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 15:12:30 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1078968/</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Ladybird ganha downloads, histórico e sandboxing no Linux em nova atualização</title>
-      <link>https://www.vivaolinux.com.br/noticia/ladybird-ganha-downloads-historico-e-sandboxing-no-linux-em-nova-atualizacao/</link>
-      <description></description>
-      <pubDate>Sun, 05 Jul 2026 13:39:02 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ladybird-ganha-downloads-historico-e-sandboxing-no-linux-em-nova-atualizacao/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Vigilância de Hardware: Criando um Robô Python para Auditoria e Inventário Automático no Linux</title>
-      <link>https://www.vivaolinux.com.br/artigo/Vigilancia-de-Hardware-Criando-um-Robo-Python-para-Auditoria-e-Inventario-Automatico-no-Linux/</link>
-      <description></description>
-      <pubDate>Sun, 05 Jul 2026 13:39:02 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Vigilancia-de-Hardware-Criando-um-Robo-Python-para-Auditoria-e-Inventario-Automatico-no-Linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] GNOME 51 Alpha chega para testes públicos com ajustes em vários componentes</title>
-      <link>https://www.vivaolinux.com.br/noticia/gnome-51-alpha-chega-para-testes-publicos-com-ajustes-em-varios-componentes/</link>
-      <description></description>
-      <pubDate>Sun, 05 Jul 2026 13:39:02 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/gnome-51-alpha-chega-para-testes-publicos-com-ajustes-em-varios-componentes/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Shelly passa a instalar apps do Flathub no Arch Linux</title>
-      <link>https://www.vivaolinux.com.br/noticia/shelly-passa-a-instalar-apps-do-flathub-no-arch-linux/</link>
-      <description></description>
-      <pubDate>Sun, 05 Jul 2026 13:39:02 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/shelly-passa-a-instalar-apps-do-flathub-no-arch-linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Fedora pausa iniciativas comunitárias após polêmica com proposta de desktop com IA</title>
-      <link>https://www.vivaolinux.com.br/noticia/fedora-pausa-iniciativas-comunitarias-apos-polemica-com-proposta-de-desktop-com-ia/</link>
-      <description></description>
-      <pubDate>Sun, 05 Jul 2026 13:39:02 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/fedora-pausa-iniciativas-comunitarias-apos-polemica-com-proposta-de-desktop-com-ia/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Sun, 05 Jul 2026 13:39:02 -0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 15:12:27 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -181,7 +141,7 @@
       <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
       <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
       <description></description>
-      <pubDate>Sun, 05 Jul 2026 13:39:02 -0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 15:12:27 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,7 +149,7 @@
       <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
       <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
       <description></description>
-      <pubDate>Sun, 05 Jul 2026 13:39:02 -0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 15:12:27 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -197,7 +157,7 @@
       <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
       <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
       <description></description>
-      <pubDate>Sun, 05 Jul 2026 13:39:02 -0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 15:12:27 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -205,9 +165,49 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
       <description></description>
-      <pubDate>Sun, 05 Jul 2026 13:39:02 -0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 15:12:27 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Ladybird ganha downloads, histórico e sandboxing no Linux em nova atualização</title>
+      <link>https://www.vivaolinux.com.br/noticia/ladybird-ganha-downloads-historico-e-sandboxing-no-linux-em-nova-atualizacao/</link>
+      <description></description>
+      <pubDate>Sun, 05 Jul 2026 15:12:26 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ladybird-ganha-downloads-historico-e-sandboxing-no-linux-em-nova-atualizacao/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Vigilância de Hardware: Criando um Robô Python para Auditoria e Inventário Automático no Linux</title>
+      <link>https://www.vivaolinux.com.br/artigo/Vigilancia-de-Hardware-Criando-um-Robo-Python-para-Auditoria-e-Inventario-Automatico-no-Linux/</link>
+      <description></description>
+      <pubDate>Sun, 05 Jul 2026 15:12:26 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Vigilancia-de-Hardware-Criando-um-Robo-Python-para-Auditoria-e-Inventario-Automatico-no-Linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] GNOME 51 Alpha chega para testes públicos com ajustes em vários componentes</title>
+      <link>https://www.vivaolinux.com.br/noticia/gnome-51-alpha-chega-para-testes-publicos-com-ajustes-em-varios-componentes/</link>
+      <description></description>
+      <pubDate>Sun, 05 Jul 2026 15:12:26 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/gnome-51-alpha-chega-para-testes-publicos-com-ajustes-em-varios-componentes/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Shelly passa a instalar apps do Flathub no Arch Linux</title>
+      <link>https://www.vivaolinux.com.br/noticia/shelly-passa-a-instalar-apps-do-flathub-no-arch-linux/</link>
+      <description></description>
+      <pubDate>Sun, 05 Jul 2026 15:12:26 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/shelly-passa-a-instalar-apps-do-flathub-no-arch-linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Fedora pausa iniciativas comunitárias após polêmica com proposta de desktop com IA</title>
+      <link>https://www.vivaolinux.com.br/noticia/fedora-pausa-iniciativas-comunitarias-apos-polemica-com-proposta-de-desktop-com-ia/</link>
+      <description></description>
+      <pubDate>Sun, 05 Jul 2026 15:12:26 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/fedora-pausa-iniciativas-comunitarias-apos-polemica-com-proposta-de-desktop-com-ia/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[FSFLA] 6point4.en</title>
