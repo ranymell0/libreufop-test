@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Sun, 05 Jul 2026 00:01:43 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 04:56:37 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -40,38 +40,6 @@
       <pubDate>Wed, 17 May 2023 22:00:24 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.pt.html</guid>
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
-    </item>
-    <item>
-      <title>[4Linux] DevOps Sustentável – Green Software e o poder do KubeGreen</title>
-      <link>https://blog.4linux.com.br/devops-sustentavel-green-software-e-o-poder-do-kubegreen/</link>
-      <description>Olá pessoal! Tudo bem com vocês? Hoje no blog da 4Linux, vamos falar sobre Green Software, Que é um conjunto de práticas e princípios que buscam diminuir o impacto ambiental The post DevOps Sustentável &amp;#8211; Green Software e o poder do KubeGreen appeared first on Blog 4Linux .</description>
-      <pubDate>Wed, 17 Jun 2026 19:24:54 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13058</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[4Linux] Shadow AI: sua empresa já vazou. Só não sabe ainda</title>
-      <link>https://blog.4linux.com.br/compartilhando-conhecimento-de-ia-shadow-ai-sua-empresa-ja-vazou-so-nao-sabe-ainda/</link>
-      <description>Quase dois terços dos profissionais usam ferramentas de IA proibidas. Mesmo depois de levarem advertência. Saudações. A empresa aprovou a IA corporativa, fez treinamento, criou a política de uso aceitável, The post Shadow AI: sua empresa já vazou. Só não sabe ainda appeared first on Blog 4Linux .</description>
-      <pubDate>Thu, 25 Jun 2026 19:44:22 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13624</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[4Linux] Uma palestra de um economista de Stanford que vale a pena também pelas perguntas no final</title>
-      <link>https://blog.4linux.com.br/ia-para-maiores-uma-palestra-de-um-economista-de-stanford-que-vale-a-pena-tambem-pelas-perguntas-no-final/</link>
-      <description>Poucos são os economistas que fizeram estudos sobre IA. Muitos fizeram estudos econômicos sobre a COVID. Aprendi muito lendo os livros de prêmios Nobel de economia. Um que me marcou The post Uma palestra de um economista de Stanford que vale a pena também pelas perguntas no final appeared first on...</description>
-      <pubDate>Thu, 25 Jun 2026 19:33:58 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13619</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[4Linux] Lançamento: o novo curso da 4Linux leva você do zero ao seu primeiro modelo corporativo</title>
-      <link>https://blog.4linux.com.br/lancamento-o-novo-curso-da-4linux-leva-voce-do-zero-ao-seu-primeiro-modelo-corporativo/</link>
-      <description>Saudações pessoal! Tem uma pergunta que eu ouço com frequência cada vez maior em times de TI: &amp;#8220;Essa IAtoda funciona mesmo pra usar com dados corporativos?&amp;#8221; A resposta curta é The post Lançamento: o novo curso da 4Linux leva você do zero ao seu primeiro modelo corporativo appeared first...</description>
-      <pubDate>Thu, 18 Jun 2026 16:36:24 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13596</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
       <title>[Linux Today] Pangolin Reverse Proxy Moves to Dual Licensing With New Enterprise Edition</title>
@@ -125,7 +93,7 @@
       <title>[LWN] Linux Storage, Filesystem, Memory Management, and BPF Summit</title>
       <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
       <description></description>
-      <pubDate>Sun, 05 Jul 2026 00:01:43 -0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 04:56:37 -0000</pubDate>
       <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +101,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1079407/</link>
       <description></description>
-      <pubDate>Sun, 05 Jul 2026 00:01:43 -0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 04:56:37 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1079407/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,7 +109,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1080162/</link>
       <description></description>
-      <pubDate>Sun, 05 Jul 2026 00:01:43 -0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 04:56:37 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1080162/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,7 +117,7 @@
       <title>[LWN] local BPF storage API</title>
       <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
       <description></description>
-      <pubDate>Sun, 05 Jul 2026 00:01:43 -0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 04:56:37 -0000</pubDate>
       <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -157,55 +125,15 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1078968/</link>
       <description></description>
-      <pubDate>Sun, 05 Jul 2026 00:01:43 -0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 04:56:37 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1078968/</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] ByteDance do Tik Tok escolhe o Ceará para mega data center voltado à IA e acende debate sobre energia e impacto local</title>
-      <link>https://www.vivaolinux.com.br/noticia/bytedance-escolhe-o-ceara-para-mega-data-center-voltado-a-ia-e-acende-debate-sobre-energia-e-impacto-local/</link>
-      <description></description>
-      <pubDate>Sun, 05 Jul 2026 00:01:38 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/bytedance-escolhe-o-ceara-para-mega-data-center-voltado-a-ia-e-acende-debate-sobre-energia-e-impacto-local/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Meta vai permitir uso de IA em testes de programação para candidatos</title>
-      <link>https://www.vivaolinux.com.br/noticia/meta-vai-permitir-uso-de-ia-em-testes-de-programacao-para-candidatos/</link>
-      <description></description>
-      <pubDate>Sun, 05 Jul 2026 00:01:38 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/meta-vai-permitir-uso-de-ia-em-testes-de-programacao-para-candidatos/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Estudo mostra que IA pode soar mais autêntica que políticos reais e acende alerta sobre desinformação</title>
-      <link>https://www.vivaolinux.com.br/noticia/estudo-mostra-que-ia-pode-soar-mais-autentica-que-politicos-reais-e-acende-alerta-sobre-desinformacao/</link>
-      <description></description>
-      <pubDate>Sun, 05 Jul 2026 00:01:38 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/estudo-mostra-que-ia-pode-soar-mais-autentica-que-politicos-reais-e-acende-alerta-sobre-desinformacao/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Vigilância de DNS: Criando um robô que monitora alterações de IPs e registros MX com alertas via Telegram</title>
-      <link>https://www.vivaolinux.com.br/artigo/Vigilancia-de-DNS-Criando-um-robo-que-monitora-alteracoes-de-IPs-e-registros-MX-com-alertas-via-Telegram/</link>
-      <description></description>
-      <pubDate>Sun, 05 Jul 2026 00:01:38 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Vigilancia-de-DNS-Criando-um-robo-que-monitora-alteracoes-de-IPs-e-registros-MX-com-alertas-via-Telegram/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Bilionário da tecnologia acusa o Papa de ser um &quot;agente comunista chinês&quot; ao defender a regulamentação da IA</title>
-      <link>https://www.vivaolinux.com.br/noticia/bilionario-da-tecnologia-acusa-o-papa-de-ser-um-agente-comunista-chines-ao-defender-a-regulamentacao-da-ia/</link>
-      <description></description>
-      <pubDate>Sun, 05 Jul 2026 00:01:38 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/bilionario-da-tecnologia-acusa-o-papa-de-ser-um-agente-comunista-chines-ao-defender-a-regulamentacao-da-ia/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Sun, 05 Jul 2026 00:01:38 -0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 04:56:34 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -213,7 +141,7 @@
       <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
       <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
       <description></description>
-      <pubDate>Sun, 05 Jul 2026 00:01:38 -0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 04:56:34 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -221,7 +149,7 @@
       <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
       <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
       <description></description>
-      <pubDate>Sun, 05 Jul 2026 00:01:38 -0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 04:56:34 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -229,7 +157,7 @@
       <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
       <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
       <description></description>
-      <pubDate>Sun, 05 Jul 2026 00:01:38 -0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 04:56:34 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -237,17 +165,49 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
       <description></description>
-      <pubDate>Sun, 05 Jul 2026 00:01:38 -0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 04:56:34 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
-      <title>[4Linux] IA no Universo Kubernetes: detecte e resolva incidentes com inteligência artificial</title>
-      <link>https://blog.4linux.com.br/ia-no-universo-kubernetes-detecte-e-resolva-incidentes-com-inteligencia-artificial/</link>
-      <description>Salve salve pessoal! Tudo bem com vocês? Espero que sim! Hoje trago um assunto que tenho trabalhado bastante aqui e que tenho certeza que vai fazer diferença no dia a The post IA no Universo Kubernetes: detecte e resolva incidentes com inteligência artificial appeared first on Blog 4Linux .</description>
-      <pubDate>Mon, 29 Jun 2026 13:28:09 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13539</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+      <title>[Viva o Linux] GNOME 51 Alpha chega para testes públicos com ajustes em vários componentes</title>
+      <link>https://www.vivaolinux.com.br/noticia/gnome-51-alpha-chega-para-testes-publicos-com-ajustes-em-varios-componentes/</link>
+      <description></description>
+      <pubDate>Sun, 05 Jul 2026 04:56:33 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/gnome-51-alpha-chega-para-testes-publicos-com-ajustes-em-varios-componentes/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Shelly passa a instalar apps do Flathub no Arch Linux</title>
+      <link>https://www.vivaolinux.com.br/noticia/shelly-passa-a-instalar-apps-do-flathub-no-arch-linux/</link>
+      <description></description>
+      <pubDate>Sun, 05 Jul 2026 04:56:33 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/shelly-passa-a-instalar-apps-do-flathub-no-arch-linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Fedora pausa iniciativas comunitárias após polêmica com proposta de desktop com IA</title>
+      <link>https://www.vivaolinux.com.br/noticia/fedora-pausa-iniciativas-comunitarias-apos-polemica-com-proposta-de-desktop-com-ia/</link>
+      <description></description>
+      <pubDate>Sun, 05 Jul 2026 04:56:33 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/fedora-pausa-iniciativas-comunitarias-apos-polemica-com-proposta-de-desktop-com-ia/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Ubuntu recua no cp em Rust após falha quebrar builds de imagens ao vivo</title>
+      <link>https://www.vivaolinux.com.br/noticia/ubuntu-recua-no-cp-em-rust-apos-falha-quebrar-builds-de-imagens-ao-vivo/</link>
+      <description></description>
+      <pubDate>Sun, 05 Jul 2026 04:56:33 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ubuntu-recua-no-cp-em-rust-apos-falha-quebrar-builds-de-imagens-ao-vivo/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] KDE Plasma 6.8 vai chegar com animações mais suaves e correções importantes para monitores múltiplos</title>
+      <link>https://www.vivaolinux.com.br/noticia/kde-plasma-6-8-vai-chegar-com-animacoes-mais-suaves-e-correcoes-importantes-para-monitores-multiplos/</link>
+      <description></description>
+      <pubDate>Sun, 05 Jul 2026 04:56:33 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kde-plasma-6-8-vai-chegar-com-animacoes-mais-suaves-e-correcoes-importantes-para-monitores-multiplos/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[FSFLA] 6point4.en</title>
