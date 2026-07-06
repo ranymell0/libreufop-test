@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Mon, 06 Jul 2026 00:05:45 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 05:11:48 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -101,7 +101,7 @@
       <title>[LWN] Linux Storage, Filesystem, Memory Management, and BPF Summit</title>
       <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
       <description></description>
-      <pubDate>Mon, 06 Jul 2026 00:05:45 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 05:11:48 -0000</pubDate>
       <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -109,7 +109,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1079407/</link>
       <description></description>
-      <pubDate>Mon, 06 Jul 2026 00:05:45 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 05:11:48 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1079407/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -117,7 +117,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1080162/</link>
       <description></description>
-      <pubDate>Mon, 06 Jul 2026 00:05:45 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 05:11:48 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1080162/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[LWN] local BPF storage API</title>
       <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
       <description></description>
-      <pubDate>Mon, 06 Jul 2026 00:05:45 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 05:11:48 -0000</pubDate>
       <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,55 +133,15 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1078968/</link>
       <description></description>
-      <pubDate>Mon, 06 Jul 2026 00:05:45 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 05:11:48 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1078968/</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Hannah Montana Linux volta quase 20 anos depois com base Debian e Plasma 6</title>
-      <link>https://www.vivaolinux.com.br/noticia/hannah-montana-linux-volta-quase-20-anos-depois-com-base-debian-e-plasma-6/</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 00:05:40 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/hannah-montana-linux-volta-quase-20-anos-depois-com-base-debian-e-plasma-6/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Auto editor mais novo, frames pretos e exportação de timeline para programas de edição</title>
-      <link>https://www.vivaolinux.com.br/dica/Auto-editor-mais-novo-frames-pretos-e-exportacao-de-timeline-para-programas-de-edicao/</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 00:05:40 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Auto-editor-mais-novo-frames-pretos-e-exportacao-de-timeline-para-programas-de-edicao/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Como verificar se sua conexão Wi-Fi está operando na frequência de 2.4 GHz ou 5 GHz no NetworkManager</title>
-      <link>https://www.vivaolinux.com.br/dica/Como-verificar-se-sua-conexao-Wi-Fi-esta-operando-na-frequencia-de-24-GHz-ou-5-GHz-no-NetworkManager/</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 00:05:40 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Como-verificar-se-sua-conexao-Wi-Fi-esta-operando-na-frequencia-de-24-GHz-ou-5-GHz-no-NetworkManager/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] ReactOS consegue rodar Half-Life 2 e avança em compatibilidade com jogos Windows</title>
-      <link>https://www.vivaolinux.com.br/noticia/reactos-consegue-rodar-half-life-2-e-avanca-em-compatibilidade-com-jogos-windows/</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 00:05:40 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/reactos-consegue-rodar-half-life-2-e-avanca-em-compatibilidade-com-jogos-windows/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Ladybird ganha downloads, histórico e sandboxing no Linux em nova atualização</title>
-      <link>https://www.vivaolinux.com.br/noticia/ladybird-ganha-downloads-historico-e-sandboxing-no-linux-em-nova-atualizacao/</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 00:05:40 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ladybird-ganha-downloads-historico-e-sandboxing-no-linux-em-nova-atualizacao/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Mon, 06 Jul 2026 00:05:40 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 05:11:45 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,7 +149,7 @@
       <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
       <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
       <description></description>
-      <pubDate>Mon, 06 Jul 2026 00:05:40 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 05:11:45 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -197,7 +157,7 @@
       <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
       <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
       <description></description>
-      <pubDate>Mon, 06 Jul 2026 00:05:40 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 05:11:45 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -205,7 +165,7 @@
       <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
       <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
       <description></description>
-      <pubDate>Mon, 06 Jul 2026 00:05:40 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 05:11:45 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -213,9 +173,49 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
       <description></description>
-      <pubDate>Mon, 06 Jul 2026 00:05:40 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 05:11:45 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] DXVK 3.0.1 corrige regressões e melhora compatibilidade com vários jogos no Linux</title>
+      <link>https://www.vivaolinux.com.br/noticia/dxvk-3-0-1-corrige-regressoes-e-melhora-compatibilidade-com-varios-jogos-no-linux/</link>
+      <description></description>
+      <pubDate>Mon, 06 Jul 2026 05:11:44 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/dxvk-3-0-1-corrige-regressoes-e-melhora-compatibilidade-com-varios-jogos-no-linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] BleachBit 6.0.2 amplia a limpeza de rastros do Chrome e reforça suporte ao Linux</title>
+      <link>https://www.vivaolinux.com.br/noticia/bleachbit-6-0-2-amplia-a-limpeza-de-rastros-do-chrome-e-reforca-suporte-ao-linux/</link>
+      <description></description>
+      <pubDate>Mon, 06 Jul 2026 05:11:44 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/bleachbit-6-0-2-amplia-a-limpeza-de-rastros-do-chrome-e-reforca-suporte-ao-linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Hannah Montana Linux volta quase 20 anos depois com base Debian e Plasma 6</title>
+      <link>https://www.vivaolinux.com.br/noticia/hannah-montana-linux-volta-quase-20-anos-depois-com-base-debian-e-plasma-6/</link>
+      <description></description>
+      <pubDate>Mon, 06 Jul 2026 05:11:44 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/hannah-montana-linux-volta-quase-20-anos-depois-com-base-debian-e-plasma-6/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Auto editor mais novo, frames pretos e exportação de timeline para programas de edição</title>
+      <link>https://www.vivaolinux.com.br/dica/Auto-editor-mais-novo-frames-pretos-e-exportacao-de-timeline-para-programas-de-edicao/</link>
+      <description></description>
+      <pubDate>Mon, 06 Jul 2026 05:11:44 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Auto-editor-mais-novo-frames-pretos-e-exportacao-de-timeline-para-programas-de-edicao/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Como verificar se sua conexão Wi-Fi está operando na frequência de 2.4 GHz ou 5 GHz no NetworkManager</title>
+      <link>https://www.vivaolinux.com.br/dica/Como-verificar-se-sua-conexao-Wi-Fi-esta-operando-na-frequencia-de-24-GHz-ou-5-GHz-no-NetworkManager/</link>
+      <description></description>
+      <pubDate>Mon, 06 Jul 2026 05:11:44 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Como-verificar-se-sua-conexao-Wi-Fi-esta-operando-na-frequencia-de-24-GHz-ou-5-GHz-no-NetworkManager/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
   </channel>
 </rss>
