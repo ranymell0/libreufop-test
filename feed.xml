@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Mon, 06 Jul 2026 14:25:38 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 17:43:35 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -98,10 +98,18 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1079415/</link>
+      <description></description>
+      <pubDate>Mon, 06 Jul 2026 17:43:35 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1079415/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
       <title>[LWN] Linux Storage, Filesystem, Memory Management, and BPF Summit</title>
       <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
       <description></description>
-      <pubDate>Mon, 06 Jul 2026 14:25:38 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 17:43:35 -0000</pubDate>
       <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -109,7 +117,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1079407/</link>
       <description></description>
-      <pubDate>Mon, 06 Jul 2026 14:25:38 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 17:43:35 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1079407/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -117,7 +125,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1080162/</link>
       <description></description>
-      <pubDate>Mon, 06 Jul 2026 14:25:38 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 17:43:35 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1080162/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,23 +133,15 @@
       <title>[LWN] local BPF storage API</title>
       <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
       <description></description>
-      <pubDate>Mon, 06 Jul 2026 14:25:38 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 17:43:35 -0000</pubDate>
       <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1078968/</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 14:25:38 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1078968/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
     <item>
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Mon, 06 Jul 2026 14:25:34 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 17:43:32 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
       <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
       <description></description>
-      <pubDate>Mon, 06 Jul 2026 14:25:34 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 17:43:32 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
       <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
       <description></description>
-      <pubDate>Mon, 06 Jul 2026 14:25:34 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 17:43:32 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
       <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
       <description></description>
-      <pubDate>Mon, 06 Jul 2026 14:25:34 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 17:43:32 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -173,15 +173,39 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
       <description></description>
-      <pubDate>Mon, 06 Jul 2026 14:25:34 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 17:43:32 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Crise faz Intel e AMD resgatarem chips antigos de até sete anos atrás</title>
+      <link>https://www.vivaolinux.com.br/noticia/crise-faz-intel-e-amd-resgatarem-chips-antigos-de-ate-sete-anos-atras/</link>
+      <description></description>
+      <pubDate>Mon, 06 Jul 2026 17:43:31 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/crise-faz-intel-e-amd-resgatarem-chips-antigos-de-ate-sete-anos-atras/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Fabricante do iPhone, Foxconn dispara quase 40% em receita com I.A. e reforça força da cadeia da Apple</title>
+      <link>https://www.vivaolinux.com.br/noticia/fabricante-do-iphone-foxconn-dispara-quase-40-em-receita-com-i-a-e-reforca-forca-da-cadeia-da-apple/</link>
+      <description></description>
+      <pubDate>Mon, 06 Jul 2026 17:43:31 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/fabricante-do-iphone-foxconn-dispara-quase-40-em-receita-com-i-a-e-reforca-forca-da-cadeia-da-apple/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Espera-se que o Kernel Linux 7.3 &quot;achate a trajetória&quot; para melhor gerenciamento de tarefas durante jogos e muito mais</title>
+      <link>https://www.vivaolinux.com.br/noticia/espera-se-que-o-linux-7-3-achate-a-trajetoria-para-melhor-gerenciamento-de-tarefas-durante-jogos-e-muito-mais/</link>
+      <description></description>
+      <pubDate>Mon, 06 Jul 2026 17:43:31 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/espera-se-que-o-linux-7-3-achate-a-trajetoria-para-melhor-gerenciamento-de-tarefas-durante-jogos-e-muito-mais/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Viva o Linux] Ganhos de desempenho do D7VK desde sua criação para versões mais antigas do Direct3D no Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/ganhos-de-desempenho-do-d7vk-desde-sua-criacao-para-versoes-mais-antigas-do-direct3d-no-linux/</link>
       <description></description>
-      <pubDate>Mon, 06 Jul 2026 14:25:33 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 17:43:31 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ganhos-de-desempenho-do-d7vk-desde-sua-criacao-para-versoes-mais-antigas-do-direct3d-no-linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -189,32 +213,8 @@
       <title>[Viva o Linux] O driver para laptops Uniwill está preparando uma série de recursos para o Linux 7.3</title>
       <link>https://www.vivaolinux.com.br/noticia/o-driver-para-laptops-uniwill-esta-preparando-uma-serie-de-recursos-para-o-linux-7-3/</link>
       <description></description>
-      <pubDate>Mon, 06 Jul 2026 14:25:33 -0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 17:43:31 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/o-driver-para-laptops-uniwill-esta-preparando-uma-serie-de-recursos-para-o-linux-7-3/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] O driver Intel i915 está quase pronto para funcionar bem com o kernel Linux RT, embora sem suporte para vídeo</title>
-      <link>https://www.vivaolinux.com.br/noticia/o-driver-intel-i915-esta-quase-pronto-para-funcionar-bem-com-o-kernel-linux-rt-embora-sem-suporte-para-video/</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 14:25:33 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/o-driver-intel-i915-esta-quase-pronto-para-funcionar-bem-com-o-kernel-linux-rt-embora-sem-suporte-para-video/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] O novo KVM da Sipeed quer que agentes de IA vejam e controlem sua tela</title>
-      <link>https://www.vivaolinux.com.br/noticia/o-novo-kvm-da-sipeed-quer-que-agentes-de-ia-vejam-e-controlem-sua-tela/</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 14:25:33 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/o-novo-kvm-da-sipeed-quer-que-agentes-de-ia-vejam-e-controlem-sua-tela/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Toy Story 2 e o comando Unix que quase apagou tudo: a lição prática sobre rm -r -f e backups</title>
-      <link>https://www.vivaolinux.com.br/dica/Toy-Story-2-e-o-comando-Unix-que-quase-apagou-tudo-a-licao-pratica-sobre-rm-r-f-e-backups/</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 14:25:33 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Toy-Story-2-e-o-comando-Unix-que-quase-apagou-tudo-a-licao-pratica-sobre-rm-r-f-e-backups/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
   </channel>
