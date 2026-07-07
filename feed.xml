@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Mon, 06 Jul 2026 23:07:53 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 03:22:52 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -40,6 +40,126 @@
       <pubDate>Wed, 17 May 2023 22:00:24 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.pt.html</guid>
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1079415/</link>
+      <description></description>
+      <pubDate>Tue, 07 Jul 2026 03:22:52 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1079415/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Linux Storage, Filesystem, Memory Management, and BPF Summit</title>
+      <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
+      <description></description>
+      <pubDate>Tue, 07 Jul 2026 03:22:52 -0000</pubDate>
+      <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1079407/</link>
+      <description></description>
+      <pubDate>Tue, 07 Jul 2026 03:22:52 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1079407/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1080162/</link>
+      <description></description>
+      <pubDate>Tue, 07 Jul 2026 03:22:52 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1080162/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] local BPF storage API</title>
+      <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
+      <description></description>
+      <pubDate>Tue, 07 Jul 2026 03:22:52 -0000</pubDate>
+      <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Measuring OSPO Value</title>
+      <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
+      <description></description>
+      <pubDate>Tue, 07 Jul 2026 03:22:47 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
+      <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
+      <description></description>
+      <pubDate>Tue, 07 Jul 2026 03:22:47 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
+      <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
+      <description></description>
+      <pubDate>Tue, 07 Jul 2026 03:22:47 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
+      <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
+      <description></description>
+      <pubDate>Tue, 07 Jul 2026 03:22:47 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
+      <description></description>
+      <pubDate>Tue, 07 Jul 2026 03:22:47 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Organizando o arquivo world do Gentoo em Ordem Alfabética</title>
+      <link>https://www.vivaolinux.com.br/dica/Organizando-o-arquivo-world-do-Gentoo-em-Ordem-Alfabetica/</link>
+      <description></description>
+      <pubDate>Tue, 07 Jul 2026 03:22:46 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Organizando-o-arquivo-world-do-Gentoo-em-Ordem-Alfabetica/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] GNU/Linux ou apenas Linux? Entre a precisão técnica e o uso cotidiano</title>
+      <link>https://www.vivaolinux.com.br/artigo/GNULinux-ou-apenas-Linux-Entre-a-precisao-tecnica-e-o-uso-cotidiano/</link>
+      <description></description>
+      <pubDate>Tue, 07 Jul 2026 03:22:46 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/GNULinux-ou-apenas-Linux-Entre-a-precisao-tecnica-e-o-uso-cotidiano/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] FreeRDP 3.28 lançado com correções de segurança e cliente iOS renovado</title>
+      <link>https://www.vivaolinux.com.br/noticia/freerdp-3-28-lancado-com-correcoes-de-seguranca-e-cliente-ios-renovado/</link>
+      <description></description>
+      <pubDate>Tue, 07 Jul 2026 03:22:46 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/freerdp-3-28-lancado-com-correcoes-de-seguranca-e-cliente-ios-renovado/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Kdenlive 26.04.3 lançado como a atualização de manutenção final da série</title>
+      <link>https://www.vivaolinux.com.br/noticia/kdenlive-26-04-3-lancado-como-a-atualizacao-de-manutencao-final-da-serie/</link>
+      <description></description>
+      <pubDate>Tue, 07 Jul 2026 03:22:46 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kdenlive-26-04-3-lancado-como-a-atualizacao-de-manutencao-final-da-serie/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] postmarketOS traz o Plasma 6.7 e ferramentas USB baseadas em Rust para celulares Linux</title>
+      <link>https://www.vivaolinux.com.br/noticia/postmarketos-traz-o-plasma-6-7-e-ferramentas-usb-baseadas-em-rust-para-celulares-linux/</link>
+      <description></description>
+      <pubDate>Tue, 07 Jul 2026 03:22:46 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/postmarketos-traz-o-plasma-6-7-e-ferramentas-usb-baseadas-em-rust-para-celulares-linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Today] Pangolin Reverse Proxy Moves to Dual Licensing With New Enterprise Edition</title>
@@ -96,126 +216,6 @@
       <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1079415/</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 23:07:53 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1079415/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Linux Storage, Filesystem, Memory Management, and BPF Summit</title>
-      <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 23:07:53 -0000</pubDate>
-      <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1079407/</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 23:07:53 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1079407/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1080162/</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 23:07:53 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1080162/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] local BPF storage API</title>
-      <link>https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 23:07:53 -0000</pubDate>
-      <guid isPermaLink="false">https://docs.ebpf.io/linux/helper-function/bpf_get_local_storage/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] GNU/Linux ou apenas Linux? Entre a precisão técnica e o uso cotidiano</title>
-      <link>https://www.vivaolinux.com.br/artigo/GNULinux-ou-apenas-Linux-Entre-a-precisao-tecnica-e-o-uso-cotidiano/</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 23:07:50 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/GNULinux-ou-apenas-Linux-Entre-a-precisao-tecnica-e-o-uso-cotidiano/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] FreeRDP 3.28 lançado com correções de segurança e cliente iOS renovado</title>
-      <link>https://www.vivaolinux.com.br/noticia/freerdp-3-28-lancado-com-correcoes-de-seguranca-e-cliente-ios-renovado/</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 23:07:50 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/freerdp-3-28-lancado-com-correcoes-de-seguranca-e-cliente-ios-renovado/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Kdenlive 26.04.3 lançado como a atualização de manutenção final da série</title>
-      <link>https://www.vivaolinux.com.br/noticia/kdenlive-26-04-3-lancado-como-a-atualizacao-de-manutencao-final-da-serie/</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 23:07:50 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kdenlive-26-04-3-lancado-como-a-atualizacao-de-manutencao-final-da-serie/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] postmarketOS traz o Plasma 6.7 e ferramentas USB baseadas em Rust para celulares Linux</title>
-      <link>https://www.vivaolinux.com.br/noticia/postmarketos-traz-o-plasma-6-7-e-ferramentas-usb-baseadas-em-rust-para-celulares-linux/</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 23:07:50 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/postmarketos-traz-o-plasma-6-7-e-ferramentas-usb-baseadas-em-rust-para-celulares-linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Mais um estado alemão troca a Microsoft por uma solução de código aberto &quot;nascida na UE&quot;</title>
-      <link>https://www.vivaolinux.com.br/noticia/mais-um-estado-alemao-troca-a-microsoft-por-uma-solucao-de-codigo-aberto-nascida-na-ue/</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 23:07:50 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/mais-um-estado-alemao-troca-a-microsoft-por-uma-solucao-de-codigo-aberto-nascida-na-ue/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Measuring OSPO Value</title>
-      <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 23:07:50 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
-      <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 23:07:50 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
-      <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 23:07:50 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
-      <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 23:07:50 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: June 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</link>
-      <description></description>
-      <pubDate>Mon, 06 Jul 2026 23:07:50 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-june-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
   </channel>
 </rss>
