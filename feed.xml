@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Tue, 07 Jul 2026 16:31:30 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 19:02:30 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -45,7 +45,7 @@
       <title>[LWN] work</title>
       <link>https://lwn.net/ml/all/20260417231203.785172-1-puranjay@kernel.org/</link>
       <description></description>
-      <pubDate>Tue, 07 Jul 2026 16:31:30 -0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 19:02:30 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/ml/all/20260417231203.785172-1-puranjay@kernel.org/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -53,7 +53,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1081009/</link>
       <description></description>
-      <pubDate>Tue, 07 Jul 2026 16:31:30 -0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 19:02:30 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1081009/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -61,7 +61,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1079415/</link>
       <description></description>
-      <pubDate>Tue, 07 Jul 2026 16:31:30 -0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 19:02:30 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1079415/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -69,7 +69,7 @@
       <title>[LWN] Linux Storage, Filesystem, Memory Management, and BPF Summit</title>
       <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
       <description></description>
-      <pubDate>Tue, 07 Jul 2026 16:31:30 -0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 19:02:30 -0000</pubDate>
       <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,7 +77,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1079407/</link>
       <description></description>
-      <pubDate>Tue, 07 Jul 2026 16:31:30 -0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 19:02:30 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1079407/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -85,7 +85,7 @@
       <title>[Viva o Linux] Instalação simples de Gentoo em desktop amd64, com KDE Plasma, OpenRC, UEFI e Ext4</title>
       <link>https://www.vivaolinux.com.br/artigo/Instalacao-simples-de-Gentoo-em-desktop-amd64-com-KDE-Plasma-OpenRC-UEFI-e-Ext4/</link>
       <description></description>
-      <pubDate>Tue, 07 Jul 2026 16:31:26 -0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 19:02:25 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Instalacao-simples-de-Gentoo-em-desktop-amd64-com-KDE-Plasma-OpenRC-UEFI-e-Ext4/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -93,7 +93,7 @@
       <title>[Viva o Linux] Axiomtek mostra placa Thin Mini-ITX MANO330 com Intel N97/N150 e foco em usos embarcados</title>
       <link>https://www.vivaolinux.com.br/noticia/axiomtek-mostra-placa-thin-mini-itx-mano330-com-intel-n97-n150-e-foco-em-usos-embarcados/</link>
       <description></description>
-      <pubDate>Tue, 07 Jul 2026 16:31:26 -0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 19:02:25 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/axiomtek-mostra-placa-thin-mini-itx-mano330-com-intel-n97-n150-e-foco-em-usos-embarcados/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -101,7 +101,7 @@
       <title>[Viva o Linux] Organizando o arquivo world do Gentoo em Ordem Alfabética</title>
       <link>https://www.vivaolinux.com.br/dica/Organizando-o-arquivo-world-do-Gentoo-em-Ordem-Alfabetica/</link>
       <description></description>
-      <pubDate>Tue, 07 Jul 2026 16:31:26 -0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 19:02:25 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Organizando-o-arquivo-world-do-Gentoo-em-Ordem-Alfabetica/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -109,7 +109,7 @@
       <title>[Viva o Linux] GNU/Linux ou apenas Linux? Entre a precisão técnica e o uso cotidiano</title>
       <link>https://www.vivaolinux.com.br/artigo/GNULinux-ou-apenas-Linux-Entre-a-precisao-tecnica-e-o-uso-cotidiano/</link>
       <description></description>
-      <pubDate>Tue, 07 Jul 2026 16:31:26 -0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 19:02:25 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/GNULinux-ou-apenas-Linux-Entre-a-precisao-tecnica-e-o-uso-cotidiano/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -117,7 +117,7 @@
       <title>[Viva o Linux] FreeRDP 3.28 lançado com correções de segurança e cliente iOS renovado</title>
       <link>https://www.vivaolinux.com.br/noticia/freerdp-3-28-lancado-com-correcoes-de-seguranca-e-cliente-ios-renovado/</link>
       <description></description>
-      <pubDate>Tue, 07 Jul 2026 16:31:26 -0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 19:02:25 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/freerdp-3-28-lancado-com-correcoes-de-seguranca-e-cliente-ios-renovado/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[Linux Foundation] From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</link>
       <description></description>
-      <pubDate>Tue, 07 Jul 2026 16:31:26 -0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 19:02:25 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Tue, 07 Jul 2026 16:31:26 -0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 19:02:25 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -141,7 +141,7 @@
       <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
       <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
       <description></description>
-      <pubDate>Tue, 07 Jul 2026 16:31:26 -0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 19:02:25 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
       <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
       <description></description>
-      <pubDate>Tue, 07 Jul 2026 16:31:26 -0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 19:02:25 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
       <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
       <description></description>
-      <pubDate>Tue, 07 Jul 2026 16:31:26 -0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 19:02:25 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
