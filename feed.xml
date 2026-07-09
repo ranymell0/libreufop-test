@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 09 Jul 2026 00:09:32 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 04:53:05 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -77,7 +77,7 @@
       <title>[LWN] Linux Security Summit North America</title>
       <link>https://events.linuxfoundation.org/linux-security-summit-north-america/</link>
       <description></description>
-      <pubDate>Thu, 09 Jul 2026 00:09:32 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 04:53:05 -0000</pubDate>
       <guid isPermaLink="false">https://events.linuxfoundation.org/linux-security-summit-north-america/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -85,7 +85,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1077427/</link>
       <description></description>
-      <pubDate>Thu, 09 Jul 2026 00:09:32 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 04:53:05 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1077427/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -93,7 +93,7 @@
       <title>[LWN] work</title>
       <link>https://lwn.net/ml/all/20260417231203.785172-1-puranjay@kernel.org/</link>
       <description></description>
-      <pubDate>Thu, 09 Jul 2026 00:09:32 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 04:53:05 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/ml/all/20260417231203.785172-1-puranjay@kernel.org/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -101,7 +101,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1081009/</link>
       <description></description>
-      <pubDate>Thu, 09 Jul 2026 00:09:32 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 04:53:05 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1081009/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -109,7 +109,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1079415/</link>
       <description></description>
-      <pubDate>Thu, 09 Jul 2026 00:09:32 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 04:53:05 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1079415/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -117,7 +117,7 @@
       <title>[Linux Foundation] From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</link>
       <description></description>
-      <pubDate>Thu, 09 Jul 2026 00:09:27 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 04:53:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Thu, 09 Jul 2026 00:09:27 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 04:53:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
       <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
       <description></description>
-      <pubDate>Thu, 09 Jul 2026 00:09:27 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 04:53:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -141,7 +141,7 @@
       <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
       <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
       <description></description>
-      <pubDate>Thu, 09 Jul 2026 00:09:27 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 04:53:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -149,15 +149,31 @@
       <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
       <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
       <description></description>
-      <pubDate>Thu, 09 Jul 2026 00:09:27 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 04:53:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Gentoo: Compilação simplificada do gentoo-kernel</title>
+      <link>https://www.vivaolinux.com.br/artigo/Gentoo-Compilacao-simplificada-do-gentoo-kernel/</link>
+      <description></description>
+      <pubDate>Thu, 09 Jul 2026 04:52:59 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Gentoo-Compilacao-simplificada-do-gentoo-kernel/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] RPA Cognitivo com Ollama: Inteligência Artificial Local e Privada no Linux</title>
+      <link>https://www.vivaolinux.com.br/artigo/RPA-Cognitivo-com-Ollama-Inteligencia-Artificial-Local-e-Privada-no-Linux/</link>
+      <description></description>
+      <pubDate>Thu, 09 Jul 2026 04:52:59 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/RPA-Cognitivo-com-Ollama-Inteligencia-Artificial-Local-e-Privada-no-Linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Viva o Linux] Instalar o &apos;fetch&apos; (logo 3D animado) com o nome da máquina correto</title>
       <link>https://www.vivaolinux.com.br/dica/Instalar-o-fetch-logo-3D-animado-com-o-nome-da-maquina-correto/</link>
       <description></description>
-      <pubDate>Thu, 09 Jul 2026 00:09:26 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 04:52:59 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Instalar-o-fetch-logo-3D-animado-com-o-nome-da-maquina-correto/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -165,7 +181,7 @@
       <title>[Viva o Linux] KDE Plasma 6.6.6 chega como a última rodada de correções da série 6.6</title>
       <link>https://www.vivaolinux.com.br/noticia/kde-plasma-6-6-6-chega-como-a-ultima-rodada-de-correcoes-da-serie-6-6/</link>
       <description></description>
-      <pubDate>Thu, 09 Jul 2026 00:09:26 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 04:52:59 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kde-plasma-6-6-6-chega-como-a-ultima-rodada-de-correcoes-da-serie-6-6/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -173,24 +189,8 @@
       <title>[Viva o Linux] NVIDIA libera driver Linux 610.43.03 com correções genéricas no ramo R610</title>
       <link>https://www.vivaolinux.com.br/noticia/nvidia-libera-driver-linux-610-43-03-com-correcoes-genericas-no-ramo-r610/</link>
       <description></description>
-      <pubDate>Thu, 09 Jul 2026 00:09:26 -0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 04:52:59 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/nvidia-libera-driver-linux-610-43-03-com-correcoes-genericas-no-ramo-r610/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] TUXEDO OS vai trocar Ubuntu por Debian Testing como base</title>
-      <link>https://www.vivaolinux.com.br/noticia/tuxedo-os-vai-trocar-ubuntu-por-debian-testing-como-base/</link>
-      <description></description>
-      <pubDate>Thu, 09 Jul 2026 00:09:26 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/tuxedo-os-vai-trocar-ubuntu-por-debian-testing-como-base/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Desenvolvedor do LLVM no Linux Kernel volta ao Google e retoma trabalho com o suporte a Clang</title>
-      <link>https://www.vivaolinux.com.br/noticia/desenvolvedor-do-llvm-no-linux-kernel-volta-ao-google-e-retoma-trabalho-com-o-suporte-a-clang/</link>
-      <description></description>
-      <pubDate>Thu, 09 Jul 2026 00:09:26 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/desenvolvedor-do-llvm-no-linux-kernel-volta-ao-google-e-retoma-trabalho-com-o-suporte-a-clang/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
