@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Fri, 10 Jul 2026 10:53:41 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 13:11:26 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -55,22 +55,6 @@
       <description>Quase dois terços dos profissionais usam ferramentas de IA proibidas. Mesmo depois de levarem advertência. Saudações. A empresa aprovou a IA corporativa, fez treinamento, criou a política de uso aceitável, The post Shadow AI: sua empresa já vazou. Só não sabe ainda appeared first on Blog 4Linux .</description>
       <pubDate>Thu, 25 Jun 2026 19:44:22 -0000</pubDate>
       <guid isPermaLink="false">https://blog.4linux.com.br/?p=13624</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[4Linux] Uma palestra de um economista de Stanford que vale a pena também pelas perguntas no final</title>
-      <link>https://blog.4linux.com.br/ia-para-maiores-uma-palestra-de-um-economista-de-stanford-que-vale-a-pena-tambem-pelas-perguntas-no-final/</link>
-      <description>Poucos são os economistas que fizeram estudos sobre IA. Muitos fizeram estudos econômicos sobre a COVID. Aprendi muito lendo os livros de prêmios Nobel de economia. Um que me marcou The post Uma palestra de um economista de Stanford que vale a pena também pelas perguntas no final appeared first on...</description>
-      <pubDate>Thu, 25 Jun 2026 19:33:58 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13619</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[4Linux] Lançamento: o novo curso da 4Linux leva você do zero ao seu primeiro modelo corporativo</title>
-      <link>https://blog.4linux.com.br/lancamento-o-novo-curso-da-4linux-leva-voce-do-zero-ao-seu-primeiro-modelo-corporativo/</link>
-      <description>Saudações pessoal! Tem uma pergunta que eu ouço com frequência cada vez maior em times de TI: &amp;#8220;Essa IAtoda funciona mesmo pra usar com dados corporativos?&amp;#8221; A resposta curta é The post Lançamento: o novo curso da 4Linux leva você do zero ao seu primeiro modelo corporativo appeared first...</description>
-      <pubDate>Thu, 18 Jun 2026 16:36:24 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13596</guid>
       <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
@@ -141,7 +125,7 @@
       <title>[LWN] Kitty</title>
       <link>https://sw.kovidgoyal.net/kitty/</link>
       <description></description>
-      <pubDate>Fri, 10 Jul 2026 10:53:41 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 13:11:26 -0000</pubDate>
       <guid isPermaLink="false">https://sw.kovidgoyal.net/kitty/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,7 +133,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1080821/</link>
       <description></description>
-      <pubDate>Fri, 10 Jul 2026 10:53:41 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 13:11:26 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1080821/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -157,7 +141,7 @@
       <title>[LWN] Linux Security Summit North America</title>
       <link>https://events.linuxfoundation.org/linux-security-summit-north-america/</link>
       <description></description>
-      <pubDate>Fri, 10 Jul 2026 10:53:41 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 13:11:26 -0000</pubDate>
       <guid isPermaLink="false">https://events.linuxfoundation.org/linux-security-summit-north-america/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -165,7 +149,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1077427/</link>
       <description></description>
-      <pubDate>Fri, 10 Jul 2026 10:53:41 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 13:11:26 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1077427/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -173,7 +157,7 @@
       <title>[LWN] work</title>
       <link>https://lwn.net/ml/all/20260417231203.785172-1-puranjay@kernel.org/</link>
       <description></description>
-      <pubDate>Fri, 10 Jul 2026 10:53:41 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 13:11:26 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/ml/all/20260417231203.785172-1-puranjay@kernel.org/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -181,7 +165,7 @@
       <title>[Linux Foundation] From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</link>
       <description></description>
-      <pubDate>Fri, 10 Jul 2026 10:53:37 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 13:11:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,7 +173,7 @@
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Fri, 10 Jul 2026 10:53:37 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 13:11:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -197,7 +181,7 @@
       <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
       <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
       <description></description>
-      <pubDate>Fri, 10 Jul 2026 10:53:37 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 13:11:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -205,7 +189,7 @@
       <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
       <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
       <description></description>
-      <pubDate>Fri, 10 Jul 2026 10:53:37 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 13:11:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -213,15 +197,23 @@
       <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
       <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
       <description></description>
-      <pubDate>Fri, 10 Jul 2026 10:53:37 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 13:11:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Linux consegue dar boot em um Atari Jaguar de 1993 com só 2 MB de RAM</title>
+      <link>https://www.vivaolinux.com.br/noticia/linux-consegue-dar-boot-em-um-atari-jaguar-de-1993-com-so-2-mb-de-ram/</link>
+      <description></description>
+      <pubDate>Fri, 10 Jul 2026 13:11:20 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-consegue-dar-boot-em-um-atari-jaguar-de-1993-com-so-2-mb-de-ram/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Viva o Linux] Linux Mint melhora Wayland, Cinnamon e reforça correção de segurança no mintupdate</title>
       <link>https://www.vivaolinux.com.br/dica/Linux-Mint-melhora-Wayland-Cinnamon-e-reforca-correcao-de-seguranca-no-mintupdate/</link>
       <description></description>
-      <pubDate>Fri, 10 Jul 2026 10:53:36 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 13:11:20 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Linux-Mint-melhora-Wayland-Cinnamon-e-reforca-correcao-de-seguranca-no-mintupdate/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -229,7 +221,7 @@
       <title>[Viva o Linux] Criando webapp com python e django</title>
       <link>https://www.vivaolinux.com.br/artigo/Criando-webapp-com-python-e-django/</link>
       <description></description>
-      <pubDate>Fri, 10 Jul 2026 10:53:36 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 13:11:20 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Criando-webapp-com-python-e-django/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -237,7 +229,7 @@
       <title>[Viva o Linux] Linux Mint prepara Cinnamon 6.8 com Wayland totalmente suportado</title>
       <link>https://www.vivaolinux.com.br/noticia/linux-mint-prepara-cinnamon-6-8-com-wayland-totalmente-suportado/</link>
       <description></description>
-      <pubDate>Fri, 10 Jul 2026 10:53:36 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 13:11:20 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-mint-prepara-cinnamon-6-8-com-wayland-totalmente-suportado/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -245,17 +237,25 @@
       <title>[Viva o Linux] Valve libera Proton 11.0-1 com mais jogos de Windows funcionando no Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/valve-libera-proton-11-0-1-com-mais-jogos-de-windows-funcionando-no-linux/</link>
       <description></description>
-      <pubDate>Fri, 10 Jul 2026 10:53:36 -0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 13:11:20 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/valve-libera-proton-11-0-1-com-mais-jogos-de-windows-funcionando-no-linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
-      <title>[Viva o Linux] AMD trabalha para remover chamadas BUG() do driver gráfico AMDGPU no Linux</title>
-      <link>https://www.vivaolinux.com.br/noticia/amd-trabalha-para-remover-chamadas-bug-do-driver-grafico-amdgpu-no-linux/</link>
-      <description></description>
-      <pubDate>Fri, 10 Jul 2026 10:53:36 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/amd-trabalha-para-remover-chamadas-bug-do-driver-grafico-amdgpu-no-linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+      <title>[4Linux] IA aumenta a produtividade, mas o mercado patina por falta de processo</title>
+      <link>https://blog.4linux.com.br/compartilhando-conhecimento-de-ia-ia-aumenta-a-produtividade-o-que-falta-e-planejamento-para-usar/</link>
+      <description>Tem uma discussão besta rolando na nossa área. De um lado, os emocionados: “IA vai substituir desenvolvedor, é o fim da profissão, vende tudo e vai plantar batata.” Do outro, The post IA aumenta a produtividade, mas o mercado patina por falta de processo appeared first on Blog 4Linux .</description>
+      <pubDate>Fri, 10 Jul 2026 12:01:38 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13663</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
+    <item>
+      <title>[4Linux] O paper que responde à pergunta que o professor Chad Jones deixou em aberto</title>
+      <link>https://blog.4linux.com.br/ia-para-maiores-o-paper-que-responde-a-pergunta-que-o-professor-chad-jones-nao-conseguiu-responder/</link>
+      <description>Sobre a mesa: 13% de queda no emprego para jovens entre 22 e 25 anos em ocupações expostas à IA. Nas outras faixas etárias, quase nada. Se você acompanhou a The post O paper que responde à pergunta que o professor Chad Jones deixou em aberto appeared first on Blog 4Linux .</description>
+      <pubDate>Fri, 10 Jul 2026 11:53:58 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13658</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
   </channel>
 </rss>
