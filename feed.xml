@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Mon, 13 Jul 2026 10:26:34 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 13:23:28 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -125,7 +125,7 @@
       <title>[LWN] Fighting the AI scraper bot scourge</title>
       <link>https://lwn.net/Articles/1008897/</link>
       <description></description>
-      <pubDate>Mon, 13 Jul 2026 10:26:34 -0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 13:23:28 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1008897/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1080822/</link>
       <description></description>
-      <pubDate>Mon, 13 Jul 2026 10:26:34 -0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 13:23:28 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1080822/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,7 +141,7 @@
       <title>[LWN] QBE</title>
       <link>https://c9x.me/compile/</link>
       <description></description>
-      <pubDate>Mon, 13 Jul 2026 10:26:34 -0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 13:23:28 -0000</pubDate>
       <guid isPermaLink="false">https://c9x.me/compile/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1080519/</link>
       <description></description>
-      <pubDate>Mon, 13 Jul 2026 10:26:34 -0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 13:23:28 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1080519/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[LWN] Kitty</title>
       <link>https://sw.kovidgoyal.net/kitty/</link>
       <description></description>
-      <pubDate>Mon, 13 Jul 2026 10:26:34 -0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 13:23:28 -0000</pubDate>
       <guid isPermaLink="false">https://sw.kovidgoyal.net/kitty/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[Linux Foundation] From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</link>
       <description></description>
-      <pubDate>Mon, 13 Jul 2026 10:26:28 -0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 13:23:22 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -173,7 +173,7 @@
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Mon, 13 Jul 2026 10:26:28 -0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 13:23:22 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -181,7 +181,7 @@
       <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
       <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
       <description></description>
-      <pubDate>Mon, 13 Jul 2026 10:26:28 -0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 13:23:22 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,7 +189,7 @@
       <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
       <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
       <description></description>
-      <pubDate>Mon, 13 Jul 2026 10:26:28 -0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 13:23:22 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -197,7 +197,7 @@
       <title>[Linux Foundation] The CRA Readiness Reality: What Changed (and What Didn’t) Between 2025 and 2026?</title>
       <link>https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</link>
       <description></description>
-      <pubDate>Mon, 13 Jul 2026 10:26:28 -0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 13:23:22 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-cra-readiness-reality-what-changed-and-what-didnt-between-2025-and-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -205,7 +205,7 @@
       <title>[Viva o Linux] Fastfetch 2.66 melhora detecção de GPUs AMD e reforça suporte a várias distros</title>
       <link>https://www.vivaolinux.com.br/noticia/fastfetch-2-66-melhora-deteccao-de-gpus-amd-e-reforca-suporte-a-varias-distros/</link>
       <description></description>
-      <pubDate>Mon, 13 Jul 2026 10:26:27 -0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 13:23:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/fastfetch-2-66-melhora-deteccao-de-gpus-amd-e-reforca-suporte-a-varias-distros/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -213,7 +213,7 @@
       <title>[Viva o Linux] Debian 13.6 chega com correções de segurança, ajustes de manutenção e reversão do geoip-database</title>
       <link>https://www.vivaolinux.com.br/noticia/debian-13-6-chega-com-correcoes-de-seguranca-ajustes-de-manutencao-e-reversao-do-geoip-database/</link>
       <description></description>
-      <pubDate>Mon, 13 Jul 2026 10:26:27 -0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 13:23:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/debian-13-6-chega-com-correcoes-de-seguranca-ajustes-de-manutencao-e-reversao-do-geoip-database/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -221,7 +221,7 @@
       <title>[Viva o Linux] KDE prepara gravação de áudio no Spectacle e melhora ferramentas do Plasma</title>
       <link>https://www.vivaolinux.com.br/noticia/kde-prepara-gravacao-de-audio-no-spectacle-e-melhora-ferramentas-do-plasma/</link>
       <description></description>
-      <pubDate>Mon, 13 Jul 2026 10:26:27 -0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 13:23:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kde-prepara-gravacao-de-audio-no-spectacle-e-melhora-ferramentas-do-plasma/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -229,7 +229,7 @@
       <title>[Viva o Linux] Gentoo: como congelar versões de pacotes pesados para agilizar atualizações de rotina</title>
       <link>https://www.vivaolinux.com.br/dica/Gentoo-como-congelar-versoes-de-pacotes-pesados-para-agilizar-atualizacoes-de-rotina/</link>
       <description></description>
-      <pubDate>Mon, 13 Jul 2026 10:26:27 -0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 13:23:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Gentoo-como-congelar-versoes-de-pacotes-pesados-para-agilizar-atualizacoes-de-rotina/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -237,7 +237,7 @@
       <title>[Viva o Linux] Deepin 25.2 melhora busca em arquivos, múltiplos monitores e pacotes de segurança</title>
       <link>https://www.vivaolinux.com.br/dica/Deepin-252-melhora-busca-em-arquivos-multiplos-monitores-e-pacotes-de-seguranca/</link>
       <description></description>
-      <pubDate>Mon, 13 Jul 2026 10:26:27 -0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 13:23:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Deepin-252-melhora-busca-em-arquivos-multiplos-monitores-e-pacotes-de-seguranca/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
