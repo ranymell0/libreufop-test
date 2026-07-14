@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Tue, 14 Jul 2026 06:10:55 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 09:04:17 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -53,7 +53,7 @@
       <title>[LWN] Linux Storage, Filesystem, Memory-Management, and BPF Summit</title>
       <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
       <description></description>
-      <pubDate>Tue, 14 Jul 2026 06:10:55 -0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 09:04:17 -0000</pubDate>
       <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -61,7 +61,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1081546/</link>
       <description></description>
-      <pubDate>Tue, 14 Jul 2026 06:10:55 -0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 09:04:17 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1081546/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -69,7 +69,7 @@
       <title>[LWN] Fighting the AI scraper bot scourge</title>
       <link>https://lwn.net/Articles/1008897/</link>
       <description></description>
-      <pubDate>Tue, 14 Jul 2026 06:10:55 -0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 09:04:17 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1008897/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,7 +77,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1080822/</link>
       <description></description>
-      <pubDate>Tue, 14 Jul 2026 06:10:55 -0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 09:04:17 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1080822/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -85,7 +85,7 @@
       <title>[LWN] QBE</title>
       <link>https://c9x.me/compile/</link>
       <description></description>
-      <pubDate>Tue, 14 Jul 2026 06:10:55 -0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 09:04:17 -0000</pubDate>
       <guid isPermaLink="false">https://c9x.me/compile/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -93,7 +93,7 @@
       <title>[Linux Foundation] From Campus to Community Part Two: The Researcher Exodus</title>
       <link>https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</link>
       <description></description>
-      <pubDate>Tue, 14 Jul 2026 06:10:50 -0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 09:04:13 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -101,7 +101,7 @@
       <title>[Linux Foundation] From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</link>
       <description></description>
-      <pubDate>Tue, 14 Jul 2026 06:10:50 -0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 09:04:13 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -109,7 +109,7 @@
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Tue, 14 Jul 2026 06:10:50 -0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 09:04:13 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -117,7 +117,7 @@
       <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
       <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
       <description></description>
-      <pubDate>Tue, 14 Jul 2026 06:10:50 -0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 09:04:13 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[Linux Foundation] Who will be the senior engineers of 2036?</title>
       <link>https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</link>
       <description></description>
-      <pubDate>Tue, 14 Jul 2026 06:10:50 -0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 09:04:13 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/who-will-be-the-senior-engineers-of-2036</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[Viva o Linux] GNOME OS pode ganhar um “TestFlight” para testar software experimental</title>
       <link>https://www.vivaolinux.com.br/noticia/gnome-os-pode-ganhar-um-testflight-para-testar-software-experimental/</link>
       <description></description>
-      <pubDate>Tue, 14 Jul 2026 06:10:49 -0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 09:04:12 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/gnome-os-pode-ganhar-um-testflight-para-testar-software-experimental/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -141,7 +141,7 @@
       <title>[Viva o Linux] FBI e gigantes da tecnologia desmantelam infraestrutura do serviço de proxy NetNut</title>
       <link>https://www.vivaolinux.com.br/noticia/fbi-e-gigantes-da-tecnologia-desmantelam-infraestrutura-do-servico-de-proxy-netnut/</link>
       <description></description>
-      <pubDate>Tue, 14 Jul 2026 06:10:49 -0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 09:04:12 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/fbi-e-gigantes-da-tecnologia-desmantelam-infraestrutura-do-servico-de-proxy-netnut/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[Viva o Linux] Linux 7.2-rc3 chega para testes com ajustes em drivers, RISC-V e correções para IA</title>
       <link>https://www.vivaolinux.com.br/noticia/linux-7-2-rc3-chega-para-testes-com-ajustes-em-drivers-risc-v-e-correcoes-para-ia/</link>
       <description></description>
-      <pubDate>Tue, 14 Jul 2026 06:10:49 -0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 09:04:12 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-7-2-rc3-chega-para-testes-com-ajustes-em-drivers-risc-v-e-correcoes-para-ia/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[Viva o Linux] O macete para corrigir o Fontes de Aplicativos (mintsources) no LM 21.X mostrar os repositórios base do Ubuntu inacessíveis</title>
       <link>https://www.vivaolinux.com.br/dica/O-macete-para-corrigir-o-Fontes-de-Aplicativos-mintsources-no-LM-21X-mostrar-os-repositorios-base-do-Ubuntu-inacessiveis/</link>
       <description></description>
-      <pubDate>Tue, 14 Jul 2026 06:10:49 -0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 09:04:12 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/O-macete-para-corrigir-o-Fontes-de-Aplicativos-mintsources-no-LM-21X-mostrar-os-repositorios-base-do-Ubuntu-inacessiveis/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[Viva o Linux] Fastfetch 2.66 melhora detecção de GPUs AMD e reforça suporte a várias distros</title>
       <link>https://www.vivaolinux.com.br/noticia/fastfetch-2-66-melhora-deteccao-de-gpus-amd-e-reforca-suporte-a-varias-distros/</link>
       <description></description>
-      <pubDate>Tue, 14 Jul 2026 06:10:49 -0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 09:04:12 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/fastfetch-2-66-melhora-deteccao-de-gpus-amd-e-reforca-suporte-a-varias-distros/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
