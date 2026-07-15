@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Wed, 15 Jul 2026 18:07:40 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 20:08:30 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -45,7 +45,7 @@
       <title>[LWN] Linux Storage, Filesystem, Memory Management, and BPF Summit</title>
       <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
       <description></description>
-      <pubDate>Wed, 15 Jul 2026 18:07:40 -0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 20:08:30 -0000</pubDate>
       <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -53,7 +53,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1082342/</link>
       <description></description>
-      <pubDate>Wed, 15 Jul 2026 18:07:40 -0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 20:08:30 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1082342/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -61,7 +61,7 @@
       <title>[LWN] io_uring</title>
       <link>https://man7.org/linux/man-pages/man7/io_uring.7.html</link>
       <description></description>
-      <pubDate>Wed, 15 Jul 2026 18:07:40 -0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 20:08:30 -0000</pubDate>
       <guid isPermaLink="false">https://man7.org/linux/man-pages/man7/io_uring.7.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -69,7 +69,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1081871/</link>
       <description></description>
-      <pubDate>Wed, 15 Jul 2026 18:07:40 -0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 20:08:30 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1081871/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,55 +77,15 @@
       <title>[LWN] Tetragon</title>
       <link>https://tetragon.io/</link>
       <description></description>
-      <pubDate>Wed, 15 Jul 2026 18:07:40 -0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 20:08:30 -0000</pubDate>
       <guid isPermaLink="false">https://tetragon.io/</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] What Agentic AI Asks of Open Source Strategy: A New Layer for OSPOs</title>
-      <link>https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</link>
-      <description></description>
-      <pubDate>Wed, 15 Jul 2026 18:07:35 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] From Campus to Community Part Two: The Researcher Exodus</title>
-      <link>https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</link>
-      <description></description>
-      <pubDate>Wed, 15 Jul 2026 18:07:35 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation</title>
-      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</link>
-      <description></description>
-      <pubDate>Wed, 15 Jul 2026 18:07:35 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Measuring OSPO Value</title>
-      <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
-      <description></description>
-      <pubDate>Wed, 15 Jul 2026 18:07:35 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
-      <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
-      <description></description>
-      <pubDate>Wed, 15 Jul 2026 18:07:35 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[Viva o Linux] Clonezilla Live 3.3.3 ganha clonagem de rede com conexão reversa</title>
       <link>https://www.vivaolinux.com.br/dica/Clonezilla-Live-333-ganha-clonagem-de-rede-com-conexao-reversa/</link>
       <description></description>
-      <pubDate>Wed, 15 Jul 2026 18:07:33 -0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 20:08:24 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Clonezilla-Live-333-ganha-clonagem-de-rede-com-conexao-reversa/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -133,7 +93,7 @@
       <title>[Viva o Linux] Governo da França está realmente migrando o sistema de Windows para Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/governo-da-franca-esta-realmente-migrando-o-sistema-de-windows-para-linux/</link>
       <description></description>
-      <pubDate>Wed, 15 Jul 2026 18:07:33 -0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 20:08:24 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/governo-da-franca-esta-realmente-migrando-o-sistema-de-windows-para-linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -141,7 +101,7 @@
       <title>[Viva o Linux] COSMIC Desktop 1.3 chega com efeito “frosted glass”, melhorias em GPU e novos ajustes no painel</title>
       <link>https://www.vivaolinux.com.br/noticia/cosmic-desktop-1-3-chega-com-efeito-frosted-glass-melhorias-em-gpu-e-novos-ajustes-no-painel/</link>
       <description></description>
-      <pubDate>Wed, 15 Jul 2026 18:07:33 -0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 20:08:24 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/cosmic-desktop-1-3-chega-com-efeito-frosted-glass-melhorias-em-gpu-e-novos-ajustes-no-painel/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -149,7 +109,7 @@
       <title>[Viva o Linux] Linus Torvalds diz que o kernel Linux não é “anti-AI” e defende uso de IA como ferramenta</title>
       <link>https://www.vivaolinux.com.br/noticia/linus-torvalds-diz-que-o-kernel-linux-nao-e-anti-ai-e-defende-uso-de-ia-como-ferramenta/</link>
       <description></description>
-      <pubDate>Wed, 15 Jul 2026 18:07:33 -0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 20:08:24 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linus-torvalds-diz-que-o-kernel-linux-nao-e-anti-ai-e-defende-uso-de-ia-como-ferramenta/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -157,9 +117,49 @@
       <title>[Viva o Linux] Blender 5.2 LTS estreia com novo Fill Tool, modo Thin Wall e outras melhorias</title>
       <link>https://www.vivaolinux.com.br/noticia/blender-5-2-lts-estreia-com-novo-fill-tool-modo-thin-wall-e-outras-melhorias/</link>
       <description></description>
-      <pubDate>Wed, 15 Jul 2026 18:07:33 -0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 20:08:24 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/blender-5-2-lts-estreia-com-novo-fill-tool-modo-thin-wall-e-outras-melhorias/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] What Agentic AI Asks of Open Source Strategy: A New Layer for OSPOs</title>
+      <link>https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</link>
+      <description></description>
+      <pubDate>Wed, 15 Jul 2026 20:08:24 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] From Campus to Community Part Two: The Researcher Exodus</title>
+      <link>https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</link>
+      <description></description>
+      <pubDate>Wed, 15 Jul 2026 20:08:24 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation</title>
+      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</link>
+      <description></description>
+      <pubDate>Wed, 15 Jul 2026 20:08:24 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Measuring OSPO Value</title>
+      <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
+      <description></description>
+      <pubDate>Wed, 15 Jul 2026 20:08:24 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Strengthening LFX Mentoring: A Fairer Stipend Model and a Shared Standard of Excellence</title>
+      <link>https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</link>
+      <description></description>
+      <pubDate>Wed, 15 Jul 2026 20:08:24 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/strengthening-lfx-mentoring-a-fairer-stipend-model-and-a-shared-standard-of-excellence</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[4Linux] PostgreSQL e o Controle de Concorrência por Multiversão (MVCC)</title>
