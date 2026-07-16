@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Wed, 15 Jul 2026 23:58:12 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 03:25:53 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -42,126 +42,6 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
-      <title>[LWN] Linux Storage, Filesystem, Memory Management, and BPF Summit</title>
-      <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
-      <description></description>
-      <pubDate>Wed, 15 Jul 2026 23:58:12 -0000</pubDate>
-      <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1082342/</link>
-      <description></description>
-      <pubDate>Wed, 15 Jul 2026 23:58:12 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1082342/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] io_uring</title>
-      <link>https://man7.org/linux/man-pages/man7/io_uring.7.html</link>
-      <description></description>
-      <pubDate>Wed, 15 Jul 2026 23:58:12 -0000</pubDate>
-      <guid isPermaLink="false">https://man7.org/linux/man-pages/man7/io_uring.7.html</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1081871/</link>
-      <description></description>
-      <pubDate>Wed, 15 Jul 2026 23:58:12 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1081871/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Tetragon</title>
-      <link>https://tetragon.io/</link>
-      <description></description>
-      <pubDate>Wed, 15 Jul 2026 23:58:12 -0000</pubDate>
-      <guid isPermaLink="false">https://tetragon.io/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: July 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</link>
-      <description></description>
-      <pubDate>Wed, 15 Jul 2026 23:58:08 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] What Agentic AI Asks of Open Source Strategy: A New Layer for OSPOs</title>
-      <link>https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</link>
-      <description></description>
-      <pubDate>Wed, 15 Jul 2026 23:58:08 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] From Campus to Community Part Two: The Researcher Exodus</title>
-      <link>https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</link>
-      <description></description>
-      <pubDate>Wed, 15 Jul 2026 23:58:08 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation</title>
-      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</link>
-      <description></description>
-      <pubDate>Wed, 15 Jul 2026 23:58:08 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Measuring OSPO Value</title>
-      <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
-      <description></description>
-      <pubDate>Wed, 15 Jul 2026 23:58:08 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] PA de Comunicação: Automatizando a Extração de Dados de E-mails com Python e IMAP</title>
-      <link>https://www.vivaolinux.com.br/dica/PA-de-Comunicacao-Automatizando-a-Extracao-de-Dados-de-E-mails-com-Python-e-IMAP/</link>
-      <description></description>
-      <pubDate>Wed, 15 Jul 2026 23:58:07 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/PA-de-Comunicacao-Automatizando-a-Extracao-de-Dados-de-E-mails-com-Python-e-IMAP/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Limpeza Profunda e Liberação de Espaço no Gentoo Linux</title>
-      <link>https://www.vivaolinux.com.br/dica/Limpeza-Profunda-e-Liberacao-de-Espaco-no-Gentoo-Linux/</link>
-      <description></description>
-      <pubDate>Wed, 15 Jul 2026 23:58:07 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Limpeza-Profunda-e-Liberacao-de-Espaco-no-Gentoo-Linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Clonezilla Live 3.3.3 ganha clonagem de rede com conexão reversa</title>
-      <link>https://www.vivaolinux.com.br/dica/Clonezilla-Live-333-ganha-clonagem-de-rede-com-conexao-reversa/</link>
-      <description></description>
-      <pubDate>Wed, 15 Jul 2026 23:58:07 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Clonezilla-Live-333-ganha-clonagem-de-rede-com-conexao-reversa/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Governo da França está realmente migrando o sistema de Windows para Linux</title>
-      <link>https://www.vivaolinux.com.br/noticia/governo-da-franca-esta-realmente-migrando-o-sistema-de-windows-para-linux/</link>
-      <description></description>
-      <pubDate>Wed, 15 Jul 2026 23:58:07 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/governo-da-franca-esta-realmente-migrando-o-sistema-de-windows-para-linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] COSMIC Desktop 1.3 chega com efeito “frosted glass”, melhorias em GPU e novos ajustes no painel</title>
-      <link>https://www.vivaolinux.com.br/noticia/cosmic-desktop-1-3-chega-com-efeito-frosted-glass-melhorias-em-gpu-e-novos-ajustes-no-painel/</link>
-      <description></description>
-      <pubDate>Wed, 15 Jul 2026 23:58:07 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/cosmic-desktop-1-3-chega-com-efeito-frosted-glass-melhorias-em-gpu-e-novos-ajustes-no-painel/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
       <title>[4Linux] PostgreSQL e o Controle de Concorrência por Multiversão (MVCC)</title>
       <link>https://blog.4linux.com.br/postgresql-e-o-controle-de-concorrencia-por-multiversao-mvcc/</link>
       <description>A arquitetura de concorrência de banco de dados é um dos pilares para garantir consistência, desempenho e escalabilidade. No PostgreSQL, o mecanismo responsável por isso é o chamado Multiversion Concurrency Control (MVCC) — “Controle de Concorrência por Multiversão”. Em linhas gerais, ele permite...</description>
@@ -176,6 +56,126 @@
       <pubDate>Wed, 08 Jul 2026 13:31:27 -0000</pubDate>
       <guid isPermaLink="false">https://blog.4linux.com.br/?p=13101</guid>
       <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
+    <item>
+      <title>[LWN] Linux Storage, Filesystem, Memory Management, and BPF Summit</title>
+      <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
+      <description></description>
+      <pubDate>Thu, 16 Jul 2026 03:25:53 -0000</pubDate>
+      <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1082342/</link>
+      <description></description>
+      <pubDate>Thu, 16 Jul 2026 03:25:53 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1082342/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] io_uring</title>
+      <link>https://man7.org/linux/man-pages/man7/io_uring.7.html</link>
+      <description></description>
+      <pubDate>Thu, 16 Jul 2026 03:25:53 -0000</pubDate>
+      <guid isPermaLink="false">https://man7.org/linux/man-pages/man7/io_uring.7.html</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1081871/</link>
+      <description></description>
+      <pubDate>Thu, 16 Jul 2026 03:25:53 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1081871/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Tetragon</title>
+      <link>https://tetragon.io/</link>
+      <description></description>
+      <pubDate>Thu, 16 Jul 2026 03:25:53 -0000</pubDate>
+      <guid isPermaLink="false">https://tetragon.io/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Linux Foundation Newsletter: July 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</link>
+      <description></description>
+      <pubDate>Thu, 16 Jul 2026 03:25:48 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] What Agentic AI Asks of Open Source Strategy: A New Layer for OSPOs</title>
+      <link>https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</link>
+      <description></description>
+      <pubDate>Thu, 16 Jul 2026 03:25:48 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] From Campus to Community Part Two: The Researcher Exodus</title>
+      <link>https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</link>
+      <description></description>
+      <pubDate>Thu, 16 Jul 2026 03:25:48 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation</title>
+      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</link>
+      <description></description>
+      <pubDate>Thu, 16 Jul 2026 03:25:48 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Measuring OSPO Value</title>
+      <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
+      <description></description>
+      <pubDate>Thu, 16 Jul 2026 03:25:48 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] PA de Comunicação: Automatizando a Extração de Dados de E-mails com Python e IMAP</title>
+      <link>https://www.vivaolinux.com.br/dica/PA-de-Comunicacao-Automatizando-a-Extracao-de-Dados-de-E-mails-com-Python-e-IMAP/</link>
+      <description></description>
+      <pubDate>Thu, 16 Jul 2026 03:25:47 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/PA-de-Comunicacao-Automatizando-a-Extracao-de-Dados-de-E-mails-com-Python-e-IMAP/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Limpeza Profunda e Liberação de Espaço no Gentoo Linux</title>
+      <link>https://www.vivaolinux.com.br/dica/Limpeza-Profunda-e-Liberacao-de-Espaco-no-Gentoo-Linux/</link>
+      <description></description>
+      <pubDate>Thu, 16 Jul 2026 03:25:47 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Limpeza-Profunda-e-Liberacao-de-Espaco-no-Gentoo-Linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Clonezilla Live 3.3.3 ganha clonagem de rede com conexão reversa</title>
+      <link>https://www.vivaolinux.com.br/dica/Clonezilla-Live-333-ganha-clonagem-de-rede-com-conexao-reversa/</link>
+      <description></description>
+      <pubDate>Thu, 16 Jul 2026 03:25:47 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Clonezilla-Live-333-ganha-clonagem-de-rede-com-conexao-reversa/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Governo da França está realmente migrando o sistema de Windows para Linux</title>
+      <link>https://www.vivaolinux.com.br/noticia/governo-da-franca-esta-realmente-migrando-o-sistema-de-windows-para-linux/</link>
+      <description></description>
+      <pubDate>Thu, 16 Jul 2026 03:25:47 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/governo-da-franca-esta-realmente-migrando-o-sistema-de-windows-para-linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] COSMIC Desktop 1.3 chega com efeito “frosted glass”, melhorias em GPU e novos ajustes no painel</title>
+      <link>https://www.vivaolinux.com.br/noticia/cosmic-desktop-1-3-chega-com-efeito-frosted-glass-melhorias-em-gpu-e-novos-ajustes-no-painel/</link>
+      <description></description>
+      <pubDate>Thu, 16 Jul 2026 03:25:47 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/cosmic-desktop-1-3-chega-com-efeito-frosted-glass-melhorias-em-gpu-e-novos-ajustes-no-painel/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Today] Pangolin Reverse Proxy Moves to Dual Licensing With New Enterprise Edition</title>
