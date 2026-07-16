@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 16 Jul 2026 15:38:31 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 17:15:41 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -61,7 +61,7 @@
       <title>[LWN] extensible scheduler class</title>
       <link>https://docs.kernel.org/scheduler/sched-ext.html</link>
       <description></description>
-      <pubDate>Thu, 16 Jul 2026 15:38:31 -0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 17:15:41 -0000</pubDate>
       <guid isPermaLink="false">https://docs.kernel.org/scheduler/sched-ext.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -69,7 +69,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1082717/</link>
       <description></description>
-      <pubDate>Thu, 16 Jul 2026 15:38:31 -0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 17:15:41 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1082717/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,7 +77,7 @@
       <title>[LWN] Linux Storage, Filesystem, Memory Management, and BPF Summit</title>
       <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
       <description></description>
-      <pubDate>Thu, 16 Jul 2026 15:38:31 -0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 17:15:41 -0000</pubDate>
       <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -85,7 +85,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1082342/</link>
       <description></description>
-      <pubDate>Thu, 16 Jul 2026 15:38:31 -0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 17:15:41 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1082342/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -93,7 +93,7 @@
       <title>[LWN] io_uring</title>
       <link>https://man7.org/linux/man-pages/man7/io_uring.7.html</link>
       <description></description>
-      <pubDate>Thu, 16 Jul 2026 15:38:31 -0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 17:15:41 -0000</pubDate>
       <guid isPermaLink="false">https://man7.org/linux/man-pages/man7/io_uring.7.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -101,7 +101,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: July 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</link>
       <description></description>
-      <pubDate>Thu, 16 Jul 2026 15:38:26 -0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 17:15:37 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -109,7 +109,7 @@
       <title>[Linux Foundation] What Agentic AI Asks of Open Source Strategy: A New Layer for OSPOs</title>
       <link>https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</link>
       <description></description>
-      <pubDate>Thu, 16 Jul 2026 15:38:26 -0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 17:15:37 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -117,7 +117,7 @@
       <title>[Linux Foundation] From Campus to Community Part Two: The Researcher Exodus</title>
       <link>https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</link>
       <description></description>
-      <pubDate>Thu, 16 Jul 2026 15:38:26 -0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 17:15:37 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[Linux Foundation] From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</link>
       <description></description>
-      <pubDate>Thu, 16 Jul 2026 15:38:26 -0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 17:15:37 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Thu, 16 Jul 2026 15:38:26 -0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 17:15:37 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -141,7 +141,7 @@
       <title>[Viva o Linux] Novo driver Linux melhora suporte a notebooks robustos da GETAC</title>
       <link>https://www.vivaolinux.com.br/noticia/novo-driver-linux-melhora-suporte-a-notebooks-robustos-da-getac/</link>
       <description></description>
-      <pubDate>Thu, 16 Jul 2026 15:38:25 -0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 17:15:36 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/novo-driver-linux-melhora-suporte-a-notebooks-robustos-da-getac/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[Viva o Linux] Computadores de bolso com Linux: 8 modelos para quem quer fugir do óbvio</title>
       <link>https://www.vivaolinux.com.br/noticia/computadores-de-bolso-com-linux-8-modelos-para-quem-quer-fugir-do-obvio/</link>
       <description></description>
-      <pubDate>Thu, 16 Jul 2026 15:38:25 -0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 17:15:36 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/computadores-de-bolso-com-linux-8-modelos-para-quem-quer-fugir-do-obvio/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[Viva o Linux] Estudante transforma TV Box apreendida em mini-PC com Debian para uso acadêmico</title>
       <link>https://www.vivaolinux.com.br/noticia/estudante-transforma-tv-box-apreendida-em-mini-pc-com-debian-para-uso-academico/</link>
       <description></description>
-      <pubDate>Thu, 16 Jul 2026 15:38:25 -0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 17:15:36 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/estudante-transforma-tv-box-apreendida-em-mini-pc-com-debian-para-uso-academico/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[Viva o Linux] Exército da Suíça abandona Microsoft em áreas sensíveis e adota suíte aberta europeia</title>
       <link>https://www.vivaolinux.com.br/noticia/exercito-da-suica-abandona-microsoft-em-areas-sensiveis-e-adota-suite-aberta-europeia/</link>
       <description></description>
-      <pubDate>Thu, 16 Jul 2026 15:38:25 -0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 17:15:36 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/exercito-da-suica-abandona-microsoft-em-areas-sensiveis-e-adota-suite-aberta-europeia/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -173,7 +173,7 @@
       <title>[Viva o Linux] PA de Comunicação: Automatizando a Extração de Dados de E-mails com Python e IMAP</title>
       <link>https://www.vivaolinux.com.br/dica/PA-de-Comunicacao-Automatizando-a-Extracao-de-Dados-de-E-mails-com-Python-e-IMAP/</link>
       <description></description>
-      <pubDate>Thu, 16 Jul 2026 15:38:25 -0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 17:15:36 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/PA-de-Comunicacao-Automatizando-a-Extracao-de-Dados-de-E-mails-com-Python-e-IMAP/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
