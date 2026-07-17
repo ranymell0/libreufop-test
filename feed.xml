@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Fri, 17 Jul 2026 03:30:16 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 06:15:38 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -125,7 +125,7 @@
       <title>[LWN] extensible scheduler class</title>
       <link>https://docs.kernel.org/scheduler/sched-ext.html</link>
       <description></description>
-      <pubDate>Fri, 17 Jul 2026 03:30:16 -0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 06:15:38 -0000</pubDate>
       <guid isPermaLink="false">https://docs.kernel.org/scheduler/sched-ext.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1082717/</link>
       <description></description>
-      <pubDate>Fri, 17 Jul 2026 03:30:16 -0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 06:15:38 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1082717/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,7 +141,7 @@
       <title>[LWN] Linux Storage, Filesystem, Memory Management, and BPF Summit</title>
       <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
       <description></description>
-      <pubDate>Fri, 17 Jul 2026 03:30:16 -0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 06:15:38 -0000</pubDate>
       <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1082342/</link>
       <description></description>
-      <pubDate>Fri, 17 Jul 2026 03:30:16 -0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 06:15:38 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1082342/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[LWN] io_uring</title>
       <link>https://man7.org/linux/man-pages/man7/io_uring.7.html</link>
       <description></description>
-      <pubDate>Fri, 17 Jul 2026 03:30:16 -0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 06:15:38 -0000</pubDate>
       <guid isPermaLink="false">https://man7.org/linux/man-pages/man7/io_uring.7.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[Viva o Linux] System76 apresenta o novo Adder Pro com tela OLED 2K e foco em Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/system76-apresenta-o-novo-adder-pro-com-tela-oled-2k-e-foco-em-linux/</link>
       <description></description>
-      <pubDate>Fri, 17 Jul 2026 03:30:12 -0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 06:15:32 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/system76-apresenta-o-novo-adder-pro-com-tela-oled-2k-e-foco-em-linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -173,7 +173,7 @@
       <title>[Viva o Linux] Minisforum MS-02 Ultra com Linux: Btrfs mostra por que ainda faz diferença em máquinas rápidas</title>
       <link>https://www.vivaolinux.com.br/noticia/minisforum-ms-02-ultra-com-linux-btrfs-mostra-por-que-ainda-faz-diferenca-em-maquinas-rapidas/</link>
       <description></description>
-      <pubDate>Fri, 17 Jul 2026 03:30:12 -0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 06:15:32 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/minisforum-ms-02-ultra-com-linux-btrfs-mostra-por-que-ainda-faz-diferenca-em-maquinas-rapidas/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -181,7 +181,7 @@
       <title>[Viva o Linux] Instalar Netbeans no Linux</title>
       <link>https://www.vivaolinux.com.br/dica/Instalar-Netbeans-no-Linux/</link>
       <description></description>
-      <pubDate>Fri, 17 Jul 2026 03:30:12 -0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 06:15:32 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Instalar-Netbeans-no-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -189,7 +189,7 @@
       <title>[Viva o Linux] Otimizando a velocidade do Portage com mirrorselect no Gentoo</title>
       <link>https://www.vivaolinux.com.br/dica/Otimizando-a-velocidade-do-Portage-com-mirrorselect-no-Gentoo/</link>
       <description></description>
-      <pubDate>Fri, 17 Jul 2026 03:30:12 -0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 06:15:32 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Otimizando-a-velocidade-do-Portage-com-mirrorselect-no-Gentoo/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -197,7 +197,7 @@
       <title>[Viva o Linux] Novo driver Linux melhora suporte a notebooks robustos da GETAC</title>
       <link>https://www.vivaolinux.com.br/noticia/novo-driver-linux-melhora-suporte-a-notebooks-robustos-da-getac/</link>
       <description></description>
-      <pubDate>Fri, 17 Jul 2026 03:30:12 -0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 06:15:32 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/novo-driver-linux-melhora-suporte-a-notebooks-robustos-da-getac/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -205,7 +205,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: July 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</link>
       <description></description>
-      <pubDate>Fri, 17 Jul 2026 03:30:12 -0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 06:15:32 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -213,7 +213,7 @@
       <title>[Linux Foundation] What Agentic AI Asks of Open Source Strategy: A New Layer for OSPOs</title>
       <link>https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</link>
       <description></description>
-      <pubDate>Fri, 17 Jul 2026 03:30:12 -0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 06:15:32 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -221,7 +221,7 @@
       <title>[Linux Foundation] From Campus to Community Part Two: The Researcher Exodus</title>
       <link>https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</link>
       <description></description>
-      <pubDate>Fri, 17 Jul 2026 03:30:12 -0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 06:15:32 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -229,7 +229,7 @@
       <title>[Linux Foundation] From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</link>
       <description></description>
-      <pubDate>Fri, 17 Jul 2026 03:30:12 -0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 06:15:32 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -237,7 +237,7 @@
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Fri, 17 Jul 2026 03:30:12 -0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 06:15:32 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
