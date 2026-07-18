@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Sat, 18 Jul 2026 22:50:08 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 23:54:06 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -109,7 +109,7 @@
       <title>[LWN] act as</title>
       <link>https://docs.kernel.org/bpf/prog_lsm.html</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 22:50:08 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 23:54:06 -0000</pubDate>
       <guid isPermaLink="false">https://docs.kernel.org/bpf/prog_lsm.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -117,7 +117,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1082111/</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 22:50:08 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 23:54:06 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1082111/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[LWN] extensible scheduler class</title>
       <link>https://docs.kernel.org/scheduler/sched-ext.html</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 22:50:08 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 23:54:06 -0000</pubDate>
       <guid isPermaLink="false">https://docs.kernel.org/scheduler/sched-ext.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1082717/</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 22:50:08 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 23:54:06 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1082717/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,7 +141,7 @@
       <title>[LWN] Linux Storage, Filesystem, Memory Management, and BPF Summit</title>
       <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 22:50:08 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 23:54:06 -0000</pubDate>
       <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: July 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 22:50:03 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 23:54:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[Linux Foundation] What Agentic AI Asks of Open Source Strategy: A New Layer for OSPOs</title>
       <link>https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 22:50:03 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 23:54:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[Linux Foundation] From Campus to Community Part Two: The Researcher Exodus</title>
       <link>https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 22:50:03 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 23:54:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -173,7 +173,7 @@
       <title>[Linux Foundation] From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 22:50:03 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 23:54:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -181,7 +181,7 @@
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 22:50:03 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 23:54:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,7 +189,7 @@
       <title>[Viva o Linux] OCS Inventory NG 3.0 Rework: conheça a nova geração da plataforma</title>
       <link>https://www.vivaolinux.com.br/dica/OCS-Inventory-NG-30-Rework-conheca-a-nova-geracao-da-plataforma/</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 22:50:02 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 23:53:59 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/OCS-Inventory-NG-30-Rework-conheca-a-nova-geracao-da-plataforma/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -197,7 +197,7 @@
       <title>[Viva o Linux] Valve e Collabora apresentam port oficial do Arch Linux ARM64 para o Steam Frame</title>
       <link>https://www.vivaolinux.com.br/noticia/valve-e-collabora-apresentam-port-oficial-do-arch-linux-arm64-para-o-steam-frame/</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 22:50:02 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 23:53:59 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/valve-e-collabora-apresentam-port-oficial-do-arch-linux-arm64-para-o-steam-frame/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -205,7 +205,7 @@
       <title>[Viva o Linux] Frame: novo servidor X11 para Linux escrito inteiramente em Assembly quer provar que dá para reduzir a pilha ao mínimo</title>
       <link>https://www.vivaolinux.com.br/noticia/frame-novo-servidor-x11-para-linux-escrito-inteiramente-em-assembly-quer-provar-que-da-para-reduzir-a-pilha-ao-minimo/</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 22:50:02 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 23:53:59 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/frame-novo-servidor-x11-para-linux-escrito-inteiramente-em-assembly-quer-provar-que-da-para-reduzir-a-pilha-ao-minimo/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -213,7 +213,7 @@
       <title>[Viva o Linux] Musk diz que vai abrir o código do X, mas ainda falta saber o que isso vai significar na prática</title>
       <link>https://www.vivaolinux.com.br/noticia/musk-diz-que-vai-abrir-o-codigo-do-x-mas-ainda-falta-saber-o-que-isso-vai-significar-na-pratica/</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 22:50:02 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 23:53:59 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/musk-diz-que-vai-abrir-o-codigo-do-x-mas-ainda-falta-saber-o-que-isso-vai-significar-na-pratica/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -221,7 +221,7 @@
       <title>[Viva o Linux] KDE Plasma 6.8 vai melhorar sombras em apps sem decoração própria de janela</title>
       <link>https://www.vivaolinux.com.br/noticia/kde-plasma-6-8-vai-melhorar-sombras-em-apps-sem-decoracao-propria-de-janela/</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 22:50:02 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 23:53:59 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kde-plasma-6-8-vai-melhorar-sombras-em-apps-sem-decoracao-propria-de-janela/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
