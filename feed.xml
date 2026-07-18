@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Sat, 18 Jul 2026 13:14:27 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 14:52:19 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -109,7 +109,7 @@
       <title>[LWN] act as</title>
       <link>https://docs.kernel.org/bpf/prog_lsm.html</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 13:14:27 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 14:52:19 -0000</pubDate>
       <guid isPermaLink="false">https://docs.kernel.org/bpf/prog_lsm.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -117,7 +117,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1082111/</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 13:14:27 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 14:52:19 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1082111/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[LWN] extensible scheduler class</title>
       <link>https://docs.kernel.org/scheduler/sched-ext.html</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 13:14:27 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 14:52:19 -0000</pubDate>
       <guid isPermaLink="false">https://docs.kernel.org/scheduler/sched-ext.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1082717/</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 13:14:27 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 14:52:19 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1082717/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,55 +141,15 @@
       <title>[LWN] Linux Storage, Filesystem, Memory Management, and BPF Summit</title>
       <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 13:14:27 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 14:52:19 -0000</pubDate>
       <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] KDE Plasma 6.8 vai melhorar sombras em apps sem decoração própria de janela</title>
-      <link>https://www.vivaolinux.com.br/noticia/kde-plasma-6-8-vai-melhorar-sombras-em-apps-sem-decoracao-propria-de-janela/</link>
-      <description></description>
-      <pubDate>Sat, 18 Jul 2026 13:14:23 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kde-plasma-6-8-vai-melhorar-sombras-em-apps-sem-decoracao-propria-de-janela/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Configurar IP Fixo no Void</title>
-      <link>https://www.vivaolinux.com.br/dica/Configurar-IP-fixo-no-Void/</link>
-      <description></description>
-      <pubDate>Sat, 18 Jul 2026 13:14:23 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Configurar-IP-fixo-no-Void/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Brave Origin: Navegador Brave sem cripto e recompensas, agora gratuito no Linux</title>
-      <link>https://www.vivaolinux.com.br/dica/Brave-Origin-Navegador-Brave-sem-cripto-e-recompensas-agora-gratuito-no-Linux/</link>
-      <description></description>
-      <pubDate>Sat, 18 Jul 2026 13:14:23 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Brave-Origin-Navegador-Brave-sem-cripto-e-recompensas-agora-gratuito-no-Linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Llamafile 0.10.4 estreia com Transcribefile e reforça suporte a IA em arquivo único</title>
-      <link>https://www.vivaolinux.com.br/noticia/llamafile-0-10-4-estreia-com-transcribefile-e-reforca-suporte-a-ia-em-arquivo-unico/</link>
-      <description></description>
-      <pubDate>Sat, 18 Jul 2026 13:14:23 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/llamafile-0-10-4-estreia-com-transcribefile-e-reforca-suporte-a-ia-em-arquivo-unico/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] AMD envia novos ajustes para o driver gráfico no Linux 7.3</title>
-      <link>https://www.vivaolinux.com.br/noticia/amd-envia-novos-ajustes-para-o-driver-grafico-no-linux-7-3/</link>
-      <description></description>
-      <pubDate>Sat, 18 Jul 2026 13:14:23 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/amd-envia-novos-ajustes-para-o-driver-grafico-no-linux-7-3/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Foundation] Linux Foundation Newsletter: July 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 13:14:23 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 14:52:15 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -197,7 +157,7 @@
       <title>[Linux Foundation] What Agentic AI Asks of Open Source Strategy: A New Layer for OSPOs</title>
       <link>https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 13:14:23 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 14:52:15 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -205,7 +165,7 @@
       <title>[Linux Foundation] From Campus to Community Part Two: The Researcher Exodus</title>
       <link>https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 13:14:23 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 14:52:15 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -213,7 +173,7 @@
       <title>[Linux Foundation] From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 13:14:23 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 14:52:15 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -221,9 +181,49 @@
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Sat, 18 Jul 2026 13:14:23 -0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 14:52:15 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] KDE Plasma 6.8 vai melhorar sombras em apps sem decoração própria de janela</title>
+      <link>https://www.vivaolinux.com.br/noticia/kde-plasma-6-8-vai-melhorar-sombras-em-apps-sem-decoracao-propria-de-janela/</link>
+      <description></description>
+      <pubDate>Sat, 18 Jul 2026 14:52:14 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kde-plasma-6-8-vai-melhorar-sombras-em-apps-sem-decoracao-propria-de-janela/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Configurar IP Fixo no Void</title>
+      <link>https://www.vivaolinux.com.br/dica/Configurar-IP-fixo-no-Void/</link>
+      <description></description>
+      <pubDate>Sat, 18 Jul 2026 14:52:14 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Configurar-IP-fixo-no-Void/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Brave Origin: Navegador Brave sem cripto e recompensas, agora gratuito no Linux</title>
+      <link>https://www.vivaolinux.com.br/dica/Brave-Origin-Navegador-Brave-sem-cripto-e-recompensas-agora-gratuito-no-Linux/</link>
+      <description></description>
+      <pubDate>Sat, 18 Jul 2026 14:52:14 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Brave-Origin-Navegador-Brave-sem-cripto-e-recompensas-agora-gratuito-no-Linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Llamafile 0.10.4 estreia com Transcribefile e reforça suporte a IA em arquivo único</title>
+      <link>https://www.vivaolinux.com.br/noticia/llamafile-0-10-4-estreia-com-transcribefile-e-reforca-suporte-a-ia-em-arquivo-unico/</link>
+      <description></description>
+      <pubDate>Sat, 18 Jul 2026 14:52:14 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/llamafile-0-10-4-estreia-com-transcribefile-e-reforca-suporte-a-ia-em-arquivo-unico/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] AMD envia novos ajustes para o driver gráfico no Linux 7.3</title>
+      <link>https://www.vivaolinux.com.br/noticia/amd-envia-novos-ajustes-para-o-driver-grafico-no-linux-7-3/</link>
+      <description></description>
+      <pubDate>Sat, 18 Jul 2026 14:52:14 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/amd-envia-novos-ajustes-para-o-driver-grafico-no-linux-7-3/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[4Linux] IA no Universo Kubernetes: detecte e resolva incidentes com inteligência artificial</title>
