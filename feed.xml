@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Sun, 19 Jul 2026 19:05:35 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 20:48:31 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -40,6 +40,22 @@
       <pubDate>Wed, 17 May 2023 22:00:24 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.pt.html</guid>
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
+    </item>
+    <item>
+      <title>[4Linux] PostgreSQL e o Controle de Concorrência por Multiversão (MVCC)</title>
+      <link>https://blog.4linux.com.br/postgresql-e-o-controle-de-concorrencia-por-multiversao-mvcc/</link>
+      <description>A arquitetura de concorrência de banco de dados é um dos pilares para garantir consistência, desempenho e escalabilidade. No PostgreSQL, o mecanismo responsável por isso é o chamado Multiversion Concurrency Control (MVCC) — “Controle de Concorrência por Multiversão”. Em linhas gerais, ele permite...</description>
+      <pubDate>Wed, 15 Jul 2026 16:06:12 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13104</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
+    <item>
+      <title>[4Linux] Desvendando o Zabbix e SNMP: Monitorar Dispositivos de Rede</title>
+      <link>https://blog.4linux.com.br/desvendando-o-zabbix-e-snmp-monitorar-dispositivos-de-rede/</link>
+      <description>Já se deparou com um switch, roteador, impressora ou qualquer outro dispositivo de rede e pensou nele como uma &amp;#8220;caixa preta&amp;#8221;? Sabemos que ele está funcionando, mas não temos ideia The post Desvendando o Zabbix e SNMP: Monitorar Dispositivos de Rede appeared first on Blog 4Linux .</description>
+      <pubDate>Wed, 08 Jul 2026 13:31:27 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13101</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
       <title>[Linux Today] Pangolin Reverse Proxy Moves to Dual Licensing With New Enterprise Edition</title>
@@ -93,7 +109,7 @@
       <title>[LWN] act as</title>
       <link>https://docs.kernel.org/bpf/prog_lsm.html</link>
       <description></description>
-      <pubDate>Sun, 19 Jul 2026 19:05:35 -0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 20:48:31 -0000</pubDate>
       <guid isPermaLink="false">https://docs.kernel.org/bpf/prog_lsm.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -101,7 +117,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1082111/</link>
       <description></description>
-      <pubDate>Sun, 19 Jul 2026 19:05:35 -0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 20:48:31 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1082111/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -109,7 +125,7 @@
       <title>[LWN] extensible scheduler class</title>
       <link>https://docs.kernel.org/scheduler/sched-ext.html</link>
       <description></description>
-      <pubDate>Sun, 19 Jul 2026 19:05:35 -0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 20:48:31 -0000</pubDate>
       <guid isPermaLink="false">https://docs.kernel.org/scheduler/sched-ext.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -117,7 +133,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1082717/</link>
       <description></description>
-      <pubDate>Sun, 19 Jul 2026 19:05:35 -0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 20:48:31 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1082717/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,55 +141,15 @@
       <title>[LWN] Linux Storage, Filesystem, Memory Management, and BPF Summit</title>
       <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
       <description></description>
-      <pubDate>Sun, 19 Jul 2026 19:05:35 -0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 20:48:31 -0000</pubDate>
       <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Kitty 0.48 ganha abas verticais e traz correções importantes para Wayland, macOS e desempenho</title>
-      <link>https://www.vivaolinux.com.br/noticia/kitty-0-48-ganha-abas-verticais-e-traz-correcoes-importantes-para-wayland-macos-e-desempenho/</link>
-      <description></description>
-      <pubDate>Sun, 19 Jul 2026 19:05:31 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kitty-0-48-ganha-abas-verticais-e-traz-correcoes-importantes-para-wayland-macos-e-desempenho/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] GNU Hurd avança em suporte a AArch64 e ganha experimentos com Rust</title>
-      <link>https://www.vivaolinux.com.br/noticia/gnu-hurd-avanca-em-suporte-a-aarch64-e-ganha-experimentos-com-rust/</link>
-      <description></description>
-      <pubDate>Sun, 19 Jul 2026 19:05:31 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/gnu-hurd-avanca-em-suporte-a-aarch64-e-ganha-experimentos-com-rust/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Como limpar e remover Kernels antigos no Gentoo Linux</title>
-      <link>https://www.vivaolinux.com.br/dica/Como-limpar-e-remover-Kernels-antigos-no-Gentoo-Linux/</link>
-      <description></description>
-      <pubDate>Sun, 19 Jul 2026 19:05:31 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Como-limpar-e-remover-Kernels-antigos-no-Gentoo-Linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] OCS Inventory NG 3.0 Rework: conheça a nova geração da plataforma</title>
-      <link>https://www.vivaolinux.com.br/dica/OCS-Inventory-NG-30-Rework-conheca-a-nova-geracao-da-plataforma/</link>
-      <description></description>
-      <pubDate>Sun, 19 Jul 2026 19:05:31 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/OCS-Inventory-NG-30-Rework-conheca-a-nova-geracao-da-plataforma/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Valve e Collabora apresentam port oficial do Arch Linux ARM64 para o Steam Frame</title>
-      <link>https://www.vivaolinux.com.br/noticia/valve-e-collabora-apresentam-port-oficial-do-arch-linux-arm64-para-o-steam-frame/</link>
-      <description></description>
-      <pubDate>Sun, 19 Jul 2026 19:05:31 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/valve-e-collabora-apresentam-port-oficial-do-arch-linux-arm64-para-o-steam-frame/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Foundation] Linux Foundation Newsletter: July 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</link>
       <description></description>
-      <pubDate>Sun, 19 Jul 2026 19:05:31 -0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 20:48:27 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -181,7 +157,7 @@
       <title>[Linux Foundation] What Agentic AI Asks of Open Source Strategy: A New Layer for OSPOs</title>
       <link>https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</link>
       <description></description>
-      <pubDate>Sun, 19 Jul 2026 19:05:31 -0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 20:48:27 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,7 +165,7 @@
       <title>[Linux Foundation] From Campus to Community Part Two: The Researcher Exodus</title>
       <link>https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</link>
       <description></description>
-      <pubDate>Sun, 19 Jul 2026 19:05:31 -0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 20:48:27 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -197,7 +173,7 @@
       <title>[Linux Foundation] From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</link>
       <description></description>
-      <pubDate>Sun, 19 Jul 2026 19:05:31 -0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 20:48:27 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -205,9 +181,57 @@
       <title>[Linux Foundation] Measuring OSPO Value</title>
       <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
       <description></description>
-      <pubDate>Sun, 19 Jul 2026 19:05:31 -0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 20:48:27 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Kitty 0.48 ganha abas verticais e traz correções importantes para Wayland, macOS e desempenho</title>
+      <link>https://www.vivaolinux.com.br/noticia/kitty-0-48-ganha-abas-verticais-e-traz-correcoes-importantes-para-wayland-macos-e-desempenho/</link>
+      <description></description>
+      <pubDate>Sun, 19 Jul 2026 20:48:26 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kitty-0-48-ganha-abas-verticais-e-traz-correcoes-importantes-para-wayland-macos-e-desempenho/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] GNU Hurd avança em suporte a AArch64 e ganha experimentos com Rust</title>
+      <link>https://www.vivaolinux.com.br/noticia/gnu-hurd-avanca-em-suporte-a-aarch64-e-ganha-experimentos-com-rust/</link>
+      <description></description>
+      <pubDate>Sun, 19 Jul 2026 20:48:26 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/gnu-hurd-avanca-em-suporte-a-aarch64-e-ganha-experimentos-com-rust/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Como limpar e remover Kernels antigos no Gentoo Linux</title>
+      <link>https://www.vivaolinux.com.br/dica/Como-limpar-e-remover-Kernels-antigos-no-Gentoo-Linux/</link>
+      <description></description>
+      <pubDate>Sun, 19 Jul 2026 20:48:26 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Como-limpar-e-remover-Kernels-antigos-no-Gentoo-Linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] OCS Inventory NG 3.0 Rework: conheça a nova geração da plataforma</title>
+      <link>https://www.vivaolinux.com.br/dica/OCS-Inventory-NG-30-Rework-conheca-a-nova-geracao-da-plataforma/</link>
+      <description></description>
+      <pubDate>Sun, 19 Jul 2026 20:48:26 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/OCS-Inventory-NG-30-Rework-conheca-a-nova-geracao-da-plataforma/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Valve e Collabora apresentam port oficial do Arch Linux ARM64 para o Steam Frame</title>
+      <link>https://www.vivaolinux.com.br/noticia/valve-e-collabora-apresentam-port-oficial-do-arch-linux-arm64-para-o-steam-frame/</link>
+      <description></description>
+      <pubDate>Sun, 19 Jul 2026 20:48:26 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/valve-e-collabora-apresentam-port-oficial-do-arch-linux-arm64-para-o-steam-frame/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[4Linux] IA no Universo Kubernetes: detecte e resolva incidentes com inteligência artificial</title>
+      <link>https://blog.4linux.com.br/ia-no-universo-kubernetes-detecte-e-resolva-incidentes-com-inteligencia-artificial/</link>
+      <description>Salve salve pessoal! Tudo bem com vocês? Espero que sim! Hoje trago um assunto que tenho trabalhado bastante aqui e que tenho certeza que vai fazer diferença no dia a The post IA no Universo Kubernetes: detecte e resolva incidentes com inteligência artificial appeared first on Blog 4Linux .</description>
+      <pubDate>Mon, 29 Jun 2026 13:28:09 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13539</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
       <title>[FSFLA] 6point4.en</title>
@@ -216,6 +240,22 @@
       <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
+    </item>
+    <item>
+      <title>[4Linux] IA aumenta a produtividade, mas o mercado patina por falta de processo</title>
+      <link>https://blog.4linux.com.br/compartilhando-conhecimento-de-ia-ia-aumenta-a-produtividade-o-que-falta-e-planejamento-para-usar/</link>
+      <description>Tem uma discussão besta rolando na nossa área. De um lado, os emocionados: “IA vai substituir desenvolvedor, é o fim da profissão, vende tudo e vai plantar batata.” Do outro, The post IA aumenta a produtividade, mas o mercado patina por falta de processo appeared first on Blog 4Linux .</description>
+      <pubDate>Fri, 10 Jul 2026 12:01:38 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13663</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
+    <item>
+      <title>[4Linux] O paper que responde à pergunta que o professor Chad Jones deixou em aberto</title>
+      <link>https://blog.4linux.com.br/ia-para-maiores-o-paper-que-responde-a-pergunta-que-o-professor-chad-jones-nao-conseguiu-responder/</link>
+      <description>Sobre a mesa: 13% de queda no emprego para jovens entre 22 e 25 anos em ocupações expostas à IA. Nas outras faixas etárias, quase nada. Se você acompanhou a The post O paper que responde à pergunta que o professor Chad Jones deixou em aberto appeared first on Blog 4Linux .</description>
+      <pubDate>Fri, 10 Jul 2026 11:53:58 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13658</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
   </channel>
 </rss>
