@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Mon, 20 Jul 2026 18:02:58 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 20:20:55 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -122,10 +122,26 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
+      <title>[LWN] Fedora Project</title>
+      <link>https://fedoraproject.org/</link>
+      <description></description>
+      <pubDate>Mon, 20 Jul 2026 20:20:55 -0000</pubDate>
+      <guid isPermaLink="false">https://fedoraproject.org/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1081557/</link>
+      <description></description>
+      <pubDate>Mon, 20 Jul 2026 20:20:55 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1081557/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
       <title>[LWN] famfs filesystem</title>
       <link>https://github.com/cxl-micron-reskit/famfs#famfs-shared-memory-filesystem-framework---user-space-repo</link>
       <description></description>
-      <pubDate>Mon, 20 Jul 2026 18:02:58 -0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 20:20:55 -0000</pubDate>
       <guid isPermaLink="false">https://github.com/cxl-micron-reskit/famfs#famfs-shared-memory-filesystem-framework---user-space-repo</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +149,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1082687/</link>
       <description></description>
-      <pubDate>Mon, 20 Jul 2026 18:02:58 -0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 20:20:55 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1082687/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,71 +157,23 @@
       <title>[LWN] act as</title>
       <link>https://docs.kernel.org/bpf/prog_lsm.html</link>
       <description></description>
-      <pubDate>Mon, 20 Jul 2026 18:02:58 -0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 20:20:55 -0000</pubDate>
       <guid isPermaLink="false">https://docs.kernel.org/bpf/prog_lsm.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
     <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1082111/</link>
+      <title>[Viva o Linux] Firefox 153 chega com HDR, mesclagem de PDFs e QR Code para compartilhar páginas</title>
+      <link>https://www.vivaolinux.com.br/noticia/firefox-153-chega-com-hdr-mesclagem-de-pdfs-e-qr-code-para-compartilhar-paginas/</link>
       <description></description>
-      <pubDate>Mon, 20 Jul 2026 18:02:58 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1082111/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] extensible scheduler class</title>
-      <link>https://docs.kernel.org/scheduler/sched-ext.html</link>
-      <description></description>
-      <pubDate>Mon, 20 Jul 2026 18:02:58 -0000</pubDate>
-      <guid isPermaLink="false">https://docs.kernel.org/scheduler/sched-ext.html</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: July 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</link>
-      <description></description>
-      <pubDate>Mon, 20 Jul 2026 18:02:53 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] What Agentic AI Asks of Open Source Strategy: A New Layer for OSPOs</title>
-      <link>https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</link>
-      <description></description>
-      <pubDate>Mon, 20 Jul 2026 18:02:53 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] From Campus to Community Part Two: The Researcher Exodus</title>
-      <link>https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</link>
-      <description></description>
-      <pubDate>Mon, 20 Jul 2026 18:02:53 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation</title>
-      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</link>
-      <description></description>
-      <pubDate>Mon, 20 Jul 2026 18:02:53 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Measuring OSPO Value</title>
-      <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
-      <description></description>
-      <pubDate>Mon, 20 Jul 2026 18:02:53 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+      <pubDate>Mon, 20 Jul 2026 20:20:46 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/firefox-153-chega-com-hdr-mesclagem-de-pdfs-e-qr-code-para-compartilhar-paginas/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Viva o Linux] Aceitar Pacotes em Teste Individualmente no Gentoo</title>
       <link>https://www.vivaolinux.com.br/dica/Aceitar-Pacotes-em-Teste-Individualmente-no-Gentoo/</link>
       <description></description>
-      <pubDate>Mon, 20 Jul 2026 18:02:52 -0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 20:20:46 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Aceitar-Pacotes-em-Teste-Individualmente-no-Gentoo/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -213,7 +181,7 @@
       <title>[Viva o Linux] Apple volta ao topo e supera a Nvidia na disputa pela empresa mais valiosa do mundo</title>
       <link>https://www.vivaolinux.com.br/noticia/apple-volta-ao-topo-e-supera-a-nvidia-na-disputa-pela-empresa-mais-valiosa-do-mundo/</link>
       <description></description>
-      <pubDate>Mon, 20 Jul 2026 18:02:52 -0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 20:20:46 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/apple-volta-ao-topo-e-supera-a-nvidia-na-disputa-pela-empresa-mais-valiosa-do-mundo/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -221,7 +189,7 @@
       <title>[Viva o Linux] Apple aperta o cerco em caso sobre segredos comerciais e mira ex-funcionários ligados à OpenAI</title>
       <link>https://www.vivaolinux.com.br/noticia/apple-aperta-o-cerco-em-caso-sobre-segredos-comerciais-e-mira-ex-funcionarios-ligados-a-openai/</link>
       <description></description>
-      <pubDate>Mon, 20 Jul 2026 18:02:52 -0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 20:20:46 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/apple-aperta-o-cerco-em-caso-sobre-segredos-comerciais-e-mira-ex-funcionarios-ligados-a-openai/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -229,17 +197,49 @@
       <title>[Viva o Linux] Bíblia no Terminal — C puro, sem dependências, um binário só</title>
       <link>https://www.vivaolinux.com.br/artigo/Biblia-no-Terminal-C-puro-sem-dependencias-um-binario-so/</link>
       <description></description>
-      <pubDate>Mon, 20 Jul 2026 18:02:52 -0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 20:20:46 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Biblia-no-Terminal-C-puro-sem-dependencias-um-binario-so/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
-      <title>[Viva o Linux] Executar AppImages (Erro libfuse.so.2) no Gentoo</title>
-      <link>https://www.vivaolinux.com.br/dica/Executar-AppImages-Erro-libfuseso2-no-Gentoo/</link>
+      <title>[Linux Foundation] Linux Foundation Newsletter: July 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</link>
       <description></description>
-      <pubDate>Mon, 20 Jul 2026 18:02:52 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Executar-AppImages-Erro-libfuseso2-no-Gentoo/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+      <pubDate>Mon, 20 Jul 2026 20:20:46 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] What Agentic AI Asks of Open Source Strategy: A New Layer for OSPOs</title>
+      <link>https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</link>
+      <description></description>
+      <pubDate>Mon, 20 Jul 2026 20:20:46 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] From Campus to Community Part Two: The Researcher Exodus</title>
+      <link>https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</link>
+      <description></description>
+      <pubDate>Mon, 20 Jul 2026 20:20:46 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation</title>
+      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</link>
+      <description></description>
+      <pubDate>Mon, 20 Jul 2026 20:20:46 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Measuring OSPO Value</title>
+      <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
+      <description></description>
+      <pubDate>Mon, 20 Jul 2026 20:20:46 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[4Linux] IA aumenta a produtividade, mas o mercado patina por falta de processo</title>
