@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Tue, 21 Jul 2026 17:19:41 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 19:21:44 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -61,7 +61,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1083275/</link>
       <description></description>
-      <pubDate>Tue, 21 Jul 2026 17:19:41 -0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 19:21:44 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1083275/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -69,7 +69,7 @@
       <title>[LWN] Fedora Project</title>
       <link>https://fedoraproject.org/</link>
       <description></description>
-      <pubDate>Tue, 21 Jul 2026 17:19:41 -0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 19:21:44 -0000</pubDate>
       <guid isPermaLink="false">https://fedoraproject.org/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,7 +77,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1081557/</link>
       <description></description>
-      <pubDate>Tue, 21 Jul 2026 17:19:41 -0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 19:21:44 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1081557/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -85,7 +85,7 @@
       <title>[LWN] famfs filesystem</title>
       <link>https://github.com/cxl-micron-reskit/famfs#famfs-shared-memory-filesystem-framework---user-space-repo</link>
       <description></description>
-      <pubDate>Tue, 21 Jul 2026 17:19:41 -0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 19:21:44 -0000</pubDate>
       <guid isPermaLink="false">https://github.com/cxl-micron-reskit/famfs#famfs-shared-memory-filesystem-framework---user-space-repo</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -93,55 +93,15 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1082687/</link>
       <description></description>
-      <pubDate>Tue, 21 Jul 2026 17:19:41 -0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 19:21:44 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1082687/</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Epstein - Investigação da própria Fundação Gates conclui que a Fundação Gates é inocente</title>
-      <link>https://www.vivaolinux.com.br/noticia/investigacao-da-propria-fundacao-gates-conclui-que-nao-ha-evidencias-de-envolvimento-da-fundacao-gates-nos-crimes-de-epstein/</link>
-      <description></description>
-      <pubDate>Tue, 21 Jul 2026 17:19:35 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/investigacao-da-propria-fundacao-gates-conclui-que-nao-ha-evidencias-de-envolvimento-da-fundacao-gates-nos-crimes-de-epstein/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Anthropic fecha acordo de US$ 1,5 bilhão por usar livros para treinar IA</title>
-      <link>https://www.vivaolinux.com.br/noticia/anthropic-fecha-acordo-de-us-1-5-bilhao-por-usar-livros-para-treinar-ia/</link>
-      <description></description>
-      <pubDate>Tue, 21 Jul 2026 17:19:35 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/anthropic-fecha-acordo-de-us-1-5-bilhao-por-usar-livros-para-treinar-ia/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] IBM e Red Hat anunciam Project Lightwell para reforçar a segurança do open source na era da IA</title>
-      <link>https://www.vivaolinux.com.br/noticia/ibm-e-red-hat-anunciam-project-lightwell-para-reforcar-a-seguranca-do-open-source-na-era-da-ia/</link>
-      <description></description>
-      <pubDate>Tue, 21 Jul 2026 17:19:35 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ibm-e-red-hat-anunciam-project-lightwell-para-reforcar-a-seguranca-do-open-source-na-era-da-ia/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] VirtualBox 7.2.14 chega com suporte inicial ao futuro kernel Linux 7.2 e correções para RHEL e Windows</title>
-      <link>https://www.vivaolinux.com.br/noticia/virtualbox-7-2-14-chega-com-suporte-inicial-ao-futuro-kernel-linux-7-2-e-correcoes-para-rhel-e-windows/</link>
-      <description></description>
-      <pubDate>Tue, 21 Jul 2026 17:19:35 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/virtualbox-7-2-14-chega-com-suporte-inicial-ao-futuro-kernel-linux-7-2-e-correcoes-para-rhel-e-windows/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Extensão leva barra estilo Windows 11 ao GNOME com foco em produtividade</title>
-      <link>https://www.vivaolinux.com.br/noticia/extensao-leva-barra-estilo-windows-11-ao-gnome-com-foco-em-produtividade/</link>
-      <description></description>
-      <pubDate>Tue, 21 Jul 2026 17:19:35 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/extensao-leva-barra-estilo-windows-11-ao-gnome-com-foco-em-produtividade/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Foundation] From Campus to Community Part 3: What Universities Uniquely Bring</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</link>
       <description></description>
-      <pubDate>Tue, 21 Jul 2026 17:19:35 -0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 19:21:40 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -149,7 +109,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: July 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</link>
       <description></description>
-      <pubDate>Tue, 21 Jul 2026 17:19:35 -0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 19:21:40 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -157,7 +117,7 @@
       <title>[Linux Foundation] What Agentic AI Asks of Open Source Strategy: A New Layer for OSPOs</title>
       <link>https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</link>
       <description></description>
-      <pubDate>Tue, 21 Jul 2026 17:19:35 -0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 19:21:40 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -165,7 +125,7 @@
       <title>[Linux Foundation] From Campus to Community Part Two: The Researcher Exodus</title>
       <link>https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</link>
       <description></description>
-      <pubDate>Tue, 21 Jul 2026 17:19:35 -0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 19:21:40 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -173,9 +133,49 @@
       <title>[Linux Foundation] From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</link>
       <description></description>
-      <pubDate>Tue, 21 Jul 2026 17:19:35 -0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 19:21:40 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Epstein - Investigação da própria Fundação Gates conclui que a Fundação Gates é inocente</title>
+      <link>https://www.vivaolinux.com.br/noticia/investigacao-da-propria-fundacao-gates-conclui-que-nao-ha-evidencias-de-envolvimento-da-fundacao-gates-nos-crimes-de-epstein/</link>
+      <description></description>
+      <pubDate>Tue, 21 Jul 2026 19:21:39 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/investigacao-da-propria-fundacao-gates-conclui-que-nao-ha-evidencias-de-envolvimento-da-fundacao-gates-nos-crimes-de-epstein/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Anthropic fecha acordo de US$ 1,5 bilhão por usar livros para treinar IA</title>
+      <link>https://www.vivaolinux.com.br/noticia/anthropic-fecha-acordo-de-us-1-5-bilhao-por-usar-livros-para-treinar-ia/</link>
+      <description></description>
+      <pubDate>Tue, 21 Jul 2026 19:21:39 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/anthropic-fecha-acordo-de-us-1-5-bilhao-por-usar-livros-para-treinar-ia/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] IBM e Red Hat anunciam Project Lightwell para reforçar a segurança do open source na era da IA</title>
+      <link>https://www.vivaolinux.com.br/noticia/ibm-e-red-hat-anunciam-project-lightwell-para-reforcar-a-seguranca-do-open-source-na-era-da-ia/</link>
+      <description></description>
+      <pubDate>Tue, 21 Jul 2026 19:21:39 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ibm-e-red-hat-anunciam-project-lightwell-para-reforcar-a-seguranca-do-open-source-na-era-da-ia/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] VirtualBox 7.2.14 chega com suporte inicial ao futuro kernel Linux 7.2 e correções para RHEL e Windows</title>
+      <link>https://www.vivaolinux.com.br/noticia/virtualbox-7-2-14-chega-com-suporte-inicial-ao-futuro-kernel-linux-7-2-e-correcoes-para-rhel-e-windows/</link>
+      <description></description>
+      <pubDate>Tue, 21 Jul 2026 19:21:39 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/virtualbox-7-2-14-chega-com-suporte-inicial-ao-futuro-kernel-linux-7-2-e-correcoes-para-rhel-e-windows/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Extensão leva barra estilo Windows 11 ao GNOME com foco em produtividade</title>
+      <link>https://www.vivaolinux.com.br/noticia/extensao-leva-barra-estilo-windows-11-ao-gnome-com-foco-em-produtividade/</link>
+      <description></description>
+      <pubDate>Tue, 21 Jul 2026 19:21:39 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/extensao-leva-barra-estilo-windows-11-ao-gnome-com-foco-em-produtividade/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Today] Pangolin Reverse Proxy Moves to Dual Licensing With New Enterprise Edition</title>
