@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Tue, 21 Jul 2026 11:08:10 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:49:19 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -58,10 +58,18 @@
       <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1083275/</link>
+      <description></description>
+      <pubDate>Tue, 21 Jul 2026 13:49:19 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1083275/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
       <title>[LWN] Fedora Project</title>
       <link>https://fedoraproject.org/</link>
       <description></description>
-      <pubDate>Tue, 21 Jul 2026 11:08:10 -0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 13:49:19 -0000</pubDate>
       <guid isPermaLink="false">https://fedoraproject.org/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -69,7 +77,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1081557/</link>
       <description></description>
-      <pubDate>Tue, 21 Jul 2026 11:08:10 -0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 13:49:19 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1081557/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,7 +85,7 @@
       <title>[LWN] famfs filesystem</title>
       <link>https://github.com/cxl-micron-reskit/famfs#famfs-shared-memory-filesystem-framework---user-space-repo</link>
       <description></description>
-      <pubDate>Tue, 21 Jul 2026 11:08:10 -0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 13:49:19 -0000</pubDate>
       <guid isPermaLink="false">https://github.com/cxl-micron-reskit/famfs#famfs-shared-memory-filesystem-framework---user-space-repo</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -85,63 +93,39 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1082687/</link>
       <description></description>
-      <pubDate>Tue, 21 Jul 2026 11:08:10 -0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 13:49:19 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1082687/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
     <item>
-      <title>[LWN] act as</title>
-      <link>https://docs.kernel.org/bpf/prog_lsm.html</link>
+      <title>[Viva o Linux] VirtualBox 7.2.14 chega com suporte inicial ao futuro kernel Linux 7.2 e correções para RHEL e Windows</title>
+      <link>https://www.vivaolinux.com.br/noticia/virtualbox-7-2-14-chega-com-suporte-inicial-ao-futuro-kernel-linux-7-2-e-correcoes-para-rhel-e-windows/</link>
       <description></description>
-      <pubDate>Tue, 21 Jul 2026 11:08:10 -0000</pubDate>
-      <guid isPermaLink="false">https://docs.kernel.org/bpf/prog_lsm.html</guid>
-      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 21 Jul 2026 13:49:15 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/virtualbox-7-2-14-chega-com-suporte-inicial-ao-futuro-kernel-linux-7-2-e-correcoes-para-rhel-e-windows/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: July 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</link>
+      <title>[Viva o Linux] Extensão leva barra estilo Windows 11 ao GNOME com foco em produtividade</title>
+      <link>https://www.vivaolinux.com.br/noticia/extensao-leva-barra-estilo-windows-11-ao-gnome-com-foco-em-produtividade/</link>
       <description></description>
-      <pubDate>Tue, 21 Jul 2026 11:08:06 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+      <pubDate>Tue, 21 Jul 2026 13:49:15 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/extensao-leva-barra-estilo-windows-11-ao-gnome-com-foco-em-produtividade/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
-      <title>[Linux Foundation] What Agentic AI Asks of Open Source Strategy: A New Layer for OSPOs</title>
-      <link>https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</link>
+      <title>[Viva o Linux] Última patente do MPEG-4 Visual expira e libera DivX e Xvid do licenciamento</title>
+      <link>https://www.vivaolinux.com.br/noticia/ultima-patente-do-mpeg-4-visual-expira-e-libera-divx-e-xvid-do-licenciamento/</link>
       <description></description>
-      <pubDate>Tue, 21 Jul 2026 11:08:06 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] From Campus to Community Part Two: The Researcher Exodus</title>
-      <link>https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</link>
-      <description></description>
-      <pubDate>Tue, 21 Jul 2026 11:08:06 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation</title>
-      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</link>
-      <description></description>
-      <pubDate>Tue, 21 Jul 2026 11:08:06 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Measuring OSPO Value</title>
-      <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
-      <description></description>
-      <pubDate>Tue, 21 Jul 2026 11:08:06 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+      <pubDate>Tue, 21 Jul 2026 13:49:15 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ultima-patente-do-mpeg-4-visual-expira-e-libera-divx-e-xvid-do-licenciamento/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Viva o Linux] Linux se prepara para o Zen 6 da AMD com mais registradores EILVT para profiling</title>
       <link>https://www.vivaolinux.com.br/noticia/linux-se-prepara-para-o-zen-6-da-amd-com-mais-registradores-eilvt-para-profiling/</link>
       <description></description>
-      <pubDate>Tue, 21 Jul 2026 11:08:05 -0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 13:49:15 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-se-prepara-para-o-zen-6-da-amd-com-mais-registradores-eilvt-para-profiling/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -149,33 +133,49 @@
       <title>[Viva o Linux] Intel avança no LEO, sua nova camada experimental para OpenCL no Compute Runtime</title>
       <link>https://www.vivaolinux.com.br/noticia/intel-avanca-no-leo-sua-nova-camada-experimental-para-opencl-no-compute-runtime/</link>
       <description></description>
-      <pubDate>Tue, 21 Jul 2026 11:08:05 -0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 13:49:15 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/intel-avanca-no-leo-sua-nova-camada-experimental-para-opencl-no-compute-runtime/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
-      <title>[Viva o Linux] Vivo ensaia entrada em óculos com IA e mira além do smartphone</title>
-      <link>https://www.vivaolinux.com.br/noticia/vivo-ensaia-entrada-em-oculos-com-ia-e-mira-alem-do-smartphone/</link>
+      <title>[Linux Foundation] Linux Foundation Newsletter: July 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</link>
       <description></description>
-      <pubDate>Tue, 21 Jul 2026 11:08:05 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/vivo-ensaia-entrada-em-oculos-com-ia-e-mira-alem-do-smartphone/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+      <pubDate>Tue, 21 Jul 2026 13:49:15 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
-      <title>[Viva o Linux] Homelab virou terreno fértil para testar IA local e automatizar fluxos de trabalho</title>
-      <link>https://www.vivaolinux.com.br/noticia/homelab-virou-terreno-fertil-para-testar-ia-local-e-automatizar-fluxos-de-trabalho/</link>
+      <title>[Linux Foundation] What Agentic AI Asks of Open Source Strategy: A New Layer for OSPOs</title>
+      <link>https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</link>
       <description></description>
-      <pubDate>Tue, 21 Jul 2026 11:08:05 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/homelab-virou-terreno-fertil-para-testar-ia-local-e-automatizar-fluxos-de-trabalho/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+      <pubDate>Tue, 21 Jul 2026 13:49:15 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
-      <title>[Viva o Linux] Printfriendly a melhor extensão de gerar pdf de páginas web!</title>
-      <link>https://www.vivaolinux.com.br/dica/Printfriendly-a-melhor-extensao-de-gerar-pdf-de-paginas-web/</link>
+      <title>[Linux Foundation] From Campus to Community Part Two: The Researcher Exodus</title>
+      <link>https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</link>
       <description></description>
-      <pubDate>Tue, 21 Jul 2026 11:08:05 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Printfriendly-a-melhor-extensao-de-gerar-pdf-de-paginas-web/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+      <pubDate>Tue, 21 Jul 2026 13:49:15 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation</title>
+      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</link>
+      <description></description>
+      <pubDate>Tue, 21 Jul 2026 13:49:15 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Measuring OSPO Value</title>
+      <link>https://www.linuxfoundation.org/blog/measuring-ospo-value</link>
+      <description></description>
+      <pubDate>Tue, 21 Jul 2026 13:49:15 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/measuring-ospo-value</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[Linux Today] Pangolin Reverse Proxy Moves to Dual Licensing With New Enterprise Edition</title>
