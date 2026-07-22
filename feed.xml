@@ -13,15 +13,31 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Wed, 22 Jul 2026 15:42:20 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 17:19:06 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>[LWN] GUADEC 2026</title>
+      <link>https://events.gnome.org/event/306/</link>
+      <description></description>
+      <pubDate>Wed, 22 Jul 2026 17:19:06 -0000</pubDate>
+      <guid isPermaLink="false">https://events.gnome.org/event/306/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1083750/</link>
+      <description></description>
+      <pubDate>Wed, 22 Jul 2026 17:19:06 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1083750/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
       <title>[LWN] Linux Storage, Filesystem, Memory-Management, and BPF Summit</title>
       <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
       <description></description>
-      <pubDate>Wed, 22 Jul 2026 15:42:20 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:19:06 -0000</pubDate>
       <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -29,7 +45,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1082948/</link>
       <description></description>
-      <pubDate>Wed, 22 Jul 2026 15:42:20 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:19:06 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1082948/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -37,31 +53,15 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1083275/</link>
       <description></description>
-      <pubDate>Wed, 22 Jul 2026 15:42:20 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:19:06 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1083275/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Fedora Project</title>
-      <link>https://fedoraproject.org/</link>
-      <description></description>
-      <pubDate>Wed, 22 Jul 2026 15:42:20 -0000</pubDate>
-      <guid isPermaLink="false">https://fedoraproject.org/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1081557/</link>
-      <description></description>
-      <pubDate>Wed, 22 Jul 2026 15:42:20 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1081557/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
     <item>
       <title>[Linux Foundation] From Campus to Community Part 3: What Universities Uniquely Bring</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</link>
       <description></description>
-      <pubDate>Wed, 22 Jul 2026 15:42:15 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:19:02 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -69,7 +69,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: July 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</link>
       <description></description>
-      <pubDate>Wed, 22 Jul 2026 15:42:15 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:19:02 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -77,7 +77,7 @@
       <title>[Linux Foundation] What Agentic AI Asks of Open Source Strategy: A New Layer for OSPOs</title>
       <link>https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</link>
       <description></description>
-      <pubDate>Wed, 22 Jul 2026 15:42:15 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:19:02 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -85,7 +85,7 @@
       <title>[Linux Foundation] From Campus to Community Part Two: The Researcher Exodus</title>
       <link>https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</link>
       <description></description>
-      <pubDate>Wed, 22 Jul 2026 15:42:15 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:19:02 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/part-2-from-campus-to-community-the-researcher-exodus</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -93,15 +93,23 @@
       <title>[Linux Foundation] From Campus to Community Part One: The Critical Symbiotic Relationship Between Academia and the Linux Foundation</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</link>
       <description></description>
-      <pubDate>Wed, 22 Jul 2026 15:42:15 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:19:02 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-one-the-critical-symbiotic-relationship-between-academia-and-the-linux-foundation</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] &quot;Skynet&quot; se rebelou e invadiu startup por conta própria</title>
+      <link>https://www.vivaolinux.com.br/noticia/agente-de-ia-se-rebelou-e-invadiu-startup-por-conta-propria/</link>
+      <description></description>
+      <pubDate>Wed, 22 Jul 2026 17:19:01 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/agente-de-ia-se-rebelou-e-invadiu-startup-por-conta-propria/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Viva o Linux] Epstein - Investigação da própria Fundação Gates conclui que a Fundação Gates é inocente</title>
       <link>https://www.vivaolinux.com.br/noticia/investigacao-da-propria-fundacao-gates-conclui-que-nao-ha-evidencias-de-envolvimento-da-fundacao-gates-nos-crimes-de-epstein/</link>
       <description></description>
-      <pubDate>Wed, 22 Jul 2026 15:42:14 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:19:01 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/investigacao-da-propria-fundacao-gates-conclui-que-nao-ha-evidencias-de-envolvimento-da-fundacao-gates-nos-crimes-de-epstein/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -109,7 +117,7 @@
       <title>[Viva o Linux] Anthropic fecha acordo de US$ 1,5 bilhão por usar livros para treinar IA</title>
       <link>https://www.vivaolinux.com.br/noticia/anthropic-fecha-acordo-de-us-1-5-bilhao-por-usar-livros-para-treinar-ia/</link>
       <description></description>
-      <pubDate>Wed, 22 Jul 2026 15:42:14 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:19:01 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/anthropic-fecha-acordo-de-us-1-5-bilhao-por-usar-livros-para-treinar-ia/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -117,7 +125,7 @@
       <title>[Viva o Linux] IBM e Red Hat anunciam Project Lightwell para reforçar a segurança do open source na era da IA</title>
       <link>https://www.vivaolinux.com.br/noticia/ibm-e-red-hat-anunciam-project-lightwell-para-reforcar-a-seguranca-do-open-source-na-era-da-ia/</link>
       <description></description>
-      <pubDate>Wed, 22 Jul 2026 15:42:14 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:19:01 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ibm-e-red-hat-anunciam-project-lightwell-para-reforcar-a-seguranca-do-open-source-na-era-da-ia/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -125,16 +133,8 @@
       <title>[Viva o Linux] VirtualBox 7.2.14 chega com suporte inicial ao futuro kernel Linux 7.2 e correções para RHEL e Windows</title>
       <link>https://www.vivaolinux.com.br/noticia/virtualbox-7-2-14-chega-com-suporte-inicial-ao-futuro-kernel-linux-7-2-e-correcoes-para-rhel-e-windows/</link>
       <description></description>
-      <pubDate>Wed, 22 Jul 2026 15:42:14 -0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:19:01 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/virtualbox-7-2-14-chega-com-suporte-inicial-ao-futuro-kernel-linux-7-2-e-correcoes-para-rhel-e-windows/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Extensão leva barra estilo Windows 11 ao GNOME com foco em produtividade</title>
-      <link>https://www.vivaolinux.com.br/noticia/extensao-leva-barra-estilo-windows-11-ao-gnome-com-foco-em-produtividade/</link>
-      <description></description>
-      <pubDate>Wed, 22 Jul 2026 15:42:14 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/extensao-leva-barra-estilo-windows-11-ao-gnome-com-foco-em-produtividade/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
