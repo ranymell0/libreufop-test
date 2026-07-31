@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 30 Jul 2026 22:05:13 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 00:01:25 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -64,126 +64,6 @@
       <pubDate>Wed, 08 Jul 2026 13:31:27 -0000</pubDate>
       <guid isPermaLink="false">https://blog.4linux.com.br/?p=13101</guid>
       <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[LWN] mkdir()</title>
-      <link>https://man7.org/linux/man-pages/man2/mkdir.2.html</link>
-      <description></description>
-      <pubDate>Thu, 30 Jul 2026 22:05:13 -0000</pubDate>
-      <guid isPermaLink="false">https://man7.org/linux/man-pages/man2/mkdir.2.html</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1085617/</link>
-      <description></description>
-      <pubDate>Thu, 30 Jul 2026 22:05:13 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1085617/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] BPF type format</title>
-      <link>https://docs.kernel.org/bpf/btf.html</link>
-      <description></description>
-      <pubDate>Thu, 30 Jul 2026 22:05:13 -0000</pubDate>
-      <guid isPermaLink="false">https://docs.kernel.org/bpf/btf.html</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1083985/</link>
-      <description></description>
-      <pubDate>Thu, 30 Jul 2026 22:05:13 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1083985/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] change proposal</title>
-      <link>https://fedoraproject.org/wiki/Changes/Grub2LightForConfidentialComputing#Detailed_Description</link>
-      <description></description>
-      <pubDate>Thu, 30 Jul 2026 22:05:13 -0000</pubDate>
-      <guid isPermaLink="false">https://fedoraproject.org/wiki/Changes/Grub2LightForConfidentialComputing#Detailed_Description</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
-      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
-      <description></description>
-      <pubDate>Thu, 30 Jul 2026 22:05:08 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
-      <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
-      <description></description>
-      <pubDate>Thu, 30 Jul 2026 22:05:08 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] From Campus to Community Part 3: What Universities Uniquely Bring</title>
-      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</link>
-      <description></description>
-      <pubDate>Thu, 30 Jul 2026 22:05:08 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: July 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</link>
-      <description></description>
-      <pubDate>Thu, 30 Jul 2026 22:05:08 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] What Agentic AI Asks of Open Source Strategy: A New Layer for OSPOs</title>
-      <link>https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</link>
-      <description></description>
-      <pubDate>Thu, 30 Jul 2026 22:05:08 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Starling: novo desktop Linux em Swift traz compositor Wayland próprio e parte do código foi feita com ajuda de IA</title>
-      <link>https://www.vivaolinux.com.br/noticia/starling-novo-desktop-linux-em-swift-traz-compositor-wayland-proprio-e-parte-do-codigo-foi-feita-com-ajuda-de-ia/</link>
-      <description></description>
-      <pubDate>Thu, 30 Jul 2026 22:05:07 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/starling-novo-desktop-linux-em-swift-traz-compositor-wayland-proprio-e-parte-do-codigo-foi-feita-com-ajuda-de-ia/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] RPA de Elite: Superando o Cloudflare Turnstile com Camoufox e Playwright</title>
-      <link>https://www.vivaolinux.com.br/artigo/RPA-de-Elite-Superando-o-Cloudflare-Turnstile-com-Camoufox-e-Playwright/</link>
-      <description></description>
-      <pubDate>Thu, 30 Jul 2026 22:05:07 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/RPA-de-Elite-Superando-o-Cloudflare-Turnstile-com-Camoufox-e-Playwright/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] COSMIC 1.0.12 chega com ajustes em aplicativos, terminal e mais melhorias no desktop da System76</title>
-      <link>https://www.vivaolinux.com.br/noticia/cosmic-1-0-12-chega-com-ajustes-em-aplicativos-terminal-e-mais-melhorias-no-desktop-da-system76/</link>
-      <description></description>
-      <pubDate>Thu, 30 Jul 2026 22:05:07 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/cosmic-1-0-12-chega-com-ajustes-em-aplicativos-terminal-e-mais-melhorias-no-desktop-da-system76/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Lendo as Notícias do Sistema no Arch Linux e CachyOS (A Alternativa ao eselect news)</title>
-      <link>https://www.vivaolinux.com.br/dica/Lendo-as-Noticias-do-Sistema-no-Arch-Linux-e-CachyOS-A-Alternativa-ao-eselect-news/</link>
-      <description></description>
-      <pubDate>Thu, 30 Jul 2026 22:05:07 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Lendo-as-Noticias-do-Sistema-no-Arch-Linux-e-CachyOS-A-Alternativa-ao-eselect-news/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Instalando o Brave Origin via script oficial (Compatível com qualquer distro)</title>
-      <link>https://www.vivaolinux.com.br/dica/Instalando-o-Brave-Origin-via-script-oficial-Compativel-com-qualquer-distro/</link>
-      <description></description>
-      <pubDate>Thu, 30 Jul 2026 22:05:07 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Instalando-o-Brave-Origin-via-script-oficial-Compativel-com-qualquer-distro/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Today] Pangolin Reverse Proxy Moves to Dual Licensing With New Enterprise Edition</title>
@@ -240,6 +120,126 @@
       <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
+    </item>
+    <item>
+      <title>[LWN] mkdir()</title>
+      <link>https://man7.org/linux/man-pages/man2/mkdir.2.html</link>
+      <description></description>
+      <pubDate>Fri, 31 Jul 2026 00:01:25 -0000</pubDate>
+      <guid isPermaLink="false">https://man7.org/linux/man-pages/man2/mkdir.2.html</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1085617/</link>
+      <description></description>
+      <pubDate>Fri, 31 Jul 2026 00:01:25 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1085617/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] BPF type format</title>
+      <link>https://docs.kernel.org/bpf/btf.html</link>
+      <description></description>
+      <pubDate>Fri, 31 Jul 2026 00:01:25 -0000</pubDate>
+      <guid isPermaLink="false">https://docs.kernel.org/bpf/btf.html</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1083985/</link>
+      <description></description>
+      <pubDate>Fri, 31 Jul 2026 00:01:25 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1083985/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] change proposal</title>
+      <link>https://fedoraproject.org/wiki/Changes/Grub2LightForConfidentialComputing#Detailed_Description</link>
+      <description></description>
+      <pubDate>Fri, 31 Jul 2026 00:01:25 -0000</pubDate>
+      <guid isPermaLink="false">https://fedoraproject.org/wiki/Changes/Grub2LightForConfidentialComputing#Detailed_Description</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Instalar o WARP no Void Linux</title>
+      <link>https://www.vivaolinux.com.br/artigo/Instalar-o-WARP-no-Void-Linux/</link>
+      <description></description>
+      <pubDate>Fri, 31 Jul 2026 00:01:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Instalar-o-WARP-no-Void-Linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Starling: novo desktop Linux em Swift traz compositor Wayland próprio e parte do código foi feita com ajuda de IA</title>
+      <link>https://www.vivaolinux.com.br/noticia/starling-novo-desktop-linux-em-swift-traz-compositor-wayland-proprio-e-parte-do-codigo-foi-feita-com-ajuda-de-ia/</link>
+      <description></description>
+      <pubDate>Fri, 31 Jul 2026 00:01:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/starling-novo-desktop-linux-em-swift-traz-compositor-wayland-proprio-e-parte-do-codigo-foi-feita-com-ajuda-de-ia/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] RPA de Elite: Superando o Cloudflare Turnstile com Camoufox e Playwright</title>
+      <link>https://www.vivaolinux.com.br/artigo/RPA-de-Elite-Superando-o-Cloudflare-Turnstile-com-Camoufox-e-Playwright/</link>
+      <description></description>
+      <pubDate>Fri, 31 Jul 2026 00:01:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/RPA-de-Elite-Superando-o-Cloudflare-Turnstile-com-Camoufox-e-Playwright/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] COSMIC 1.0.12 chega com ajustes em aplicativos, terminal e mais melhorias no desktop da System76</title>
+      <link>https://www.vivaolinux.com.br/noticia/cosmic-1-0-12-chega-com-ajustes-em-aplicativos-terminal-e-mais-melhorias-no-desktop-da-system76/</link>
+      <description></description>
+      <pubDate>Fri, 31 Jul 2026 00:01:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/cosmic-1-0-12-chega-com-ajustes-em-aplicativos-terminal-e-mais-melhorias-no-desktop-da-system76/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Lendo as Notícias do Sistema no Arch Linux e CachyOS (A Alternativa ao eselect news)</title>
+      <link>https://www.vivaolinux.com.br/dica/Lendo-as-Noticias-do-Sistema-no-Arch-Linux-e-CachyOS-A-Alternativa-ao-eselect-news/</link>
+      <description></description>
+      <pubDate>Fri, 31 Jul 2026 00:01:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Lendo-as-Noticias-do-Sistema-no-Arch-Linux-e-CachyOS-A-Alternativa-ao-eselect-news/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
+      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
+      <description></description>
+      <pubDate>Fri, 31 Jul 2026 00:01:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
+      <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
+      <description></description>
+      <pubDate>Fri, 31 Jul 2026 00:01:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] From Campus to Community Part 3: What Universities Uniquely Bring</title>
+      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</link>
+      <description></description>
+      <pubDate>Fri, 31 Jul 2026 00:01:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Linux Foundation Newsletter: July 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</link>
+      <description></description>
+      <pubDate>Fri, 31 Jul 2026 00:01:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] What Agentic AI Asks of Open Source Strategy: A New Layer for OSPOs</title>
+      <link>https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</link>
+      <description></description>
+      <pubDate>Fri, 31 Jul 2026 00:01:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[4Linux] IA aumenta a produtividade, mas o mercado patina por falta de processo</title>
