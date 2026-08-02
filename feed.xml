@@ -13,10 +13,18 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Sun, 02 Aug 2026 13:20:48 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 15:01:33 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
+    <item>
+      <title>[4Linux] Reduza o Tamanho das Suas Imagens Docker: Um Guia Completo para Iniciantes</title>
+      <link>https://blog.4linux.com.br/reduza-o-tamanho-das-suas-imagens-docker-um-guia-completo-para-iniciantes/</link>
+      <description>Se você já começou a criar suas próprias imagens, deve ter notado que elas podem ficar enormes rapidamente. Imagens grandes consomem mais espaço em disco, demoram mais para serem baixadas The post Reduza o Tamanho das Suas Imagens Docker: Um Guia Completo para Iniciantes appeared first on Blog...</description>
+      <pubDate>Wed, 29 Jul 2026 20:00:56 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13137</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
     <item>
       <title>[FSFLA] IRPF-Livre 2023 released</title>
       <link>http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.en.html</link>
@@ -40,6 +48,22 @@
       <pubDate>Wed, 17 May 2023 22:00:24 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.pt.html</guid>
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
+    </item>
+    <item>
+      <title>[4Linux] PostgreSQL e o Controle de Concorrência por Multiversão (MVCC)</title>
+      <link>https://blog.4linux.com.br/postgresql-e-o-controle-de-concorrencia-por-multiversao-mvcc/</link>
+      <description>A arquitetura de concorrência de banco de dados é um dos pilares para garantir consistência, desempenho e escalabilidade. No PostgreSQL, o mecanismo responsável por isso é o chamado Multiversion Concurrency Control (MVCC) — “Controle de Concorrência por Multiversão”. Em linhas gerais, ele permite...</description>
+      <pubDate>Wed, 15 Jul 2026 16:06:12 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13104</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
+    <item>
+      <title>[4Linux] Desvendando o Zabbix e SNMP: Monitorar Dispositivos de Rede</title>
+      <link>https://blog.4linux.com.br/desvendando-o-zabbix-e-snmp-monitorar-dispositivos-de-rede/</link>
+      <description>Já se deparou com um switch, roteador, impressora ou qualquer outro dispositivo de rede e pensou nele como uma &amp;#8220;caixa preta&amp;#8221;? Sabemos que ele está funcionando, mas não temos ideia The post Desvendando o Zabbix e SNMP: Monitorar Dispositivos de Rede appeared first on Blog 4Linux .</description>
+      <pubDate>Wed, 08 Jul 2026 13:31:27 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13101</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
       <title>[Linux Today] Pangolin Reverse Proxy Moves to Dual Licensing With New Enterprise Edition</title>
@@ -93,7 +117,7 @@
       <title>[LWN] Linux Storage, Filesystem, Memory-Management, and BPF Summit</title>
       <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 13:20:48 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 15:01:33 -0000</pubDate>
       <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -101,7 +125,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1084869/</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 13:20:48 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 15:01:33 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1084869/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -109,7 +133,7 @@
       <title>[LWN] mkdir()</title>
       <link>https://man7.org/linux/man-pages/man2/mkdir.2.html</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 13:20:48 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 15:01:33 -0000</pubDate>
       <guid isPermaLink="false">https://man7.org/linux/man-pages/man2/mkdir.2.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -117,7 +141,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1085617/</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 13:20:48 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 15:01:33 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1085617/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,55 +149,15 @@
       <title>[LWN] BPF type format</title>
       <link>https://docs.kernel.org/bpf/btf.html</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 13:20:48 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 15:01:33 -0000</pubDate>
       <guid isPermaLink="false">https://docs.kernel.org/bpf/btf.html</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
-      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
-      <description></description>
-      <pubDate>Sun, 02 Aug 2026 13:19:56 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
-      <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
-      <description></description>
-      <pubDate>Sun, 02 Aug 2026 13:19:56 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] From Campus to Community Part 3: What Universities Uniquely Bring</title>
-      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</link>
-      <description></description>
-      <pubDate>Sun, 02 Aug 2026 13:19:56 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: July 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</link>
-      <description></description>
-      <pubDate>Sun, 02 Aug 2026 13:19:56 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] What Agentic AI Asks of Open Source Strategy: A New Layer for OSPOs</title>
-      <link>https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</link>
-      <description></description>
-      <pubDate>Sun, 02 Aug 2026 13:19:56 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[Viva o Linux] Migrar Debian para Testing</title>
       <link>https://www.vivaolinux.com.br/dica/Migrar-Debian-para-Testing/</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 13:19:55 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 15:01:28 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Migrar-Debian-para-Testing/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -181,7 +165,7 @@
       <title>[Viva o Linux] Instalação do Google Chrome e Microsoft Edge no CachyOS via Distrobox (Debian)</title>
       <link>https://www.vivaolinux.com.br/dica/Instalacao-do-Google-Chrome-e-Microsoft-Edge-no-CachyOS-via-Distrobox-Debian/</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 13:19:55 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 15:01:28 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Instalacao-do-Google-Chrome-e-Microsoft-Edge-no-CachyOS-via-Distrobox-Debian/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -189,7 +173,7 @@
       <title>[Viva o Linux] openSUSE Tumbleweed em benchmark com CachyOS: o que o Phoronix testou no mesmo hardware</title>
       <link>https://www.vivaolinux.com.br/dica/openSUSE-Tumbleweed-em-benchmark-com-CachyOS-o-que-o-Phoronix-testou-no-mesmo-hardware/</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 13:19:55 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 15:01:28 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/openSUSE-Tumbleweed-em-benchmark-com-CachyOS-o-que-o-Phoronix-testou-no-mesmo-hardware/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -197,7 +181,7 @@
       <title>[Viva o Linux] TUXEDO OS vai mudar para Debian Testing e ganhar Btrfs com snapshots automáticos</title>
       <link>https://www.vivaolinux.com.br/dica/TUXEDO-OS-vai-mudar-para-Debian-Testing-e-ganhar-Btrfs-com-snapshots-automaticos/</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 13:19:55 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 15:01:28 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/TUXEDO-OS-vai-mudar-para-Debian-Testing-e-ganhar-Btrfs-com-snapshots-automaticos/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -205,9 +189,49 @@
       <title>[Viva o Linux] Instalar o WARP no Void Linux</title>
       <link>https://www.vivaolinux.com.br/artigo/Instalar-o-WARP-no-Void-Linux/</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 13:19:55 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 15:01:28 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Instalar-o-WARP-no-Void-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
+      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
+      <description></description>
+      <pubDate>Sun, 02 Aug 2026 15:01:28 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
+      <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
+      <description></description>
+      <pubDate>Sun, 02 Aug 2026 15:01:28 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] From Campus to Community Part 3: What Universities Uniquely Bring</title>
+      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</link>
+      <description></description>
+      <pubDate>Sun, 02 Aug 2026 15:01:28 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Linux Foundation Newsletter: July 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</link>
+      <description></description>
+      <pubDate>Sun, 02 Aug 2026 15:01:28 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] What Agentic AI Asks of Open Source Strategy: A New Layer for OSPOs</title>
+      <link>https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</link>
+      <description></description>
+      <pubDate>Sun, 02 Aug 2026 15:01:28 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[FSFLA] 6point4.en</title>
@@ -216,6 +240,22 @@
       <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
+    </item>
+    <item>
+      <title>[4Linux] IA aumenta a produtividade, mas o mercado patina por falta de processo</title>
+      <link>https://blog.4linux.com.br/compartilhando-conhecimento-de-ia-ia-aumenta-a-produtividade-o-que-falta-e-planejamento-para-usar/</link>
+      <description>Tem uma discussão besta rolando na nossa área. De um lado, os emocionados: “IA vai substituir desenvolvedor, é o fim da profissão, vende tudo e vai plantar batata.” Do outro, The post IA aumenta a produtividade, mas o mercado patina por falta de processo appeared first on Blog 4Linux .</description>
+      <pubDate>Fri, 10 Jul 2026 12:01:38 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13663</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
+    <item>
+      <title>[4Linux] O paper que responde à pergunta que o professor Chad Jones deixou em aberto</title>
+      <link>https://blog.4linux.com.br/ia-para-maiores-o-paper-que-responde-a-pergunta-que-o-professor-chad-jones-nao-conseguiu-responder/</link>
+      <description>Sobre a mesa: 13% de queda no emprego para jovens entre 22 e 25 anos em ocupações expostas à IA. Nas outras faixas etárias, quase nada. Se você acompanhou a The post O paper que responde à pergunta que o professor Chad Jones deixou em aberto appeared first on Blog 4Linux .</description>
+      <pubDate>Fri, 10 Jul 2026 11:53:58 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13658</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
   </channel>
 </rss>
