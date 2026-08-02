@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Sun, 02 Aug 2026 20:10:06 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 21:56:03 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -117,7 +117,7 @@
       <title>[LWN] Linux Storage, Filesystem, Memory-Management, and BPF Summit</title>
       <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 20:10:06 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 21:56:03 -0000</pubDate>
       <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1084869/</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 20:10:06 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 21:56:03 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1084869/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[LWN] mkdir()</title>
       <link>https://man7.org/linux/man-pages/man2/mkdir.2.html</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 20:10:06 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 21:56:03 -0000</pubDate>
       <guid isPermaLink="false">https://man7.org/linux/man-pages/man2/mkdir.2.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,7 +141,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1085617/</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 20:10:06 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 21:56:03 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1085617/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[LWN] BPF type format</title>
       <link>https://docs.kernel.org/bpf/btf.html</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 20:10:06 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 21:56:03 -0000</pubDate>
       <guid isPermaLink="false">https://docs.kernel.org/bpf/btf.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 20:10:01 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 21:55:58 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
       <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 20:10:01 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 21:55:58 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -173,7 +173,7 @@
       <title>[Linux Foundation] From Campus to Community Part 3: What Universities Uniquely Bring</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 20:10:01 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 21:55:58 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -181,7 +181,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: July 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 20:10:01 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 21:55:58 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,15 +189,23 @@
       <title>[Linux Foundation] What Agentic AI Asks of Open Source Strategy: A New Layer for OSPOs</title>
       <link>https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 20:10:01 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 21:55:58 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Como instalar o yt-dlp e mantê-lo sempre atualizado</title>
+      <link>https://www.vivaolinux.com.br/dica/Como-instalar-o-yt-dlp-e-mante-lo-sempre-atualizado/</link>
+      <description></description>
+      <pubDate>Sun, 02 Aug 2026 21:55:57 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Como-instalar-o-yt-dlp-e-mante-lo-sempre-atualizado/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Viva o Linux] Migrar Debian para Testing</title>
       <link>https://www.vivaolinux.com.br/dica/Migrar-Debian-para-Testing/</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 20:10:00 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 21:55:57 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Migrar-Debian-para-Testing/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -205,7 +213,7 @@
       <title>[Viva o Linux] Instalação do Google Chrome e Microsoft Edge no CachyOS via Distrobox (Debian)</title>
       <link>https://www.vivaolinux.com.br/dica/Instalacao-do-Google-Chrome-e-Microsoft-Edge-no-CachyOS-via-Distrobox-Debian/</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 20:10:00 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 21:55:57 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Instalacao-do-Google-Chrome-e-Microsoft-Edge-no-CachyOS-via-Distrobox-Debian/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -213,7 +221,7 @@
       <title>[Viva o Linux] openSUSE Tumbleweed em benchmark com CachyOS: o que o Phoronix testou no mesmo hardware</title>
       <link>https://www.vivaolinux.com.br/dica/openSUSE-Tumbleweed-em-benchmark-com-CachyOS-o-que-o-Phoronix-testou-no-mesmo-hardware/</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 20:10:00 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 21:55:57 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/openSUSE-Tumbleweed-em-benchmark-com-CachyOS-o-que-o-Phoronix-testou-no-mesmo-hardware/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -221,16 +229,8 @@
       <title>[Viva o Linux] TUXEDO OS vai mudar para Debian Testing e ganhar Btrfs com snapshots automáticos</title>
       <link>https://www.vivaolinux.com.br/dica/TUXEDO-OS-vai-mudar-para-Debian-Testing-e-ganhar-Btrfs-com-snapshots-automaticos/</link>
       <description></description>
-      <pubDate>Sun, 02 Aug 2026 20:10:00 -0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 21:55:57 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/TUXEDO-OS-vai-mudar-para-Debian-Testing-e-ganhar-Btrfs-com-snapshots-automaticos/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Instalar o WARP no Void Linux</title>
-      <link>https://www.vivaolinux.com.br/artigo/Instalar-o-WARP-no-Void-Linux/</link>
-      <description></description>
-      <pubDate>Sun, 02 Aug 2026 20:10:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Instalar-o-WARP-no-Void-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
