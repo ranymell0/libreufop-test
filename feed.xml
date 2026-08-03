@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Mon, 03 Aug 2026 15:42:55 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 17:50:23 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -122,10 +122,26 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
+      <title>[LWN] Filesystem in Userspace</title>
+      <link>https://docs.kernel.org/filesystems/fuse/</link>
+      <description></description>
+      <pubDate>Mon, 03 Aug 2026 17:50:23 -0000</pubDate>
+      <guid isPermaLink="false">https://docs.kernel.org/filesystems/fuse/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1085618/</link>
+      <description></description>
+      <pubDate>Mon, 03 Aug 2026 17:50:23 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1085618/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
       <title>[LWN] Linux Storage, Filesystem, Memory-Management, and BPF Summit</title>
       <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
       <description></description>
-      <pubDate>Mon, 03 Aug 2026 15:42:55 -0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 17:50:23 -0000</pubDate>
       <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +149,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1084869/</link>
       <description></description>
-      <pubDate>Mon, 03 Aug 2026 15:42:55 -0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 17:50:23 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1084869/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,31 +157,15 @@
       <title>[LWN] mkdir()</title>
       <link>https://man7.org/linux/man-pages/man2/mkdir.2.html</link>
       <description></description>
-      <pubDate>Mon, 03 Aug 2026 15:42:55 -0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 17:50:23 -0000</pubDate>
       <guid isPermaLink="false">https://man7.org/linux/man-pages/man2/mkdir.2.html</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1085617/</link>
-      <description></description>
-      <pubDate>Mon, 03 Aug 2026 15:42:55 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1085617/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] BPF type format</title>
-      <link>https://docs.kernel.org/bpf/btf.html</link>
-      <description></description>
-      <pubDate>Mon, 03 Aug 2026 15:42:55 -0000</pubDate>
-      <guid isPermaLink="false">https://docs.kernel.org/bpf/btf.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
     <item>
       <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
       <description></description>
-      <pubDate>Mon, 03 Aug 2026 15:42:49 -0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 17:50:18 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -173,7 +173,7 @@
       <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
       <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
       <description></description>
-      <pubDate>Mon, 03 Aug 2026 15:42:49 -0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 17:50:18 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -181,7 +181,7 @@
       <title>[Linux Foundation] From Campus to Community Part 3: What Universities Uniquely Bring</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</link>
       <description></description>
-      <pubDate>Mon, 03 Aug 2026 15:42:49 -0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 17:50:18 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,7 +189,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: July 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</link>
       <description></description>
-      <pubDate>Mon, 03 Aug 2026 15:42:49 -0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 17:50:18 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -197,7 +197,7 @@
       <title>[Linux Foundation] What Agentic AI Asks of Open Source Strategy: A New Layer for OSPOs</title>
       <link>https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</link>
       <description></description>
-      <pubDate>Mon, 03 Aug 2026 15:42:49 -0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 17:50:18 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/what-agentic-ai-asks-of-open-source-strategy-a-new-layer-for-ospos</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -205,7 +205,7 @@
       <title>[Viva o Linux] Instalar Qt Creator no Linux</title>
       <link>https://www.vivaolinux.com.br/dica/Instalar-Qt-Creator-no-Linux/</link>
       <description></description>
-      <pubDate>Mon, 03 Aug 2026 15:42:48 -0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 17:50:17 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Instalar-Qt-Creator-no-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -213,7 +213,7 @@
       <title>[Viva o Linux] Linux bate 7,53% de participação mundial em desktops, aponta Statcounter</title>
       <link>https://www.vivaolinux.com.br/noticia/linux-bate-7-53-de-participacao-mundial-em-desktops-aponta-statcounter/</link>
       <description></description>
-      <pubDate>Mon, 03 Aug 2026 15:42:48 -0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 17:50:17 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-bate-7-53-de-participacao-mundial-em-desktops-aponta-statcounter/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -221,7 +221,7 @@
       <title>[Viva o Linux] Fedora 45 deve ativar Shadow Stack por padrão em máquinas x86_64 compatíveis</title>
       <link>https://www.vivaolinux.com.br/noticia/fedora-45-deve-ativar-shadow-stack-por-padrao-em-maquinas-x86-64-compativeis/</link>
       <description></description>
-      <pubDate>Mon, 03 Aug 2026 15:42:48 -0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 17:50:17 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/fedora-45-deve-ativar-shadow-stack-por-padrao-em-maquinas-x86-64-compativeis/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -229,7 +229,7 @@
       <title>[Viva o Linux] Como instalar o yt-dlp e mantê-lo sempre atualizado</title>
       <link>https://www.vivaolinux.com.br/dica/Como-instalar-o-yt-dlp-e-mante-lo-sempre-atualizado/</link>
       <description></description>
-      <pubDate>Mon, 03 Aug 2026 15:42:48 -0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 17:50:17 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Como-instalar-o-yt-dlp-e-mante-lo-sempre-atualizado/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -237,7 +237,7 @@
       <title>[Viva o Linux] Migrar Debian para Testing</title>
       <link>https://www.vivaolinux.com.br/dica/Migrar-Debian-para-Testing/</link>
       <description></description>
-      <pubDate>Mon, 03 Aug 2026 15:42:48 -0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 17:50:17 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Migrar-Debian-para-Testing/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
