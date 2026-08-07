@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Fri, 07 Aug 2026 08:58:23 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 10:06:39 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -141,7 +141,7 @@
       <title>[LWN] binfmt_misc</title>
       <link>https://docs.kernel.org/admin-guide/binfmt-misc.html</link>
       <description></description>
-      <pubDate>Fri, 07 Aug 2026 08:58:23 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 10:06:39 -0000</pubDate>
       <guid isPermaLink="false">https://docs.kernel.org/admin-guide/binfmt-misc.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1086947/</link>
       <description></description>
-      <pubDate>Fri, 07 Aug 2026 08:58:23 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 10:06:39 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1086947/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[LWN] Cilium</title>
       <link>https://cilium.io/</link>
       <description></description>
-      <pubDate>Fri, 07 Aug 2026 08:58:23 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 10:06:39 -0000</pubDate>
       <guid isPermaLink="false">https://cilium.io/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1085896/</link>
       <description></description>
-      <pubDate>Fri, 07 Aug 2026 08:58:23 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 10:06:39 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1085896/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -173,7 +173,7 @@
       <title>[LWN] Filesystem in Userspace</title>
       <link>https://docs.kernel.org/filesystems/fuse/</link>
       <description></description>
-      <pubDate>Fri, 07 Aug 2026 08:58:23 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 10:06:39 -0000</pubDate>
       <guid isPermaLink="false">https://docs.kernel.org/filesystems/fuse/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -181,7 +181,7 @@
       <title>[Viva o Linux] Configurar as Opções de &quot;Mostrar na pasta&quot; e &quot;Abrir&quot; no Navegador após Download no Void Linux</title>
       <link>https://www.vivaolinux.com.br/artigo/Configurar-as-Opcoes-de-Mostrar-na-pasta-e-Abrir-no-Navegador-apos-Download-no-Void-Linux/</link>
       <description></description>
-      <pubDate>Fri, 07 Aug 2026 08:58:18 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 10:06:33 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Configurar-as-Opcoes-de-Mostrar-na-pasta-e-Abrir-no-Navegador-apos-Download-no-Void-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -189,7 +189,7 @@
       <title>[Viva o Linux] Do Código ao Contexto da IA: Como Empacotar Projetos Completos com Repomix no Linux</title>
       <link>https://www.vivaolinux.com.br/artigo/Do-Codigo-ao-Contexto-da-IA-Como-Empacotar-Projetos-Completos-com-Repomix-no-Linux/</link>
       <description></description>
-      <pubDate>Fri, 07 Aug 2026 08:58:18 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 10:06:33 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Do-Codigo-ao-Contexto-da-IA-Como-Empacotar-Projetos-Completos-com-Repomix-no-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -197,7 +197,7 @@
       <title>[Viva o Linux] IA para Dados com API</title>
       <link>https://www.vivaolinux.com.br/dica/IA-para-Dados-com-API/</link>
       <description></description>
-      <pubDate>Fri, 07 Aug 2026 08:58:18 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 10:06:33 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/IA-para-Dados-com-API/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -205,7 +205,7 @@
       <title>[Viva o Linux] Peppermint OS: uma base Debian enxuta para montar o sistema do seu jeito</title>
       <link>https://www.vivaolinux.com.br/dica/Peppermint-OS-uma-base-Debian-enxuta-para-montar-o-sistema-do-seu-jeito/</link>
       <description></description>
-      <pubDate>Fri, 07 Aug 2026 08:58:18 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 10:06:33 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Peppermint-OS-uma-base-Debian-enxuta-para-montar-o-sistema-do-seu-jeito/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -213,7 +213,7 @@
       <title>[Viva o Linux] Instalar suporte à Impressora no Arch e no CachyOS (KDE Plasma)</title>
       <link>https://www.vivaolinux.com.br/dica/Instalar-suporte-a-Impressora-no-Arch-e-no-CachyOS-KDE-Plasma/</link>
       <description></description>
-      <pubDate>Fri, 07 Aug 2026 08:58:18 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 10:06:33 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Instalar-suporte-a-Impressora-no-Arch-e-no-CachyOS-KDE-Plasma/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -221,7 +221,7 @@
       <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
       <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
       <description></description>
-      <pubDate>Fri, 07 Aug 2026 08:58:18 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 10:06:33 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -229,7 +229,7 @@
       <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
       <description></description>
-      <pubDate>Fri, 07 Aug 2026 08:58:18 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 10:06:33 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -237,7 +237,7 @@
       <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
       <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
       <description></description>
-      <pubDate>Fri, 07 Aug 2026 08:58:18 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 10:06:33 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -245,7 +245,7 @@
       <title>[Linux Foundation] From Campus to Community Part 3: What Universities Uniquely Bring</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</link>
       <description></description>
-      <pubDate>Fri, 07 Aug 2026 08:58:18 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 10:06:33 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -253,7 +253,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: July 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</link>
       <description></description>
-      <pubDate>Fri, 07 Aug 2026 08:58:18 -0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 10:06:33 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
