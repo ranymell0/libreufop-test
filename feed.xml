@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Tue, 11 Aug 2026 10:00:09 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 10:59:24 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -69,7 +69,7 @@
       <title>[LWN] Linux Storage, Filesystem, Memory-Management, and BPF Summit</title>
       <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
       <description></description>
-      <pubDate>Tue, 11 Aug 2026 10:00:09 -0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 10:59:24 -0000</pubDate>
       <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,7 +77,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1087069/</link>
       <description></description>
-      <pubDate>Tue, 11 Aug 2026 10:00:09 -0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 10:59:24 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1087069/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -85,7 +85,7 @@
       <title>[LWN] shadow-utils</title>
       <link>https://github.com/shadow-maint/shadow#shadow-utils</link>
       <description></description>
-      <pubDate>Tue, 11 Aug 2026 10:00:09 -0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 10:59:24 -0000</pubDate>
       <guid isPermaLink="false">https://github.com/shadow-maint/shadow#shadow-utils</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -93,7 +93,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1086949/</link>
       <description></description>
-      <pubDate>Tue, 11 Aug 2026 10:00:09 -0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 10:59:24 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1086949/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -101,7 +101,7 @@
       <title>[LWN] binfmt_misc</title>
       <link>https://docs.kernel.org/admin-guide/binfmt-misc.html</link>
       <description></description>
-      <pubDate>Tue, 11 Aug 2026 10:00:09 -0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 10:59:24 -0000</pubDate>
       <guid isPermaLink="false">https://docs.kernel.org/admin-guide/binfmt-misc.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -109,7 +109,7 @@
       <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
       <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
       <description></description>
-      <pubDate>Tue, 11 Aug 2026 10:00:03 -0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 10:59:18 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -117,7 +117,7 @@
       <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
       <description></description>
-      <pubDate>Tue, 11 Aug 2026 10:00:03 -0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 10:59:18 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
       <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
       <description></description>
-      <pubDate>Tue, 11 Aug 2026 10:00:03 -0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 10:59:18 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[Linux Foundation] From Campus to Community Part 3: What Universities Uniquely Bring</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</link>
       <description></description>
-      <pubDate>Tue, 11 Aug 2026 10:00:03 -0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 10:59:18 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -141,15 +141,23 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: July 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</link>
       <description></description>
-      <pubDate>Tue, 11 Aug 2026 10:00:03 -0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 10:59:18 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-july-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Driver aberto Nova, da NVIDIA, ganha mais recursos mirando o Linux 7.3</title>
+      <link>https://www.vivaolinux.com.br/noticia/driver-aberto-nova-da-nvidia-ganha-mais-recursos-mirando-o-linux-7-3/</link>
+      <description></description>
+      <pubDate>Tue, 11 Aug 2026 10:59:17 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/driver-aberto-nova-da-nvidia-ganha-mais-recursos-mirando-o-linux-7-3/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Viva o Linux] Claude começa a hackear; Wi‑Fi de hotel e NPM: semana escancarou riscos de IA, supply chain e confiança em builds</title>
       <link>https://www.vivaolinux.com.br/noticia/claude-comeca-a-hackear-wi-fi-de-hotel-e-npm-semana-escancarou-riscos-de-ia-supply-chain-e-confianca-em-builds/</link>
       <description></description>
-      <pubDate>Tue, 11 Aug 2026 10:00:02 -0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 10:59:17 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/claude-comeca-a-hackear-wi-fi-de-hotel-e-npm-semana-escancarou-riscos-de-ia-supply-chain-e-confianca-em-builds/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -157,7 +165,7 @@
       <title>[Viva o Linux] Como unir vários PDFs em um único arquivo no CachyOS/Arch Linux</title>
       <link>https://www.vivaolinux.com.br/dica/Como-unir-varios-PDFs-em-um-unico-arquivo-no-CachyOSArch-Linux/</link>
       <description></description>
-      <pubDate>Tue, 11 Aug 2026 10:00:02 -0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 10:59:17 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Como-unir-varios-PDFs-em-um-unico-arquivo-no-CachyOSArch-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -165,7 +173,7 @@
       <title>[Viva o Linux] Ubuntu está perdendo espaço no desktop Linux? Debate reacende diferença entre distro, ambiente gráfico e IA</title>
       <link>https://www.vivaolinux.com.br/noticia/ubuntu-esta-perdendo-espaco-no-desktop-linux-debate-reacende-diferenca-entre-distro-ambiente-grafico-e-ia/</link>
       <description></description>
-      <pubDate>Tue, 11 Aug 2026 10:00:02 -0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 10:59:17 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ubuntu-esta-perdendo-espaco-no-desktop-linux-debate-reacende-diferenca-entre-distro-ambiente-grafico-e-ia/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -173,16 +181,8 @@
       <title>[Viva o Linux] LightDM ganha atualização após quatro anos e passa a ter suporte a Qt6</title>
       <link>https://www.vivaolinux.com.br/noticia/lightdm-ganha-atualizacao-apos-quatro-anos-e-passa-a-ter-suporte-a-qt6/</link>
       <description></description>
-      <pubDate>Tue, 11 Aug 2026 10:00:02 -0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 10:59:17 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/lightdm-ganha-atualizacao-apos-quatro-anos-e-passa-a-ter-suporte-a-qt6/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] GNOME Disks finalmente ganha port para GTK4 e libadwaita</title>
-      <link>https://www.vivaolinux.com.br/noticia/gnome-disks-finalmente-ganha-port-para-gtk4-e-libadwaita/</link>
-      <description></description>
-      <pubDate>Tue, 11 Aug 2026 10:00:02 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/gnome-disks-finalmente-ganha-port-para-gtk4-e-libadwaita/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
