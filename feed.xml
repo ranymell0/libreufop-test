@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Fri, 14 Aug 2026 08:15:27 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 10:00:57 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -141,7 +141,7 @@
       <title>[LWN] This patch set</title>
       <link>https://lwn.net/ml/all/20260729122452.3797443-1-anshuman.khandual@arm.com</link>
       <description></description>
-      <pubDate>Fri, 14 Aug 2026 08:15:27 -0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 10:00:57 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/ml/all/20260729122452.3797443-1-anshuman.khandual@arm.com</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1088125/</link>
       <description></description>
-      <pubDate>Fri, 14 Aug 2026 08:15:27 -0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 10:00:57 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1088125/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[LWN] patch series</title>
       <link>https://lwn.net/ml/all/20260611140703.2401204-1-hch@lst.de/</link>
       <description></description>
-      <pubDate>Fri, 14 Aug 2026 08:15:27 -0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 10:00:57 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/ml/all/20260611140703.2401204-1-hch@lst.de/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1086344/</link>
       <description></description>
-      <pubDate>Fri, 14 Aug 2026 08:15:27 -0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 10:00:57 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1086344/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -173,55 +173,15 @@
       <title>[LWN] a number of small, inexpensive, low-powered e-reader or e-paper devices</title>
       <link>https://crosspointreader.com/devices</link>
       <description></description>
-      <pubDate>Fri, 14 Aug 2026 08:15:27 -0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 10:00:57 -0000</pubDate>
       <guid isPermaLink="false">https://crosspointreader.com/devices</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
-      <description></description>
-      <pubDate>Fri, 14 Aug 2026 08:15:21 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
-      <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
-      <description></description>
-      <pubDate>Fri, 14 Aug 2026 08:15:21 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
-      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
-      <description></description>
-      <pubDate>Fri, 14 Aug 2026 08:15:21 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
-      <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
-      <description></description>
-      <pubDate>Fri, 14 Aug 2026 08:15:21 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] From Campus to Community Part 3: What Universities Uniquely Bring</title>
-      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</link>
-      <description></description>
-      <pubDate>Fri, 14 Aug 2026 08:15:21 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[Viva o Linux] Mais uma IA invade sistema: agora foi na Austrália, e expõe risco de falhas em software de reservas</title>
       <link>https://www.vivaolinux.com.br/noticia/mais-uma-ia-invade-sistema-agora-foi-na-australia-e-expoe-risco-de-falhas-em-software-de-reservas/</link>
       <description></description>
-      <pubDate>Fri, 14 Aug 2026 08:15:20 -0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 10:00:51 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/mais-uma-ia-invade-sistema-agora-foi-na-australia-e-expoe-risco-de-falhas-em-software-de-reservas/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -229,7 +189,7 @@
       <title>[Viva o Linux] Otimização de Contexto para Inteligências Artificiais: Dominando o Graphify no Linux para Reduzir o Consumo de Tokens em até</title>
       <link>https://www.vivaolinux.com.br/artigo/Otimizacao-de-Contexto-para-Inteligencias-Artificiais-Dominando-o-Graphify-no-Linux-para-Reduzir-o-Consumo-de-Tokens-em-ateeacute/</link>
       <description></description>
-      <pubDate>Fri, 14 Aug 2026 08:15:20 -0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 10:00:51 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Otimizacao-de-Contexto-para-Inteligencias-Artificiais-Dominando-o-Graphify-no-Linux-para-Reduzir-o-Consumo-de-Tokens-em-ateeacute/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -237,7 +197,7 @@
       <title>[Viva o Linux] Compositor Wayland do Xfce ganha segunda prévia com melhorias de janelas, entrada e compatibilidade com X11</title>
       <link>https://www.vivaolinux.com.br/noticia/compositor-wayland-do-xfce-ganha-segunda-previa-com-melhorias-de-janelas-entrada-e-compatibilidade-com-x11/</link>
       <description></description>
-      <pubDate>Fri, 14 Aug 2026 08:15:20 -0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 10:00:51 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/compositor-wayland-do-xfce-ganha-segunda-previa-com-melhorias-de-janelas-entrada-e-compatibilidade-com-x11/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -245,7 +205,7 @@
       <title>[Viva o Linux] Migração do Windows para o Linux com sistemas corporativos</title>
       <link>https://www.vivaolinux.com.br/dica/Migracao-do-Windows-para-o-Linux-com-sistemas-corporativos/</link>
       <description></description>
-      <pubDate>Fri, 14 Aug 2026 08:15:20 -0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 10:00:51 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Migracao-do-Windows-para-o-Linux-com-sistemas-corporativos/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -253,9 +213,49 @@
       <title>[Viva o Linux] O poder subestimado dos serviços de usuário</title>
       <link>https://www.vivaolinux.com.br/artigo/O-poder-subestimado-dos-servicos-de-usuario/</link>
       <description></description>
-      <pubDate>Fri, 14 Aug 2026 08:15:20 -0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 10:00:51 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/O-poder-subestimado-dos-servicos-de-usuario/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
+      <description></description>
+      <pubDate>Fri, 14 Aug 2026 10:00:51 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
+      <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
+      <description></description>
+      <pubDate>Fri, 14 Aug 2026 10:00:51 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
+      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
+      <description></description>
+      <pubDate>Fri, 14 Aug 2026 10:00:51 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
+      <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
+      <description></description>
+      <pubDate>Fri, 14 Aug 2026 10:00:51 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] From Campus to Community Part 3: What Universities Uniquely Bring</title>
+      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</link>
+      <description></description>
+      <pubDate>Fri, 14 Aug 2026 10:00:51 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
   </channel>
 </rss>
