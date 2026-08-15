@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Fri, 14 Aug 2026 23:20:27 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 01:12:03 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -114,6 +114,126 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
+      <title>[LWN] Linux Storage, Filesystem, Memory-Management, and BPF Summit</title>
+      <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
+      <description></description>
+      <pubDate>Sat, 15 Aug 2026 01:12:03 -0000</pubDate>
+      <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1087823/</link>
+      <description></description>
+      <pubDate>Sat, 15 Aug 2026 01:12:03 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1087823/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] This patch set</title>
+      <link>https://lwn.net/ml/all/20260729122452.3797443-1-anshuman.khandual@arm.com</link>
+      <description></description>
+      <pubDate>Sat, 15 Aug 2026 01:12:03 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/ml/all/20260729122452.3797443-1-anshuman.khandual@arm.com</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1088125/</link>
+      <description></description>
+      <pubDate>Sat, 15 Aug 2026 01:12:03 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1088125/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] patch series</title>
+      <link>https://lwn.net/ml/all/20260611140703.2401204-1-hch@lst.de/</link>
+      <description></description>
+      <pubDate>Sat, 15 Aug 2026 01:12:03 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/ml/all/20260611140703.2401204-1-hch@lst.de/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
+      <description></description>
+      <pubDate>Sat, 15 Aug 2026 01:11:57 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
+      <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
+      <description></description>
+      <pubDate>Sat, 15 Aug 2026 01:11:57 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
+      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
+      <description></description>
+      <pubDate>Sat, 15 Aug 2026 01:11:57 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
+      <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
+      <description></description>
+      <pubDate>Sat, 15 Aug 2026 01:11:57 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] From Campus to Community Part 3: What Universities Uniquely Bring</title>
+      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</link>
+      <description></description>
+      <pubDate>Sat, 15 Aug 2026 01:11:57 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Correção de permissão de controles na Steam (Flatpak) no Kubuntu/Ubuntu</title>
+      <link>https://www.vivaolinux.com.br/dica/Correcao-de-permissao-de-controles-na-Steam-Flatpak-no-KubuntuUbuntu/</link>
+      <description></description>
+      <pubDate>Sat, 15 Aug 2026 01:11:56 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Correcao-de-permissao-de-controles-na-Steam-Flatpak-no-KubuntuUbuntu/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Instalação de suporte completo ao idioma pt-BR no Kubuntu</title>
+      <link>https://www.vivaolinux.com.br/dica/Instalacao-de-suporte-completo-ao-idioma-pt-BR-no-Kubuntu/</link>
+      <description></description>
+      <pubDate>Sat, 15 Aug 2026 01:11:56 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Instalacao-de-suporte-completo-ao-idioma-pt-BR-no-Kubuntu/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] KDE, Kubuntu Focus e Techpaladin anunciam iniciativa para manter o Plasma 6.6 LTS por pelo menos três anos</title>
+      <link>https://www.vivaolinux.com.br/noticia/kde-kubuntu-focus-e-techpaladin-anunciam-iniciativa-para-manter-o-plasma-6-6-lts-por-pelo-menos-tres-anos/</link>
+      <description></description>
+      <pubDate>Sat, 15 Aug 2026 01:11:56 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kde-kubuntu-focus-e-techpaladin-anunciam-iniciativa-para-manter-o-plasma-6-6-lts-por-pelo-menos-tres-anos/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Linux 7.2 chega com foco em desempenho, AMD Zen 6, HDMI 2.1 e novidades para Intel e Apple M3</title>
+      <link>https://www.vivaolinux.com.br/noticia/linux-7-2-chega-com-foco-em-desempenho-amd-zen-6-hdmi-2-1-e-novidades-para-intel-e-apple-m3/</link>
+      <description></description>
+      <pubDate>Sat, 15 Aug 2026 01:11:56 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-7-2-chega-com-foco-em-desempenho-amd-zen-6-hdmi-2-1-e-novidades-para-intel-e-apple-m3/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Homem esconde instruções de IA em petição judicial e leva bronca da Justiça nos EUA</title>
+      <link>https://www.vivaolinux.com.br/noticia/homem-esconde-instrucoes-de-ia-em-peticao-judicial-e-leva-bronca-da-justica-nos-eua/</link>
+      <description></description>
+      <pubDate>Sat, 15 Aug 2026 01:11:56 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/homem-esconde-instrucoes-de-ia-em-peticao-judicial-e-leva-bronca-da-justica-nos-eua/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
       <title>[4Linux] O bombeiro que vende o próprio incêndio</title>
       <link>https://blog.4linux.com.br/compartilhando-conhecimento-de-ia-o-bombeiro-que-vende-o-proprio-incendio/</link>
       <description>Saudações, pessoal! Kenneth Arrow, economista laureado com o Nobel, descreveu décadas atrás um dilema clássico dos mercados de informação. O comprador só descobre o valor real de uma informação depois The post O bombeiro que vende o próprio incêndio appeared first on Blog 4Linux .</description>
@@ -136,126 +256,6 @@
       <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
-    </item>
-    <item>
-      <title>[LWN] Linux Storage, Filesystem, Memory-Management, and BPF Summit</title>
-      <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
-      <description></description>
-      <pubDate>Fri, 14 Aug 2026 23:20:27 -0000</pubDate>
-      <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1087823/</link>
-      <description></description>
-      <pubDate>Fri, 14 Aug 2026 23:20:27 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1087823/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] This patch set</title>
-      <link>https://lwn.net/ml/all/20260729122452.3797443-1-anshuman.khandual@arm.com</link>
-      <description></description>
-      <pubDate>Fri, 14 Aug 2026 23:20:27 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/ml/all/20260729122452.3797443-1-anshuman.khandual@arm.com</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1088125/</link>
-      <description></description>
-      <pubDate>Fri, 14 Aug 2026 23:20:27 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1088125/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] patch series</title>
-      <link>https://lwn.net/ml/all/20260611140703.2401204-1-hch@lst.de/</link>
-      <description></description>
-      <pubDate>Fri, 14 Aug 2026 23:20:27 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/ml/all/20260611140703.2401204-1-hch@lst.de/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Correção de permissão de controles na Steam (Flatpak) no Kubuntu/Ubuntu</title>
-      <link>https://www.vivaolinux.com.br/dica/Correcao-de-permissao-de-controles-na-Steam-Flatpak-no-KubuntuUbuntu/</link>
-      <description></description>
-      <pubDate>Fri, 14 Aug 2026 23:20:23 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Correcao-de-permissao-de-controles-na-Steam-Flatpak-no-KubuntuUbuntu/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Instalação de suporte completo ao idioma pt-BR no Kubuntu</title>
-      <link>https://www.vivaolinux.com.br/dica/Instalacao-de-suporte-completo-ao-idioma-pt-BR-no-Kubuntu/</link>
-      <description></description>
-      <pubDate>Fri, 14 Aug 2026 23:20:23 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Instalacao-de-suporte-completo-ao-idioma-pt-BR-no-Kubuntu/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] KDE, Kubuntu Focus e Techpaladin anunciam iniciativa para manter o Plasma 6.6 LTS por pelo menos três anos</title>
-      <link>https://www.vivaolinux.com.br/noticia/kde-kubuntu-focus-e-techpaladin-anunciam-iniciativa-para-manter-o-plasma-6-6-lts-por-pelo-menos-tres-anos/</link>
-      <description></description>
-      <pubDate>Fri, 14 Aug 2026 23:20:23 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kde-kubuntu-focus-e-techpaladin-anunciam-iniciativa-para-manter-o-plasma-6-6-lts-por-pelo-menos-tres-anos/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Linux 7.2 chega com foco em desempenho, AMD Zen 6, HDMI 2.1 e novidades para Intel e Apple M3</title>
-      <link>https://www.vivaolinux.com.br/noticia/linux-7-2-chega-com-foco-em-desempenho-amd-zen-6-hdmi-2-1-e-novidades-para-intel-e-apple-m3/</link>
-      <description></description>
-      <pubDate>Fri, 14 Aug 2026 23:20:23 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-7-2-chega-com-foco-em-desempenho-amd-zen-6-hdmi-2-1-e-novidades-para-intel-e-apple-m3/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Homem esconde instruções de IA em petição judicial e leva bronca da Justiça nos EUA</title>
-      <link>https://www.vivaolinux.com.br/noticia/homem-esconde-instrucoes-de-ia-em-peticao-judicial-e-leva-bronca-da-justica-nos-eua/</link>
-      <description></description>
-      <pubDate>Fri, 14 Aug 2026 23:20:23 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/homem-esconde-instrucoes-de-ia-em-peticao-judicial-e-leva-bronca-da-justica-nos-eua/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
-      <description></description>
-      <pubDate>Fri, 14 Aug 2026 23:20:23 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
-      <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
-      <description></description>
-      <pubDate>Fri, 14 Aug 2026 23:20:23 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
-      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
-      <description></description>
-      <pubDate>Fri, 14 Aug 2026 23:20:23 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
-      <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
-      <description></description>
-      <pubDate>Fri, 14 Aug 2026 23:20:23 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] From Campus to Community Part 3: What Universities Uniquely Bring</title>
-      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</link>
-      <description></description>
-      <pubDate>Fri, 14 Aug 2026 23:20:23 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
   </channel>
 </rss>
