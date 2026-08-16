@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Sun, 16 Aug 2026 08:28:33 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 09:26:17 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -117,7 +117,7 @@
       <title>[LWN] Linux Storage, Filesystem, Memory-Management, and BPF Summit</title>
       <link>https://events.linuxfoundation.org/lsfmmbpf/</link>
       <description></description>
-      <pubDate>Sun, 16 Aug 2026 08:28:33 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 09:26:17 -0000</pubDate>
       <guid isPermaLink="false">https://events.linuxfoundation.org/lsfmmbpf/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1087823/</link>
       <description></description>
-      <pubDate>Sun, 16 Aug 2026 08:28:33 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 09:26:17 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1087823/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[LWN] This patch set</title>
       <link>https://lwn.net/ml/all/20260729122452.3797443-1-anshuman.khandual@arm.com</link>
       <description></description>
-      <pubDate>Sun, 16 Aug 2026 08:28:33 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 09:26:17 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/ml/all/20260729122452.3797443-1-anshuman.khandual@arm.com</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,7 +141,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1088125/</link>
       <description></description>
-      <pubDate>Sun, 16 Aug 2026 08:28:33 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 09:26:17 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1088125/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[LWN] patch series</title>
       <link>https://lwn.net/ml/all/20260611140703.2401204-1-hch@lst.de/</link>
       <description></description>
-      <pubDate>Sun, 16 Aug 2026 08:28:33 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 09:26:17 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/ml/all/20260611140703.2401204-1-hch@lst.de/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
       <description></description>
-      <pubDate>Sun, 16 Aug 2026 08:28:28 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 09:26:11 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
       <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
       <description></description>
-      <pubDate>Sun, 16 Aug 2026 08:28:28 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 09:26:11 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -173,7 +173,7 @@
       <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
       <description></description>
-      <pubDate>Sun, 16 Aug 2026 08:28:28 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 09:26:11 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -181,7 +181,7 @@
       <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
       <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
       <description></description>
-      <pubDate>Sun, 16 Aug 2026 08:28:28 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 09:26:11 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,7 +189,7 @@
       <title>[Linux Foundation] From Campus to Community Part 3: What Universities Uniquely Bring</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</link>
       <description></description>
-      <pubDate>Sun, 16 Aug 2026 08:28:28 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 09:26:11 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -197,7 +197,7 @@
       <title>[Viva o Linux] Habilitação do Ubuntu Pro Gratuito (Ubuntu/Kubuntu 26.04)</title>
       <link>https://www.vivaolinux.com.br/dica/Habilitacao-do-Ubuntu-Pro-Gratuito-UbuntuKubuntu-2604/</link>
       <description></description>
-      <pubDate>Sun, 16 Aug 2026 08:28:27 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 09:26:10 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Habilitacao-do-Ubuntu-Pro-Gratuito-UbuntuKubuntu-2604/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -205,7 +205,7 @@
       <title>[Viva o Linux] KDE Frameworks 6.29 amplia suporte a ZIP64 e HEIF e traz ajustes em bibliotecas centrais</title>
       <link>https://www.vivaolinux.com.br/noticia/kde-frameworks-6-29-amplia-suporte-a-zip64-e-heif-e-traz-ajustes-em-bibliotecas-centrais/</link>
       <description></description>
-      <pubDate>Sun, 16 Aug 2026 08:28:27 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 09:26:10 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kde-frameworks-6-29-amplia-suporte-a-zip64-e-heif-e-traz-ajustes-em-bibliotecas-centrais/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -213,7 +213,7 @@
       <title>[Viva o Linux] Linux 7.1 e 7.2 são comparados em workstation com Intel Xeon 678X e Ubuntu 26.04 LTS</title>
       <link>https://www.vivaolinux.com.br/noticia/linux-7-1-e-7-2-sao-comparados-em-workstation-com-intel-xeon-678x-e-ubuntu-26-04-lts/</link>
       <description></description>
-      <pubDate>Sun, 16 Aug 2026 08:28:27 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 09:26:10 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-7-1-e-7-2-sao-comparados-em-workstation-com-intel-xeon-678x-e-ubuntu-26-04-lts/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -221,7 +221,7 @@
       <title>[Viva o Linux] Criando um Bot no Telegram com Python no Kubuntu</title>
       <link>https://www.vivaolinux.com.br/artigo/Criando-um-Bot-no-Telegram-com-Python-no-Kubuntu/</link>
       <description></description>
-      <pubDate>Sun, 16 Aug 2026 08:28:27 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 09:26:10 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Criando-um-Bot-no-Telegram-com-Python-no-Kubuntu/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -229,7 +229,7 @@
       <title>[Viva o Linux] Correção de permissão de controles na Steam (Flatpak) no Kubuntu/Ubuntu</title>
       <link>https://www.vivaolinux.com.br/dica/Correcao-de-permissao-de-controles-na-Steam-Flatpak-no-KubuntuUbuntu/</link>
       <description></description>
-      <pubDate>Sun, 16 Aug 2026 08:28:27 -0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 09:26:10 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Correcao-de-permissao-de-controles-na-Steam-Flatpak-no-KubuntuUbuntu/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
