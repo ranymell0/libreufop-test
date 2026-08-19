@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Wed, 19 Aug 2026 04:35:58 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 05:29:44 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -29,7 +29,7 @@
       <title>[LWN] user-space interface (AF_ALG)</title>
       <link>https://docs.kernel.org/crypto/userspace-if.html</link>
       <description></description>
-      <pubDate>Wed, 19 Aug 2026 04:35:58 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 05:29:44 -0000</pubDate>
       <guid isPermaLink="false">https://docs.kernel.org/crypto/userspace-if.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -37,7 +37,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1088489/</link>
       <description></description>
-      <pubDate>Wed, 19 Aug 2026 04:35:58 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 05:29:44 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1088489/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -45,7 +45,7 @@
       <title>[LWN] released the 7.2 kernel</title>
       <link>https://lwn.net/ml/all/CAHk-=wjk5StpAmUKHacj=GPKwA88y_YRHK=i_YAJFgmxn1=k4w@mail.gmail.com/</link>
       <description></description>
-      <pubDate>Wed, 19 Aug 2026 04:35:58 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 05:29:44 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/ml/all/CAHk-=wjk5StpAmUKHacj=GPKwA88y_YRHK=i_YAJFgmxn1=k4w@mail.gmail.com/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -53,7 +53,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1088776/</link>
       <description></description>
-      <pubDate>Wed, 19 Aug 2026 04:35:58 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 05:29:44 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1088776/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -61,55 +61,15 @@
       <title>[LWN] This year&apos;s edition of the Free and Open Source Software Yearly conference</title>
       <link>https://2026.fossy.ca/</link>
       <description></description>
-      <pubDate>Wed, 19 Aug 2026 04:35:58 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 05:29:44 -0000</pubDate>
       <guid isPermaLink="false">https://2026.fossy.ca/</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] 🐧 Instalando Agente Linux OCS Inventory NG 3.0 Rework no Debian 13</title>
-      <link>https://www.vivaolinux.com.br/dica/-Instalando-Agente-Linux-OCS-Inventory-NG-30-Rework-no-Debian-13/</link>
-      <description></description>
-      <pubDate>Wed, 19 Aug 2026 04:35:52 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/-Instalando-Agente-Linux-OCS-Inventory-NG-30-Rework-no-Debian-13/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Família recusa US$ 26 milhões e trava disputa por terreno que pode virar data center de IA da Meta</title>
-      <link>https://www.vivaolinux.com.br/noticia/familia-recusa-us-26-milhoes-e-trava-disputa-por-terreno-que-pode-virar-data-center-de-ia-da-meta/</link>
-      <description></description>
-      <pubDate>Wed, 19 Aug 2026 04:35:52 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/familia-recusa-us-26-milhoes-e-trava-disputa-por-terreno-que-pode-virar-data-center-de-ia-da-meta/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] GNU Linux-libre 7.2 chega com foco total em software livre</title>
-      <link>https://www.vivaolinux.com.br/noticia/gnu-linux-libre-7-2-chega-com-foco-total-em-software-livre/</link>
-      <description></description>
-      <pubDate>Wed, 19 Aug 2026 04:35:52 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/gnu-linux-libre-7-2-chega-com-foco-total-em-software-livre/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Amazon é flagrada comprando livros raros para treinar IA e destruindo os exemplares no processo</title>
-      <link>https://www.vivaolinux.com.br/noticia/amazon-e-flagrada-comprando-livros-raros-para-treinar-ia-e-destruindo-os-exemplares-no-processo/</link>
-      <description></description>
-      <pubDate>Wed, 19 Aug 2026 04:35:52 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/amazon-e-flagrada-comprando-livros-raros-para-treinar-ia-e-destruindo-os-exemplares-no-processo/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Omarchy 4.0 “Quattro” chega com desktop redesenhado, suporte a dual boot e mais recursos de IA</title>
-      <link>https://www.vivaolinux.com.br/noticia/omarchy-4-0-quattro-chega-com-desktop-redesenhado-suporte-a-dual-boot-e-mais-recursos-de-ia/</link>
-      <description></description>
-      <pubDate>Wed, 19 Aug 2026 04:35:52 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/omarchy-4-0-quattro-chega-com-desktop-redesenhado-suporte-a-dual-boot-e-mais-recursos-de-ia/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
       <description></description>
-      <pubDate>Wed, 19 Aug 2026 04:35:52 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 05:29:39 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -117,7 +77,7 @@
       <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
       <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
       <description></description>
-      <pubDate>Wed, 19 Aug 2026 04:35:52 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 05:29:39 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -125,7 +85,7 @@
       <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
       <description></description>
-      <pubDate>Wed, 19 Aug 2026 04:35:52 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 05:29:39 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -133,7 +93,7 @@
       <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
       <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
       <description></description>
-      <pubDate>Wed, 19 Aug 2026 04:35:52 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 05:29:39 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -141,9 +101,49 @@
       <title>[Linux Foundation] From Campus to Community Part 3: What Universities Uniquely Bring</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</link>
       <description></description>
-      <pubDate>Wed, 19 Aug 2026 04:35:52 -0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 05:29:39 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] 🐧 Instalando Agente Linux OCS Inventory NG 3.0 Rework no Debian 13</title>
+      <link>https://www.vivaolinux.com.br/dica/-Instalando-Agente-Linux-OCS-Inventory-NG-30-Rework-no-Debian-13/</link>
+      <description></description>
+      <pubDate>Wed, 19 Aug 2026 05:29:38 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/-Instalando-Agente-Linux-OCS-Inventory-NG-30-Rework-no-Debian-13/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Família recusa US$ 26 milhões e trava disputa por terreno que pode virar data center de IA da Meta</title>
+      <link>https://www.vivaolinux.com.br/noticia/familia-recusa-us-26-milhoes-e-trava-disputa-por-terreno-que-pode-virar-data-center-de-ia-da-meta/</link>
+      <description></description>
+      <pubDate>Wed, 19 Aug 2026 05:29:38 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/familia-recusa-us-26-milhoes-e-trava-disputa-por-terreno-que-pode-virar-data-center-de-ia-da-meta/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] GNU Linux-libre 7.2 chega com foco total em software livre</title>
+      <link>https://www.vivaolinux.com.br/noticia/gnu-linux-libre-7-2-chega-com-foco-total-em-software-livre/</link>
+      <description></description>
+      <pubDate>Wed, 19 Aug 2026 05:29:38 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/gnu-linux-libre-7-2-chega-com-foco-total-em-software-livre/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Amazon é flagrada comprando livros raros para treinar IA e destruindo os exemplares no processo</title>
+      <link>https://www.vivaolinux.com.br/noticia/amazon-e-flagrada-comprando-livros-raros-para-treinar-ia-e-destruindo-os-exemplares-no-processo/</link>
+      <description></description>
+      <pubDate>Wed, 19 Aug 2026 05:29:38 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/amazon-e-flagrada-comprando-livros-raros-para-treinar-ia-e-destruindo-os-exemplares-no-processo/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Omarchy 4.0 “Quattro” chega com desktop redesenhado, suporte a dual boot e mais recursos de IA</title>
+      <link>https://www.vivaolinux.com.br/noticia/omarchy-4-0-quattro-chega-com-desktop-redesenhado-suporte-a-dual-boot-e-mais-recursos-de-ia/</link>
+      <description></description>
+      <pubDate>Wed, 19 Aug 2026 05:29:38 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/omarchy-4-0-quattro-chega-com-desktop-redesenhado-suporte-a-dual-boot-e-mais-recursos-de-ia/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[FSFLA] IRPF-Livre 2023 released</title>
