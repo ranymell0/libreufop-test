@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Fri, 21 Aug 2026 11:24:55 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 12:45:33 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -122,14 +122,6 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
-      <title>[4Linux] O bombeiro que vende o próprio incêndio</title>
-      <link>https://blog.4linux.com.br/compartilhando-conhecimento-de-ia-o-bombeiro-que-vende-o-proprio-incendio/</link>
-      <description>Saudações, pessoal! Kenneth Arrow, economista laureado com o Nobel, descreveu décadas atrás um dilema clássico dos mercados de informação. O comprador só descobre o valor real de uma informação depois The post O bombeiro que vende o próprio incêndio appeared first on Blog 4Linux .</description>
-      <pubDate>Mon, 27 Jul 2026 12:09:04 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13682</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
       <title>[FSFLA] 6point4.en</title>
       <link>http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</link>
       <description>When I&apos;m Six Point Four Jason Self with a little help from my friend Alex Oliva When I get older, losing more bugs , In today&apos;s release, Will you still be sending me your problem reports, kernel patches, boot me with grub? Will you rejoice, and cheer for my might, Weeding out the blobs? Will you...</description>
@@ -141,7 +133,7 @@
       <title>[LWN] Quickshell</title>
       <link>https://quickshell.org/</link>
       <description></description>
-      <pubDate>Fri, 21 Aug 2026 11:24:55 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 12:45:33 -0000</pubDate>
       <guid isPermaLink="false">https://quickshell.org/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,7 +141,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1083090/</link>
       <description></description>
-      <pubDate>Fri, 21 Aug 2026 11:24:55 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 12:45:33 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1083090/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -157,7 +149,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1089244/</link>
       <description></description>
-      <pubDate>Fri, 21 Aug 2026 11:24:55 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 12:45:33 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1089244/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -165,7 +157,7 @@
       <title>[LWN] voting on the usage of large language models</title>
       <link>https://lwn.net/ml/all/an-mRkddZVaNW3CT%40roeckx.be/</link>
       <description></description>
-      <pubDate>Fri, 21 Aug 2026 11:24:55 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 12:45:33 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/ml/all/an-mRkddZVaNW3CT%40roeckx.be/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -173,7 +165,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1087134/</link>
       <description></description>
-      <pubDate>Fri, 21 Aug 2026 11:24:55 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 12:45:33 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1087134/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -181,7 +173,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
       <description></description>
-      <pubDate>Fri, 21 Aug 2026 11:24:49 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 12:45:28 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,7 +181,7 @@
       <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
       <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
       <description></description>
-      <pubDate>Fri, 21 Aug 2026 11:24:49 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 12:45:28 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -197,7 +189,7 @@
       <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
       <description></description>
-      <pubDate>Fri, 21 Aug 2026 11:24:49 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 12:45:28 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -205,7 +197,7 @@
       <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
       <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
       <description></description>
-      <pubDate>Fri, 21 Aug 2026 11:24:49 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 12:45:28 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -213,7 +205,7 @@
       <title>[Linux Foundation] From Campus to Community Part 3: What Universities Uniquely Bring</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</link>
       <description></description>
-      <pubDate>Fri, 21 Aug 2026 11:24:49 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 12:45:28 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -221,7 +213,7 @@
       <title>[Viva o Linux] Linux 7.2 chega com scheduler mais inteligente, melhorias em memória e novidades para armazenamento e syscalls</title>
       <link>https://www.vivaolinux.com.br/noticia/linux-7-2-chega-com-scheduler-mais-inteligente-melhorias-em-memoria-e-novidades-para-armazenamento-e-syscalls/</link>
       <description></description>
-      <pubDate>Fri, 21 Aug 2026 11:24:48 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 12:45:27 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-7-2-chega-com-scheduler-mais-inteligente-melhorias-em-memoria-e-novidades-para-armazenamento-e-syscalls/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -229,7 +221,7 @@
       <title>[Viva o Linux] Garuda Linux “Temeraire” chega com kernel Linux 7.2 e reforça foco em desempenho</title>
       <link>https://www.vivaolinux.com.br/noticia/garuda-linux-temeraire-chega-com-kernel-linux-7-2-e-reforca-foco-em-desempenho/</link>
       <description></description>
-      <pubDate>Fri, 21 Aug 2026 11:24:48 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 12:45:27 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/garuda-linux-temeraire-chega-com-kernel-linux-7-2-e-reforca-foco-em-desempenho/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -237,7 +229,7 @@
       <title>[Viva o Linux] Versão 7.2 do Kernel Linux torna o TSC Obrigatório Gerando Mudança de Filosofia</title>
       <link>https://www.vivaolinux.com.br/artigo/Versao-72-do-Kernel-Linux-torna-o-TSC-Obrigatorio-Gerando-Mudanca-de-Filosofia/</link>
       <description></description>
-      <pubDate>Fri, 21 Aug 2026 11:24:48 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 12:45:27 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Versao-72-do-Kernel-Linux-torna-o-TSC-Obrigatorio-Gerando-Mudanca-de-Filosofia/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -245,7 +237,7 @@
       <title>[Viva o Linux] Kernel Linux 7.2 chega com nova leva de correções, reverts e ajustes em drivers, rede e DRM</title>
       <link>https://www.vivaolinux.com.br/noticia/kernel-linux-7-2-chega-com-nova-leva-de-correcoes-reverts-e-ajustes-em-drivers-rede-e-drm/</link>
       <description></description>
-      <pubDate>Fri, 21 Aug 2026 11:24:48 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 12:45:27 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kernel-linux-7-2-chega-com-nova-leva-de-correcoes-reverts-e-ajustes-em-drivers-rede-e-drm/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -253,9 +245,17 @@
       <title>[Viva o Linux] Linux 7.3 proporciona um FPS mínimo 7 vezes maior em jogos rodados em hardware antigo</title>
       <link>https://www.vivaolinux.com.br/noticia/linux-7-3-proporciona-um-fps-minimo-7-vezes-maior-em-jogos-rodados-em-hardware-antigo/</link>
       <description></description>
-      <pubDate>Fri, 21 Aug 2026 11:24:48 -0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 12:45:27 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-7-3-proporciona-um-fps-minimo-7-vezes-maior-em-jogos-rodados-em-hardware-antigo/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[4Linux] A Alibaba abriu, pela primeira vez, um modelo da classe Qwen-Max</title>
+      <link>https://blog.4linux.com.br/ia-para-maiores-a-alibaba-abriu-pela-primeira-vez-um-modelo-da-classe-qwen-max/</link>
+      <description>E lançou um 27B bem mais viável para quem quer rodar IA dentro da empresa. Em 3 de agosto, a Alibaba lançou o Qwen3.8-Max, seu maior e mais capaz modelo The post A Alibaba abriu, pela primeira vez, um modelo da classe Qwen-Max appeared first on Blog 4Linux .</description>
+      <pubDate>Fri, 21 Aug 2026 12:27:39 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13755</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
   </channel>
 </rss>
