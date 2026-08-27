@@ -13,130 +13,10 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Wed, 26 Aug 2026 22:45:45 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 04:18:00 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
-    <item>
-      <title>[LWN] FOSSY 2026</title>
-      <link>https://2026.fossy.ca/</link>
-      <description></description>
-      <pubDate>Wed, 26 Aug 2026 22:45:45 -0000</pubDate>
-      <guid isPermaLink="false">https://2026.fossy.ca/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1089390/</link>
-      <description></description>
-      <pubDate>Wed, 26 Aug 2026 22:45:45 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1089390/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Remind</title>
-      <link>https://dianne.skoll.ca/projects/remind/</link>
-      <description></description>
-      <pubDate>Wed, 26 Aug 2026 22:45:45 -0000</pubDate>
-      <guid isPermaLink="false">https://dianne.skoll.ca/projects/remind/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1090376/</link>
-      <description></description>
-      <pubDate>Wed, 26 Aug 2026 22:45:45 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1090376/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] research with obfuscated results</title>
-      <link>https://lwn.net/Articles/1066156/</link>
-      <description></description>
-      <pubDate>Wed, 26 Aug 2026 22:45:45 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1066156/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
-      <description></description>
-      <pubDate>Wed, 26 Aug 2026 22:45:40 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
-      <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
-      <description></description>
-      <pubDate>Wed, 26 Aug 2026 22:45:40 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
-      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
-      <description></description>
-      <pubDate>Wed, 26 Aug 2026 22:45:40 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
-      <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
-      <description></description>
-      <pubDate>Wed, 26 Aug 2026 22:45:40 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] From Campus to Community Part 3: What Universities Uniquely Bring</title>
-      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</link>
-      <description></description>
-      <pubDate>Wed, 26 Aug 2026 22:45:40 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] 35 ANOS DE LINUX!</title>
-      <link>https://www.vivaolinux.com.br/noticia/35-anos-de-linux/</link>
-      <description></description>
-      <pubDate>Wed, 26 Aug 2026 22:45:39 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/35-anos-de-linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Linux 7.3 recebe melhorias no subsistema PCI/PCIe, com suporte a novos IDs da Intel e tratamento melhor para erros do barramento</title>
-      <link>https://www.vivaolinux.com.br/noticia/linux-7-3-recebe-melhorias-no-subsistema-pci-pcie-com-suporte-a-novos-ids-da-intel-e-tratamento-melhor-para-erros-do-barramento/</link>
-      <description></description>
-      <pubDate>Wed, 26 Aug 2026 22:45:39 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-7-3-recebe-melhorias-no-subsistema-pci-pcie-com-suporte-a-novos-ids-da-intel-e-tratamento-melhor-para-erros-do-barramento/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] COSMIC 1.7 chega com melhorias no gerenciador de arquivos, editor de texto e outros componentes</title>
-      <link>https://www.vivaolinux.com.br/noticia/cosmic-1-7-chega-com-melhorias-no-gerenciador-de-arquivos-editor-de-texto-e-outros-componentes/</link>
-      <description></description>
-      <pubDate>Wed, 26 Aug 2026 22:45:39 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/cosmic-1-7-chega-com-melhorias-no-gerenciador-de-arquivos-editor-de-texto-e-outros-componentes/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Instalar Clamav no Void Linux</title>
-      <link>https://www.vivaolinux.com.br/dica/Instalar-Clamav-no-Void-Linux/</link>
-      <description></description>
-      <pubDate>Wed, 26 Aug 2026 22:45:39 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Instalar-Clamav-no-Void-Linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Morre Steve French, referência do CIFS/SMB3 no kernel Linux</title>
-      <link>https://www.vivaolinux.com.br/noticia/morre-steve-french-referencia-do-cifs-smb3-no-kernel-linux/</link>
-      <description></description>
-      <pubDate>Wed, 26 Aug 2026 22:45:39 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/morre-steve-french-referencia-do-cifs-smb3-no-kernel-linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
     <item>
       <title>[FSFLA] IRPF-Livre 2023 released</title>
       <link>http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.en.html</link>
@@ -184,6 +64,126 @@
       <pubDate>Tue, 11 Aug 2026 13:36:51 -0000</pubDate>
       <guid isPermaLink="false">https://blog.4linux.com.br/?p=13702</guid>
       <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
+    <item>
+      <title>[LWN] FOSSY 2026</title>
+      <link>https://2026.fossy.ca/</link>
+      <description></description>
+      <pubDate>Thu, 27 Aug 2026 04:18:00 -0000</pubDate>
+      <guid isPermaLink="false">https://2026.fossy.ca/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1089390/</link>
+      <description></description>
+      <pubDate>Thu, 27 Aug 2026 04:18:00 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1089390/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Remind</title>
+      <link>https://dianne.skoll.ca/projects/remind/</link>
+      <description></description>
+      <pubDate>Thu, 27 Aug 2026 04:18:00 -0000</pubDate>
+      <guid isPermaLink="false">https://dianne.skoll.ca/projects/remind/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1090376/</link>
+      <description></description>
+      <pubDate>Thu, 27 Aug 2026 04:18:00 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1090376/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] research with obfuscated results</title>
+      <link>https://lwn.net/Articles/1066156/</link>
+      <description></description>
+      <pubDate>Thu, 27 Aug 2026 04:18:00 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1066156/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
+      <description></description>
+      <pubDate>Thu, 27 Aug 2026 04:17:56 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
+      <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
+      <description></description>
+      <pubDate>Thu, 27 Aug 2026 04:17:56 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
+      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
+      <description></description>
+      <pubDate>Thu, 27 Aug 2026 04:17:56 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
+      <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
+      <description></description>
+      <pubDate>Thu, 27 Aug 2026 04:17:56 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] From Campus to Community Part 3: What Universities Uniquely Bring</title>
+      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</link>
+      <description></description>
+      <pubDate>Thu, 27 Aug 2026 04:17:56 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] 35 ANOS DE LINUX!</title>
+      <link>https://www.vivaolinux.com.br/noticia/35-anos-de-linux/</link>
+      <description></description>
+      <pubDate>Thu, 27 Aug 2026 04:17:55 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/35-anos-de-linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Linux 7.3 recebe melhorias no subsistema PCI/PCIe, com suporte a novos IDs da Intel e tratamento melhor para erros do barramento</title>
+      <link>https://www.vivaolinux.com.br/noticia/linux-7-3-recebe-melhorias-no-subsistema-pci-pcie-com-suporte-a-novos-ids-da-intel-e-tratamento-melhor-para-erros-do-barramento/</link>
+      <description></description>
+      <pubDate>Thu, 27 Aug 2026 04:17:55 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-7-3-recebe-melhorias-no-subsistema-pci-pcie-com-suporte-a-novos-ids-da-intel-e-tratamento-melhor-para-erros-do-barramento/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] COSMIC 1.7 chega com melhorias no gerenciador de arquivos, editor de texto e outros componentes</title>
+      <link>https://www.vivaolinux.com.br/noticia/cosmic-1-7-chega-com-melhorias-no-gerenciador-de-arquivos-editor-de-texto-e-outros-componentes/</link>
+      <description></description>
+      <pubDate>Thu, 27 Aug 2026 04:17:55 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/cosmic-1-7-chega-com-melhorias-no-gerenciador-de-arquivos-editor-de-texto-e-outros-componentes/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Instalar Clamav no Void Linux</title>
+      <link>https://www.vivaolinux.com.br/dica/Instalar-Clamav-no-Void-Linux/</link>
+      <description></description>
+      <pubDate>Thu, 27 Aug 2026 04:17:55 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Instalar-Clamav-no-Void-Linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Morre Steve French, referência do CIFS/SMB3 no kernel Linux</title>
+      <link>https://www.vivaolinux.com.br/noticia/morre-steve-french-referencia-do-cifs-smb3-no-kernel-linux/</link>
+      <description></description>
+      <pubDate>Thu, 27 Aug 2026 04:17:55 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/morre-steve-french-referencia-do-cifs-smb3-no-kernel-linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Today] Pangolin Reverse Proxy Moves to Dual Licensing With New Enterprise Edition</title>
