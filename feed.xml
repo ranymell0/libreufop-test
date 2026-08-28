@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Fri, 28 Aug 2026 13:50:11 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 23:25:01 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -122,10 +122,26 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
+      <title>[LWN] null block driver</title>
+      <link>https://www.kernel.org/doc/html/latest/block/null_blk.html</link>
+      <description></description>
+      <pubDate>Fri, 28 Aug 2026 23:25:01 -0000</pubDate>
+      <guid isPermaLink="false">https://www.kernel.org/doc/html/latest/block/null_blk.html</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1090378/</link>
+      <description></description>
+      <pubDate>Fri, 28 Aug 2026 23:25:01 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1090378/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
       <title>[LWN] steal governor patch series</title>
       <link>https://lwn.net/ml/all/20260825103855.721013-1-sshegde@linux.ibm.com</link>
       <description></description>
-      <pubDate>Fri, 28 Aug 2026 13:50:11 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 23:25:01 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/ml/all/20260825103855.721013-1-sshegde@linux.ibm.com</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +149,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1090381/</link>
       <description></description>
-      <pubDate>Fri, 28 Aug 2026 13:50:11 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 23:25:01 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1090381/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,31 +157,23 @@
       <title>[LWN] FOSSY 2026</title>
       <link>https://2026.fossy.ca/</link>
       <description></description>
-      <pubDate>Fri, 28 Aug 2026 13:50:11 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 23:25:01 -0000</pubDate>
       <guid isPermaLink="false">https://2026.fossy.ca/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
     <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1089390/</link>
+      <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
+      <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
       <description></description>
-      <pubDate>Fri, 28 Aug 2026 13:50:11 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1089390/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Remind</title>
-      <link>https://dianne.skoll.ca/projects/remind/</link>
-      <description></description>
-      <pubDate>Fri, 28 Aug 2026 13:50:11 -0000</pubDate>
-      <guid isPermaLink="false">https://dianne.skoll.ca/projects/remind/</guid>
-      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Fri, 28 Aug 2026 23:24:56 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
       <description></description>
-      <pubDate>Fri, 28 Aug 2026 13:50:06 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 23:24:56 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -173,7 +181,7 @@
       <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
       <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
       <description></description>
-      <pubDate>Fri, 28 Aug 2026 13:50:06 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 23:24:56 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -181,7 +189,7 @@
       <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
       <description></description>
-      <pubDate>Fri, 28 Aug 2026 13:50:06 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 23:24:56 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,23 +197,23 @@
       <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
       <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
       <description></description>
-      <pubDate>Fri, 28 Aug 2026 13:50:06 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 23:24:56 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
-      <title>[Linux Foundation] From Campus to Community Part 3: What Universities Uniquely Bring</title>
-      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</link>
+      <title>[Viva o Linux] CodeBurn: veja para onde vão seus tokens de IA na programação</title>
+      <link>https://www.vivaolinux.com.br/artigo/CodeBurn-veja-para-onde-vao-seus-tokens-de-IA-na-programacao/</link>
       <description></description>
-      <pubDate>Fri, 28 Aug 2026 13:50:06 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-3-what-universities-uniquely-bring</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+      <pubDate>Fri, 28 Aug 2026 23:24:55 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/CodeBurn-veja-para-onde-vao-seus-tokens-de-IA-na-programacao/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Viva o Linux] Um Pouco Sobre Computação Quântica</title>
       <link>https://www.vivaolinux.com.br/artigo/Um-Pouco-Sobre-Computacao-Quantica/</link>
       <description></description>
-      <pubDate>Fri, 28 Aug 2026 13:50:05 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 23:24:55 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Um-Pouco-Sobre-Computacao-Quantica/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -213,7 +221,7 @@
       <title>[Viva o Linux] DEB822 - Formato do Arquivo de Configuração do Repositório da Ferramenta &apos;APT&apos;</title>
       <link>https://www.vivaolinux.com.br/artigo/DEB822-Formato-do-Arquivo-de-Configuracao-do-Repositorio-da-Ferramenta-APT/</link>
       <description></description>
-      <pubDate>Fri, 28 Aug 2026 13:50:05 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 23:24:55 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/DEB822-Formato-do-Arquivo-de-Configuracao-do-Repositorio-da-Ferramenta-APT/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -221,7 +229,7 @@
       <title>[Viva o Linux] AppArmor no Linux 7.3 passa a aceitar políticas compactadas no espaço de usuário</title>
       <link>https://www.vivaolinux.com.br/noticia/apparmor-no-linux-7-3-passa-a-aceitar-politicas-compactadas-no-espaco-de-usuario/</link>
       <description></description>
-      <pubDate>Fri, 28 Aug 2026 13:50:05 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 23:24:55 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/apparmor-no-linux-7-3-passa-a-aceitar-politicas-compactadas-no-espaco-de-usuario/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -229,16 +237,8 @@
       <title>[Viva o Linux] Configurar teclas Super+Setas no XFCE para dividir janelas lado a lado na tela</title>
       <link>https://www.vivaolinux.com.br/dica/Configurar-teclas-SuperSetas-no-XFCE-para-dividir-janelas-lado-a-lado-na-tela/</link>
       <description></description>
-      <pubDate>Fri, 28 Aug 2026 13:50:05 -0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 23:24:55 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Configurar-teclas-SuperSetas-no-XFCE-para-dividir-janelas-lado-a-lado-na-tela/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] 35 ANOS DE LINUX!</title>
-      <link>https://www.vivaolinux.com.br/noticia/35-anos-de-linux/</link>
-      <description></description>
-      <pubDate>Fri, 28 Aug 2026 13:50:05 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/35-anos-de-linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
