@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Sun, 30 Aug 2026 01:06:01 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 07:56:17 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -40,30 +40,6 @@
       <pubDate>Wed, 17 May 2023 22:00:24 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.pt.html</guid>
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
-    </item>
-    <item>
-      <title>[4Linux] Introdução ao Agent Skills do Claude: como criar um Skill customizado para infra GKE</title>
-      <link>https://blog.4linux.com.br/introducao-ao-agent-skills-do-claude-como-criar-um-skill-customizado-para-infra-gke/</link>
-      <description>Olá pessoal! Tudo bem com vocês? Espero que sim! Hoje no blog da 4Linux, vou falar sobre um recurso que me chamou bastante atenção no Claude: os&amp;#160;Agent Skills. Se você The post Introdução ao Agent Skills do Claude: como criar um Skill customizado para infra GKE appeared first on Blog 4Linux .</description>
-      <pubDate>Wed, 05 Aug 2026 18:55:29 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13413</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[4Linux] Rancher: Kubernetes multicluster, GitOps, observabilidade, Terraform e IA em uma formação prática</title>
-      <link>https://blog.4linux.com.br/rancher-kubernetes-multicluster-gitops-observabilidade-terraform-e-ia-em-uma-formacao-pratica/</link>
-      <description>O curso – Gerenciamento de Cluster Kubernetes com Rancher foi atualizado para acompanhar a forma como ambientes Kubernetes são administrados atualmente: infraestrutura em cloud, múltiplos clusters, GitOps, observabilidade, storage distribuído, The post Rancher: Kubernetes multicluster, GitOps,...</description>
-      <pubDate>Tue, 18 Aug 2026 15:28:29 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13726</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[4Linux] DevOps, AIOps e SRE Fundamentals: conheça o novo curso</title>
-      <link>https://blog.4linux.com.br/devops-aiops-e-sre-fundamentals-conheca-o-novo-curso/</link>
-      <description>Salve salve pessoal! Tudo bem com vocês? Espero que sim! Hoje quero apresentar a versão atualizada do&amp;#160;curso &amp;#8211; DevOps, AIOps e SRE Fundamentals. Levei um tempo bom pra ficar pronto, The post DevOps, AIOps e SRE Fundamentals: conheça o novo curso appeared first on Blog 4Linux .</description>
-      <pubDate>Tue, 11 Aug 2026 13:36:51 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13702</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
       <title>[Linux Today] Pangolin Reverse Proxy Moves to Dual Licensing With New Enterprise Edition</title>
@@ -109,7 +85,7 @@
       <title>[LWN] null block driver</title>
       <link>https://www.kernel.org/doc/html/latest/block/null_blk.html</link>
       <description></description>
-      <pubDate>Sun, 30 Aug 2026 01:06:01 -0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 07:56:17 -0000</pubDate>
       <guid isPermaLink="false">https://www.kernel.org/doc/html/latest/block/null_blk.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -117,7 +93,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1090378/</link>
       <description></description>
-      <pubDate>Sun, 30 Aug 2026 01:06:01 -0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 07:56:17 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1090378/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,7 +101,7 @@
       <title>[LWN] steal governor patch series</title>
       <link>https://lwn.net/ml/all/20260825103855.721013-1-sshegde@linux.ibm.com</link>
       <description></description>
-      <pubDate>Sun, 30 Aug 2026 01:06:01 -0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 07:56:17 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/ml/all/20260825103855.721013-1-sshegde@linux.ibm.com</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +109,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1090381/</link>
       <description></description>
-      <pubDate>Sun, 30 Aug 2026 01:06:01 -0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 07:56:17 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1090381/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,55 +117,15 @@
       <title>[LWN] FOSSY 2026</title>
       <link>https://2026.fossy.ca/</link>
       <description></description>
-      <pubDate>Sun, 30 Aug 2026 01:06:01 -0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 07:56:17 -0000</pubDate>
       <guid isPermaLink="false">https://2026.fossy.ca/</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] FreeBSD 14.5-RC1 chega com correções de segurança e último convite para testes</title>
-      <link>https://www.vivaolinux.com.br/noticia/freebsd-14-5-rc1-chega-com-correcoes-de-seguranca-e-ultimo-convite-para-testes/</link>
-      <description></description>
-      <pubDate>Sun, 30 Aug 2026 01:05:55 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/freebsd-14-5-rc1-chega-com-correcoes-de-seguranca-e-ultimo-convite-para-testes/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Nomes fantasmas gerados por IA já estão contaminando publicações acadêmicas</title>
-      <link>https://www.vivaolinux.com.br/noticia/nomes-fantasmas-gerados-por-ia-ja-estao-contaminando-publicacoes-academicas/</link>
-      <description></description>
-      <pubDate>Sun, 30 Aug 2026 01:05:55 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/nomes-fantasmas-gerados-por-ia-ja-estao-contaminando-publicacoes-academicas/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] EndeavourOS lança Titan Nova com kernel Linux 7.1.8 e ajustes no instalador</title>
-      <link>https://www.vivaolinux.com.br/noticia/endeavouros-lanca-titan-nova-com-kernel-linux-7-1-8-e-ajustes-no-instalador/</link>
-      <description></description>
-      <pubDate>Sun, 30 Aug 2026 01:05:55 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/endeavouros-lanca-titan-nova-com-kernel-linux-7-1-8-e-ajustes-no-instalador/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] CodeBurn: veja para onde vão seus tokens de IA na programação</title>
-      <link>https://www.vivaolinux.com.br/artigo/CodeBurn-veja-para-onde-vao-seus-tokens-de-IA-na-programacao/</link>
-      <description></description>
-      <pubDate>Sun, 30 Aug 2026 01:05:55 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/CodeBurn-veja-para-onde-vao-seus-tokens-de-IA-na-programacao/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Um Pouco Sobre Computação Quântica</title>
-      <link>https://www.vivaolinux.com.br/artigo/Um-Pouco-Sobre-Computacao-Quantica/</link>
-      <description></description>
-      <pubDate>Sun, 30 Aug 2026 01:05:55 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Um-Pouco-Sobre-Computacao-Quantica/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
       <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
       <description></description>
-      <pubDate>Sun, 30 Aug 2026 01:05:55 -0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 07:56:13 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -197,7 +133,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
       <description></description>
-      <pubDate>Sun, 30 Aug 2026 01:05:55 -0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 07:56:13 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -205,7 +141,7 @@
       <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
       <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
       <description></description>
-      <pubDate>Sun, 30 Aug 2026 01:05:55 -0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 07:56:13 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -213,7 +149,7 @@
       <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
       <description></description>
-      <pubDate>Sun, 30 Aug 2026 01:05:55 -0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 07:56:13 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -221,9 +157,49 @@
       <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
       <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
       <description></description>
-      <pubDate>Sun, 30 Aug 2026 01:05:55 -0000</pubDate>
+      <pubDate>Sun, 30 Aug 2026 07:56:13 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] FreeBSD 14.5-RC1 chega com correções de segurança e último convite para testes</title>
+      <link>https://www.vivaolinux.com.br/noticia/freebsd-14-5-rc1-chega-com-correcoes-de-seguranca-e-ultimo-convite-para-testes/</link>
+      <description></description>
+      <pubDate>Sun, 30 Aug 2026 07:56:12 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/freebsd-14-5-rc1-chega-com-correcoes-de-seguranca-e-ultimo-convite-para-testes/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Nomes fantasmas gerados por IA já estão contaminando publicações acadêmicas</title>
+      <link>https://www.vivaolinux.com.br/noticia/nomes-fantasmas-gerados-por-ia-ja-estao-contaminando-publicacoes-academicas/</link>
+      <description></description>
+      <pubDate>Sun, 30 Aug 2026 07:56:12 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/nomes-fantasmas-gerados-por-ia-ja-estao-contaminando-publicacoes-academicas/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] EndeavourOS lança Titan Nova com kernel Linux 7.1.8 e ajustes no instalador</title>
+      <link>https://www.vivaolinux.com.br/noticia/endeavouros-lanca-titan-nova-com-kernel-linux-7-1-8-e-ajustes-no-instalador/</link>
+      <description></description>
+      <pubDate>Sun, 30 Aug 2026 07:56:12 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/endeavouros-lanca-titan-nova-com-kernel-linux-7-1-8-e-ajustes-no-instalador/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] CodeBurn: veja para onde vão seus tokens de IA na programação</title>
+      <link>https://www.vivaolinux.com.br/artigo/CodeBurn-veja-para-onde-vao-seus-tokens-de-IA-na-programacao/</link>
+      <description></description>
+      <pubDate>Sun, 30 Aug 2026 07:56:12 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/CodeBurn-veja-para-onde-vao-seus-tokens-de-IA-na-programacao/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Um Pouco Sobre Computação Quântica</title>
+      <link>https://www.vivaolinux.com.br/artigo/Um-Pouco-Sobre-Computacao-Quantica/</link>
+      <description></description>
+      <pubDate>Sun, 30 Aug 2026 07:56:12 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Um-Pouco-Sobre-Computacao-Quantica/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[FSFLA] Suitable Online Bank(rupt)ing</title>
@@ -240,22 +216,6 @@
       <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
-    </item>
-    <item>
-      <title>[4Linux] A IA não está mais só completando código. Ela já está recebendo tarefas inteiras</title>
-      <link>https://blog.4linux.com.br/compartilhando-conhecimento-de-ia-a-ia-nao-esta-mais-so-completando-codigo-ela-ja-esta-recebendo-tarefas-inteiras/</link>
-      <description>Há poucos anos, ver o GitHub Copilot completar uma função enquanto você ainda estava digitando parecia algo impressionante. Você começava a escrever e a IA tentava descobrir o que viria The post A IA não está mais só completando código. Ela já está recebendo tarefas inteiras appeared first on Blog...</description>
-      <pubDate>Fri, 21 Aug 2026 12:40:00 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13760</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[4Linux] A Alibaba abriu, pela primeira vez, um modelo da classe Qwen-Max</title>
-      <link>https://blog.4linux.com.br/ia-para-maiores-a-alibaba-abriu-pela-primeira-vez-um-modelo-da-classe-qwen-max/</link>
-      <description>E lançou um 27B bem mais viável para quem quer rodar IA dentro da empresa. Em 3 de agosto, a Alibaba lançou o Qwen3.8-Max, seu maior e mais capaz modelo The post A Alibaba abriu, pela primeira vez, um modelo da classe Qwen-Max appeared first on Blog 4Linux .</description>
-      <pubDate>Fri, 21 Aug 2026 12:27:39 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13755</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
   </channel>
 </rss>
