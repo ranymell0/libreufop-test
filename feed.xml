@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Tue, 01 Sep 2026 01:41:03 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 07:20:29 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -69,7 +69,7 @@
       <title>[LWN] released 7.3-rc1</title>
       <link>https://lwn.net/ml/all/CAHk-=wjpN3XkKU+JX6zoh_bzJXr1aPYN4FY14UX0z7yCidosPQ@mail.gmail.com/</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 01:41:03 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 07:20:29 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/ml/all/CAHk-=wjpN3XkKU+JX6zoh_bzJXr1aPYN4FY14UX0z7yCidosPQ@mail.gmail.com/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,7 +77,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1089791/</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 01:41:03 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 07:20:29 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1089791/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -85,7 +85,7 @@
       <title>[LWN] null block driver</title>
       <link>https://www.kernel.org/doc/html/latest/block/null_blk.html</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 01:41:03 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 07:20:29 -0000</pubDate>
       <guid isPermaLink="false">https://www.kernel.org/doc/html/latest/block/null_blk.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -93,7 +93,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1090378/</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 01:41:03 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 07:20:29 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1090378/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -101,55 +101,15 @@
       <title>[LWN] steal governor patch series</title>
       <link>https://lwn.net/ml/all/20260825103855.721013-1-sshegde@linux.ibm.com</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 01:41:03 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 07:20:29 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/ml/all/20260825103855.721013-1-sshegde@linux.ibm.com</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
-      <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
-      <description></description>
-      <pubDate>Tue, 01 Sep 2026 01:40:58 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
-      <description></description>
-      <pubDate>Tue, 01 Sep 2026 01:40:58 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
-      <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
-      <description></description>
-      <pubDate>Tue, 01 Sep 2026 01:40:58 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
-      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
-      <description></description>
-      <pubDate>Tue, 01 Sep 2026 01:40:58 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
-      <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
-      <description></description>
-      <pubDate>Tue, 01 Sep 2026 01:40:58 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[Viva o Linux] FTC processa a Amazon por suposto aumento oculto em preços de anúncios</title>
       <link>https://www.vivaolinux.com.br/noticia/ftc-processa-a-amazon-por-suposto-aumento-oculto-em-precos-de-anuncios/</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 01:40:56 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 07:20:23 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ftc-processa-a-amazon-por-suposto-aumento-oculto-em-precos-de-anuncios/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -157,7 +117,7 @@
       <title>[Viva o Linux] Debian 11 chega ao fim do ciclo de suporte LTS</title>
       <link>https://www.vivaolinux.com.br/noticia/debian-11-chega-ao-fim-do-ciclo-de-suporte-lts/</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 01:40:56 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 07:20:23 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/debian-11-chega-ao-fim-do-ciclo-de-suporte-lts/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -165,7 +125,7 @@
       <title>[Viva o Linux] Linux recebe ajustes para o AMD Ryzen Zen 6 e prepara o terreno para desempenho e consumo de energia melhores</title>
       <link>https://www.vivaolinux.com.br/noticia/linux-recebe-ajustes-para-o-amd-ryzen-zen-6-e-prepara-o-terreno-para-desempenho-e-consumo-de-energia-melhores/</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 01:40:56 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 07:20:23 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-recebe-ajustes-para-o-amd-ryzen-zen-6-e-prepara-o-terreno-para-desempenho-e-consumo-de-energia-melhores/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -173,7 +133,7 @@
       <title>[Viva o Linux] Servo 0.5 chega com avanço em desempenho, correções de renderização e binários Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/servo-0-5-chega-com-avanco-em-desempenho-correcoes-de-renderizacao-e-binarios-linux-para-aarch64/</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 01:40:56 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 07:20:23 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/servo-0-5-chega-com-avanco-em-desempenho-correcoes-de-renderizacao-e-binarios-linux-para-aarch64/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -181,9 +141,49 @@
       <title>[Viva o Linux] Ubuntu 26.04.1 LTS já está disponível para download</title>
       <link>https://www.vivaolinux.com.br/noticia/ubuntu-26-04-1-lts-ja-esta-disponivel-para-download/</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 01:40:56 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 07:20:23 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ubuntu-26-04-1-lts-ja-esta-disponivel-para-download/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
+      <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
+      <description></description>
+      <pubDate>Tue, 01 Sep 2026 07:20:23 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
+      <description></description>
+      <pubDate>Tue, 01 Sep 2026 07:20:23 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
+      <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
+      <description></description>
+      <pubDate>Tue, 01 Sep 2026 07:20:23 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
+      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
+      <description></description>
+      <pubDate>Tue, 01 Sep 2026 07:20:23 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
+      <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
+      <description></description>
+      <pubDate>Tue, 01 Sep 2026 07:20:23 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[Linux Today] Pangolin Reverse Proxy Moves to Dual Licensing With New Enterprise Edition</title>
