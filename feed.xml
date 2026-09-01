@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Tue, 01 Sep 2026 20:37:56 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 23:03:41 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -69,7 +69,7 @@
       <title>[LWN] Python 3.13</title>
       <link>https://www.python.org/downloads/release/python-3130/</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 20:37:56 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 23:03:41 -0000</pubDate>
       <guid isPermaLink="false">https://www.python.org/downloads/release/python-3130/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,7 +77,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1090385/</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 20:37:56 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 23:03:41 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1090385/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -85,7 +85,7 @@
       <title>[LWN] released 7.3-rc1</title>
       <link>https://lwn.net/ml/all/CAHk-=wjpN3XkKU+JX6zoh_bzJXr1aPYN4FY14UX0z7yCidosPQ@mail.gmail.com/</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 20:37:56 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 23:03:41 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/ml/all/CAHk-=wjpN3XkKU+JX6zoh_bzJXr1aPYN4FY14UX0z7yCidosPQ@mail.gmail.com/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -93,7 +93,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1089791/</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 20:37:56 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 23:03:41 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1089791/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -101,7 +101,7 @@
       <title>[LWN] null block driver</title>
       <link>https://www.kernel.org/doc/html/latest/block/null_blk.html</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 20:37:56 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 23:03:41 -0000</pubDate>
       <guid isPermaLink="false">https://www.kernel.org/doc/html/latest/block/null_blk.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -109,7 +109,7 @@
       <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
       <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 20:37:50 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 23:03:34 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -117,7 +117,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 20:37:50 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 23:03:34 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
       <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 20:37:50 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 23:03:34 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 20:37:50 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 23:03:34 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -141,7 +141,7 @@
       <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
       <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 20:37:50 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 23:03:34 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[Viva o Linux] Minecraft no Linux</title>
       <link>https://www.vivaolinux.com.br/artigo/Minecraft-no-Linux/</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 20:37:49 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 23:03:33 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Minecraft-no-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[Viva o Linux] Vazamento de 12 TB da Steam é ainda maior do que parecia</title>
       <link>https://www.vivaolinux.com.br/noticia/vazamento-de-12-tb-do-steam-e-ainda-maior-do-que-parecia/</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 20:37:49 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 23:03:33 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/vazamento-de-12-tb-do-steam-e-ainda-maior-do-que-parecia/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[Viva o Linux] Lançamento do Kernel Linux 7.3-rc1 é marcado por adição massiva de código da AMD</title>
       <link>https://www.vivaolinux.com.br/noticia/lancamento-do-kernel-linux-7-3-rc1-e-marcado-por-adicao-massiva-de-codigo-da-amd/</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 20:37:49 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 23:03:33 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/lancamento-do-kernel-linux-7-3-rc1-e-marcado-por-adicao-massiva-de-codigo-da-amd/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -173,7 +173,7 @@
       <title>[Viva o Linux] PORTAINER-CE (Servidor) / Atualização Segura dos Dados</title>
       <link>https://www.vivaolinux.com.br/dica/PORTAINER-CE-Servidor-Atualizacao-Segura-dos-Dados/</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 20:37:49 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 23:03:33 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/PORTAINER-CE-Servidor-Atualizacao-Segura-dos-Dados/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -181,7 +181,7 @@
       <title>[Viva o Linux] A Microsoft descobriu que limitar a visualização de um LLM a 64 palavras tem um desempenho melhor</title>
       <link>https://www.vivaolinux.com.br/noticia/a-microsoft-descobriu-que-limitar-a-visualizacao-de-um-llm-a-64-palavras-tem-um-desempenho-melhor-do-que-converte-lo-em-atencao-linear/</link>
       <description></description>
-      <pubDate>Tue, 01 Sep 2026 20:37:49 -0000</pubDate>
+      <pubDate>Tue, 01 Sep 2026 23:03:33 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/a-microsoft-descobriu-que-limitar-a-visualizacao-de-um-llm-a-64-palavras-tem-um-desempenho-melhor-do-que-converte-lo-em-atencao-linear/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
