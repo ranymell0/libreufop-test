@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Wed, 02 Sep 2026 17:38:03 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:34:29 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -42,18 +42,10 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
-      <title>[4Linux] Introdução ao Agent Skills do Claude: como criar um Skill customizado para infra GKE</title>
-      <link>https://blog.4linux.com.br/introducao-ao-agent-skills-do-claude-como-criar-um-skill-customizado-para-infra-gke/</link>
-      <description>Olá pessoal! Tudo bem com vocês? Espero que sim! Hoje no blog da 4Linux, vou falar sobre um recurso que me chamou bastante atenção no Claude: os&amp;#160;Agent Skills. Se você The post Introdução ao Agent Skills do Claude: como criar um Skill customizado para infra GKE appeared first on Blog 4Linux .</description>
-      <pubDate>Wed, 05 Aug 2026 18:55:29 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13413</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
       <title>[LWN] cold-boot attacks</title>
       <link>https://en.wikipedia.org/wiki/Cold_boot_attack</link>
       <description></description>
-      <pubDate>Wed, 02 Sep 2026 17:38:03 -0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 20:34:29 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/Cold_boot_attack</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -61,7 +53,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1090568/</link>
       <description></description>
-      <pubDate>Wed, 02 Sep 2026 17:38:03 -0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 20:34:29 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1090568/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -69,7 +61,7 @@
       <title>[LWN] presentation about his ideas</title>
       <link>https://lwn.net/Articles/1034684/</link>
       <description></description>
-      <pubDate>Wed, 02 Sep 2026 17:38:03 -0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 20:34:29 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1034684/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,7 +69,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1091619/</link>
       <description></description>
-      <pubDate>Wed, 02 Sep 2026 17:38:03 -0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 20:34:29 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1091619/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -85,7 +77,7 @@
       <title>[LWN] Python 3.13</title>
       <link>https://www.python.org/downloads/release/python-3130/</link>
       <description></description>
-      <pubDate>Wed, 02 Sep 2026 17:38:03 -0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 20:34:29 -0000</pubDate>
       <guid isPermaLink="false">https://www.python.org/downloads/release/python-3130/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -93,7 +85,7 @@
       <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
       <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
       <description></description>
-      <pubDate>Wed, 02 Sep 2026 17:37:58 -0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 20:34:20 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -101,7 +93,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
       <description></description>
-      <pubDate>Wed, 02 Sep 2026 17:37:58 -0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 20:34:20 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -109,7 +101,7 @@
       <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
       <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
       <description></description>
-      <pubDate>Wed, 02 Sep 2026 17:37:58 -0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 20:34:20 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -117,7 +109,7 @@
       <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
       <description></description>
-      <pubDate>Wed, 02 Sep 2026 17:37:58 -0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 20:34:20 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -125,7 +117,7 @@
       <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
       <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
       <description></description>
-      <pubDate>Wed, 02 Sep 2026 17:37:58 -0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 20:34:20 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -133,7 +125,7 @@
       <title>[Viva o Linux] Jogar Fortnite no Linux</title>
       <link>https://www.vivaolinux.com.br/dica/Jogar-Fortnite-no-Linux/</link>
       <description></description>
-      <pubDate>Wed, 02 Sep 2026 17:37:57 -0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 20:34:19 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Jogar-Fortnite-no-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -141,7 +133,7 @@
       <title>[Viva o Linux] Minecraft Bedrock no Linux</title>
       <link>https://www.vivaolinux.com.br/artigo/Minecraft-Bedrock-no-Linux/</link>
       <description></description>
-      <pubDate>Wed, 02 Sep 2026 17:37:57 -0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 20:34:19 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Minecraft-Bedrock-no-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -149,7 +141,7 @@
       <title>[Viva o Linux] Linux ganha uma saída mais simples para jogar Minecraft Bedrock</title>
       <link>https://www.vivaolinux.com.br/noticia/linux-ganha-uma-saida-mais-simples-para-jogar-minecraft-bedrock/</link>
       <description></description>
-      <pubDate>Wed, 02 Sep 2026 17:37:57 -0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 20:34:19 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-ganha-uma-saida-mais-simples-para-jogar-minecraft-bedrock/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -157,7 +149,7 @@
       <title>[Viva o Linux] Steam recebe streaming HDR no Steam Deck OLED</title>
       <link>https://www.vivaolinux.com.br/noticia/steam-recebe-streaming-hdr-no-steam-deck-oled/</link>
       <description></description>
-      <pubDate>Wed, 02 Sep 2026 17:37:57 -0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 20:34:19 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/steam-recebe-streaming-hdr-no-steam-deck-oled/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -165,9 +157,17 @@
       <title>[Viva o Linux] Minecraft no Linux</title>
       <link>https://www.vivaolinux.com.br/artigo/Minecraft-no-Linux/</link>
       <description></description>
-      <pubDate>Wed, 02 Sep 2026 17:37:57 -0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 20:34:19 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Minecraft-no-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[4Linux] Como Construir um Agente de IA com RAG do Zero: Guia Completo</title>
+      <link>https://blog.4linux.com.br/como-construir-um-agente-de-ia-com-rag-do-zero-guia-completo/</link>
+      <description>Um guia prático e detalhado para criar seu próprio assistente inteligente com Retrieval-Augmented Generation (RAG), busca vetorial, processamento multimodal e interface de chat — tudo com Python, Flask e SQLite. The post Como Construir um Agente de IA com RAG do Zero: Guia Completo appeared first...</description>
+      <pubDate>Wed, 02 Sep 2026 19:08:10 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13465</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
       <title>[4Linux] Rancher: Kubernetes multicluster, GitOps, observabilidade, Terraform e IA em uma formação prática</title>
