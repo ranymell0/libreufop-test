@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 03 Sep 2026 01:04:39 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 06:54:37 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -109,7 +109,7 @@
       <title>[LWN] cold-boot attacks</title>
       <link>https://en.wikipedia.org/wiki/Cold_boot_attack</link>
       <description></description>
-      <pubDate>Thu, 03 Sep 2026 01:04:39 -0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 06:54:37 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/Cold_boot_attack</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -117,7 +117,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1090568/</link>
       <description></description>
-      <pubDate>Thu, 03 Sep 2026 01:04:39 -0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 06:54:37 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1090568/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[LWN] presentation about his ideas</title>
       <link>https://lwn.net/Articles/1034684/</link>
       <description></description>
-      <pubDate>Thu, 03 Sep 2026 01:04:39 -0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 06:54:37 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1034684/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1091619/</link>
       <description></description>
-      <pubDate>Thu, 03 Sep 2026 01:04:39 -0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 06:54:37 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1091619/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,7 +141,7 @@
       <title>[LWN] Python 3.13</title>
       <link>https://www.python.org/downloads/release/python-3130/</link>
       <description></description>
-      <pubDate>Thu, 03 Sep 2026 01:04:39 -0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 06:54:37 -0000</pubDate>
       <guid isPermaLink="false">https://www.python.org/downloads/release/python-3130/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
       <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
       <description></description>
-      <pubDate>Thu, 03 Sep 2026 01:04:32 -0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 06:54:31 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
       <description></description>
-      <pubDate>Thu, 03 Sep 2026 01:04:32 -0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 06:54:31 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
       <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
       <description></description>
-      <pubDate>Thu, 03 Sep 2026 01:04:32 -0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 06:54:31 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -173,7 +173,7 @@
       <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
       <description></description>
-      <pubDate>Thu, 03 Sep 2026 01:04:32 -0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 06:54:31 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -181,7 +181,7 @@
       <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
       <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
       <description></description>
-      <pubDate>Thu, 03 Sep 2026 01:04:32 -0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 06:54:31 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,7 +189,7 @@
       <title>[Viva o Linux] Jogar Fortnite no Linux</title>
       <link>https://www.vivaolinux.com.br/dica/Jogar-Fortnite-no-Linux/</link>
       <description></description>
-      <pubDate>Thu, 03 Sep 2026 01:04:31 -0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 06:54:30 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Jogar-Fortnite-no-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -197,7 +197,7 @@
       <title>[Viva o Linux] Minecraft Bedrock no Linux</title>
       <link>https://www.vivaolinux.com.br/artigo/Minecraft-Bedrock-no-Linux/</link>
       <description></description>
-      <pubDate>Thu, 03 Sep 2026 01:04:31 -0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 06:54:30 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Minecraft-Bedrock-no-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -205,7 +205,7 @@
       <title>[Viva o Linux] Linux ganha uma saída mais simples para jogar Minecraft Bedrock</title>
       <link>https://www.vivaolinux.com.br/noticia/linux-ganha-uma-saida-mais-simples-para-jogar-minecraft-bedrock/</link>
       <description></description>
-      <pubDate>Thu, 03 Sep 2026 01:04:31 -0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 06:54:30 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-ganha-uma-saida-mais-simples-para-jogar-minecraft-bedrock/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -213,7 +213,7 @@
       <title>[Viva o Linux] Steam recebe streaming HDR no Steam Deck OLED</title>
       <link>https://www.vivaolinux.com.br/noticia/steam-recebe-streaming-hdr-no-steam-deck-oled/</link>
       <description></description>
-      <pubDate>Thu, 03 Sep 2026 01:04:31 -0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 06:54:30 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/steam-recebe-streaming-hdr-no-steam-deck-oled/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -221,7 +221,7 @@
       <title>[Viva o Linux] Minecraft no Linux</title>
       <link>https://www.vivaolinux.com.br/artigo/Minecraft-no-Linux/</link>
       <description></description>
-      <pubDate>Thu, 03 Sep 2026 01:04:31 -0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 06:54:30 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Minecraft-no-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
