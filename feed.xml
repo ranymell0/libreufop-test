@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 03 Sep 2026 22:19:53 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:48:46 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -106,126 +106,6 @@
       <source url="https://feeds.feedburner.com/linuxtoday/linux">Linux Today</source>
     </item>
     <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1092001/</link>
-      <description></description>
-      <pubDate>Thu, 03 Sep 2026 22:19:53 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1092001/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] cold-boot attacks</title>
-      <link>https://en.wikipedia.org/wiki/Cold_boot_attack</link>
-      <description></description>
-      <pubDate>Thu, 03 Sep 2026 22:19:53 -0000</pubDate>
-      <guid isPermaLink="false">https://en.wikipedia.org/wiki/Cold_boot_attack</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1090568/</link>
-      <description></description>
-      <pubDate>Thu, 03 Sep 2026 22:19:53 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1090568/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] presentation about his ideas</title>
-      <link>https://lwn.net/Articles/1034684/</link>
-      <description></description>
-      <pubDate>Thu, 03 Sep 2026 22:19:53 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1034684/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1091619/</link>
-      <description></description>
-      <pubDate>Thu, 03 Sep 2026 22:19:53 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1091619/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
-      <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
-      <description></description>
-      <pubDate>Thu, 03 Sep 2026 22:19:46 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
-      <description></description>
-      <pubDate>Thu, 03 Sep 2026 22:19:46 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
-      <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
-      <description></description>
-      <pubDate>Thu, 03 Sep 2026 22:19:46 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
-      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
-      <description></description>
-      <pubDate>Thu, 03 Sep 2026 22:19:46 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
-      <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
-      <description></description>
-      <pubDate>Thu, 03 Sep 2026 22:19:46 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Instalar Interface Gráfica Hyprland no Linux</title>
-      <link>https://www.vivaolinux.com.br/artigo/Instalar-Interface-Grafica-Hyprland-no-Linux/</link>
-      <description></description>
-      <pubDate>Thu, 03 Sep 2026 22:19:45 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Instalar-Interface-Grafica-Hyprland-no-Linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Fleet Hunters chega ao Linux com batalhas navais em tempo real e modo clássico</title>
-      <link>https://www.vivaolinux.com.br/noticia/fleet-hunters-chega-ao-linux-com-batalhas-navais-em-tempo-real-e-modo-classico/</link>
-      <description></description>
-      <pubDate>Thu, 03 Sep 2026 22:19:45 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/fleet-hunters-chega-ao-linux-com-batalhas-navais-em-tempo-real-e-modo-classico/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] EVERSPACE 2 ganha selo Verified no Steam Deck e fecha ciclo de grandes ajustes técnicos</title>
-      <link>https://www.vivaolinux.com.br/noticia/everspace-2-ganha-selo-verified-no-steam-deck-e-fecha-ciclo-de-grandes-ajustes-tecnicos/</link>
-      <description></description>
-      <pubDate>Thu, 03 Sep 2026 22:19:45 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/everspace-2-ganha-selo-verified-no-steam-deck-e-fecha-ciclo-de-grandes-ajustes-tecnicos/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Jogar Fortnite no Linux</title>
-      <link>https://www.vivaolinux.com.br/dica/Jogar-Fortnite-no-Linux/</link>
-      <description></description>
-      <pubDate>Thu, 03 Sep 2026 22:19:45 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Jogar-Fortnite-no-Linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Minecraft Bedrock no Linux</title>
-      <link>https://www.vivaolinux.com.br/artigo/Minecraft-Bedrock-no-Linux/</link>
-      <description></description>
-      <pubDate>Thu, 03 Sep 2026 22:19:45 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Minecraft-Bedrock-no-Linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
       <title>[FSFLA] Suitable Online Bank(rupt)ing</title>
       <link>http://www.fsfla.org/ikiwiki/texto/bancarrota.en.html</link>
       <description>Suitable Online Bank(rupt)ing Alexandre Oliva For the past couple of decades, I&apos;ve entered various fights with Brazilian banks over their threats to my software freedom in their Internet banking services. Back in 2002, the main threats were websites that required Internet Explorer, or the...</description>
@@ -256,6 +136,126 @@
       <pubDate>Fri, 21 Aug 2026 12:27:39 -0000</pubDate>
       <guid isPermaLink="false">https://blog.4linux.com.br/?p=13755</guid>
       <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1092001/</link>
+      <description></description>
+      <pubDate>Fri, 04 Sep 2026 00:48:46 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1092001/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] cold-boot attacks</title>
+      <link>https://en.wikipedia.org/wiki/Cold_boot_attack</link>
+      <description></description>
+      <pubDate>Fri, 04 Sep 2026 00:48:46 -0000</pubDate>
+      <guid isPermaLink="false">https://en.wikipedia.org/wiki/Cold_boot_attack</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1090568/</link>
+      <description></description>
+      <pubDate>Fri, 04 Sep 2026 00:48:46 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1090568/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] presentation about his ideas</title>
+      <link>https://lwn.net/Articles/1034684/</link>
+      <description></description>
+      <pubDate>Fri, 04 Sep 2026 00:48:46 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1034684/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1091619/</link>
+      <description></description>
+      <pubDate>Fri, 04 Sep 2026 00:48:46 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1091619/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
+      <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
+      <description></description>
+      <pubDate>Fri, 04 Sep 2026 00:48:38 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
+      <description></description>
+      <pubDate>Fri, 04 Sep 2026 00:48:38 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
+      <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
+      <description></description>
+      <pubDate>Fri, 04 Sep 2026 00:48:38 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
+      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
+      <description></description>
+      <pubDate>Fri, 04 Sep 2026 00:48:38 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
+      <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
+      <description></description>
+      <pubDate>Fri, 04 Sep 2026 00:48:38 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Instalar Interface Gráfica Hyprland no Linux</title>
+      <link>https://www.vivaolinux.com.br/artigo/Instalar-Interface-Grafica-Hyprland-no-Linux/</link>
+      <description></description>
+      <pubDate>Fri, 04 Sep 2026 00:48:37 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Instalar-Interface-Grafica-Hyprland-no-Linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Fleet Hunters chega ao Linux com batalhas navais em tempo real e modo clássico</title>
+      <link>https://www.vivaolinux.com.br/noticia/fleet-hunters-chega-ao-linux-com-batalhas-navais-em-tempo-real-e-modo-classico/</link>
+      <description></description>
+      <pubDate>Fri, 04 Sep 2026 00:48:37 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/fleet-hunters-chega-ao-linux-com-batalhas-navais-em-tempo-real-e-modo-classico/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] EVERSPACE 2 ganha selo Verified no Steam Deck e fecha ciclo de grandes ajustes técnicos</title>
+      <link>https://www.vivaolinux.com.br/noticia/everspace-2-ganha-selo-verified-no-steam-deck-e-fecha-ciclo-de-grandes-ajustes-tecnicos/</link>
+      <description></description>
+      <pubDate>Fri, 04 Sep 2026 00:48:37 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/everspace-2-ganha-selo-verified-no-steam-deck-e-fecha-ciclo-de-grandes-ajustes-tecnicos/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Jogar Fortnite no Linux</title>
+      <link>https://www.vivaolinux.com.br/dica/Jogar-Fortnite-no-Linux/</link>
+      <description></description>
+      <pubDate>Fri, 04 Sep 2026 00:48:37 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Jogar-Fortnite-no-Linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Minecraft Bedrock no Linux</title>
+      <link>https://www.vivaolinux.com.br/artigo/Minecraft-Bedrock-no-Linux/</link>
+      <description></description>
+      <pubDate>Fri, 04 Sep 2026 00:48:37 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Minecraft-Bedrock-no-Linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
   </channel>
 </rss>
