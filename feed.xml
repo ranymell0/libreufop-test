@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Fri, 04 Sep 2026 23:45:05 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 03:12:04 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -98,6 +98,126 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
+      <title>[LWN] &quot;free-threaded&quot; version of the language</title>
+      <link>https://lwn.net/Articles/1078367/</link>
+      <description></description>
+      <pubDate>Sat, 05 Sep 2026 03:12:03 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1078367/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1090579/</link>
+      <description></description>
+      <pubDate>Sat, 05 Sep 2026 03:12:03 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1090579/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1092001/</link>
+      <description></description>
+      <pubDate>Sat, 05 Sep 2026 03:12:03 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1092001/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] cold-boot attacks</title>
+      <link>https://en.wikipedia.org/wiki/Cold_boot_attack</link>
+      <description></description>
+      <pubDate>Sat, 05 Sep 2026 03:12:03 -0000</pubDate>
+      <guid isPermaLink="false">https://en.wikipedia.org/wiki/Cold_boot_attack</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1090568/</link>
+      <description></description>
+      <pubDate>Sat, 05 Sep 2026 03:12:03 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1090568/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
+      <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
+      <description></description>
+      <pubDate>Sat, 05 Sep 2026 03:11:59 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
+      <description></description>
+      <pubDate>Sat, 05 Sep 2026 03:11:59 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
+      <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
+      <description></description>
+      <pubDate>Sat, 05 Sep 2026 03:11:59 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
+      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
+      <description></description>
+      <pubDate>Sat, 05 Sep 2026 03:11:59 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
+      <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
+      <description></description>
+      <pubDate>Sat, 05 Sep 2026 03:11:59 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Sam Altman diz que a inteligência será um serviço público, e ele é o homem certo para cobrar as contas</title>
+      <link>https://www.vivaolinux.com.br/noticia/sam-altman-diz-que-a-inteligencia-sera-um-servico-publico-e-ele-e-o-homem-certo-para-cobrar-as-contas/</link>
+      <description></description>
+      <pubDate>Sat, 05 Sep 2026 03:11:58 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/sam-altman-diz-que-a-inteligencia-sera-um-servico-publico-e-ele-e-o-homem-certo-para-cobrar-as-contas/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Por Que o Slackware Parece ter Sumido?</title>
+      <link>https://www.vivaolinux.com.br/artigo/Por-Que-o-Slackware-Parece-ter-Sumido/</link>
+      <description></description>
+      <pubDate>Sat, 05 Sep 2026 03:11:58 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Por-Que-o-Slackware-Parece-ter-Sumido/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Toada Brava ganha demo no Steam e aposta em RPG 2D desenhado à mão com suporte a Linux</title>
+      <link>https://www.vivaolinux.com.br/noticia/toada-brava-ganha-demo-no-steam-e-aposta-em-rpg-2d-desenhado-a-mao-com-suporte-a-linux/</link>
+      <description></description>
+      <pubDate>Sat, 05 Sep 2026 03:11:58 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/toada-brava-ganha-demo-no-steam-e-aposta-em-rpg-2d-desenhado-a-mao-com-suporte-a-linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Ubisoft vai bloquear o For Honor no Linux e no Steam Deck alegando trapaças</title>
+      <link>https://www.vivaolinux.com.br/noticia/ubisoft-vai-bloquear-o-for-honor-no-linux-e-no-steam-deck-alegando-trapacas/</link>
+      <description></description>
+      <pubDate>Sat, 05 Sep 2026 03:11:58 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ubisoft-vai-bloquear-o-for-honor-no-linux-e-no-steam-deck-alegando-trapacas/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Instalar Interface Gráfica Hyprland no Linux</title>
+      <link>https://www.vivaolinux.com.br/artigo/Instalar-Interface-Grafica-Hyprland-no-Linux/</link>
+      <description></description>
+      <pubDate>Sat, 05 Sep 2026 03:11:58 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Instalar-Interface-Grafica-Hyprland-no-Linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
       <title>[FSFLA] 6point4.en</title>
       <link>http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</link>
       <description>When I&apos;m Six Point Four Jason Self with a little help from my friend Alex Oliva When I get older, losing more bugs , In today&apos;s release, Will you still be sending me your problem reports, kernel patches, boot me with grub? Will you rejoice, and cheer for my might, Weeding out the blobs? Will you...</description>
@@ -120,126 +240,6 @@
       <pubDate>Fri, 21 Aug 2026 12:27:39 -0000</pubDate>
       <guid isPermaLink="false">https://blog.4linux.com.br/?p=13755</guid>
       <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[LWN] &quot;free-threaded&quot; version of the language</title>
-      <link>https://lwn.net/Articles/1078367/</link>
-      <description></description>
-      <pubDate>Fri, 04 Sep 2026 23:45:05 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1078367/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1090579/</link>
-      <description></description>
-      <pubDate>Fri, 04 Sep 2026 23:45:05 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1090579/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1092001/</link>
-      <description></description>
-      <pubDate>Fri, 04 Sep 2026 23:45:05 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1092001/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] cold-boot attacks</title>
-      <link>https://en.wikipedia.org/wiki/Cold_boot_attack</link>
-      <description></description>
-      <pubDate>Fri, 04 Sep 2026 23:45:05 -0000</pubDate>
-      <guid isPermaLink="false">https://en.wikipedia.org/wiki/Cold_boot_attack</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1090568/</link>
-      <description></description>
-      <pubDate>Fri, 04 Sep 2026 23:45:05 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1090568/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Sam Altman diz que a inteligência será um serviço público, e ele é o homem certo para cobrar as contas</title>
-      <link>https://www.vivaolinux.com.br/noticia/sam-altman-diz-que-a-inteligencia-sera-um-servico-publico-e-ele-e-o-homem-certo-para-cobrar-as-contas/</link>
-      <description></description>
-      <pubDate>Fri, 04 Sep 2026 23:44:59 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/sam-altman-diz-que-a-inteligencia-sera-um-servico-publico-e-ele-e-o-homem-certo-para-cobrar-as-contas/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Por Que o Slackware Parece ter Sumido?</title>
-      <link>https://www.vivaolinux.com.br/artigo/Por-Que-o-Slackware-Parece-ter-Sumido/</link>
-      <description></description>
-      <pubDate>Fri, 04 Sep 2026 23:44:59 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Por-Que-o-Slackware-Parece-ter-Sumido/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Toada Brava ganha demo no Steam e aposta em RPG 2D desenhado à mão com suporte a Linux</title>
-      <link>https://www.vivaolinux.com.br/noticia/toada-brava-ganha-demo-no-steam-e-aposta-em-rpg-2d-desenhado-a-mao-com-suporte-a-linux/</link>
-      <description></description>
-      <pubDate>Fri, 04 Sep 2026 23:44:59 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/toada-brava-ganha-demo-no-steam-e-aposta-em-rpg-2d-desenhado-a-mao-com-suporte-a-linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Ubisoft vai bloquear o For Honor no Linux e no Steam Deck alegando trapaças</title>
-      <link>https://www.vivaolinux.com.br/noticia/ubisoft-vai-bloquear-o-for-honor-no-linux-e-no-steam-deck-alegando-trapacas/</link>
-      <description></description>
-      <pubDate>Fri, 04 Sep 2026 23:44:59 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ubisoft-vai-bloquear-o-for-honor-no-linux-e-no-steam-deck-alegando-trapacas/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Instalar Interface Gráfica Hyprland no Linux</title>
-      <link>https://www.vivaolinux.com.br/artigo/Instalar-Interface-Grafica-Hyprland-no-Linux/</link>
-      <description></description>
-      <pubDate>Fri, 04 Sep 2026 23:44:59 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Instalar-Interface-Grafica-Hyprland-no-Linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
-      <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
-      <description></description>
-      <pubDate>Fri, 04 Sep 2026 23:44:59 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
-      <description></description>
-      <pubDate>Fri, 04 Sep 2026 23:44:59 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
-      <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
-      <description></description>
-      <pubDate>Fri, 04 Sep 2026 23:44:59 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
-      <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
-      <description></description>
-      <pubDate>Fri, 04 Sep 2026 23:44:59 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
-      <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
-      <description></description>
-      <pubDate>Fri, 04 Sep 2026 23:44:59 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[4Linux] Open-Weight: Quem Manda no Seu Modelo é Você</title>
