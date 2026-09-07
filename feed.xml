@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Sun, 06 Sep 2026 23:31:09 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 03:09:57 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -40,6 +40,14 @@
       <pubDate>Wed, 17 May 2023 22:00:24 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.pt.html</guid>
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
+    </item>
+    <item>
+      <title>[4Linux] Como Construir um Agente de IA com RAG do Zero: Guia Completo</title>
+      <link>https://blog.4linux.com.br/como-construir-um-agente-de-ia-com-rag-do-zero-guia-completo/</link>
+      <description>Um guia prático e detalhado para criar seu próprio assistente inteligente com Retrieval-Augmented Generation (RAG), busca vetorial, processamento multimodal e interface de chat — tudo com Python, Flask e SQLite. The post Como Construir um Agente de IA com RAG do Zero: Guia Completo appeared first...</description>
+      <pubDate>Wed, 02 Sep 2026 19:08:10 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13465</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
       <title>[Linux Today] Pangolin Reverse Proxy Moves to Dual Licensing With New Enterprise Edition</title>
@@ -90,10 +98,18 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
+      <title>[FSFLA] 6point4.en</title>
+      <link>http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</link>
+      <description>When I&apos;m Six Point Four Jason Self with a little help from my friend Alex Oliva When I get older, losing more bugs , In today&apos;s release, Will you still be sending me your problem reports, kernel patches, boot me with grub? Will you rejoice, and cheer for my might, Weeding out the blobs? Will you...</description>
+      <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
+      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
+      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
+    </item>
+    <item>
       <title>[LWN] &quot;free-threaded&quot; version of the language</title>
       <link>https://lwn.net/Articles/1078367/</link>
       <description></description>
-      <pubDate>Sun, 06 Sep 2026 23:31:09 -0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 03:09:57 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1078367/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -101,7 +117,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1090579/</link>
       <description></description>
-      <pubDate>Sun, 06 Sep 2026 23:31:09 -0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 03:09:57 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1090579/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -109,7 +125,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1092001/</link>
       <description></description>
-      <pubDate>Sun, 06 Sep 2026 23:31:09 -0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 03:09:57 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1092001/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -117,7 +133,7 @@
       <title>[LWN] cold-boot attacks</title>
       <link>https://en.wikipedia.org/wiki/Cold_boot_attack</link>
       <description></description>
-      <pubDate>Sun, 06 Sep 2026 23:31:09 -0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 03:09:57 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/Cold_boot_attack</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,7 +141,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1090568/</link>
       <description></description>
-      <pubDate>Sun, 06 Sep 2026 23:31:09 -0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 03:09:57 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1090568/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +149,7 @@
       <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
       <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
       <description></description>
-      <pubDate>Sun, 06 Sep 2026 23:31:06 -0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 03:09:52 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -141,7 +157,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
       <description></description>
-      <pubDate>Sun, 06 Sep 2026 23:31:06 -0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 03:09:52 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -149,7 +165,7 @@
       <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
       <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
       <description></description>
-      <pubDate>Sun, 06 Sep 2026 23:31:06 -0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 03:09:52 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -157,7 +173,7 @@
       <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
       <description></description>
-      <pubDate>Sun, 06 Sep 2026 23:31:06 -0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 03:09:52 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -165,7 +181,7 @@
       <title>[Linux Foundation] Open Models and Open Weights Are Foundational to Secure AI</title>
       <link>https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</link>
       <description></description>
-      <pubDate>Sun, 06 Sep 2026 23:31:06 -0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 03:09:52 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-models-and-open-weights-are-foundational-to-secure-ai</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -173,7 +189,7 @@
       <title>[Viva o Linux] Slackware 16 entra em alfa 1 após salto em GCC, glibc e binutils</title>
       <link>https://www.vivaolinux.com.br/noticia/slackware-16-entra-em-alfa-1-apos-salto-em-gcc-glibc-e-binutils/</link>
       <description></description>
-      <pubDate>Sun, 06 Sep 2026 23:31:05 -0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 03:09:51 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/slackware-16-entra-em-alfa-1-apos-salto-em-gcc-glibc-e-binutils/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -181,7 +197,7 @@
       <title>[Viva o Linux] Linux 7.3-rc2 recebe correção no agendador para CPUs híbridas Intel</title>
       <link>https://www.vivaolinux.com.br/noticia/linux-7-3-rc2-recebe-correcao-no-agendador-para-cpus-hibridas-intel/</link>
       <description></description>
-      <pubDate>Sun, 06 Sep 2026 23:31:05 -0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 03:09:51 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-7-3-rc2-recebe-correcao-no-agendador-para-cpus-hibridas-intel/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -189,7 +205,7 @@
       <title>[Viva o Linux] Sam Altman diz que a inteligência será um serviço público, e ele é o homem certo para cobrar as contas</title>
       <link>https://www.vivaolinux.com.br/noticia/sam-altman-diz-que-a-inteligencia-sera-um-servico-publico-e-ele-e-o-homem-certo-para-cobrar-as-contas/</link>
       <description></description>
-      <pubDate>Sun, 06 Sep 2026 23:31:05 -0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 03:09:51 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/sam-altman-diz-que-a-inteligencia-sera-um-servico-publico-e-ele-e-o-homem-certo-para-cobrar-as-contas/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -197,7 +213,7 @@
       <title>[Viva o Linux] Por Que o Slackware Parece ter Sumido?</title>
       <link>https://www.vivaolinux.com.br/artigo/Por-Que-o-Slackware-Parece-ter-Sumido/</link>
       <description></description>
-      <pubDate>Sun, 06 Sep 2026 23:31:05 -0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 03:09:51 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Por-Que-o-Slackware-Parece-ter-Sumido/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -205,17 +221,41 @@
       <title>[Viva o Linux] Toada Brava ganha demo no Steam e aposta em RPG 2D desenhado à mão com suporte a Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/toada-brava-ganha-demo-no-steam-e-aposta-em-rpg-2d-desenhado-a-mao-com-suporte-a-linux/</link>
       <description></description>
-      <pubDate>Sun, 06 Sep 2026 23:31:05 -0000</pubDate>
+      <pubDate>Mon, 07 Sep 2026 03:09:51 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/toada-brava-ganha-demo-no-steam-e-aposta-em-rpg-2d-desenhado-a-mao-com-suporte-a-linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
-      <title>[FSFLA] 6point4.en</title>
-      <link>http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</link>
-      <description>When I&apos;m Six Point Four Jason Self with a little help from my friend Alex Oliva When I get older, losing more bugs , In today&apos;s release, Will you still be sending me your problem reports, kernel patches, boot me with grub? Will you rejoice, and cheer for my might, Weeding out the blobs? Will you...</description>
-      <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
-      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
-      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
+      <title>[4Linux] A IA não está mais só completando código. Ela já está recebendo tarefas inteiras</title>
+      <link>https://blog.4linux.com.br/compartilhando-conhecimento-de-ia-a-ia-nao-esta-mais-so-completando-codigo-ela-ja-esta-recebendo-tarefas-inteiras/</link>
+      <description>Há poucos anos, ver o GitHub Copilot completar uma função enquanto você ainda estava digitando parecia algo impressionante. Você começava a escrever e a IA tentava descobrir o que viria The post A IA não está mais só completando código. Ela já está recebendo tarefas inteiras appeared first on Blog...</description>
+      <pubDate>Fri, 21 Aug 2026 12:40:00 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13760</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
+    <item>
+      <title>[4Linux] A Alibaba abriu, pela primeira vez, um modelo da classe Qwen-Max</title>
+      <link>https://blog.4linux.com.br/ia-para-maiores-a-alibaba-abriu-pela-primeira-vez-um-modelo-da-classe-qwen-max/</link>
+      <description>E lançou um 27B bem mais viável para quem quer rodar IA dentro da empresa. Em 3 de agosto, a Alibaba lançou o Qwen3.8-Max, seu maior e mais capaz modelo The post A Alibaba abriu, pela primeira vez, um modelo da classe Qwen-Max appeared first on Blog 4Linux .</description>
+      <pubDate>Fri, 21 Aug 2026 12:27:39 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13755</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
+    <item>
+      <title>[4Linux] Open-Weight: Quem Manda no Seu Modelo é Você</title>
+      <link>https://blog.4linux.com.br/compartilhando-conhecimento-de-ia-open-weight-quem-manda-no-seu-modelo-e-voce/</link>
+      <description>Saudações.&amp;#160; Enquanto você espera o SLA da sua IA proprietária favorita responder por que aquele prompt &amp;#8220;violou a política de uso&amp;#8221; pela terceira vez na semana, um time chamado OrcaRouter The post Open-Weight: Quem Manda no Seu Modelo é Você appeared first on Blog 4Linux .</description>
+      <pubDate>Fri, 04 Sep 2026 13:53:39 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13779</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
+    <item>
+      <title>[4Linux] Será que as LLMs conseguem produzir conhecimento novo usando o “Hassabis hypothesis”?</title>
+      <link>https://blog.4linux.com.br/ia-para-maiores-llms-conseguem-produzir-conhecimento-novo-hassabis-hypothesis/</link>
+      <description>Um pequeno experimento para você fazer agora, com os links reais das pesquisas. Em vez de ser um texto para lhe explicar tudo, faça de maneira mais didática: copie e The post Será que as LLMs conseguem produzir conhecimento novo usando o “Hassabis hypothesis”? appeared first on Blog 4Linux .</description>
+      <pubDate>Fri, 04 Sep 2026 13:51:25 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13775</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
   </channel>
 </rss>
