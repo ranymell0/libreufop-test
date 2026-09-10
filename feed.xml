@@ -13,10 +13,34 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 10 Sep 2026 10:44:10 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:51:34 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
+    <item>
+      <title>[FSFLA] IRPF-Livre 2023 released</title>
+      <link>http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.en.html</link>
+      <description>IRPF-Livre 2023 released Governments come and go, but the oppression of imposed taxing software for taxation remains. For a lot of people, using software they cannot control is like water for a fish: a part of the environment they&apos;re in. When the water is low on oxygen, they may even feel the...</description>
+      <pubDate>Wed, 17 May 2023 22:00:24 -0000</pubDate>
+      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.en.html</guid>
+      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
+    </item>
+    <item>
+      <title>[FSFLA] IRPF-Livre 2023 liberado</title>
+      <link>http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.es.html</link>
+      <description>IRPF-Livre 2023 liberado Gobiernos vienen y van pero la opresi&amp;oacute;n de los softwares impuestos para impuestos sigue. Para mucha gente, usar software que no controlan es como agua a un pez: una parte del ambiente en donde est&amp;aacute;n. Cuando el agua falta de ox&amp;iacute;geno, podr&amp;iacute;an...</description>
+      <pubDate>Wed, 17 May 2023 22:00:24 -0000</pubDate>
+      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.es.html</guid>
+      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
+    </item>
+    <item>
+      <title>[FSFLA] IRPF-Livre 2023 liberado</title>
+      <link>http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.pt.html</link>
+      <description>IRPF-Livre 2023 liberado Governos v&amp;ecirc;m e v&amp;atilde;o, mas a opress&amp;atilde;o dos softwares impostos para impostos continua. Para muitas pessoas, usar software que n&amp;atilde;o podem controlar &amp;eacute; como &amp;aacute;gua para um peixe, parte do ambiente em que est&amp;atilde;o. Quando na &amp;aacute;gua...</description>
+      <pubDate>Wed, 17 May 2023 22:00:24 -0000</pubDate>
+      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.pt.html</guid>
+      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
+    </item>
     <item>
       <title>[4Linux] Linux Network Engineer: cloud, redes, troubleshooting e IA em um único projeto prático</title>
       <link>https://blog.4linux.com.br/linux-network-engineer-cloud-redes-troubleshooting-e-ia-em-um-unico-projeto-pratico/</link>
@@ -37,7 +61,7 @@
       <title>[LWN] Typst</title>
       <link>https://typst.app</link>
       <description></description>
-      <pubDate>Thu, 10 Sep 2026 10:44:10 -0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 14:51:34 -0000</pubDate>
       <guid isPermaLink="false">https://typst.app</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -45,7 +69,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1092993/</link>
       <description></description>
-      <pubDate>Thu, 10 Sep 2026 10:44:10 -0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 14:51:34 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1092993/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -53,7 +77,7 @@
       <title>[LWN] denoted by an exclamation mark</title>
       <link>https://doc.rust-lang.org/stable/std/primitive.never.html</link>
       <description></description>
-      <pubDate>Thu, 10 Sep 2026 10:44:10 -0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 14:51:34 -0000</pubDate>
       <guid isPermaLink="false">https://doc.rust-lang.org/stable/std/primitive.never.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -61,7 +85,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1091015/</link>
       <description></description>
-      <pubDate>Thu, 10 Sep 2026 10:44:10 -0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 14:51:34 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1091015/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -69,55 +93,15 @@
       <title>[LWN] CERN</title>
       <link>https://home.cern/</link>
       <description></description>
-      <pubDate>Thu, 10 Sep 2026 10:44:10 -0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 14:51:34 -0000</pubDate>
       <guid isPermaLink="false">https://home.cern/</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] SAW: organize fluxos multiagente de IA no Linux com etapas, revisão e validação</title>
-      <link>https://www.vivaolinux.com.br/dica/SAW-organize-fluxos-multiagente-de-IA-no-Linux-com-etapas-revisao-e-validacao/</link>
-      <description></description>
-      <pubDate>Thu, 10 Sep 2026 10:44:06 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/SAW-organize-fluxos-multiagente-de-IA-no-Linux-com-etapas-revisao-e-validacao/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] OpenAI atualiza o ChatGPT Images 2.5 com mais velocidade e novas APIs para desenvolvedores</title>
-      <link>https://www.vivaolinux.com.br/noticia/openai-atualiza-o-chatgpt-images-2-5-com-mais-velocidade-e-novas-apis-para-desenvolvedores/</link>
-      <description></description>
-      <pubDate>Thu, 10 Sep 2026 10:44:06 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/openai-atualiza-o-chatgpt-images-2-5-com-mais-velocidade-e-novas-apis-para-desenvolvedores/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] NVIDIA 615.71.09 chega ao Linux com reforço para jogos Vulkan nativos e melhorias no Proton</title>
-      <link>https://www.vivaolinux.com.br/noticia/nvidia-615-71-09-chega-ao-linux-com-reforco-para-jogos-vulkan-nativos-e-melhorias-no-proton/</link>
-      <description></description>
-      <pubDate>Thu, 10 Sep 2026 10:44:06 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/nvidia-615-71-09-chega-ao-linux-com-reforco-para-jogos-vulkan-nativos-e-melhorias-no-proton/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] NetworkManager impõe políticas para identificar contribuições geradas por IA</title>
-      <link>https://www.vivaolinux.com.br/noticia/networkmanager-impoe-politicas-para-identificar-contribuicoes-geradas-por-ia/</link>
-      <description></description>
-      <pubDate>Thu, 10 Sep 2026 10:44:06 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/networkmanager-impoe-politicas-para-identificar-contribuicoes-geradas-por-ia/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Wightwatch Keep chega ao Flathub e pode ser instalado em várias distros Linux via Flatpak</title>
-      <link>https://www.vivaolinux.com.br/noticia/wightwatch-keep-chega-ao-flathub-e-pode-ser-instalado-em-varias-distros-linux-via-flatpak/</link>
-      <description></description>
-      <pubDate>Thu, 10 Sep 2026 10:44:06 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/wightwatch-keep-chega-ao-flathub-e-pode-ser-instalado-em-varias-distros-linux-via-flatpak/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Foundation] How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act</title>
       <link>https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</link>
       <description></description>
-      <pubDate>Thu, 10 Sep 2026 10:44:06 -0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 14:51:28 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -125,7 +109,7 @@
       <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
       <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
       <description></description>
-      <pubDate>Thu, 10 Sep 2026 10:44:06 -0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 14:51:28 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -133,7 +117,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
       <description></description>
-      <pubDate>Thu, 10 Sep 2026 10:44:06 -0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 14:51:28 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -141,7 +125,7 @@
       <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
       <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
       <description></description>
-      <pubDate>Thu, 10 Sep 2026 10:44:06 -0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 14:51:28 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -149,9 +133,49 @@
       <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
       <description></description>
-      <pubDate>Thu, 10 Sep 2026 10:44:06 -0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 14:51:28 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Calamares 3.4.3 melhora particionamento e ajustes de locale no instalador gráfico do Linux</title>
+      <link>https://www.vivaolinux.com.br/noticia/calamares-3-4-3-melhora-particionamento-e-ajustes-de-locale-no-instalador-grafico-do-linux/</link>
+      <description></description>
+      <pubDate>Thu, 10 Sep 2026 14:51:27 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/calamares-3-4-3-melhora-particionamento-e-ajustes-de-locale-no-instalador-grafico-do-linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Doutor Destino protesta contra vigilância em massa</title>
+      <link>https://www.vivaolinux.com.br/noticia/seattle-usa-mascara-de-doutor-destino-para-protestar-contra-vigilancia-em-massa/</link>
+      <description></description>
+      <pubDate>Thu, 10 Sep 2026 14:51:27 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/seattle-usa-mascara-de-doutor-destino-para-protestar-contra-vigilancia-em-massa/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] GNOME 51 ganha suporte a perfis personalizados de aceleração do ponteiro</title>
+      <link>https://www.vivaolinux.com.br/noticia/gnome-51-ganha-suporte-a-perfis-personalizados-de-aceleracao-do-ponteiro/</link>
+      <description></description>
+      <pubDate>Thu, 10 Sep 2026 14:51:27 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/gnome-51-ganha-suporte-a-perfis-personalizados-de-aceleracao-do-ponteiro/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] SAW: organize fluxos multiagente de IA no Linux com etapas, revisão e validação</title>
+      <link>https://www.vivaolinux.com.br/dica/SAW-organize-fluxos-multiagente-de-IA-no-Linux-com-etapas-revisao-e-validacao/</link>
+      <description></description>
+      <pubDate>Thu, 10 Sep 2026 14:51:27 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/SAW-organize-fluxos-multiagente-de-IA-no-Linux-com-etapas-revisao-e-validacao/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] OpenAI atualiza o ChatGPT Images 2.5 com mais velocidade e novas APIs para desenvolvedores</title>
+      <link>https://www.vivaolinux.com.br/noticia/openai-atualiza-o-chatgpt-images-2-5-com-mais-velocidade-e-novas-apis-para-desenvolvedores/</link>
+      <description></description>
+      <pubDate>Thu, 10 Sep 2026 14:51:27 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/openai-atualiza-o-chatgpt-images-2-5-com-mais-velocidade-e-novas-apis-para-desenvolvedores/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Today] Pangolin Reverse Proxy Moves to Dual Licensing With New Enterprise Edition</title>
@@ -192,6 +216,22 @@
       <pubDate>Thu, 06 Nov 2025 15:31:59 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxtoday.com/?post_type=user_post&amp;p=204479</guid>
       <source url="https://feeds.feedburner.com/linuxtoday/linux">Linux Today</source>
+    </item>
+    <item>
+      <title>[FSFLA] Suitable Online Bank(rupt)ing</title>
+      <link>http://www.fsfla.org/ikiwiki/texto/bancarrota.en.html</link>
+      <description>Suitable Online Bank(rupt)ing Alexandre Oliva For the past couple of decades, I&apos;ve entered various fights with Brazilian banks over their threats to my software freedom in their Internet banking services. Back in 2002, the main threats were websites that required Internet Explorer, or the...</description>
+      <pubDate>Sun, 30 Apr 2023 21:59:53 -0000</pubDate>
+      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/texto/bancarrota.en.html</guid>
+      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
+    </item>
+    <item>
+      <title>[FSFLA] 6point4.en</title>
+      <link>http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</link>
+      <description>When I&apos;m Six Point Four Jason Self with a little help from my friend Alex Oliva When I get older, losing more bugs , In today&apos;s release, Will you still be sending me your problem reports, kernel patches, boot me with grub? Will you rejoice, and cheer for my might, Weeding out the blobs? Will you...</description>
+      <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
+      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
+      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
       <title>[4Linux] A IA não está mais só completando código. Ela já está recebendo tarefas inteiras</title>
