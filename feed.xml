@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Sat, 12 Sep 2026 11:29:33 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 15:05:37 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -109,7 +109,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1093398/</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 11:29:33 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 15:05:37 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1093398/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -117,7 +117,7 @@
       <title>[LWN] PostgreSQL 19</title>
       <link>https://www.postgresql.org/docs/release/19.0/</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 11:29:33 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 15:05:37 -0000</pubDate>
       <guid isPermaLink="false">https://www.postgresql.org/docs/release/19.0/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1092003/</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 11:29:33 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 15:05:37 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1092003/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[LWN] Typst</title>
       <link>https://typst.app</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 11:29:33 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 15:05:37 -0000</pubDate>
       <guid isPermaLink="false">https://typst.app</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,7 +141,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1092993/</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 11:29:33 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 15:05:37 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1092993/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[Linux Foundation] How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act</title>
       <link>https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 11:29:26 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 15:05:29 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
       <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 11:29:26 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 15:05:29 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 11:29:26 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 15:05:29 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -173,7 +173,7 @@
       <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
       <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 11:29:26 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 15:05:29 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -181,7 +181,7 @@
       <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 11:29:26 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 15:05:29 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,7 +189,7 @@
       <title>[Viva o Linux] Packman vai encerrar atividade em 2026 e acende alerta para usuários do openSUSE</title>
       <link>https://www.vivaolinux.com.br/noticia/packman-vai-encerrar-atividade-em-2026-e-acende-alerta-para-usuarios-do-opensuse/</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 11:29:25 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 15:05:28 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/packman-vai-encerrar-atividade-em-2026-e-acende-alerta-para-usuarios-do-opensuse/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -197,7 +197,7 @@
       <title>[Viva o Linux] Monitorando Dados de Mercado em Tempo Real com Python no Linux</title>
       <link>https://www.vivaolinux.com.br/artigo/Monitorando-Dados-de-Mercado-em-Tempo-Real-com-Python-no-Linux/</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 11:29:25 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 15:05:28 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Monitorando-Dados-de-Mercado-em-Tempo-Real-com-Python-no-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -205,7 +205,7 @@
       <title>[Viva o Linux] Wordfence expõe 16 falhas críticas em plugins WordPress, com risco de tomada de conta e execução remota</title>
       <link>https://www.vivaolinux.com.br/noticia/wordfence-expoe-16-falhas-criticas-em-plugins-wordpress-com-risco-de-tomada-de-conta-e-execucao-remota/</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 11:29:25 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 15:05:28 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/wordfence-expoe-16-falhas-criticas-em-plugins-wordpress-com-risco-de-tomada-de-conta-e-execucao-remota/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -213,7 +213,7 @@
       <title>[Viva o Linux] GIMP 3.2.6 chega com ajustes de UX, novo input de rotação para stylus e correções de desempenho</title>
       <link>https://www.vivaolinux.com.br/noticia/gimp-3-2-6-chega-com-ajustes-de-ux-novo-input-de-rotacao-para-stylus-e-correcoes-de-desempenho/</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 11:29:25 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 15:05:28 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/gimp-3-2-6-chega-com-ajustes-de-ux-novo-input-de-rotacao-para-stylus-e-correcoes-de-desempenho/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -221,7 +221,7 @@
       <title>[Viva o Linux] Calamares 3.4.3 melhora particionamento e ajustes de locale no instalador gráfico do Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/calamares-3-4-3-melhora-particionamento-e-ajustes-de-locale-no-instalador-grafico-do-linux/</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 11:29:25 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 15:05:28 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/calamares-3-4-3-melhora-particionamento-e-ajustes-de-locale-no-instalador-grafico-do-linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
