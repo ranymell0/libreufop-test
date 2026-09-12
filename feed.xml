@@ -13,34 +13,10 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Sat, 12 Sep 2026 15:05:37 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 18:08:20 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
-    <item>
-      <title>[FSFLA] IRPF-Livre 2023 released</title>
-      <link>http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.en.html</link>
-      <description>IRPF-Livre 2023 released Governments come and go, but the oppression of imposed taxing software for taxation remains. For a lot of people, using software they cannot control is like water for a fish: a part of the environment they&apos;re in. When the water is low on oxygen, they may even feel the...</description>
-      <pubDate>Wed, 17 May 2023 22:00:24 -0000</pubDate>
-      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.en.html</guid>
-      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
-    </item>
-    <item>
-      <title>[FSFLA] IRPF-Livre 2023 liberado</title>
-      <link>http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.es.html</link>
-      <description>IRPF-Livre 2023 liberado Gobiernos vienen y van pero la opresi&amp;oacute;n de los softwares impuestos para impuestos sigue. Para mucha gente, usar software que no controlan es como agua a un pez: una parte del ambiente en donde est&amp;aacute;n. Cuando el agua falta de ox&amp;iacute;geno, podr&amp;iacute;an...</description>
-      <pubDate>Wed, 17 May 2023 22:00:24 -0000</pubDate>
-      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.es.html</guid>
-      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
-    </item>
-    <item>
-      <title>[FSFLA] IRPF-Livre 2023 liberado</title>
-      <link>http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.pt.html</link>
-      <description>IRPF-Livre 2023 liberado Governos v&amp;ecirc;m e v&amp;atilde;o, mas a opress&amp;atilde;o dos softwares impostos para impostos continua. Para muitas pessoas, usar software que n&amp;atilde;o podem controlar &amp;eacute; como &amp;aacute;gua para um peixe, parte do ambiente em que est&amp;atilde;o. Quando na &amp;aacute;gua...</description>
-      <pubDate>Wed, 17 May 2023 22:00:24 -0000</pubDate>
-      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.pt.html</guid>
-      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
-    </item>
     <item>
       <title>[4Linux] Linux Network Engineer: cloud, redes, troubleshooting e IA em um único projeto prático</title>
       <link>https://blog.4linux.com.br/linux-network-engineer-cloud-redes-troubleshooting-e-ia-em-um-unico-projeto-pratico/</link>
@@ -98,18 +74,10 @@
       <source url="https://feeds.feedburner.com/linuxtoday/linux">Linux Today</source>
     </item>
     <item>
-      <title>[FSFLA] Suitable Online Bank(rupt)ing</title>
-      <link>http://www.fsfla.org/ikiwiki/texto/bancarrota.en.html</link>
-      <description>Suitable Online Bank(rupt)ing Alexandre Oliva For the past couple of decades, I&apos;ve entered various fights with Brazilian banks over their threats to my software freedom in their Internet banking services. Back in 2002, the main threats were websites that required Internet Explorer, or the...</description>
-      <pubDate>Sun, 30 Apr 2023 21:59:53 -0000</pubDate>
-      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/texto/bancarrota.en.html</guid>
-      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
-    </item>
-    <item>
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1093398/</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 15:05:37 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 18:08:20 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1093398/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -117,7 +85,7 @@
       <title>[LWN] PostgreSQL 19</title>
       <link>https://www.postgresql.org/docs/release/19.0/</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 15:05:37 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 18:08:20 -0000</pubDate>
       <guid isPermaLink="false">https://www.postgresql.org/docs/release/19.0/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,7 +93,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1092003/</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 15:05:37 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 18:08:20 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1092003/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +101,7 @@
       <title>[LWN] Typst</title>
       <link>https://typst.app</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 15:05:37 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 18:08:20 -0000</pubDate>
       <guid isPermaLink="false">https://typst.app</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,7 +109,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1092993/</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 15:05:37 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 18:08:20 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1092993/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,7 +117,7 @@
       <title>[Linux Foundation] How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act</title>
       <link>https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 15:05:29 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 18:08:17 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -157,7 +125,7 @@
       <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
       <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 15:05:29 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 18:08:17 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -165,7 +133,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 15:05:29 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 18:08:17 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -173,7 +141,7 @@
       <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
       <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 15:05:29 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 18:08:17 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -181,7 +149,7 @@
       <title>[Linux Foundation] From Campus to Community Part 4: How Academia Plugs In</title>
       <link>https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 15:05:29 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 18:08:17 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/from-campus-to-community-part-4-how-academia-plugs-in</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,7 +157,7 @@
       <title>[Viva o Linux] Packman vai encerrar atividade em 2026 e acende alerta para usuários do openSUSE</title>
       <link>https://www.vivaolinux.com.br/noticia/packman-vai-encerrar-atividade-em-2026-e-acende-alerta-para-usuarios-do-opensuse/</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 15:05:28 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 18:08:16 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/packman-vai-encerrar-atividade-em-2026-e-acende-alerta-para-usuarios-do-opensuse/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -197,7 +165,7 @@
       <title>[Viva o Linux] Monitorando Dados de Mercado em Tempo Real com Python no Linux</title>
       <link>https://www.vivaolinux.com.br/artigo/Monitorando-Dados-de-Mercado-em-Tempo-Real-com-Python-no-Linux/</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 15:05:28 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 18:08:16 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Monitorando-Dados-de-Mercado-em-Tempo-Real-com-Python-no-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -205,7 +173,7 @@
       <title>[Viva o Linux] Wordfence expõe 16 falhas críticas em plugins WordPress, com risco de tomada de conta e execução remota</title>
       <link>https://www.vivaolinux.com.br/noticia/wordfence-expoe-16-falhas-criticas-em-plugins-wordpress-com-risco-de-tomada-de-conta-e-execucao-remota/</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 15:05:28 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 18:08:16 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/wordfence-expoe-16-falhas-criticas-em-plugins-wordpress-com-risco-de-tomada-de-conta-e-execucao-remota/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -213,7 +181,7 @@
       <title>[Viva o Linux] GIMP 3.2.6 chega com ajustes de UX, novo input de rotação para stylus e correções de desempenho</title>
       <link>https://www.vivaolinux.com.br/noticia/gimp-3-2-6-chega-com-ajustes-de-ux-novo-input-de-rotacao-para-stylus-e-correcoes-de-desempenho/</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 15:05:28 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 18:08:16 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/gimp-3-2-6-chega-com-ajustes-de-ux-novo-input-de-rotacao-para-stylus-e-correcoes-de-desempenho/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -221,17 +189,9 @@
       <title>[Viva o Linux] Calamares 3.4.3 melhora particionamento e ajustes de locale no instalador gráfico do Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/calamares-3-4-3-melhora-particionamento-e-ajustes-de-locale-no-instalador-grafico-do-linux/</link>
       <description></description>
-      <pubDate>Sat, 12 Sep 2026 15:05:28 -0000</pubDate>
+      <pubDate>Sat, 12 Sep 2026 18:08:16 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/calamares-3-4-3-melhora-particionamento-e-ajustes-de-locale-no-instalador-grafico-do-linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[FSFLA] 6point4.en</title>
-      <link>http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</link>
-      <description>When I&apos;m Six Point Four Jason Self with a little help from my friend Alex Oliva When I get older, losing more bugs , In today&apos;s release, Will you still be sending me your problem reports, kernel patches, boot me with grub? Will you rejoice, and cheer for my might, Weeding out the blobs? Will you...</description>
-      <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
-      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
-      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
       <title>[4Linux] A IA não está mais só completando código. Ela já está recebendo tarefas inteiras</title>
