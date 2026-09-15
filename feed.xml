@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Tue, 15 Sep 2026 05:53:18 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:12:48 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -61,7 +61,7 @@
       <title>[LWN] MiniDebConf in Winterthur, Switzerland</title>
       <link>https://ch2026.mini.debconf.org/</link>
       <description></description>
-      <pubDate>Tue, 15 Sep 2026 05:53:18 -0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 11:12:48 -0000</pubDate>
       <guid isPermaLink="false">https://ch2026.mini.debconf.org/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -69,7 +69,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1093381/</link>
       <description></description>
-      <pubDate>Tue, 15 Sep 2026 05:53:18 -0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 11:12:48 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1093381/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,7 +77,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1093398/</link>
       <description></description>
-      <pubDate>Tue, 15 Sep 2026 05:53:18 -0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 11:12:48 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1093398/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -85,7 +85,7 @@
       <title>[LWN] PostgreSQL 19</title>
       <link>https://www.postgresql.org/docs/release/19.0/</link>
       <description></description>
-      <pubDate>Tue, 15 Sep 2026 05:53:18 -0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 11:12:48 -0000</pubDate>
       <guid isPermaLink="false">https://www.postgresql.org/docs/release/19.0/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -93,15 +93,31 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1092003/</link>
       <description></description>
-      <pubDate>Tue, 15 Sep 2026 05:53:18 -0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 11:12:48 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1092003/</guid>
       <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] LF Energy Expands Global Energy Ecosystem with New Members, Open Source Projects and Technical Milestones</title>
+      <link>https://www.linuxfoundation.org/blog/lf-energy-expands-global-energy-ecosystem-with-new-members-open-source-projects-and-technical-milestones</link>
+      <description></description>
+      <pubDate>Tue, 15 Sep 2026 11:12:43 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-energy-expands-global-energy-ecosystem-with-new-members-open-source-projects-and-technical-milestones</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] LF Energy Research Finds Open Source Software Can Deliver 2-5x Greater Net Value for Grid Operators</title>
+      <link>https://www.linuxfoundation.org/blog/lf-energy-research-finds-open-source-software-can-deliver-2-5x-greater-net-value-for-grid-operators</link>
+      <description></description>
+      <pubDate>Tue, 15 Sep 2026 11:12:43 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-energy-research-finds-open-source-software-can-deliver-2-5x-greater-net-value-for-grid-operators</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[Linux Foundation] Open Secure AI Alliance Joins the Linux Foundation to Build a Shared, Open Defense Stack for the AI Era</title>
       <link>https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</link>
       <description></description>
-      <pubDate>Tue, 15 Sep 2026 05:53:12 -0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 11:12:43 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -109,7 +125,7 @@
       <title>[Linux Foundation] How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act</title>
       <link>https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</link>
       <description></description>
-      <pubDate>Tue, 15 Sep 2026 05:53:12 -0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 11:12:43 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -117,31 +133,31 @@
       <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
       <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
       <description></description>
-      <pubDate>Tue, 15 Sep 2026 05:53:12 -0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 11:12:43 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
+      <title>[Viva o Linux] Patches para o kernel Linux prometem hibernação mais rápida em 2027</title>
+      <link>https://www.vivaolinux.com.br/noticia/patches-para-o-kernel-linux-prometem-hibernacao-mais-rapida-em-2027/</link>
       <description></description>
-      <pubDate>Tue, 15 Sep 2026 05:53:12 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+      <pubDate>Tue, 15 Sep 2026 11:12:42 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/patches-para-o-kernel-linux-prometem-hibernacao-mais-rapida-em-2027/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
-      <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
-      <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
+      <title>[Viva o Linux] Debian 13.7 é lançado com correções de segurança e ajustes pontuais</title>
+      <link>https://www.vivaolinux.com.br/noticia/debian-13-7-e-lancado-com-correcoes-de-seguranca-e-ajustes-pontuais/</link>
       <description></description>
-      <pubDate>Tue, 15 Sep 2026 05:53:12 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+      <pubDate>Tue, 15 Sep 2026 11:12:42 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/debian-13-7-e-lancado-com-correcoes-de-seguranca-e-ajustes-pontuais/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Viva o Linux] Uso de IA ajuda a reduzir gargalos e acelerar compilações do kernel Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/uso-de-ia-ajuda-a-reduzir-gargalos-e-acelerar-compilacoes-do-kernel-linux/</link>
       <description></description>
-      <pubDate>Tue, 15 Sep 2026 05:53:11 -0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 11:12:42 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/uso-de-ia-ajuda-a-reduzir-gargalos-e-acelerar-compilacoes-do-kernel-linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -149,7 +165,7 @@
       <title>[Viva o Linux] Como instalar o LibreDB Studio com Docker: um cliente de banco de dados que roda no navegador</title>
       <link>https://www.vivaolinux.com.br/artigo/Como-instalar-o-LibreDB-Studio-com-Docker-um-cliente-de-banco-de-dados-que-roda-no-navegador/</link>
       <description></description>
-      <pubDate>Tue, 15 Sep 2026 05:53:11 -0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 11:12:42 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Como-instalar-o-LibreDB-Studio-com-Docker-um-cliente-de-banco-de-dados-que-roda-no-navegador/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -157,24 +173,8 @@
       <title>[Viva o Linux] Shelly 3.1.4 ganha novos ajustes e reforça o papel de gerenciador gráfico para Arch Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/shelly-3-1-4-ganha-novos-ajustes-e-reforca-o-papel-de-gerenciador-grafico-para-arch-linux/</link>
       <description></description>
-      <pubDate>Tue, 15 Sep 2026 05:53:11 -0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 11:12:42 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/shelly-3-1-4-ganha-novos-ajustes-e-reforca-o-papel-de-gerenciador-grafico-para-arch-linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Packman vai encerrar atividade em 2026 e acende alerta para usuários do openSUSE</title>
-      <link>https://www.vivaolinux.com.br/noticia/packman-vai-encerrar-atividade-em-2026-e-acende-alerta-para-usuarios-do-opensuse/</link>
-      <description></description>
-      <pubDate>Tue, 15 Sep 2026 05:53:11 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/packman-vai-encerrar-atividade-em-2026-e-acende-alerta-para-usuarios-do-opensuse/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Monitorando Dados de Mercado em Tempo Real com Python no Linux</title>
-      <link>https://www.vivaolinux.com.br/artigo/Monitorando-Dados-de-Mercado-em-Tempo-Real-com-Python-no-Linux/</link>
-      <description></description>
-      <pubDate>Tue, 15 Sep 2026 05:53:11 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Monitorando-Dados-de-Mercado-em-Tempo-Real-com-Python-no-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
