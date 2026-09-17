@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 17 Sep 2026 16:21:03 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:01:26 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -69,7 +69,7 @@
       <title>[LWN] io_uring subsystem</title>
       <link>https://man7.org/linux/man-pages/man7/io_uring.7.html</link>
       <description></description>
-      <pubDate>Thu, 17 Sep 2026 16:21:03 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 20:01:26 -0000</pubDate>
       <guid isPermaLink="false">https://man7.org/linux/man-pages/man7/io_uring.7.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,7 +77,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1094303/</link>
       <description></description>
-      <pubDate>Thu, 17 Sep 2026 16:21:03 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 20:01:26 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1094303/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -85,7 +85,7 @@
       <title>[LWN] 2026 edition of FOSSY</title>
       <link>https://2026.fossy.ca/</link>
       <description></description>
-      <pubDate>Thu, 17 Sep 2026 16:21:03 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 20:01:26 -0000</pubDate>
       <guid isPermaLink="false">https://2026.fossy.ca/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -93,7 +93,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1092553/</link>
       <description></description>
-      <pubDate>Thu, 17 Sep 2026 16:21:03 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 20:01:26 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1092553/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -101,7 +101,7 @@
       <title>[LWN] This patch series</title>
       <link>https://lwn.net/ml/all/20260914073356.791518-1-cui.tao@linux.dev</link>
       <description></description>
-      <pubDate>Thu, 17 Sep 2026 16:21:03 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 20:01:26 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/ml/all/20260914073356.791518-1-cui.tao@linux.dev</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -109,7 +109,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: September 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</link>
       <description></description>
-      <pubDate>Thu, 17 Sep 2026 16:20:58 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 20:01:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -117,7 +117,7 @@
       <title>[Linux Foundation] Open Secure AI Alliance Joins the Linux Foundation to Build a Shared, Open Defense Stack for the AI Era</title>
       <link>https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</link>
       <description></description>
-      <pubDate>Thu, 17 Sep 2026 16:20:58 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 20:01:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[Linux Foundation] How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act</title>
       <link>https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</link>
       <description></description>
-      <pubDate>Thu, 17 Sep 2026 16:20:58 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 20:01:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
       <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
       <description></description>
-      <pubDate>Thu, 17 Sep 2026 16:20:58 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 20:01:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -141,15 +141,39 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
       <description></description>
-      <pubDate>Thu, 17 Sep 2026 16:20:58 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 20:01:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Anthropic vira alvo de críticas por cultura interna em torno do Claude com &quot;funeral&quot; de versões</title>
+      <link>https://www.vivaolinux.com.br/noticia/anthropic-vira-alvo-de-criticas-por-cultura-interna-em-torno-do-claude-com-funeral-de-versoes/</link>
+      <description></description>
+      <pubDate>Thu, 17 Sep 2026 20:01:20 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/anthropic-vira-alvo-de-criticas-por-cultura-interna-em-torno-do-claude-com-funeral-de-versoes/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Leitor de Teclas em HTML, Javascript e PHP</title>
+      <link>https://www.vivaolinux.com.br/dica/Leitor-de-Teclas-em-HTML-Javascript-e-PHP/</link>
+      <description></description>
+      <pubDate>Thu, 17 Sep 2026 20:01:20 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Leitor-de-Teclas-em-HTML-Javascript-e-PHP/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] OpenAI revela seis incidentes de comportamento preocupante em seus modelos de IA</title>
+      <link>https://www.vivaolinux.com.br/noticia/openai-revela-seis-incidentes-de-comportamento-preocupante-em-seus-modelos-de-ia/</link>
+      <description></description>
+      <pubDate>Thu, 17 Sep 2026 20:01:20 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/openai-revela-seis-incidentes-de-comportamento-preocupante-em-seus-modelos-de-ia/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Viva o Linux] Desenvolvedor do Linux no PS5 abandona o projeto por novatos usarem IA sem entender o código</title>
       <link>https://www.vivaolinux.com.br/noticia/desenvolvedor-do-linux-no-ps5-abandona-a-cena-de-jailbreak-apos-disputa-por-falha-no-hypervisor/</link>
       <description></description>
-      <pubDate>Thu, 17 Sep 2026 16:20:57 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 20:01:20 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/desenvolvedor-do-linux-no-ps5-abandona-a-cena-de-jailbreak-apos-disputa-por-falha-no-hypervisor/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -157,32 +181,8 @@
       <title>[Viva o Linux] GNOME 51 “A Coruña” é lançado com foco em desempenho, segurança e melhorias para o desktop Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/gnome-51-a-coruna-e-lancado-com-foco-em-desempenho-seguranca-e-melhorias-para-o-desktop-linux/</link>
       <description></description>
-      <pubDate>Thu, 17 Sep 2026 16:20:57 -0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 20:01:20 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/gnome-51-a-coruna-e-lancado-com-foco-em-desempenho-seguranca-e-melhorias-para-o-desktop-linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Fedora Linux 45 Beta chega com proteção extra na instalação de pacotes e novidades para desktop e servidores</title>
-      <link>https://www.vivaolinux.com.br/noticia/fedora-linux-45-beta-chega-com-protecao-extra-na-instalacao-de-pacotes-e-novidades-para-desktop-e-servidores/</link>
-      <description></description>
-      <pubDate>Thu, 17 Sep 2026 16:20:57 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/fedora-linux-45-beta-chega-com-protecao-extra-na-instalacao-de-pacotes-e-novidades-para-desktop-e-servidores/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] PostgreSQL 19 chega com SQL/PGQ, REPACK e melhorias para replicação e autovacuum</title>
-      <link>https://www.vivaolinux.com.br/noticia/postgresql-19-chega-com-sql-pgq-repack-e-melhorias-para-replicacao-e-autovacuum/</link>
-      <description></description>
-      <pubDate>Thu, 17 Sep 2026 16:20:57 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/postgresql-19-chega-com-sql-pgq-repack-e-melhorias-para-replicacao-e-autovacuum/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] DXVK 3.1.1 aprimora o suporte para Call of Duty: Ghosts, Rayman 3 e Skyrim SE</title>
-      <link>https://www.vivaolinux.com.br/noticia/dxvk-3-1-1-aprimora-o-suporte-para-call-of-duty-ghosts-rayman-3-e-skyrim-se/</link>
-      <description></description>
-      <pubDate>Thu, 17 Sep 2026 16:20:57 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/dxvk-3-1-1-aprimora-o-suporte-para-call-of-duty-ghosts-rayman-3-e-skyrim-se/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
