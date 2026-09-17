@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Wed, 16 Sep 2026 21:54:23 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 00:08:33 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -42,126 +42,6 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
-      <title>[LWN] 2026 edition of FOSSY</title>
-      <link>https://2026.fossy.ca/</link>
-      <description></description>
-      <pubDate>Wed, 16 Sep 2026 21:54:23 -0000</pubDate>
-      <guid isPermaLink="false">https://2026.fossy.ca/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1092553/</link>
-      <description></description>
-      <pubDate>Wed, 16 Sep 2026 21:54:23 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1092553/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] This patch series</title>
-      <link>https://lwn.net/ml/all/20260914073356.791518-1-cui.tao@linux.dev</link>
-      <description></description>
-      <pubDate>Wed, 16 Sep 2026 21:54:23 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/ml/all/20260914073356.791518-1-cui.tao@linux.dev</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1093661/</link>
-      <description></description>
-      <pubDate>Wed, 16 Sep 2026 21:54:23 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1093661/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] MiniDebConf in Winterthur, Switzerland</title>
-      <link>https://ch2026.mini.debconf.org/</link>
-      <description></description>
-      <pubDate>Wed, 16 Sep 2026 21:54:23 -0000</pubDate>
-      <guid isPermaLink="false">https://ch2026.mini.debconf.org/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] PostgreSQL 19 chega com SQL/PGQ, REPACK e melhorias para replicação e autovacuum</title>
-      <link>https://www.vivaolinux.com.br/noticia/postgresql-19-chega-com-sql-pgq-repack-e-melhorias-para-replicacao-e-autovacuum/</link>
-      <description></description>
-      <pubDate>Wed, 16 Sep 2026 21:54:18 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/postgresql-19-chega-com-sql-pgq-repack-e-melhorias-para-replicacao-e-autovacuum/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] DXVK 3.1.1 aprimora o suporte para Call of Duty: Ghosts, Rayman 3 e Skyrim SE</title>
-      <link>https://www.vivaolinux.com.br/noticia/dxvk-3-1-1-aprimora-o-suporte-para-call-of-duty-ghosts-rayman-3-e-skyrim-se/</link>
-      <description></description>
-      <pubDate>Wed, 16 Sep 2026 21:54:18 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/dxvk-3-1-1-aprimora-o-suporte-para-call-of-duty-ghosts-rayman-3-e-skyrim-se/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] VirtualBox 7.2.18 chega com correções para Linux 7.3 e suporte ao kernel do RHEL 10.3</title>
-      <link>https://www.vivaolinux.com.br/noticia/virtualbox-7-2-18-chega-com-correcoes-para-linux-7-3-e-suporte-ao-kernel-do-rhel-10-3/</link>
-      <description></description>
-      <pubDate>Wed, 16 Sep 2026 21:54:18 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/virtualbox-7-2-18-chega-com-correcoes-para-linux-7-3-e-suporte-ao-kernel-do-rhel-10-3/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Agentes de IA já estão piorando a internet - e o problema vai além do hype</title>
-      <link>https://www.vivaolinux.com.br/noticia/agentes-de-ia-ja-estao-piorando-a-internet-e-o-problema-vai-alem-do-hype/</link>
-      <description></description>
-      <pubDate>Wed, 16 Sep 2026 21:54:18 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/agentes-de-ia-ja-estao-piorando-a-internet-e-o-problema-vai-alem-do-hype/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Raspberry Pi OS ganha reforma visual e adiciona dock de ícones por padrão</title>
-      <link>https://www.vivaolinux.com.br/noticia/raspberry-pi-os-ganha-reforma-visual-e-adiciona-dock-de-icones-por-padrao/</link>
-      <description></description>
-      <pubDate>Wed, 16 Sep 2026 21:54:18 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/raspberry-pi-os-ganha-reforma-visual-e-adiciona-dock-de-icones-por-padrao/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Open Secure AI Alliance Joins the Linux Foundation to Build a Shared, Open Defense Stack for the AI Era</title>
-      <link>https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</link>
-      <description></description>
-      <pubDate>Wed, 16 Sep 2026 21:54:18 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act</title>
-      <link>https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</link>
-      <description></description>
-      <pubDate>Wed, 16 Sep 2026 21:54:18 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
-      <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
-      <description></description>
-      <pubDate>Wed, 16 Sep 2026 21:54:18 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
-      <description></description>
-      <pubDate>Wed, 16 Sep 2026 21:54:18 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
-      <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
-      <description></description>
-      <pubDate>Wed, 16 Sep 2026 21:54:18 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
       <title>[4Linux] Claude Skills para desenvolvimento: como criar, organizar e usar Skills no fluxo real de engenharia</title>
       <link>https://blog.4linux.com.br/claude-skills-para-desenvolvimento-como-criar-organizar-e-usar-skills-no-fluxo-real-de-engenharia/</link>
       <description>A primeira vez que uma Skill fez sentido para mim não foi lendo documentação. Foi olhando para uma repetição. O time revisava pull requests sempre com os mesmos critérios, mas The post Claude Skills para desenvolvimento: como criar, organizar e usar Skills no fluxo real de engenharia appeared first...</description>
@@ -184,6 +64,126 @@
       <pubDate>Wed, 02 Sep 2026 19:08:10 -0000</pubDate>
       <guid isPermaLink="false">https://blog.4linux.com.br/?p=13465</guid>
       <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
+    <item>
+      <title>[LWN] 2026 edition of FOSSY</title>
+      <link>https://2026.fossy.ca/</link>
+      <description></description>
+      <pubDate>Thu, 17 Sep 2026 00:08:33 -0000</pubDate>
+      <guid isPermaLink="false">https://2026.fossy.ca/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1092553/</link>
+      <description></description>
+      <pubDate>Thu, 17 Sep 2026 00:08:33 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1092553/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] This patch series</title>
+      <link>https://lwn.net/ml/all/20260914073356.791518-1-cui.tao@linux.dev</link>
+      <description></description>
+      <pubDate>Thu, 17 Sep 2026 00:08:33 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/ml/all/20260914073356.791518-1-cui.tao@linux.dev</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1093661/</link>
+      <description></description>
+      <pubDate>Thu, 17 Sep 2026 00:08:33 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1093661/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] MiniDebConf in Winterthur, Switzerland</title>
+      <link>https://ch2026.mini.debconf.org/</link>
+      <description></description>
+      <pubDate>Thu, 17 Sep 2026 00:08:33 -0000</pubDate>
+      <guid isPermaLink="false">https://ch2026.mini.debconf.org/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Open Secure AI Alliance Joins the Linux Foundation to Build a Shared, Open Defense Stack for the AI Era</title>
+      <link>https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</link>
+      <description></description>
+      <pubDate>Thu, 17 Sep 2026 00:08:27 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act</title>
+      <link>https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</link>
+      <description></description>
+      <pubDate>Thu, 17 Sep 2026 00:08:27 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
+      <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
+      <description></description>
+      <pubDate>Thu, 17 Sep 2026 00:08:27 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
+      <description></description>
+      <pubDate>Thu, 17 Sep 2026 00:08:27 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Proposing the SAFE Working Group: An Open Community Effort to Improve AI Security</title>
+      <link>https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</link>
+      <description></description>
+      <pubDate>Thu, 17 Sep 2026 00:08:27 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/proposing-the-safe-working-group-an-open-community-effort-to-improve-ai-security</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] PostgreSQL 19 chega com SQL/PGQ, REPACK e melhorias para replicação e autovacuum</title>
+      <link>https://www.vivaolinux.com.br/noticia/postgresql-19-chega-com-sql-pgq-repack-e-melhorias-para-replicacao-e-autovacuum/</link>
+      <description></description>
+      <pubDate>Thu, 17 Sep 2026 00:08:26 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/postgresql-19-chega-com-sql-pgq-repack-e-melhorias-para-replicacao-e-autovacuum/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] DXVK 3.1.1 aprimora o suporte para Call of Duty: Ghosts, Rayman 3 e Skyrim SE</title>
+      <link>https://www.vivaolinux.com.br/noticia/dxvk-3-1-1-aprimora-o-suporte-para-call-of-duty-ghosts-rayman-3-e-skyrim-se/</link>
+      <description></description>
+      <pubDate>Thu, 17 Sep 2026 00:08:26 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/dxvk-3-1-1-aprimora-o-suporte-para-call-of-duty-ghosts-rayman-3-e-skyrim-se/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] VirtualBox 7.2.18 chega com correções para Linux 7.3 e suporte ao kernel do RHEL 10.3</title>
+      <link>https://www.vivaolinux.com.br/noticia/virtualbox-7-2-18-chega-com-correcoes-para-linux-7-3-e-suporte-ao-kernel-do-rhel-10-3/</link>
+      <description></description>
+      <pubDate>Thu, 17 Sep 2026 00:08:26 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/virtualbox-7-2-18-chega-com-correcoes-para-linux-7-3-e-suporte-ao-kernel-do-rhel-10-3/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Agentes de IA já estão piorando a internet - e o problema vai além do hype</title>
+      <link>https://www.vivaolinux.com.br/noticia/agentes-de-ia-ja-estao-piorando-a-internet-e-o-problema-vai-alem-do-hype/</link>
+      <description></description>
+      <pubDate>Thu, 17 Sep 2026 00:08:26 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/agentes-de-ia-ja-estao-piorando-a-internet-e-o-problema-vai-alem-do-hype/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Raspberry Pi OS ganha reforma visual e adiciona dock de ícones por padrão</title>
+      <link>https://www.vivaolinux.com.br/noticia/raspberry-pi-os-ganha-reforma-visual-e-adiciona-dock-de-icones-por-padrao/</link>
+      <description></description>
+      <pubDate>Thu, 17 Sep 2026 00:08:26 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/raspberry-pi-os-ganha-reforma-visual-e-adiciona-dock-de-icones-por-padrao/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Today] Pangolin Reverse Proxy Moves to Dual Licensing With New Enterprise Edition</title>
