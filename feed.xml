@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Fri, 18 Sep 2026 08:48:12 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 13:25:08 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -55,14 +55,6 @@
       <description>O curso 704 – Linux Network Engineer foi atualizado para preparar profissionais para um cenário cada vez mais presente no mercado: ambientes Linux distribuídos, cloud computing, redes, serviços corporativos, segurança, The post Linux Network Engineer: cloud, redes, troubleshooting e IA em um único...</description>
       <pubDate>Wed, 09 Sep 2026 12:46:42 -0000</pubDate>
       <guid isPermaLink="false">https://blog.4linux.com.br/?p=13717</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[4Linux] Como Construir um Agente de IA com RAG do Zero: Guia Completo</title>
-      <link>https://blog.4linux.com.br/como-construir-um-agente-de-ia-com-rag-do-zero-guia-completo/</link>
-      <description>Um guia prático e detalhado para criar seu próprio assistente inteligente com Retrieval-Augmented Generation (RAG), busca vetorial, processamento multimodal e interface de chat — tudo com Python, Flask e SQLite. The post Como Construir um Agente de IA com RAG do Zero: Guia Completo appeared first...</description>
-      <pubDate>Wed, 02 Sep 2026 19:08:10 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13465</guid>
       <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
@@ -125,7 +117,7 @@
       <title>[LWN] io_uring subsystem</title>
       <link>https://man7.org/linux/man-pages/man7/io_uring.7.html</link>
       <description></description>
-      <pubDate>Fri, 18 Sep 2026 08:48:12 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 13:25:08 -0000</pubDate>
       <guid isPermaLink="false">https://man7.org/linux/man-pages/man7/io_uring.7.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +125,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1094303/</link>
       <description></description>
-      <pubDate>Fri, 18 Sep 2026 08:48:12 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 13:25:08 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1094303/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,7 +133,7 @@
       <title>[LWN] 2026 edition of FOSSY</title>
       <link>https://2026.fossy.ca/</link>
       <description></description>
-      <pubDate>Fri, 18 Sep 2026 08:48:12 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 13:25:08 -0000</pubDate>
       <guid isPermaLink="false">https://2026.fossy.ca/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,7 +141,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1092553/</link>
       <description></description>
-      <pubDate>Fri, 18 Sep 2026 08:48:12 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 13:25:08 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1092553/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -157,55 +149,15 @@
       <title>[LWN] This patch series</title>
       <link>https://lwn.net/ml/all/20260914073356.791518-1-cui.tao@linux.dev</link>
       <description></description>
-      <pubDate>Fri, 18 Sep 2026 08:48:12 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 13:25:08 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/ml/all/20260914073356.791518-1-cui.tao@linux.dev</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Anthropic vira alvo de críticas por cultura interna em torno do Claude com &quot;funeral&quot; de versões</title>
-      <link>https://www.vivaolinux.com.br/noticia/anthropic-vira-alvo-de-criticas-por-cultura-interna-em-torno-do-claude-com-funeral-de-versoes/</link>
-      <description></description>
-      <pubDate>Fri, 18 Sep 2026 08:48:06 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/anthropic-vira-alvo-de-criticas-por-cultura-interna-em-torno-do-claude-com-funeral-de-versoes/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Leitor de Teclas em HTML, Javascript e PHP</title>
-      <link>https://www.vivaolinux.com.br/dica/Leitor-de-Teclas-em-HTML-Javascript-e-PHP/</link>
-      <description></description>
-      <pubDate>Fri, 18 Sep 2026 08:48:06 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Leitor-de-Teclas-em-HTML-Javascript-e-PHP/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] OpenAI revela seis incidentes de comportamento preocupante em seus modelos de IA</title>
-      <link>https://www.vivaolinux.com.br/noticia/openai-revela-seis-incidentes-de-comportamento-preocupante-em-seus-modelos-de-ia/</link>
-      <description></description>
-      <pubDate>Fri, 18 Sep 2026 08:48:06 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/openai-revela-seis-incidentes-de-comportamento-preocupante-em-seus-modelos-de-ia/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Desenvolvedor do Linux no PS5 abandona o projeto por novatos usarem IA sem entender o código</title>
-      <link>https://www.vivaolinux.com.br/noticia/desenvolvedor-do-linux-no-ps5-abandona-a-cena-de-jailbreak-apos-disputa-por-falha-no-hypervisor/</link>
-      <description></description>
-      <pubDate>Fri, 18 Sep 2026 08:48:06 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/desenvolvedor-do-linux-no-ps5-abandona-a-cena-de-jailbreak-apos-disputa-por-falha-no-hypervisor/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] GNOME 51 “A Coruña” é lançado com foco em desempenho, segurança e melhorias para o desktop Linux</title>
-      <link>https://www.vivaolinux.com.br/noticia/gnome-51-a-coruna-e-lancado-com-foco-em-desempenho-seguranca-e-melhorias-para-o-desktop-linux/</link>
-      <description></description>
-      <pubDate>Fri, 18 Sep 2026 08:48:06 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/gnome-51-a-coruna-e-lancado-com-foco-em-desempenho-seguranca-e-melhorias-para-o-desktop-linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Foundation] Linux Foundation Newsletter: September 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</link>
       <description></description>
-      <pubDate>Fri, 18 Sep 2026 08:48:06 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 13:25:02 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -213,7 +165,7 @@
       <title>[Linux Foundation] Open Secure AI Alliance Joins the Linux Foundation to Build a Shared, Open Defense Stack for the AI Era</title>
       <link>https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</link>
       <description></description>
-      <pubDate>Fri, 18 Sep 2026 08:48:06 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 13:25:02 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -221,7 +173,7 @@
       <title>[Linux Foundation] How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act</title>
       <link>https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</link>
       <description></description>
-      <pubDate>Fri, 18 Sep 2026 08:48:06 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 13:25:02 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -229,7 +181,7 @@
       <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
       <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
       <description></description>
-      <pubDate>Fri, 18 Sep 2026 08:48:06 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 13:25:02 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -237,9 +189,65 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
       <description></description>
-      <pubDate>Fri, 18 Sep 2026 08:48:06 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 13:25:02 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Passo a passo: Instalando o Agente OCS Inventory v3.0 em derivados RHEL e Windows</title>
+      <link>https://www.vivaolinux.com.br/dica/Passo-a-passo-Instalando-o-Agente-OCS-Inventory-v30-em-derivados-RHEL-e-Windows/</link>
+      <description></description>
+      <pubDate>Fri, 18 Sep 2026 13:25:01 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Passo-a-passo-Instalando-o-Agente-OCS-Inventory-v30-em-derivados-RHEL-e-Windows/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] PipeWire 1.6.9 chega com ajustes em Bluetooth, JACK, ALSA e pulse-server</title>
+      <link>https://www.vivaolinux.com.br/noticia/pipewire-1-6-9-chega-com-ajustes-em-bluetooth-jack-alsa-e-pulse-server/</link>
+      <description></description>
+      <pubDate>Fri, 18 Sep 2026 13:25:01 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/pipewire-1-6-9-chega-com-ajustes-em-bluetooth-jack-alsa-e-pulse-server/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Ubuntu 24.04 LTS passa a receber kernel Linux 7.0 no HWE antes do 24.04.5</title>
+      <link>https://www.vivaolinux.com.br/noticia/ubuntu-24-04-lts-passa-a-receber-kernel-linux-7-0-no-hwe-antes-do-24-04-5/</link>
+      <description></description>
+      <pubDate>Fri, 18 Sep 2026 13:25:01 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ubuntu-24-04-lts-passa-a-receber-kernel-linux-7-0-no-hwe-antes-do-24-04-5/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Anthropic vira alvo de críticas por cultura interna em torno do Claude com &quot;funeral&quot; de versões</title>
+      <link>https://www.vivaolinux.com.br/noticia/anthropic-vira-alvo-de-criticas-por-cultura-interna-em-torno-do-claude-com-funeral-de-versoes/</link>
+      <description></description>
+      <pubDate>Fri, 18 Sep 2026 13:25:01 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/anthropic-vira-alvo-de-criticas-por-cultura-interna-em-torno-do-claude-com-funeral-de-versoes/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Leitor de Teclas em HTML, Javascript e PHP</title>
+      <link>https://www.vivaolinux.com.br/dica/Leitor-de-Teclas-em-HTML-Javascript-e-PHP/</link>
+      <description></description>
+      <pubDate>Fri, 18 Sep 2026 13:25:01 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Leitor-de-Teclas-em-HTML-Javascript-e-PHP/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[4Linux] O agente de DevOps que nunca vê as suas credenciais</title>
+      <link>https://blog.4linux.com.br/ia-para-maiores-o-agente-de-devops-que-nunca-ve-as-suas-credenciais/</link>
+      <description>Todo mundo já entendeu que dá para pedir Terraform para um LLM. O problema é o acesso: para fazer algo útil, o agente precisa da cloud, do cluster, do state, The post O agente de DevOps que nunca vê as suas credenciais appeared first on Blog 4Linux .</description>
+      <pubDate>Fri, 18 Sep 2026 13:10:04 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13808</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
+    <item>
+      <title>[4Linux] Empresas de IA querem desacelerar. Mas o que está por trás disso?</title>
+      <link>https://blog.4linux.com.br/compartilhando-conhecimento-de-ia-empresas-de-ia-querem-desacelerar-mas-o-que-esta-por-tras-disso/</link>
+      <description>Em 12 de setembro de 2026, Dario Amodei, CEO da Anthropic, defendeu publicamente que as empresas que desenvolvem os modelos mais avançados de inteligência artificial diminuam o ritmo da corrida. The post Empresas de IA querem desacelerar. Mas o que está por trás disso? appeared first on Blog 4Linux...</description>
+      <pubDate>Fri, 18 Sep 2026 12:55:21 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13802</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
       <title>[4Linux] Open-Weight: Quem Manda no Seu Modelo é Você</title>
@@ -247,14 +255,6 @@
       <description>Saudações.&amp;#160; Enquanto você espera o SLA da sua IA proprietária favorita responder por que aquele prompt &amp;#8220;violou a política de uso&amp;#8221; pela terceira vez na semana, um time chamado OrcaRouter The post Open-Weight: Quem Manda no Seu Modelo é Você appeared first on Blog 4Linux .</description>
       <pubDate>Fri, 04 Sep 2026 13:53:39 -0000</pubDate>
       <guid isPermaLink="false">https://blog.4linux.com.br/?p=13779</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[4Linux] Será que as LLMs conseguem produzir conhecimento novo usando o “Hassabis hypothesis”?</title>
-      <link>https://blog.4linux.com.br/ia-para-maiores-llms-conseguem-produzir-conhecimento-novo-hassabis-hypothesis/</link>
-      <description>Um pequeno experimento para você fazer agora, com os links reais das pesquisas. Em vez de ser um texto para lhe explicar tudo, faça de maneira mais didática: copie e The post Será que as LLMs conseguem produzir conhecimento novo usando o “Hassabis hypothesis”? appeared first on Blog 4Linux .</description>
-      <pubDate>Fri, 04 Sep 2026 13:51:25 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13775</guid>
       <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
   </channel>
