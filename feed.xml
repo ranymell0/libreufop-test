@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Fri, 18 Sep 2026 13:25:08 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 17:31:11 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -114,10 +114,26 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
+      <title>[LWN] Git</title>
+      <link>https://git-scm.com/</link>
+      <description></description>
+      <pubDate>Fri, 18 Sep 2026 17:31:11 -0000</pubDate>
+      <guid isPermaLink="false">https://git-scm.com/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1094575/</link>
+      <description></description>
+      <pubDate>Fri, 18 Sep 2026 17:31:11 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1094575/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
       <title>[LWN] io_uring subsystem</title>
       <link>https://man7.org/linux/man-pages/man7/io_uring.7.html</link>
       <description></description>
-      <pubDate>Fri, 18 Sep 2026 13:25:08 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 17:31:11 -0000</pubDate>
       <guid isPermaLink="false">https://man7.org/linux/man-pages/man7/io_uring.7.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,7 +141,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1094303/</link>
       <description></description>
-      <pubDate>Fri, 18 Sep 2026 13:25:08 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 17:31:11 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1094303/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,31 +149,15 @@
       <title>[LWN] 2026 edition of FOSSY</title>
       <link>https://2026.fossy.ca/</link>
       <description></description>
-      <pubDate>Fri, 18 Sep 2026 13:25:08 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 17:31:11 -0000</pubDate>
       <guid isPermaLink="false">https://2026.fossy.ca/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1092553/</link>
-      <description></description>
-      <pubDate>Fri, 18 Sep 2026 13:25:08 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1092553/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] This patch series</title>
-      <link>https://lwn.net/ml/all/20260914073356.791518-1-cui.tao@linux.dev</link>
-      <description></description>
-      <pubDate>Fri, 18 Sep 2026 13:25:08 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/ml/all/20260914073356.791518-1-cui.tao@linux.dev</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
     <item>
       <title>[Linux Foundation] Linux Foundation Newsletter: September 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</link>
       <description></description>
-      <pubDate>Fri, 18 Sep 2026 13:25:02 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 17:31:06 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[Linux Foundation] Open Secure AI Alliance Joins the Linux Foundation to Build a Shared, Open Defense Stack for the AI Era</title>
       <link>https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</link>
       <description></description>
-      <pubDate>Fri, 18 Sep 2026 13:25:02 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 17:31:06 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -173,7 +173,7 @@
       <title>[Linux Foundation] How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act</title>
       <link>https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</link>
       <description></description>
-      <pubDate>Fri, 18 Sep 2026 13:25:02 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 17:31:06 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -181,7 +181,7 @@
       <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
       <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
       <description></description>
-      <pubDate>Fri, 18 Sep 2026 13:25:02 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 17:31:06 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,15 +189,23 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
       <description></description>
-      <pubDate>Fri, 18 Sep 2026 13:25:02 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 17:31:06 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] HPLIP 3.26.6 chega com suporte a mais impressoras HP no Linux</title>
+      <link>https://www.vivaolinux.com.br/noticia/hplip-3-26-6-chega-com-suporte-a-mais-impressoras-hp-no-linux/</link>
+      <description></description>
+      <pubDate>Fri, 18 Sep 2026 17:31:05 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/hplip-3-26-6-chega-com-suporte-a-mais-impressoras-hp-no-linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Viva o Linux] Passo a passo: Instalando o Agente OCS Inventory v3.0 em derivados RHEL e Windows</title>
       <link>https://www.vivaolinux.com.br/dica/Passo-a-passo-Instalando-o-Agente-OCS-Inventory-v30-em-derivados-RHEL-e-Windows/</link>
       <description></description>
-      <pubDate>Fri, 18 Sep 2026 13:25:01 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 17:31:05 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Passo-a-passo-Instalando-o-Agente-OCS-Inventory-v30-em-derivados-RHEL-e-Windows/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -205,7 +213,7 @@
       <title>[Viva o Linux] PipeWire 1.6.9 chega com ajustes em Bluetooth, JACK, ALSA e pulse-server</title>
       <link>https://www.vivaolinux.com.br/noticia/pipewire-1-6-9-chega-com-ajustes-em-bluetooth-jack-alsa-e-pulse-server/</link>
       <description></description>
-      <pubDate>Fri, 18 Sep 2026 13:25:01 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 17:31:05 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/pipewire-1-6-9-chega-com-ajustes-em-bluetooth-jack-alsa-e-pulse-server/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -213,7 +221,7 @@
       <title>[Viva o Linux] Ubuntu 24.04 LTS passa a receber kernel Linux 7.0 no HWE antes do 24.04.5</title>
       <link>https://www.vivaolinux.com.br/noticia/ubuntu-24-04-lts-passa-a-receber-kernel-linux-7-0-no-hwe-antes-do-24-04-5/</link>
       <description></description>
-      <pubDate>Fri, 18 Sep 2026 13:25:01 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 17:31:05 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ubuntu-24-04-lts-passa-a-receber-kernel-linux-7-0-no-hwe-antes-do-24-04-5/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -221,16 +229,8 @@
       <title>[Viva o Linux] Anthropic vira alvo de críticas por cultura interna em torno do Claude com &quot;funeral&quot; de versões</title>
       <link>https://www.vivaolinux.com.br/noticia/anthropic-vira-alvo-de-criticas-por-cultura-interna-em-torno-do-claude-com-funeral-de-versoes/</link>
       <description></description>
-      <pubDate>Fri, 18 Sep 2026 13:25:01 -0000</pubDate>
+      <pubDate>Fri, 18 Sep 2026 17:31:05 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/anthropic-vira-alvo-de-criticas-por-cultura-interna-em-torno-do-claude-com-funeral-de-versoes/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Leitor de Teclas em HTML, Javascript e PHP</title>
-      <link>https://www.vivaolinux.com.br/dica/Leitor-de-Teclas-em-HTML-Javascript-e-PHP/</link>
-      <description></description>
-      <pubDate>Fri, 18 Sep 2026 13:25:01 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Leitor-de-Teclas-em-HTML-Javascript-e-PHP/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
