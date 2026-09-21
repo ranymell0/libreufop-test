@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Sun, 20 Sep 2026 23:01:13 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 03:35:12 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -106,10 +106,18 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
+      <title>[FSFLA] 6point4.en</title>
+      <link>http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</link>
+      <description>When I&apos;m Six Point Four Jason Self with a little help from my friend Alex Oliva When I get older, losing more bugs , In today&apos;s release, Will you still be sending me your problem reports, kernel patches, boot me with grub? Will you rejoice, and cheer for my might, Weeding out the blobs? Will you...</description>
+      <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
+      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
+      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
+    </item>
+    <item>
       <title>[LWN] Git</title>
       <link>https://git-scm.com/</link>
       <description></description>
-      <pubDate>Sun, 20 Sep 2026 23:01:13 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 03:35:12 -0000</pubDate>
       <guid isPermaLink="false">https://git-scm.com/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -117,7 +125,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1094575/</link>
       <description></description>
-      <pubDate>Sun, 20 Sep 2026 23:01:13 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 03:35:12 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1094575/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,7 +133,7 @@
       <title>[LWN] io_uring subsystem</title>
       <link>https://man7.org/linux/man-pages/man7/io_uring.7.html</link>
       <description></description>
-      <pubDate>Sun, 20 Sep 2026 23:01:13 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 03:35:12 -0000</pubDate>
       <guid isPermaLink="false">https://man7.org/linux/man-pages/man7/io_uring.7.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +141,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1094303/</link>
       <description></description>
-      <pubDate>Sun, 20 Sep 2026 23:01:13 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 03:35:12 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1094303/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,7 +149,7 @@
       <title>[LWN] 2026 edition of FOSSY</title>
       <link>https://2026.fossy.ca/</link>
       <description></description>
-      <pubDate>Sun, 20 Sep 2026 23:01:13 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 03:35:12 -0000</pubDate>
       <guid isPermaLink="false">https://2026.fossy.ca/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,7 +157,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: September 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</link>
       <description></description>
-      <pubDate>Sun, 20 Sep 2026 23:01:08 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 03:35:07 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -157,7 +165,7 @@
       <title>[Linux Foundation] Open Secure AI Alliance Joins the Linux Foundation to Build a Shared, Open Defense Stack for the AI Era</title>
       <link>https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</link>
       <description></description>
-      <pubDate>Sun, 20 Sep 2026 23:01:08 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 03:35:07 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -165,7 +173,7 @@
       <title>[Linux Foundation] How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act</title>
       <link>https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</link>
       <description></description>
-      <pubDate>Sun, 20 Sep 2026 23:01:08 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 03:35:07 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -173,7 +181,7 @@
       <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
       <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
       <description></description>
-      <pubDate>Sun, 20 Sep 2026 23:01:08 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 03:35:07 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -181,7 +189,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
       <description></description>
-      <pubDate>Sun, 20 Sep 2026 23:01:08 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 03:35:07 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,7 +197,7 @@
       <title>[Viva o Linux] Como jogar títulos da GOG e da Epic Games no Linux, SteamOS e Steam Deck</title>
       <link>https://www.vivaolinux.com.br/dica/Como-jogar-titulos-da-GOG-e-da-Epic-Games-no-Linux-SteamOS-e-Steam-Deck/</link>
       <description></description>
-      <pubDate>Sun, 20 Sep 2026 23:01:07 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 03:35:06 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Como-jogar-titulos-da-GOG-e-da-Epic-Games-no-Linux-SteamOS-e-Steam-Deck/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -197,7 +205,7 @@
       <title>[Viva o Linux] Ansioso pelo Git 2.56 — e 3.0</title>
       <link>https://www.vivaolinux.com.br/noticia/ansioso-pelo-git-2-56-e-3-0/</link>
       <description></description>
-      <pubDate>Sun, 20 Sep 2026 23:01:07 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 03:35:06 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ansioso-pelo-git-2-56-e-3-0/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -205,7 +213,7 @@
       <title>[Viva o Linux] Calibre 9.15 ganha modo de escrita interativa com IA e novidades no leitor de e-books</title>
       <link>https://www.vivaolinux.com.br/noticia/calibre-9-15-ganha-modo-de-escrita-interativa-com-ia-e-novidades-no-leitor-de-e-books/</link>
       <description></description>
-      <pubDate>Sun, 20 Sep 2026 23:01:07 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 03:35:06 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/calibre-9-15-ganha-modo-de-escrita-interativa-com-ia-e-novidades-no-leitor-de-e-books/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -213,7 +221,7 @@
       <title>[Viva o Linux] MX Linux enfrenta instabilidade de acesso em meio a ataque DDoS</title>
       <link>https://www.vivaolinux.com.br/noticia/mx-linux-enfrenta-instabilidade-de-acesso-em-meio-a-ataque-ddos/</link>
       <description></description>
-      <pubDate>Sun, 20 Sep 2026 23:01:07 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 03:35:06 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/mx-linux-enfrenta-instabilidade-de-acesso-em-meio-a-ataque-ddos/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -221,17 +229,9 @@
       <title>[Viva o Linux] HPLIP 3.26.6 chega com suporte a mais impressoras HP no Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/hplip-3-26-6-chega-com-suporte-a-mais-impressoras-hp-no-linux/</link>
       <description></description>
-      <pubDate>Sun, 20 Sep 2026 23:01:07 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 03:35:06 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/hplip-3-26-6-chega-com-suporte-a-mais-impressoras-hp-no-linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[FSFLA] 6point4.en</title>
-      <link>http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</link>
-      <description>When I&apos;m Six Point Four Jason Self with a little help from my friend Alex Oliva When I get older, losing more bugs , In today&apos;s release, Will you still be sending me your problem reports, kernel patches, boot me with grub? Will you rejoice, and cheer for my might, Weeding out the blobs? Will you...</description>
-      <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
-      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
-      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
       <title>[4Linux] O agente de DevOps que nunca vê as suas credenciais</title>
