@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Mon, 21 Sep 2026 20:48:00 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 23:50:47 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -117,7 +117,7 @@
       <title>[LWN] NetBSD</title>
       <link>https://netbsd.org/</link>
       <description></description>
-      <pubDate>Mon, 21 Sep 2026 20:48:00 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 23:50:47 -0000</pubDate>
       <guid isPermaLink="false">https://netbsd.org/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1094310/</link>
       <description></description>
-      <pubDate>Mon, 21 Sep 2026 20:48:00 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 23:50:47 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1094310/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[LWN] Git</title>
       <link>https://git-scm.com/</link>
       <description></description>
-      <pubDate>Mon, 21 Sep 2026 20:48:00 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 23:50:47 -0000</pubDate>
       <guid isPermaLink="false">https://git-scm.com/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,7 +141,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1094575/</link>
       <description></description>
-      <pubDate>Mon, 21 Sep 2026 20:48:00 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 23:50:47 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1094575/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[LWN] io_uring subsystem</title>
       <link>https://man7.org/linux/man-pages/man7/io_uring.7.html</link>
       <description></description>
-      <pubDate>Mon, 21 Sep 2026 20:48:00 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 23:50:47 -0000</pubDate>
       <guid isPermaLink="false">https://man7.org/linux/man-pages/man7/io_uring.7.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: September 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</link>
       <description></description>
-      <pubDate>Mon, 21 Sep 2026 20:47:54 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 23:50:42 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[Linux Foundation] Open Secure AI Alliance Joins the Linux Foundation to Build a Shared, Open Defense Stack for the AI Era</title>
       <link>https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</link>
       <description></description>
-      <pubDate>Mon, 21 Sep 2026 20:47:54 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 23:50:42 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -173,7 +173,7 @@
       <title>[Linux Foundation] How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act</title>
       <link>https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</link>
       <description></description>
-      <pubDate>Mon, 21 Sep 2026 20:47:54 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 23:50:42 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -181,7 +181,7 @@
       <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
       <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
       <description></description>
-      <pubDate>Mon, 21 Sep 2026 20:47:54 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 23:50:42 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,7 +189,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
       <description></description>
-      <pubDate>Mon, 21 Sep 2026 20:47:54 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 23:50:42 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -197,7 +197,7 @@
       <title>[Viva o Linux] Linux-AI OS 1.0 Star chega com IA local</title>
       <link>https://www.vivaolinux.com.br/noticia/linux-ai-os-1-0-star-chega-com-ia-local/</link>
       <description></description>
-      <pubDate>Mon, 21 Sep 2026 20:47:53 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 23:50:41 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-ai-os-1-0-star-chega-com-ia-local/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -205,7 +205,7 @@
       <title>[Viva o Linux] Linux perf ganha reformulação com módulo Python e scripts bem mais rápidos</title>
       <link>https://www.vivaolinux.com.br/noticia/linux-perf-ganha-reformulacao-com-modulo-python-e-scripts-bem-mais-rapidos/</link>
       <description></description>
-      <pubDate>Mon, 21 Sep 2026 20:47:53 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 23:50:41 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-perf-ganha-reformulacao-com-modulo-python-e-scripts-bem-mais-rapidos/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -213,7 +213,7 @@
       <title>[Viva o Linux] Clonezilla Live 3.3.3-37 chega com kernel Linux 7.1.13-1, boot por rede e correções para clonagem</title>
       <link>https://www.vivaolinux.com.br/noticia/clonezilla-live-3-3-3-37-chega-com-kernel-linux-7-1-13-1-boot-por-rede-e-correcoes-para-clonagem/</link>
       <description></description>
-      <pubDate>Mon, 21 Sep 2026 20:47:53 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 23:50:41 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/clonezilla-live-3-3-3-37-chega-com-kernel-linux-7-1-13-1-boot-por-rede-e-correcoes-para-clonagem/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -221,7 +221,7 @@
       <title>[Viva o Linux] Como jogar títulos da GOG e da Epic Games no Linux, SteamOS e Steam Deck</title>
       <link>https://www.vivaolinux.com.br/dica/Como-jogar-titulos-da-GOG-e-da-Epic-Games-no-Linux-SteamOS-e-Steam-Deck/</link>
       <description></description>
-      <pubDate>Mon, 21 Sep 2026 20:47:53 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 23:50:41 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Como-jogar-titulos-da-GOG-e-da-Epic-Games-no-Linux-SteamOS-e-Steam-Deck/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -229,7 +229,7 @@
       <title>[Viva o Linux] Ansioso pelo Git 2.56 — e 3.0</title>
       <link>https://www.vivaolinux.com.br/noticia/ansioso-pelo-git-2-56-e-3-0/</link>
       <description></description>
-      <pubDate>Mon, 21 Sep 2026 20:47:53 -0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 23:50:41 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ansioso-pelo-git-2-56-e-3-0/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
