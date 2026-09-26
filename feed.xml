@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Sat, 26 Sep 2026 03:47:44 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 09:10:29 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -117,7 +117,7 @@
       <title>[LWN] Sovereign Tech Agency</title>
       <link>https://www.sovereign.tech/</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 03:47:44 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 09:10:29 -0000</pubDate>
       <guid isPermaLink="false">https://www.sovereign.tech/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1096245/</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 03:47:44 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 09:10:29 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1096245/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[LWN] RustConf 2026</title>
       <link>https://rustconf.com/</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 03:47:44 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 09:10:29 -0000</pubDate>
       <guid isPermaLink="false">https://rustconf.com/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,7 +141,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1095721/</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 03:47:44 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 09:10:29 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1095721/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,55 +149,15 @@
       <title>[LWN] windows, icons, menus, pointer</title>
       <link>https://en.wikipedia.org/wiki/WIMP_(computing)</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 03:47:44 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 09:10:29 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/WIMP_(computing)</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] ClamAV no Linux</title>
-      <link>https://www.vivaolinux.com.br/artigo/ClamAV-no-Linux/</link>
-      <description></description>
-      <pubDate>Sat, 26 Sep 2026 03:47:38 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/ClamAV-no-Linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Suposto ataque expõe dados de funcionários do FBI, dizem hackers</title>
-      <link>https://www.vivaolinux.com.br/noticia/suposto-ataque-expoe-dados-de-funcionarios-do-fbi-dizem-hackers/</link>
-      <description></description>
-      <pubDate>Sat, 26 Sep 2026 03:47:38 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/suposto-ataque-expoe-dados-de-funcionarios-do-fbi-dizem-hackers/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] AMD libera novos ajustes no Linux para melhorar a confiabilidade do HDMI 2.1</title>
-      <link>https://www.vivaolinux.com.br/noticia/amd-libera-novos-ajustes-no-linux-para-melhorar-a-confiabilidade-do-hdmi-2-1/</link>
-      <description></description>
-      <pubDate>Sat, 26 Sep 2026 03:47:38 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/amd-libera-novos-ajustes-no-linux-para-melhorar-a-confiabilidade-do-hdmi-2-1/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Qualcomm abre caminho para Linux em PCs com Snapdragon X2</title>
-      <link>https://www.vivaolinux.com.br/noticia/qualcomm-abre-caminho-para-linux-em-pcs-com-snapdragon-x2/</link>
-      <description></description>
-      <pubDate>Sat, 26 Sep 2026 03:47:38 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/qualcomm-abre-caminho-para-linux-em-pcs-com-snapdragon-x2/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Wireshark 4.6.9 corrige falhas em protocolos e arquivos de captura e reforça a segurança</title>
-      <link>https://www.vivaolinux.com.br/noticia/wireshark-4-6-9-corrige-falhas-em-protocolos-e-arquivos-de-captura-e-reforca-a-seguranca/</link>
-      <description></description>
-      <pubDate>Sat, 26 Sep 2026 03:47:38 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/wireshark-4-6-9-corrige-falhas-em-protocolos-e-arquivos-de-captura-e-reforca-a-seguranca/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Foundation] Linux Foundation Newsletter: September 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 03:47:38 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 09:10:23 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -205,7 +165,7 @@
       <title>[Linux Foundation] Open Secure AI Alliance Joins the Linux Foundation to Build a Shared, Open Defense Stack for the AI Era</title>
       <link>https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 03:47:38 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 09:10:23 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -213,7 +173,7 @@
       <title>[Linux Foundation] How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act</title>
       <link>https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 03:47:38 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 09:10:23 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -221,7 +181,7 @@
       <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
       <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 03:47:38 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 09:10:23 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -229,9 +189,49 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 03:47:38 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 09:10:23 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] ClamAV no Linux</title>
+      <link>https://www.vivaolinux.com.br/artigo/ClamAV-no-Linux/</link>
+      <description></description>
+      <pubDate>Sat, 26 Sep 2026 09:10:22 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/ClamAV-no-Linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Suposto ataque expõe dados de funcionários do FBI, dizem hackers</title>
+      <link>https://www.vivaolinux.com.br/noticia/suposto-ataque-expoe-dados-de-funcionarios-do-fbi-dizem-hackers/</link>
+      <description></description>
+      <pubDate>Sat, 26 Sep 2026 09:10:22 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/suposto-ataque-expoe-dados-de-funcionarios-do-fbi-dizem-hackers/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] AMD libera novos ajustes no Linux para melhorar a confiabilidade do HDMI 2.1</title>
+      <link>https://www.vivaolinux.com.br/noticia/amd-libera-novos-ajustes-no-linux-para-melhorar-a-confiabilidade-do-hdmi-2-1/</link>
+      <description></description>
+      <pubDate>Sat, 26 Sep 2026 09:10:22 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/amd-libera-novos-ajustes-no-linux-para-melhorar-a-confiabilidade-do-hdmi-2-1/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Qualcomm abre caminho para Linux em PCs com Snapdragon X2</title>
+      <link>https://www.vivaolinux.com.br/noticia/qualcomm-abre-caminho-para-linux-em-pcs-com-snapdragon-x2/</link>
+      <description></description>
+      <pubDate>Sat, 26 Sep 2026 09:10:22 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/qualcomm-abre-caminho-para-linux-em-pcs-com-snapdragon-x2/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Wireshark 4.6.9 corrige falhas em protocolos e arquivos de captura e reforça a segurança</title>
+      <link>https://www.vivaolinux.com.br/noticia/wireshark-4-6-9-corrige-falhas-em-protocolos-e-arquivos-de-captura-e-reforca-a-seguranca/</link>
+      <description></description>
+      <pubDate>Sat, 26 Sep 2026 09:10:22 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/wireshark-4-6-9-corrige-falhas-em-protocolos-e-arquivos-de-captura-e-reforca-a-seguranca/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[FSFLA] 6point4.en</title>
