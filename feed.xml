@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Sat, 26 Sep 2026 09:10:29 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 14:11:57 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -24,30 +24,6 @@
       <pubDate>Wed, 23 Sep 2026 19:09:50 -0000</pubDate>
       <guid isPermaLink="false">https://blog.4linux.com.br/?p=13647</guid>
       <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[FSFLA] IRPF-Livre 2023 released</title>
-      <link>http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.en.html</link>
-      <description>IRPF-Livre 2023 released Governments come and go, but the oppression of imposed taxing software for taxation remains. For a lot of people, using software they cannot control is like water for a fish: a part of the environment they&apos;re in. When the water is low on oxygen, they may even feel the...</description>
-      <pubDate>Wed, 17 May 2023 22:00:24 -0000</pubDate>
-      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.en.html</guid>
-      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
-    </item>
-    <item>
-      <title>[FSFLA] IRPF-Livre 2023 liberado</title>
-      <link>http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.es.html</link>
-      <description>IRPF-Livre 2023 liberado Gobiernos vienen y van pero la opresi&amp;oacute;n de los softwares impuestos para impuestos sigue. Para mucha gente, usar software que no controlan es como agua a un pez: una parte del ambiente en donde est&amp;aacute;n. Cuando el agua falta de ox&amp;iacute;geno, podr&amp;iacute;an...</description>
-      <pubDate>Wed, 17 May 2023 22:00:24 -0000</pubDate>
-      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.es.html</guid>
-      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
-    </item>
-    <item>
-      <title>[FSFLA] IRPF-Livre 2023 liberado</title>
-      <link>http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.pt.html</link>
-      <description>IRPF-Livre 2023 liberado Governos v&amp;ecirc;m e v&amp;atilde;o, mas a opress&amp;atilde;o dos softwares impostos para impostos continua. Para muitas pessoas, usar software que n&amp;atilde;o podem controlar &amp;eacute; como &amp;aacute;gua para um peixe, parte do ambiente em que est&amp;atilde;o. Quando na &amp;aacute;gua...</description>
-      <pubDate>Wed, 17 May 2023 22:00:24 -0000</pubDate>
-      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.pt.html</guid>
-      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
       <title>[4Linux] Claude Skills para desenvolvimento: como criar, organizar e usar Skills no fluxo real de engenharia</title>
@@ -106,18 +82,10 @@
       <source url="https://feeds.feedburner.com/linuxtoday/linux">Linux Today</source>
     </item>
     <item>
-      <title>[FSFLA] Suitable Online Bank(rupt)ing</title>
-      <link>http://www.fsfla.org/ikiwiki/texto/bancarrota.en.html</link>
-      <description>Suitable Online Bank(rupt)ing Alexandre Oliva For the past couple of decades, I&apos;ve entered various fights with Brazilian banks over their threats to my software freedom in their Internet banking services. Back in 2002, the main threats were websites that required Internet Explorer, or the...</description>
-      <pubDate>Sun, 30 Apr 2023 21:59:53 -0000</pubDate>
-      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/texto/bancarrota.en.html</guid>
-      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
-    </item>
-    <item>
       <title>[LWN] Sovereign Tech Agency</title>
       <link>https://www.sovereign.tech/</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 09:10:29 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 14:11:57 -0000</pubDate>
       <guid isPermaLink="false">https://www.sovereign.tech/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,7 +93,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1096245/</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 09:10:29 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 14:11:57 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1096245/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +101,7 @@
       <title>[LWN] RustConf 2026</title>
       <link>https://rustconf.com/</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 09:10:29 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 14:11:57 -0000</pubDate>
       <guid isPermaLink="false">https://rustconf.com/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,7 +109,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1095721/</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 09:10:29 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 14:11:57 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1095721/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,7 +117,7 @@
       <title>[LWN] windows, icons, menus, pointer</title>
       <link>https://en.wikipedia.org/wiki/WIMP_(computing)</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 09:10:29 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 14:11:57 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/WIMP_(computing)</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -157,7 +125,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: September 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 09:10:23 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 14:09:37 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -165,7 +133,7 @@
       <title>[Linux Foundation] Open Secure AI Alliance Joins the Linux Foundation to Build a Shared, Open Defense Stack for the AI Era</title>
       <link>https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 09:10:23 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 14:09:37 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -173,7 +141,7 @@
       <title>[Linux Foundation] How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act</title>
       <link>https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 09:10:23 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 14:09:37 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -181,7 +149,7 @@
       <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
       <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 09:10:23 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 14:09:37 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,7 +157,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 09:10:23 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 14:09:37 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -197,7 +165,7 @@
       <title>[Viva o Linux] ClamAV no Linux</title>
       <link>https://www.vivaolinux.com.br/artigo/ClamAV-no-Linux/</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 09:10:22 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 14:09:36 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/ClamAV-no-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -205,7 +173,7 @@
       <title>[Viva o Linux] Suposto ataque expõe dados de funcionários do FBI, dizem hackers</title>
       <link>https://www.vivaolinux.com.br/noticia/suposto-ataque-expoe-dados-de-funcionarios-do-fbi-dizem-hackers/</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 09:10:22 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 14:09:36 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/suposto-ataque-expoe-dados-de-funcionarios-do-fbi-dizem-hackers/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -213,7 +181,7 @@
       <title>[Viva o Linux] AMD libera novos ajustes no Linux para melhorar a confiabilidade do HDMI 2.1</title>
       <link>https://www.vivaolinux.com.br/noticia/amd-libera-novos-ajustes-no-linux-para-melhorar-a-confiabilidade-do-hdmi-2-1/</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 09:10:22 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 14:09:36 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/amd-libera-novos-ajustes-no-linux-para-melhorar-a-confiabilidade-do-hdmi-2-1/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -221,7 +189,7 @@
       <title>[Viva o Linux] Qualcomm abre caminho para Linux em PCs com Snapdragon X2</title>
       <link>https://www.vivaolinux.com.br/noticia/qualcomm-abre-caminho-para-linux-em-pcs-com-snapdragon-x2/</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 09:10:22 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 14:09:36 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/qualcomm-abre-caminho-para-linux-em-pcs-com-snapdragon-x2/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -229,17 +197,9 @@
       <title>[Viva o Linux] Wireshark 4.6.9 corrige falhas em protocolos e arquivos de captura e reforça a segurança</title>
       <link>https://www.vivaolinux.com.br/noticia/wireshark-4-6-9-corrige-falhas-em-protocolos-e-arquivos-de-captura-e-reforca-a-seguranca/</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 09:10:22 -0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 14:09:36 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/wireshark-4-6-9-corrige-falhas-em-protocolos-e-arquivos-de-captura-e-reforca-a-seguranca/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[FSFLA] 6point4.en</title>
-      <link>http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</link>
-      <description>When I&apos;m Six Point Four Jason Self with a little help from my friend Alex Oliva When I get older, losing more bugs , In today&apos;s release, Will you still be sending me your problem reports, kernel patches, boot me with grub? Will you rejoice, and cheer for my might, Weeding out the blobs? Will you...</description>
-      <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
-      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
-      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
       <title>[4Linux] O agente de DevOps que nunca vê as suas credenciais</title>
