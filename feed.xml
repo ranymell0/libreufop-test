@@ -13,95 +13,55 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Wed, 30 Sep 2026 08:04:34 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 15:41:07 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>[LWN] KDE Plasma desktop environment</title>
+      <link>https://kde.org/plasma-desktop/</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 15:41:07 -0000</pubDate>
+      <guid isPermaLink="false">https://kde.org/plasma-desktop/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1096518/</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 15:41:07 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1096518/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Chromium</title>
+      <link>https://www.chromium.org/Home/</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 15:41:07 -0000</pubDate>
+      <guid isPermaLink="false">https://www.chromium.org/Home/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1094721/</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 15:41:07 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1094721/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
       <title>[LWN] rust-gpu</title>
       <link>https://github.com/Rust-GPU/rust-gpu#-rust-gpu</link>
       <description></description>
-      <pubDate>Wed, 30 Sep 2026 08:04:34 -0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 15:41:07 -0000</pubDate>
       <guid isPermaLink="false">https://github.com/Rust-GPU/rust-gpu#-rust-gpu</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1095731/</link>
-      <description></description>
-      <pubDate>Wed, 30 Sep 2026 08:04:34 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1095731/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] a few claims to fame</title>
-      <link>https://lwn.net/Articles/967866/</link>
-      <description></description>
-      <pubDate>Wed, 30 Sep 2026 08:04:34 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/967866/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1096827/</link>
-      <description></description>
-      <pubDate>Wed, 30 Sep 2026 08:04:34 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1096827/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Kernel Recipes</title>
-      <link>https://kernel-recipes.org/en/2026/</link>
-      <description></description>
-      <pubDate>Wed, 30 Sep 2026 08:04:34 -0000</pubDate>
-      <guid isPermaLink="false">https://kernel-recipes.org/en/2026/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Teste simples para as IAs</title>
-      <link>https://www.vivaolinux.com.br/artigo/Teste-simples-para-as-IAs/</link>
-      <description></description>
-      <pubDate>Wed, 30 Sep 2026 08:04:28 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Teste-simples-para-as-IAs/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] AMD ajusta valores de energia do Ryzen Zen 6 para Linux</title>
-      <link>https://www.vivaolinux.com.br/noticia/amd-ajusta-valores-de-energia-do-zen-6-para-ryzen-no-linux/</link>
-      <description></description>
-      <pubDate>Wed, 30 Sep 2026 08:04:28 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/amd-ajusta-valores-de-energia-do-zen-6-para-ryzen-no-linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Placar de futebol ao vivo no terminal com curl e jq</title>
-      <link>https://www.vivaolinux.com.br/dica/Placar-de-futebol-ao-vivo-no-terminal-com-curl-e-jq/</link>
-      <description></description>
-      <pubDate>Wed, 30 Sep 2026 08:04:28 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Placar-de-futebol-ao-vivo-no-terminal-com-curl-e-jq/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] hw-monitor 0.6 traz uso de GPU por processo e relatório de memória no Linux</title>
-      <link>https://www.vivaolinux.com.br/noticia/hw-monitor-0-6-traz-uso-de-gpu-por-processo-e-relatorio-de-memoria-no-linux/</link>
-      <description></description>
-      <pubDate>Wed, 30 Sep 2026 08:04:28 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/hw-monitor-0-6-traz-uso-de-gpu-por-processo-e-relatorio-de-memoria-no-linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] openSUSE Tumbleweed ARM recebe atualização com foco em Raspberry Pi e kernel Linux 7.2</title>
-      <link>https://www.vivaolinux.com.br/noticia/opensuse-tumbleweed-arm-recebe-atualizacao-com-foco-em-raspberry-pi-e-kernel-linux-7-2/</link>
-      <description></description>
-      <pubDate>Wed, 30 Sep 2026 08:04:28 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/opensuse-tumbleweed-arm-recebe-atualizacao-com-foco-em-raspberry-pi-e-kernel-linux-7-2/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Foundation] Linux Foundation Newsletter: September 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</link>
       <description></description>
-      <pubDate>Wed, 30 Sep 2026 08:04:28 -0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 15:40:20 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -109,7 +69,7 @@
       <title>[Linux Foundation] Open Secure AI Alliance Joins the Linux Foundation to Build a Shared, Open Defense Stack for the AI Era</title>
       <link>https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</link>
       <description></description>
-      <pubDate>Wed, 30 Sep 2026 08:04:28 -0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 15:40:20 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -117,7 +77,7 @@
       <title>[Linux Foundation] How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act</title>
       <link>https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</link>
       <description></description>
-      <pubDate>Wed, 30 Sep 2026 08:04:28 -0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 15:40:20 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -125,7 +85,7 @@
       <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
       <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
       <description></description>
-      <pubDate>Wed, 30 Sep 2026 08:04:28 -0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 15:40:20 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -133,17 +93,49 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
       <description></description>
-      <pubDate>Wed, 30 Sep 2026 08:04:28 -0000</pubDate>
+      <pubDate>Wed, 30 Sep 2026 15:40:20 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
-      <title>[4Linux] Meu Switch reiniciou? Spoiler: NÃO reiniciou.</title>
-      <link>https://blog.4linux.com.br/meu-switch-reiniciou-spoiler-nao-reiniciou/</link>
-      <description>Trabalhando com consultoria já vimos diversos cenários e os desafios sempre inovadores, sempre tentamos entregar um projeto que esteja alinhado com o desejo do cliente, e para isso criamos soluções The post Meu Switch reiniciou? Spoiler: NÃO reiniciou. appeared first on Blog 4Linux .</description>
-      <pubDate>Wed, 23 Sep 2026 19:09:50 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13647</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+      <title>[Viva o Linux] Teste simples para as IAs</title>
+      <link>https://www.vivaolinux.com.br/artigo/Teste-simples-para-as-IAs/</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 15:40:19 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Teste-simples-para-as-IAs/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] AMD ajusta valores de energia do Ryzen Zen 6 para Linux</title>
+      <link>https://www.vivaolinux.com.br/noticia/amd-ajusta-valores-de-energia-do-zen-6-para-ryzen-no-linux/</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 15:40:19 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/amd-ajusta-valores-de-energia-do-zen-6-para-ryzen-no-linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Placar de futebol ao vivo no terminal com curl e jq</title>
+      <link>https://www.vivaolinux.com.br/dica/Placar-de-futebol-ao-vivo-no-terminal-com-curl-e-jq/</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 15:40:19 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Placar-de-futebol-ao-vivo-no-terminal-com-curl-e-jq/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] hw-monitor 0.6 traz uso de GPU por processo e relatório de memória no Linux</title>
+      <link>https://www.vivaolinux.com.br/noticia/hw-monitor-0-6-traz-uso-de-gpu-por-processo-e-relatorio-de-memoria-no-linux/</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 15:40:19 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/hw-monitor-0-6-traz-uso-de-gpu-por-processo-e-relatorio-de-memoria-no-linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] openSUSE Tumbleweed ARM recebe atualização com foco em Raspberry Pi e kernel Linux 7.2</title>
+      <link>https://www.vivaolinux.com.br/noticia/opensuse-tumbleweed-arm-recebe-atualizacao-com-foco-em-raspberry-pi-e-kernel-linux-7-2/</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 15:40:19 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/opensuse-tumbleweed-arm-recebe-atualizacao-com-foco-em-raspberry-pi-e-kernel-linux-7-2/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[FSFLA] IRPF-Livre 2023 released</title>
@@ -168,22 +160,6 @@
       <pubDate>Wed, 17 May 2023 22:00:24 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.pt.html</guid>
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
-    </item>
-    <item>
-      <title>[4Linux] Claude Skills para desenvolvimento: como criar, organizar e usar Skills no fluxo real de engenharia</title>
-      <link>https://blog.4linux.com.br/claude-skills-para-desenvolvimento-como-criar-organizar-e-usar-skills-no-fluxo-real-de-engenharia/</link>
-      <description>A primeira vez que uma Skill fez sentido para mim não foi lendo documentação. Foi olhando para uma repetição. O time revisava pull requests sempre com os mesmos critérios, mas The post Claude Skills para desenvolvimento: como criar, organizar e usar Skills no fluxo real de engenharia appeared first...</description>
-      <pubDate>Wed, 16 Sep 2026 17:51:31 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13612</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[4Linux] Linux Network Engineer: cloud, redes, troubleshooting e IA em um único projeto prático</title>
-      <link>https://blog.4linux.com.br/linux-network-engineer-cloud-redes-troubleshooting-e-ia-em-um-unico-projeto-pratico/</link>
-      <description>O curso 704 – Linux Network Engineer foi atualizado para preparar profissionais para um cenário cada vez mais presente no mercado: ambientes Linux distribuídos, cloud computing, redes, serviços corporativos, segurança, The post Linux Network Engineer: cloud, redes, troubleshooting e IA em um único...</description>
-      <pubDate>Wed, 09 Sep 2026 12:46:42 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13717</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
       <title>[Linux Today] Pangolin Reverse Proxy Moves to Dual Licensing With New Enterprise Edition</title>
@@ -240,22 +216,6 @@
       <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
-    </item>
-    <item>
-      <title>[4Linux] O agente de DevOps que nunca vê as suas credenciais</title>
-      <link>https://blog.4linux.com.br/ia-para-maiores-o-agente-de-devops-que-nunca-ve-as-suas-credenciais/</link>
-      <description>Todo mundo já entendeu que dá para pedir Terraform para um LLM. O problema é o acesso: para fazer algo útil, o agente precisa da cloud, do cluster, do state, The post O agente de DevOps que nunca vê as suas credenciais appeared first on Blog 4Linux .</description>
-      <pubDate>Fri, 18 Sep 2026 13:10:04 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13808</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[4Linux] Empresas de IA querem desacelerar. Mas o que está por trás disso?</title>
-      <link>https://blog.4linux.com.br/compartilhando-conhecimento-de-ia-empresas-de-ia-querem-desacelerar-mas-o-que-esta-por-tras-disso/</link>
-      <description>Em 12 de setembro de 2026, Dario Amodei, CEO da Anthropic, defendeu publicamente que as empresas que desenvolvem os modelos mais avançados de inteligência artificial diminuam o ritmo da corrida. The post Empresas de IA querem desacelerar. Mas o que está por trás disso? appeared first on Blog 4Linux...</description>
-      <pubDate>Fri, 18 Sep 2026 12:55:21 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13802</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
   </channel>
 </rss>
