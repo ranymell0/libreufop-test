@@ -13,10 +13,130 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Tue, 29 Sep 2026 21:56:22 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 01:08:43 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
+    <item>
+      <title>[LWN] rust-gpu</title>
+      <link>https://github.com/Rust-GPU/rust-gpu#-rust-gpu</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 01:08:43 -0000</pubDate>
+      <guid isPermaLink="false">https://github.com/Rust-GPU/rust-gpu#-rust-gpu</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1095731/</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 01:08:43 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1095731/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] a few claims to fame</title>
+      <link>https://lwn.net/Articles/967866/</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 01:08:43 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/967866/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1096827/</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 01:08:43 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1096827/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Kernel Recipes</title>
+      <link>https://kernel-recipes.org/en/2026/</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 01:08:43 -0000</pubDate>
+      <guid isPermaLink="false">https://kernel-recipes.org/en/2026/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Teste simples para as IAs</title>
+      <link>https://www.vivaolinux.com.br/artigo/Teste-simples-para-as-IAs/</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 01:08:29 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Teste-simples-para-as-IAs/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] AMD ajusta valores de energia do Ryzen Zen 6 para Linux</title>
+      <link>https://www.vivaolinux.com.br/noticia/amd-ajusta-valores-de-energia-do-zen-6-para-ryzen-no-linux/</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 01:08:29 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/amd-ajusta-valores-de-energia-do-zen-6-para-ryzen-no-linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Placar de futebol ao vivo no terminal com curl e jq</title>
+      <link>https://www.vivaolinux.com.br/dica/Placar-de-futebol-ao-vivo-no-terminal-com-curl-e-jq/</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 01:08:29 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Placar-de-futebol-ao-vivo-no-terminal-com-curl-e-jq/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] hw-monitor 0.6 traz uso de GPU por processo e relatório de memória no Linux</title>
+      <link>https://www.vivaolinux.com.br/noticia/hw-monitor-0-6-traz-uso-de-gpu-por-processo-e-relatorio-de-memoria-no-linux/</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 01:08:29 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/hw-monitor-0-6-traz-uso-de-gpu-por-processo-e-relatorio-de-memoria-no-linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] openSUSE Tumbleweed ARM recebe atualização com foco em Raspberry Pi e kernel Linux 7.2</title>
+      <link>https://www.vivaolinux.com.br/noticia/opensuse-tumbleweed-arm-recebe-atualizacao-com-foco-em-raspberry-pi-e-kernel-linux-7-2/</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 01:08:29 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/opensuse-tumbleweed-arm-recebe-atualizacao-com-foco-em-raspberry-pi-e-kernel-linux-7-2/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Linux Foundation Newsletter: September 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 01:08:29 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Open Secure AI Alliance Joins the Linux Foundation to Build a Shared, Open Defense Stack for the AI Era</title>
+      <link>https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 01:08:29 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act</title>
+      <link>https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 01:08:29 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
+      <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 01:08:29 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
+      <description></description>
+      <pubDate>Wed, 30 Sep 2026 01:08:29 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
     <item>
       <title>[4Linux] Meu Switch reiniciou? Spoiler: NÃO reiniciou.</title>
       <link>https://blog.4linux.com.br/meu-switch-reiniciou-spoiler-nao-reiniciou/</link>
@@ -64,126 +184,6 @@
       <pubDate>Wed, 09 Sep 2026 12:46:42 -0000</pubDate>
       <guid isPermaLink="false">https://blog.4linux.com.br/?p=13717</guid>
       <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[LWN] rust-gpu</title>
-      <link>https://github.com/Rust-GPU/rust-gpu#-rust-gpu</link>
-      <description></description>
-      <pubDate>Tue, 29 Sep 2026 21:56:22 -0000</pubDate>
-      <guid isPermaLink="false">https://github.com/Rust-GPU/rust-gpu#-rust-gpu</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1095731/</link>
-      <description></description>
-      <pubDate>Tue, 29 Sep 2026 21:56:22 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1095731/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] a few claims to fame</title>
-      <link>https://lwn.net/Articles/967866/</link>
-      <description></description>
-      <pubDate>Tue, 29 Sep 2026 21:56:22 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/967866/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1096827/</link>
-      <description></description>
-      <pubDate>Tue, 29 Sep 2026 21:56:22 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1096827/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Kernel Recipes</title>
-      <link>https://kernel-recipes.org/en/2026/</link>
-      <description></description>
-      <pubDate>Tue, 29 Sep 2026 21:56:22 -0000</pubDate>
-      <guid isPermaLink="false">https://kernel-recipes.org/en/2026/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: September 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</link>
-      <description></description>
-      <pubDate>Tue, 29 Sep 2026 21:56:15 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Open Secure AI Alliance Joins the Linux Foundation to Build a Shared, Open Defense Stack for the AI Era</title>
-      <link>https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</link>
-      <description></description>
-      <pubDate>Tue, 29 Sep 2026 21:56:15 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act</title>
-      <link>https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</link>
-      <description></description>
-      <pubDate>Tue, 29 Sep 2026 21:56:15 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
-      <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
-      <description></description>
-      <pubDate>Tue, 29 Sep 2026 21:56:15 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: August 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</link>
-      <description></description>
-      <pubDate>Tue, 29 Sep 2026 21:56:15 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-august-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] AMD ajusta valores de energia do Ryzen Zen 6 para Linux</title>
-      <link>https://www.vivaolinux.com.br/noticia/amd-ajusta-valores-de-energia-do-zen-6-para-ryzen-no-linux/</link>
-      <description></description>
-      <pubDate>Tue, 29 Sep 2026 21:56:14 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/amd-ajusta-valores-de-energia-do-zen-6-para-ryzen-no-linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Placar de futebol ao vivo no terminal com curl e jq</title>
-      <link>https://www.vivaolinux.com.br/dica/Placar-de-futebol-ao-vivo-no-terminal-com-curl-e-jq/</link>
-      <description></description>
-      <pubDate>Tue, 29 Sep 2026 21:56:14 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Placar-de-futebol-ao-vivo-no-terminal-com-curl-e-jq/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] hw-monitor 0.6 traz uso de GPU por processo e relatório de memória no Linux</title>
-      <link>https://www.vivaolinux.com.br/noticia/hw-monitor-0-6-traz-uso-de-gpu-por-processo-e-relatorio-de-memoria-no-linux/</link>
-      <description></description>
-      <pubDate>Tue, 29 Sep 2026 21:56:14 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/hw-monitor-0-6-traz-uso-de-gpu-por-processo-e-relatorio-de-memoria-no-linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] openSUSE Tumbleweed ARM recebe atualização com foco em Raspberry Pi e kernel Linux 7.2</title>
-      <link>https://www.vivaolinux.com.br/noticia/opensuse-tumbleweed-arm-recebe-atualizacao-com-foco-em-raspberry-pi-e-kernel-linux-7-2/</link>
-      <description></description>
-      <pubDate>Tue, 29 Sep 2026 21:56:14 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/opensuse-tumbleweed-arm-recebe-atualizacao-com-foco-em-raspberry-pi-e-kernel-linux-7-2/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] GNU gzip 1.15 chega com correções para falhas antigas e ajustes de comportamento</title>
-      <link>https://www.vivaolinux.com.br/noticia/gnu-gzip-1-15-chega-com-correcoes-para-falhas-antigas-e-ajustes-de-comportamento/</link>
-      <description></description>
-      <pubDate>Tue, 29 Sep 2026 21:56:14 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/gnu-gzip-1-15-chega-com-correcoes-para-falhas-antigas-e-ajustes-de-comportamento/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Today] Pangolin Reverse Proxy Moves to Dual Licensing With New Enterprise Edition</title>
