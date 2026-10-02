@@ -13,10 +13,26 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 01 Oct 2026 20:11:03 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 00:33:12 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
+    <item>
+      <title>[4Linux] A melhor forma de trabalhar com Claude: CLAUDE.md, Skills, Hooks, Harness e Gatilhos</title>
+      <link>https://blog.4linux.com.br/a-melhor-forma-de-trabalhar-com-claude-claude-md-skills-hooks-harness-e-gatilhos/</link>
+      <description>Em uma das primeiras vezes que vi alguém usando Claude em um projeto real, a cena foi bem familiar: a pessoa copiava um trecho de código, colava no chat, explicava The post A melhor forma de trabalhar com Claude: CLAUDE.md, Skills, Hooks, Harness e Gatilhos appeared first on Blog 4Linux .</description>
+      <pubDate>Wed, 30 Sep 2026 17:17:04 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13614</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
+    <item>
+      <title>[4Linux] Meu Switch reiniciou? Spoiler: NÃO reiniciou.</title>
+      <link>https://blog.4linux.com.br/meu-switch-reiniciou-spoiler-nao-reiniciou/</link>
+      <description>Trabalhando com consultoria já vimos diversos cenários e os desafios sempre inovadores, sempre tentamos entregar um projeto que esteja alinhado com o desejo do cliente, e para isso criamos soluções The post Meu Switch reiniciou? Spoiler: NÃO reiniciou. appeared first on Blog 4Linux .</description>
+      <pubDate>Wed, 23 Sep 2026 19:09:50 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13647</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
     <item>
       <title>[FSFLA] IRPF-Livre 2023 released</title>
       <link>http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.en.html</link>
@@ -82,124 +98,20 @@
       <source url="https://feeds.feedburner.com/linuxtoday/linux">Linux Today</source>
     </item>
     <item>
-      <title>[LWN] Kernel Recipes</title>
-      <link>https://kernel-recipes.org/en/2026/</link>
-      <description></description>
-      <pubDate>Thu, 01 Oct 2026 20:11:03 -0000</pubDate>
-      <guid isPermaLink="false">https://kernel-recipes.org/en/2026/</guid>
-      <source url="https://lwn.net/">LWN</source>
+      <title>[4Linux] Jev: o hype faz sentido ou estamos apenas colocando um nome novo em um problema antigo?</title>
+      <link>https://blog.4linux.com.br/compartilhando-conhecimento-de-ia-jev-o-hype-faz-sentido-ou-estamos-apenas-colocando-um-nome-novo-em-um-problema-antigo/</link>
+      <description>Uma análise sobre o lançamento da TypeSafe, o hype das últimas semanas, os benchmarks e o que realmente muda na arquitetura de sistemas com IA. Nas últimas duas semanas começou The post Jev: o hype faz sentido ou estamos apenas colocando um nome novo em um problema antigo? appeared first on Blog...</description>
+      <pubDate>Thu, 01 Oct 2026 18:29:09 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13840</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1096908/</link>
-      <description></description>
-      <pubDate>Thu, 01 Oct 2026 20:11:03 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1096908/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] KDE Plasma desktop environment</title>
-      <link>https://kde.org/plasma-desktop/</link>
-      <description></description>
-      <pubDate>Thu, 01 Oct 2026 20:11:03 -0000</pubDate>
-      <guid isPermaLink="false">https://kde.org/plasma-desktop/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1096518/</link>
-      <description></description>
-      <pubDate>Thu, 01 Oct 2026 20:11:03 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1096518/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Chromium</title>
-      <link>https://www.chromium.org/Home/</link>
-      <description></description>
-      <pubDate>Thu, 01 Oct 2026 20:11:03 -0000</pubDate>
-      <guid isPermaLink="false">https://www.chromium.org/Home/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Publicar Notícias no VOL</title>
-      <link>https://www.vivaolinux.com.br/artigo/Publicar-Noticias-no-VOL/</link>
-      <description></description>
-      <pubDate>Thu, 01 Oct 2026 20:08:44 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Publicar-Noticias-no-VOL/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Projeto de “tortura” de LLMs vira nova treta sobre consciência de IA e acende debate[*****]</title>
-      <link>https://www.vivaolinux.com.br/noticia/projeto-de-tortura-de-llms-vira-nova-treta-sobre-consciencia-de-ia-e-acende-debate-sobre-etica-no-github/</link>
-      <description></description>
-      <pubDate>Thu, 01 Oct 2026 20:08:44 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/projeto-de-tortura-de-llms-vira-nova-treta-sobre-consciencia-de-ia-e-acende-debate-sobre-etica-no-github/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Intel atualiza a Optimization Zone com guias para desempenho, NUMA, Kubernetes e IA</title>
-      <link>https://www.vivaolinux.com.br/noticia/intel-atualiza-a-optimization-zone-com-guias-para-desempenho-numa-kubernetes-e-ia/</link>
-      <description></description>
-      <pubDate>Thu, 01 Oct 2026 20:08:44 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/intel-atualiza-a-optimization-zone-com-guias-para-desempenho-numa-kubernetes-e-ia/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Nitrux 7.0 chega com kernel Linux 7.2 e Hyprland 0.55.4</title>
-      <link>https://www.vivaolinux.com.br/noticia/nitrux-7-0-chega-com-kernel-linux-7-2-e-hyprland-0-55-4/</link>
-      <description></description>
-      <pubDate>Thu, 01 Oct 2026 20:08:44 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/nitrux-7-0-chega-com-kernel-linux-7-2-e-hyprland-0-55-4/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Se você usa VPN ou TOR, deve abandonar a plataforma Windows imediatamente</title>
-      <link>https://www.vivaolinux.com.br/artigo/Se-voce-usa-VPN-ou-TOR-deve-abandonar-a-plataforma-Windows-imediatamente/</link>
-      <description></description>
-      <pubDate>Thu, 01 Oct 2026 20:08:44 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Se-voce-usa-VPN-ou-TOR-deve-abandonar-a-plataforma-Windows-imediatamente/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Unlocking the Door to Open Source: Reflections from Nerdearla and Getting Started in Open Source Development</title>
-      <link>https://www.linuxfoundation.org/blog/unlocking-the-door-to-open-source-reflections-from-nerdearla-and-getting-started-in-open-source-development</link>
-      <description></description>
-      <pubDate>Thu, 01 Oct 2026 20:08:44 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/unlocking-the-door-to-open-source-reflections-from-nerdearla-and-getting-started-in-open-source-development</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: September 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</link>
-      <description></description>
-      <pubDate>Thu, 01 Oct 2026 20:08:44 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Open Secure AI Alliance Joins the Linux Foundation to Build a Shared, Open Defense Stack for the AI Era</title>
-      <link>https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</link>
-      <description></description>
-      <pubDate>Thu, 01 Oct 2026 20:08:44 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act</title>
-      <link>https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</link>
-      <description></description>
-      <pubDate>Thu, 01 Oct 2026 20:08:44 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
-      <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
-      <description></description>
-      <pubDate>Thu, 01 Oct 2026 20:08:44 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+      <title>[4Linux] Por que o Altruísmo Eficaz (effective altruism) virou peça central no debate sobre os rumos da IA?</title>
+      <link>https://blog.4linux.com.br/ia-para-maiores-por-que-o-altruismo-eficaz-effective-altruism-virou-peca-central-no-debate-sobre-os-rumos-da-ia/</link>
+      <description>“Os Estados Unidos NUNCA serão um país de Altruísmo Eficaz.” Frase publicada em 16 de setembro de 2026, no X, pela conta oficial do diretor de tecnologia (CTO) do Departamento The post Por que o Altruísmo Eficaz (effective altruism) virou peça central no debate sobre os rumos da IA? appeared first...</description>
+      <pubDate>Thu, 01 Oct 2026 18:08:49 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13835</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
       <title>[FSFLA] Suitable Online Bank(rupt)ing</title>
@@ -216,6 +128,134 @@
       <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
+    </item>
+    <item>
+      <title>[4Linux] O agente de DevOps que nunca vê as suas credenciais</title>
+      <link>https://blog.4linux.com.br/ia-para-maiores-o-agente-de-devops-que-nunca-ve-as-suas-credenciais/</link>
+      <description>Todo mundo já entendeu que dá para pedir Terraform para um LLM. O problema é o acesso: para fazer algo útil, o agente precisa da cloud, do cluster, do state, The post O agente de DevOps que nunca vê as suas credenciais appeared first on Blog 4Linux .</description>
+      <pubDate>Fri, 18 Sep 2026 13:10:04 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13808</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
+    <item>
+      <title>[LWN] Kernel Recipes</title>
+      <link>https://kernel-recipes.org/en/2026/</link>
+      <description></description>
+      <pubDate>Fri, 02 Oct 2026 00:33:12 -0000</pubDate>
+      <guid isPermaLink="false">https://kernel-recipes.org/en/2026/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1096908/</link>
+      <description></description>
+      <pubDate>Fri, 02 Oct 2026 00:33:12 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1096908/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] KDE Plasma desktop environment</title>
+      <link>https://kde.org/plasma-desktop/</link>
+      <description></description>
+      <pubDate>Fri, 02 Oct 2026 00:33:12 -0000</pubDate>
+      <guid isPermaLink="false">https://kde.org/plasma-desktop/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1096518/</link>
+      <description></description>
+      <pubDate>Fri, 02 Oct 2026 00:33:12 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1096518/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Chromium</title>
+      <link>https://www.chromium.org/Home/</link>
+      <description></description>
+      <pubDate>Fri, 02 Oct 2026 00:33:12 -0000</pubDate>
+      <guid isPermaLink="false">https://www.chromium.org/Home/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Unlocking the Door to Open Source: Reflections from Nerdearla and Getting Started in Open Source Development</title>
+      <link>https://www.linuxfoundation.org/blog/unlocking-the-door-to-open-source-reflections-from-nerdearla-and-getting-started-in-open-source-development</link>
+      <description></description>
+      <pubDate>Fri, 02 Oct 2026 00:33:06 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/unlocking-the-door-to-open-source-reflections-from-nerdearla-and-getting-started-in-open-source-development</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Linux Foundation Newsletter: September 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</link>
+      <description></description>
+      <pubDate>Fri, 02 Oct 2026 00:33:06 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Open Secure AI Alliance Joins the Linux Foundation to Build a Shared, Open Defense Stack for the AI Era</title>
+      <link>https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</link>
+      <description></description>
+      <pubDate>Fri, 02 Oct 2026 00:33:06 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act</title>
+      <link>https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</link>
+      <description></description>
+      <pubDate>Fri, 02 Oct 2026 00:33:06 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Building the Future of Japanese Tech Talent</title>
+      <link>https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</link>
+      <description></description>
+      <pubDate>Fri, 02 Oct 2026 00:33:06 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/building-the-future-of-japanese-tech-talent</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Publicar Notícias no VOL</title>
+      <link>https://www.vivaolinux.com.br/artigo/Publicar-Noticias-no-VOL/</link>
+      <description></description>
+      <pubDate>Fri, 02 Oct 2026 00:33:05 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Publicar-Noticias-no-VOL/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Projeto de “tortura” de LLMs vira nova treta sobre consciência de IA e acende debate[*****]</title>
+      <link>https://www.vivaolinux.com.br/noticia/projeto-de-tortura-de-llms-vira-nova-treta-sobre-consciencia-de-ia-e-acende-debate-sobre-etica-no-github/</link>
+      <description></description>
+      <pubDate>Fri, 02 Oct 2026 00:33:05 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/projeto-de-tortura-de-llms-vira-nova-treta-sobre-consciencia-de-ia-e-acende-debate-sobre-etica-no-github/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Intel atualiza a Optimization Zone com guias para desempenho, NUMA, Kubernetes e IA</title>
+      <link>https://www.vivaolinux.com.br/noticia/intel-atualiza-a-optimization-zone-com-guias-para-desempenho-numa-kubernetes-e-ia/</link>
+      <description></description>
+      <pubDate>Fri, 02 Oct 2026 00:33:05 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/intel-atualiza-a-optimization-zone-com-guias-para-desempenho-numa-kubernetes-e-ia/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Nitrux 7.0 chega com kernel Linux 7.2 e Hyprland 0.55.4</title>
+      <link>https://www.vivaolinux.com.br/noticia/nitrux-7-0-chega-com-kernel-linux-7-2-e-hyprland-0-55-4/</link>
+      <description></description>
+      <pubDate>Fri, 02 Oct 2026 00:33:05 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/nitrux-7-0-chega-com-kernel-linux-7-2-e-hyprland-0-55-4/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Se você usa VPN ou TOR, deve abandonar a plataforma Windows imediatamente</title>
+      <link>https://www.vivaolinux.com.br/artigo/Se-voce-usa-VPN-ou-TOR-deve-abandonar-a-plataforma-Windows-imediatamente/</link>
+      <description></description>
+      <pubDate>Fri, 02 Oct 2026 00:33:05 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Se-voce-usa-VPN-ou-TOR-deve-abandonar-a-plataforma-Windows-imediatamente/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
   </channel>
 </rss>
