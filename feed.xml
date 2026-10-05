@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Mon, 05 Oct 2026 08:26:35 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 17:57:50 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -130,10 +130,26 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
+      <title>[LWN] Kernel Recipes</title>
+      <link>https://kernel-recipes.org/en/2026/</link>
+      <description></description>
+      <pubDate>Mon, 05 Oct 2026 17:57:50 -0000</pubDate>
+      <guid isPermaLink="false">https://kernel-recipes.org/en/2026/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1096963/</link>
+      <description></description>
+      <pubDate>Mon, 05 Oct 2026 17:57:50 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1096963/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
       <title>[LWN] language team</title>
       <link>https://rust-lang.org/governance/teams/#team-lang</link>
       <description></description>
-      <pubDate>Mon, 05 Oct 2026 08:26:35 -0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 17:57:50 -0000</pubDate>
       <guid isPermaLink="false">https://rust-lang.org/governance/teams/#team-lang</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,39 +157,23 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1096028/</link>
       <description></description>
-      <pubDate>Mon, 05 Oct 2026 08:26:35 -0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 17:57:50 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1096028/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Kernel Recipes</title>
-      <link>https://kernel-recipes.org/en/2026/</link>
-      <description></description>
-      <pubDate>Mon, 05 Oct 2026 08:26:35 -0000</pubDate>
-      <guid isPermaLink="false">https://kernel-recipes.org/en/2026/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
     <item>
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1096908/</link>
       <description></description>
-      <pubDate>Mon, 05 Oct 2026 08:26:35 -0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 17:57:50 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1096908/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] KDE Plasma desktop environment</title>
-      <link>https://kde.org/plasma-desktop/</link>
-      <description></description>
-      <pubDate>Mon, 05 Oct 2026 08:26:35 -0000</pubDate>
-      <guid isPermaLink="false">https://kde.org/plasma-desktop/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
     <item>
       <title>[Viva o Linux] NVIDIA compara Wayland e X.Org e diz que a latência entre os dois ficou muito próxima</title>
       <link>https://www.vivaolinux.com.br/noticia/nvidia-compara-wayland-e-x-org-e-diz-que-a-latencia-entre-os-dois-ficou-muito-proxima/</link>
       <description></description>
-      <pubDate>Mon, 05 Oct 2026 08:26:29 -0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 17:57:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/nvidia-compara-wayland-e-x-org-e-diz-que-a-latencia-entre-os-dois-ficou-muito-proxima/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -181,7 +181,7 @@
       <title>[Viva o Linux] Linux 7.3-rc6 chega com rotina de correções e mais ruído de bugs vindos de IA</title>
       <link>https://www.vivaolinux.com.br/noticia/linux-7-3-rc6-chega-com-rotina-de-correcoes-e-mais-barulho-de-bugs-vindos-de-ia/</link>
       <description></description>
-      <pubDate>Mon, 05 Oct 2026 08:26:29 -0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 17:57:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-7-3-rc6-chega-com-rotina-de-correcoes-e-mais-barulho-de-bugs-vindos-de-ia/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -189,7 +189,7 @@
       <title>[Viva o Linux] LibreOffice 26.8.1 chega com cerca de 40 correções e foco em compatibilidade com arquivos do Microsoft Office</title>
       <link>https://www.vivaolinux.com.br/noticia/libreoffice-26-8-1-chega-com-cerca-de-40-correcoes-e-foco-em-compatibilidade-com-arquivos-do-microsoft-office/</link>
       <description></description>
-      <pubDate>Mon, 05 Oct 2026 08:26:29 -0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 17:57:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/libreoffice-26-8-1-chega-com-cerca-de-40-correcoes-e-foco-em-compatibilidade-com-arquivos-do-microsoft-office/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -197,7 +197,7 @@
       <title>[Viva o Linux] Como organizar um chamado de suporte para um servidor Linux</title>
       <link>https://www.vivaolinux.com.br/dica/Como-organizar-um-chamado-de-suporte-para-um-servidor-Linux/</link>
       <description></description>
-      <pubDate>Mon, 05 Oct 2026 08:26:29 -0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 17:57:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Como-organizar-um-chamado-de-suporte-para-um-servidor-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -205,7 +205,7 @@
       <title>[Viva o Linux] Urna eletrônica usa Linux, fica isolada da internet e passa por auditorias na Justiça Eleitoral</title>
       <link>https://www.vivaolinux.com.br/noticia/urna-eletronica-usa-linux-fica-isolada-da-internet-e-passa-por-auditorias-na-justica-eleitoral/</link>
       <description></description>
-      <pubDate>Mon, 05 Oct 2026 08:26:29 -0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 17:57:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/urna-eletronica-usa-linux-fica-isolada-da-internet-e-passa-por-auditorias-na-justica-eleitoral/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -213,7 +213,7 @@
       <title>[Linux Foundation] Reflections on the 2026 Open Data Infrastructure Report</title>
       <link>https://www.linuxfoundation.org/blog/reflections-on-the-2026-open-data-infrastructure-report</link>
       <description></description>
-      <pubDate>Mon, 05 Oct 2026 08:26:29 -0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 17:57:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/reflections-on-the-2026-open-data-infrastructure-report</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -221,7 +221,7 @@
       <title>[Linux Foundation] Unlocking the Door to Open Source: Reflections from Nerdearla and Getting Started in Open Source Development</title>
       <link>https://www.linuxfoundation.org/blog/unlocking-the-door-to-open-source-reflections-from-nerdearla-and-getting-started-in-open-source-development</link>
       <description></description>
-      <pubDate>Mon, 05 Oct 2026 08:26:29 -0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 17:57:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/unlocking-the-door-to-open-source-reflections-from-nerdearla-and-getting-started-in-open-source-development</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -229,7 +229,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: September 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</link>
       <description></description>
-      <pubDate>Mon, 05 Oct 2026 08:26:29 -0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 17:57:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-september-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -237,7 +237,7 @@
       <title>[Linux Foundation] Open Secure AI Alliance Joins the Linux Foundation to Build a Shared, Open Defense Stack for the AI Era</title>
       <link>https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</link>
       <description></description>
-      <pubDate>Mon, 05 Oct 2026 08:26:29 -0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 17:57:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/open-secure-ai-alliance-joins-the-linux-foundation-to-build-a-shared-open-defense-stack-for-the-ai-era</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -245,7 +245,7 @@
       <title>[Linux Foundation] How OSPOs Are Preparing Organizations for the EU Cyber Resilience Act</title>
       <link>https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</link>
       <description></description>
-      <pubDate>Mon, 05 Oct 2026 08:26:29 -0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 17:57:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-ospos-are-preparing-organizations-for-the-eu-cyber-resilience-act</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
