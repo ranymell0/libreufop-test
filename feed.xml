@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Wed, 07 Oct 2026 22:49:10 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 02:33:47 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -58,10 +58,18 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
+      <title>[4Linux] Escalando o Monitoramento: Adicionando painéis no Grafana via API</title>
+      <link>https://blog.4linux.com.br/escalando-o-monitoramento-adicionando-paineis-no-grafana-via-api/</link>
+      <description>Automatizando dashboards no Grafana usando a API Em ambientes com muitos dashboards, pequenas mudanças podem rapidamente se transformar em trabalho repetitivo. Adicionar um painel novo em dez dashboards diferentes, por The post Escalando o Monitoramento: Adicionando painéis no Grafana via API...</description>
+      <pubDate>Wed, 07 Oct 2026 17:05:48 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13589</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+    </item>
+    <item>
       <title>[LWN] The Charon project</title>
       <link>https://github.com/AeneasVerif/charon#charon</link>
       <description></description>
-      <pubDate>Wed, 07 Oct 2026 22:49:10 -0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 02:33:47 -0000</pubDate>
       <guid isPermaLink="false">https://github.com/AeneasVerif/charon#charon</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -69,7 +77,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1097198/</link>
       <description></description>
-      <pubDate>Wed, 07 Oct 2026 22:49:10 -0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 02:33:47 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1097198/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,7 +85,7 @@
       <title>[LWN] extensible scheduler class</title>
       <link>https://lwn.net/Articles/922405/</link>
       <description></description>
-      <pubDate>Wed, 07 Oct 2026 22:49:10 -0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 02:33:47 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/922405/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -85,7 +93,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1097209/</link>
       <description></description>
-      <pubDate>Wed, 07 Oct 2026 22:49:10 -0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 02:33:47 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1097209/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -93,55 +101,15 @@
       <title>[LWN] random</title>
       <link>https://docs.python.org/3/library/random.html</link>
       <description></description>
-      <pubDate>Wed, 07 Oct 2026 22:49:10 -0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 02:33:47 -0000</pubDate>
       <guid isPermaLink="false">https://docs.python.org/3/library/random.html</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Celebrating 35 Years of Linux: The Open Source Engine Powering Three Decades of Global Innovation and Infrastructure</title>
-      <link>https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure</link>
-      <description></description>
-      <pubDate>Wed, 07 Oct 2026 22:49:03 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Navigating Open Source Governance in the Age of Artificial Intelligence: The 2026 State of OSPOs and Open Source Management</title>
-      <link>https://www.linuxfoundation.org/blog/navigating-open-source-governance-in-the-age-of-artificial-intelligence-the-2026-state-of-ospos-and-open-source-management</link>
-      <description></description>
-      <pubDate>Wed, 07 Oct 2026 22:49:03 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/navigating-open-source-governance-in-the-age-of-artificial-intelligence-the-2026-state-of-ospos-and-open-source-management</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] A Decade of Industrial Grade Linux: How the Civil Infrastructure Platform Is Securing Mission-Critical Systems</title>
-      <link>https://www.linuxfoundation.org/blog/a-decade-of-industrial-grade-linux-how-the-civil-infrastructure-platform-is-securing-mission-critical-systems</link>
-      <description></description>
-      <pubDate>Wed, 07 Oct 2026 22:49:03 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/a-decade-of-industrial-grade-linux-how-the-civil-infrastructure-platform-is-securing-mission-critical-systems</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Reflections on the 2026 Open Data Infrastructure Report</title>
-      <link>https://www.linuxfoundation.org/blog/reflections-on-the-2026-open-data-infrastructure-report</link>
-      <description></description>
-      <pubDate>Wed, 07 Oct 2026 22:49:03 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/reflections-on-the-2026-open-data-infrastructure-report</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Unlocking the Door to Open Source: Reflections from Nerdearla and Getting Started in Open Source Development</title>
-      <link>https://www.linuxfoundation.org/blog/unlocking-the-door-to-open-source-reflections-from-nerdearla-and-getting-started-in-open-source-development</link>
-      <description></description>
-      <pubDate>Wed, 07 Oct 2026 22:49:03 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/unlocking-the-door-to-open-source-reflections-from-nerdearla-and-getting-started-in-open-source-development</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[Viva o Linux] Dois módulos do Python para números aleatórios</title>
       <link>https://www.vivaolinux.com.br/noticia/dois-modulos-do-python-para-numeros-aleatorios/</link>
       <description></description>
-      <pubDate>Wed, 07 Oct 2026 22:49:02 -0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 02:33:41 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/dois-modulos-do-python-para-numeros-aleatorios/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -149,7 +117,7 @@
       <title>[Viva o Linux] GNOME 51 “A Coruña” já tem data alvo para setembro de 2026</title>
       <link>https://www.vivaolinux.com.br/noticia/gnome-51-a-coruna-ja-tem-data-alvo-para-setembro-de-2026/</link>
       <description></description>
-      <pubDate>Wed, 07 Oct 2026 22:49:02 -0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 02:33:41 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/gnome-51-a-coruna-ja-tem-data-alvo-para-setembro-de-2026/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -157,7 +125,7 @@
       <title>[Viva o Linux] Anthropic aciona polícia após usuária relatar plano de ataque ao Claude</title>
       <link>https://www.vivaolinux.com.br/noticia/anthropic-aciona-policia-apos-usuaria-relatar-plano-de-ataque-ao-claude/</link>
       <description></description>
-      <pubDate>Wed, 07 Oct 2026 22:49:02 -0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 02:33:41 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/anthropic-aciona-policia-apos-usuaria-relatar-plano-de-ataque-ao-claude/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -165,7 +133,7 @@
       <title>[Viva o Linux] Usando o Muse para programar no Linux: tutorial para iniciantes + minha experiência</title>
       <link>https://www.vivaolinux.com.br/artigo/Usando-o-Muse-para-programar-no-Linux-tutorial-para-iniciantes-minha-experiencia/</link>
       <description></description>
-      <pubDate>Wed, 07 Oct 2026 22:49:02 -0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 02:33:41 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Usando-o-Muse-para-programar-no-Linux-tutorial-para-iniciantes-minha-experiencia/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -173,17 +141,49 @@
       <title>[Viva o Linux] Meta correu para corrigir falha de escape em VM do Muse antes do lançamento</title>
       <link>https://www.vivaolinux.com.br/noticia/meta-correu-para-corrigir-falha-de-escape-em-vm-do-muse-antes-do-lancamento/</link>
       <description></description>
-      <pubDate>Wed, 07 Oct 2026 22:49:02 -0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 02:33:41 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/meta-correu-para-corrigir-falha-de-escape-em-vm-do-muse-antes-do-lancamento/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
-      <title>[4Linux] Escalando o Monitoramento: Adicionando painéis no Grafana via API</title>
-      <link>https://blog.4linux.com.br/escalando-o-monitoramento-adicionando-paineis-no-grafana-via-api/</link>
-      <description>Automatizando dashboards no Grafana usando a API Em ambientes com muitos dashboards, pequenas mudanças podem rapidamente se transformar em trabalho repetitivo. Adicionar um painel novo em dez dashboards diferentes, por The post Escalando o Monitoramento: Adicionando painéis no Grafana via API...</description>
-      <pubDate>Wed, 07 Oct 2026 17:05:48 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13589</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+      <title>[Linux Foundation] Celebrating 35 Years of Linux: The Open Source Engine Powering Three Decades of Global Innovation and Infrastructure</title>
+      <link>https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure</link>
+      <description></description>
+      <pubDate>Thu, 08 Oct 2026 02:33:41 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Navigating Open Source Governance in the Age of Artificial Intelligence: The 2026 State of OSPOs and Open Source Management</title>
+      <link>https://www.linuxfoundation.org/blog/navigating-open-source-governance-in-the-age-of-artificial-intelligence-the-2026-state-of-ospos-and-open-source-management</link>
+      <description></description>
+      <pubDate>Thu, 08 Oct 2026 02:33:41 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/navigating-open-source-governance-in-the-age-of-artificial-intelligence-the-2026-state-of-ospos-and-open-source-management</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] A Decade of Industrial Grade Linux: How the Civil Infrastructure Platform Is Securing Mission-Critical Systems</title>
+      <link>https://www.linuxfoundation.org/blog/a-decade-of-industrial-grade-linux-how-the-civil-infrastructure-platform-is-securing-mission-critical-systems</link>
+      <description></description>
+      <pubDate>Thu, 08 Oct 2026 02:33:41 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/a-decade-of-industrial-grade-linux-how-the-civil-infrastructure-platform-is-securing-mission-critical-systems</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Reflections on the 2026 Open Data Infrastructure Report</title>
+      <link>https://www.linuxfoundation.org/blog/reflections-on-the-2026-open-data-infrastructure-report</link>
+      <description></description>
+      <pubDate>Thu, 08 Oct 2026 02:33:41 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/reflections-on-the-2026-open-data-infrastructure-report</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Unlocking the Door to Open Source: Reflections from Nerdearla and Getting Started in Open Source Development</title>
+      <link>https://www.linuxfoundation.org/blog/unlocking-the-door-to-open-source-reflections-from-nerdearla-and-getting-started-in-open-source-development</link>
+      <description></description>
+      <pubDate>Thu, 08 Oct 2026 02:33:41 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/unlocking-the-door-to-open-source-reflections-from-nerdearla-and-getting-started-in-open-source-development</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[Linux Today] Pangolin Reverse Proxy Moves to Dual Licensing With New Enterprise Edition</title>
