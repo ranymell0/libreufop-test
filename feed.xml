@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Fri, 09 Oct 2026 02:54:03 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:07:53 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -141,7 +141,7 @@
       <title>[LWN] goals team</title>
       <link>https://rust-lang.org/governance/teams/#team-goals</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 02:54:03 -0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 10:07:53 -0000</pubDate>
       <guid isPermaLink="false">https://rust-lang.org/governance/teams/#team-goals</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1098617/</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 02:54:03 -0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 10:07:53 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1098617/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[LWN] some significant changes</title>
       <link>https://lwn.net/Articles/1057102/</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 02:54:03 -0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 10:07:53 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1057102/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1098399/</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 02:54:03 -0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 10:07:53 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1098399/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -173,15 +173,23 @@
       <title>[LWN] The Charon project</title>
       <link>https://github.com/AeneasVerif/charon#charon</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 02:54:03 -0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 10:07:53 -0000</pubDate>
       <guid isPermaLink="false">https://github.com/AeneasVerif/charon#charon</guid>
       <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] How Should Enterprises Transition to the Agentic Era?</title>
+      <link>https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</link>
+      <description></description>
+      <pubDate>Fri, 09 Oct 2026 10:07:48 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[Linux Foundation] Celebrating 35 Years of Linux: The Open Source Engine Powering Three Decades of Global Innovation and Infrastructure</title>
       <link>https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 02:53:59 -0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 10:07:48 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,7 +197,7 @@
       <title>[Linux Foundation] Navigating Open Source Governance in the Age of Artificial Intelligence: The 2026 State of OSPOs and Open Source Management</title>
       <link>https://www.linuxfoundation.org/blog/navigating-open-source-governance-in-the-age-of-artificial-intelligence-the-2026-state-of-ospos-and-open-source-management</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 02:53:59 -0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 10:07:48 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/navigating-open-source-governance-in-the-age-of-artificial-intelligence-the-2026-state-of-ospos-and-open-source-management</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -197,7 +205,7 @@
       <title>[Linux Foundation] A Decade of Industrial Grade Linux: How the Civil Infrastructure Platform Is Securing Mission-Critical Systems</title>
       <link>https://www.linuxfoundation.org/blog/a-decade-of-industrial-grade-linux-how-the-civil-infrastructure-platform-is-securing-mission-critical-systems</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 02:53:59 -0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 10:07:48 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/a-decade-of-industrial-grade-linux-how-the-civil-infrastructure-platform-is-securing-mission-critical-systems</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -205,23 +213,15 @@
       <title>[Linux Foundation] Reflections on the 2026 Open Data Infrastructure Report</title>
       <link>https://www.linuxfoundation.org/blog/reflections-on-the-2026-open-data-infrastructure-report</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 02:53:59 -0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 10:07:48 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/reflections-on-the-2026-open-data-infrastructure-report</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Unlocking the Door to Open Source: Reflections from Nerdearla and Getting Started in Open Source Development</title>
-      <link>https://www.linuxfoundation.org/blog/unlocking-the-door-to-open-source-reflections-from-nerdearla-and-getting-started-in-open-source-development</link>
-      <description></description>
-      <pubDate>Fri, 09 Oct 2026 02:53:59 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/unlocking-the-door-to-open-source-reflections-from-nerdearla-and-getting-started-in-open-source-development</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[Viva o Linux] O Asus Z550MA vale a pena com Void?</title>
       <link>https://www.vivaolinux.com.br/dica/O-Asus-Z550MA-vale-a-pena-com-Void/</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 02:53:58 -0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 10:07:47 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/O-Asus-Z550MA-vale-a-pena-com-Void/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -229,7 +229,7 @@
       <title>[Viva o Linux] Raspberry Pi Imager 2.0.12 melhora gravação no Linux com io_uring e corrige rede WPA3</title>
       <link>https://www.vivaolinux.com.br/noticia/raspberry-pi-imager-2-0-12-melhora-gravacao-no-linux-com-io-uring-e-corrige-rede-wpa3/</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 02:53:58 -0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 10:07:47 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/raspberry-pi-imager-2-0-12-melhora-gravacao-no-linux-com-io-uring-e-corrige-rede-wpa3/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -237,7 +237,7 @@
       <title>[Viva o Linux] Dois módulos do Python para números aleatórios</title>
       <link>https://www.vivaolinux.com.br/noticia/dois-modulos-do-python-para-numeros-aleatorios/</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 02:53:58 -0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 10:07:47 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/dois-modulos-do-python-para-numeros-aleatorios/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -245,7 +245,7 @@
       <title>[Viva o Linux] GNOME 51 “A Coruña” já tem data alvo para setembro de 2026</title>
       <link>https://www.vivaolinux.com.br/noticia/gnome-51-a-coruna-ja-tem-data-alvo-para-setembro-de-2026/</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 02:53:58 -0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 10:07:47 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/gnome-51-a-coruna-ja-tem-data-alvo-para-setembro-de-2026/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -253,7 +253,7 @@
       <title>[Viva o Linux] Anthropic aciona polícia após usuária relatar plano de ataque ao Claude</title>
       <link>https://www.vivaolinux.com.br/noticia/anthropic-aciona-policia-apos-usuaria-relatar-plano-de-ataque-ao-claude/</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 02:53:58 -0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 10:07:47 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/anthropic-aciona-policia-apos-usuaria-relatar-plano-de-ataque-ao-claude/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
