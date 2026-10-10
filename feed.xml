@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Sat, 10 Oct 2026 19:48:57 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 23:16:50 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -133,7 +133,7 @@
       <title>[LWN] GNU Tools Cauldron</title>
       <link>https://gnu-tools-cauldron.org/</link>
       <description></description>
-      <pubDate>Sat, 10 Oct 2026 19:48:57 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 23:16:50 -0000</pubDate>
       <guid isPermaLink="false">https://gnu-tools-cauldron.org/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,7 +141,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1098670/</link>
       <description></description>
-      <pubDate>Sat, 10 Oct 2026 19:48:57 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 23:16:50 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1098670/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[LWN] All Systems Go!</title>
       <link>https://all-systems-go.io/</link>
       <description></description>
-      <pubDate>Sat, 10 Oct 2026 19:48:57 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 23:16:50 -0000</pubDate>
       <guid isPermaLink="false">https://all-systems-go.io/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1099024/</link>
       <description></description>
-      <pubDate>Sat, 10 Oct 2026 19:48:57 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 23:16:50 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1099024/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[LWN] goals team</title>
       <link>https://rust-lang.org/governance/teams/#team-goals</link>
       <description></description>
-      <pubDate>Sat, 10 Oct 2026 19:48:57 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 23:16:50 -0000</pubDate>
       <guid isPermaLink="false">https://rust-lang.org/governance/teams/#team-goals</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -173,7 +173,7 @@
       <title>[Linux Foundation] Developer Experience as a Business Strategy: Lessons from the New DevEx Report</title>
       <link>https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</link>
       <description></description>
-      <pubDate>Sat, 10 Oct 2026 19:48:51 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 23:16:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -181,7 +181,7 @@
       <title>[Linux Foundation] How Should Enterprises Transition to the Agentic Era?</title>
       <link>https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</link>
       <description></description>
-      <pubDate>Sat, 10 Oct 2026 19:48:51 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 23:16:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,7 +189,7 @@
       <title>[Linux Foundation] Celebrating 35 Years of Linux: The Open Source Engine Powering Three Decades of Global Innovation and Infrastructure</title>
       <link>https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure</link>
       <description></description>
-      <pubDate>Sat, 10 Oct 2026 19:48:51 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 23:16:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -197,7 +197,7 @@
       <title>[Linux Foundation] Navigating Open Source Governance in the Age of Artificial Intelligence: The 2026 State of OSPOs and Open Source Management</title>
       <link>https://www.linuxfoundation.org/blog/navigating-open-source-governance-in-the-age-of-artificial-intelligence-the-2026-state-of-ospos-and-open-source-management</link>
       <description></description>
-      <pubDate>Sat, 10 Oct 2026 19:48:51 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 23:16:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/navigating-open-source-governance-in-the-age-of-artificial-intelligence-the-2026-state-of-ospos-and-open-source-management</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -205,7 +205,7 @@
       <title>[Linux Foundation] A Decade of Industrial Grade Linux: How the Civil Infrastructure Platform Is Securing Mission-Critical Systems</title>
       <link>https://www.linuxfoundation.org/blog/a-decade-of-industrial-grade-linux-how-the-civil-infrastructure-platform-is-securing-mission-critical-systems</link>
       <description></description>
-      <pubDate>Sat, 10 Oct 2026 19:48:51 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 23:16:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/a-decade-of-industrial-grade-linux-how-the-civil-infrastructure-platform-is-securing-mission-critical-systems</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -213,7 +213,7 @@
       <title>[Viva o Linux] Frame of Suffering mistura ARPG no estilo Diablo com mechas customizáveis e já mira o Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/frame-of-suffering-mistura-arpg-no-estilo-diablo-com-mechas-customizaveis-e-ja-mira-o-linux/</link>
       <description></description>
-      <pubDate>Sat, 10 Oct 2026 19:48:50 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 23:16:43 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/frame-of-suffering-mistura-arpg-no-estilo-diablo-com-mechas-customizaveis-e-ja-mira-o-linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -221,7 +221,7 @@
       <title>[Viva o Linux] Hellraiser: Revival chega ao Steam e já chama atenção de quem joga no Linux via Proton</title>
       <link>https://www.vivaolinux.com.br/noticia/hellraiser-revival-chega-ao-steam-e-ja-chama-atencao-de-quem-joga-no-linux-via-proton/</link>
       <description></description>
-      <pubDate>Sat, 10 Oct 2026 19:48:50 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 23:16:43 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/hellraiser-revival-chega-ao-steam-e-ja-chama-atencao-de-quem-joga-no-linux-via-proton/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -229,7 +229,7 @@
       <title>[Viva o Linux] Ponysay, a versão brony do Cowsay</title>
       <link>https://www.vivaolinux.com.br/noticia/ponysay-a-versao-brony-do-cowsay/</link>
       <description></description>
-      <pubDate>Sat, 10 Oct 2026 19:48:50 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 23:16:43 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ponysay-a-versao-brony-do-cowsay/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -237,7 +237,7 @@
       <title>[Viva o Linux] Fanatical abre novo pacote “Build Your Own All Stars Bundle” com foco em jogos para Steam Deck e Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/fanatical-abre-novo-pacote-build-your-own-all-stars-bundle-com-foco-em-jogos-para-steam-deck-e-linux/</link>
       <description></description>
-      <pubDate>Sat, 10 Oct 2026 19:48:50 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 23:16:43 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/fanatical-abre-novo-pacote-build-your-own-all-stars-bundle-com-foco-em-jogos-para-steam-deck-e-linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -245,7 +245,7 @@
       <title>[Viva o Linux] Python 3.15 chega com JIT experimental mais rápido e mudanças importantes na base da linguagem</title>
       <link>https://www.vivaolinux.com.br/noticia/python-3-15-chega-com-jit-experimental-mais-rapido-e-mudancas-importantes-na-base-da-linguagem/</link>
       <description></description>
-      <pubDate>Sat, 10 Oct 2026 19:48:50 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 23:16:43 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/python-3-15-chega-com-jit-experimental-mais-rapido-e-mudancas-importantes-na-base-da-linguagem/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
