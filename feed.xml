@@ -13,26 +13,10 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Fri, 09 Oct 2026 22:20:04 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 02:07:49 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
-    <item>
-      <title>[4Linux] A melhor forma de trabalhar com Claude: CLAUDE.md, Skills, Hooks, Harness e Gatilhos</title>
-      <link>https://blog.4linux.com.br/a-melhor-forma-de-trabalhar-com-claude-claude-md-skills-hooks-harness-e-gatilhos/</link>
-      <description>Em uma das primeiras vezes que vi alguém usando Claude em um projeto real, a cena foi bem familiar: a pessoa copiava um trecho de código, colava no chat, explicava The post A melhor forma de trabalhar com Claude: CLAUDE.md, Skills, Hooks, Harness e Gatilhos appeared first on Blog 4Linux .</description>
-      <pubDate>Wed, 30 Sep 2026 17:17:04 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13614</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[4Linux] Meu Switch reiniciou? Spoiler: NÃO reiniciou.</title>
-      <link>https://blog.4linux.com.br/meu-switch-reiniciou-spoiler-nao-reiniciou/</link>
-      <description>Trabalhando com consultoria já vimos diversos cenários e os desafios sempre inovadores, sempre tentamos entregar um projeto que esteja alinhado com o desejo do cliente, e para isso criamos soluções The post Meu Switch reiniciou? Spoiler: NÃO reiniciou. appeared first on Blog 4Linux .</description>
-      <pubDate>Wed, 23 Sep 2026 19:09:50 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13647</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
     <item>
       <title>[FSFLA] IRPF-Livre 2023 released</title>
       <link>http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.en.html</link>
@@ -56,14 +40,6 @@
       <pubDate>Wed, 17 May 2023 22:00:24 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.pt.html</guid>
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
-    </item>
-    <item>
-      <title>[4Linux] Escalando o Monitoramento: Adicionando painéis no Grafana via API</title>
-      <link>https://blog.4linux.com.br/escalando-o-monitoramento-adicionando-paineis-no-grafana-via-api/</link>
-      <description>Automatizando dashboards no Grafana usando a API Em ambientes com muitos dashboards, pequenas mudanças podem rapidamente se transformar em trabalho repetitivo. Adicionar um painel novo em dez dashboards diferentes, por The post Escalando o Monitoramento: Adicionando painéis no Grafana via API...</description>
-      <pubDate>Wed, 07 Oct 2026 17:05:48 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13589</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
       <title>[Linux Today] Pangolin Reverse Proxy Moves to Dual Licensing With New Enterprise Edition</title>
@@ -106,22 +82,6 @@
       <source url="https://feeds.feedburner.com/linuxtoday/linux">Linux Today</source>
     </item>
     <item>
-      <title>[4Linux] Jev: o hype faz sentido ou estamos apenas colocando um nome novo em um problema antigo?</title>
-      <link>https://blog.4linux.com.br/compartilhando-conhecimento-de-ia-jev-o-hype-faz-sentido-ou-estamos-apenas-colocando-um-nome-novo-em-um-problema-antigo/</link>
-      <description>Uma análise sobre o lançamento da TypeSafe, o hype das últimas semanas, os benchmarks e o que realmente muda na arquitetura de sistemas com IA. Nas últimas duas semanas começou The post Jev: o hype faz sentido ou estamos apenas colocando um nome novo em um problema antigo? appeared first on Blog...</description>
-      <pubDate>Thu, 01 Oct 2026 18:29:09 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13840</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[4Linux] Por que o Altruísmo Eficaz (effective altruism) virou peça central no debate sobre os rumos da IA?</title>
-      <link>https://blog.4linux.com.br/ia-para-maiores-por-que-o-altruismo-eficaz-effective-altruism-virou-peca-central-no-debate-sobre-os-rumos-da-ia/</link>
-      <description>“Os Estados Unidos NUNCA serão um país de Altruísmo Eficaz.” Frase publicada em 16 de setembro de 2026, no X, pela conta oficial do diretor de tecnologia (CTO) do Departamento The post Por que o Altruísmo Eficaz (effective altruism) virou peça central no debate sobre os rumos da IA? appeared first...</description>
-      <pubDate>Thu, 01 Oct 2026 18:08:49 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13835</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
       <title>[FSFLA] Suitable Online Bank(rupt)ing</title>
       <link>http://www.fsfla.org/ikiwiki/texto/bancarrota.en.html</link>
       <description>Suitable Online Bank(rupt)ing Alexandre Oliva For the past couple of decades, I&apos;ve entered various fights with Brazilian banks over their threats to my software freedom in their Internet banking services. Back in 2002, the main threats were websites that required Internet Explorer, or the...</description>
@@ -130,18 +90,10 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
-      <title>[FSFLA] 6point4.en</title>
-      <link>http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</link>
-      <description>When I&apos;m Six Point Four Jason Self with a little help from my friend Alex Oliva When I get older, losing more bugs , In today&apos;s release, Will you still be sending me your problem reports, kernel patches, boot me with grub? Will you rejoice, and cheer for my might, Weeding out the blobs? Will you...</description>
-      <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
-      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
-      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
-    </item>
-    <item>
       <title>[LWN] GNU Tools Cauldron</title>
       <link>https://gnu-tools-cauldron.org/</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 22:20:04 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 02:07:49 -0000</pubDate>
       <guid isPermaLink="false">https://gnu-tools-cauldron.org/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,7 +101,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1098670/</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 22:20:04 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 02:07:49 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1098670/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -157,7 +109,7 @@
       <title>[LWN] All Systems Go!</title>
       <link>https://all-systems-go.io/</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 22:20:04 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 02:07:49 -0000</pubDate>
       <guid isPermaLink="false">https://all-systems-go.io/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -165,7 +117,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1099024/</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 22:20:04 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 02:07:49 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1099024/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -173,7 +125,7 @@
       <title>[LWN] goals team</title>
       <link>https://rust-lang.org/governance/teams/#team-goals</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 22:20:04 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 02:07:49 -0000</pubDate>
       <guid isPermaLink="false">https://rust-lang.org/governance/teams/#team-goals</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -181,7 +133,7 @@
       <title>[Linux Foundation] How Should Enterprises Transition to the Agentic Era?</title>
       <link>https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 22:19:59 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 02:07:43 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,7 +141,7 @@
       <title>[Linux Foundation] Celebrating 35 Years of Linux: The Open Source Engine Powering Three Decades of Global Innovation and Infrastructure</title>
       <link>https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 22:19:59 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 02:07:43 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -197,7 +149,7 @@
       <title>[Linux Foundation] Navigating Open Source Governance in the Age of Artificial Intelligence: The 2026 State of OSPOs and Open Source Management</title>
       <link>https://www.linuxfoundation.org/blog/navigating-open-source-governance-in-the-age-of-artificial-intelligence-the-2026-state-of-ospos-and-open-source-management</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 22:19:59 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 02:07:43 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/navigating-open-source-governance-in-the-age-of-artificial-intelligence-the-2026-state-of-ospos-and-open-source-management</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -205,7 +157,7 @@
       <title>[Linux Foundation] A Decade of Industrial Grade Linux: How the Civil Infrastructure Platform Is Securing Mission-Critical Systems</title>
       <link>https://www.linuxfoundation.org/blog/a-decade-of-industrial-grade-linux-how-the-civil-infrastructure-platform-is-securing-mission-critical-systems</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 22:19:59 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 02:07:43 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/a-decade-of-industrial-grade-linux-how-the-civil-infrastructure-platform-is-securing-mission-critical-systems</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -213,7 +165,7 @@
       <title>[Linux Foundation] Reflections on the 2026 Open Data Infrastructure Report</title>
       <link>https://www.linuxfoundation.org/blog/reflections-on-the-2026-open-data-infrastructure-report</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 22:19:59 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 02:07:43 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/reflections-on-the-2026-open-data-infrastructure-report</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -221,7 +173,7 @@
       <title>[Viva o Linux] Fanatical abre novo pacote “Build Your Own All Stars Bundle” com foco em jogos para Steam Deck e Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/fanatical-abre-novo-pacote-build-your-own-all-stars-bundle-com-foco-em-jogos-para-steam-deck-e-linux/</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 22:19:58 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 02:07:42 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/fanatical-abre-novo-pacote-build-your-own-all-stars-bundle-com-foco-em-jogos-para-steam-deck-e-linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -229,7 +181,7 @@
       <title>[Viva o Linux] Python 3.15 chega com JIT experimental mais rápido e mudanças importantes na base da linguagem</title>
       <link>https://www.vivaolinux.com.br/noticia/python-3-15-chega-com-jit-experimental-mais-rapido-e-mudancas-importantes-na-base-da-linguagem/</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 22:19:58 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 02:07:42 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/python-3-15-chega-com-jit-experimental-mais-rapido-e-mudancas-importantes-na-base-da-linguagem/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -237,7 +189,7 @@
       <title>[Viva o Linux] SpaceXAI põe US$ 1,5 milhão em tokens Grok para bancar a distro Linux Omarchy</title>
       <link>https://www.vivaolinux.com.br/noticia/spacexai-poe-us-1-5-milhao-em-tokens-grok-para-bancar-a-distro-linux-omarchy/</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 22:19:58 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 02:07:42 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/spacexai-poe-us-1-5-milhao-em-tokens-grok-para-bancar-a-distro-linux-omarchy/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -245,7 +197,7 @@
       <title>[Viva o Linux] O Asus Z550MA vale a pena com Void?</title>
       <link>https://www.vivaolinux.com.br/dica/O-Asus-Z550MA-vale-a-pena-com-Void/</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 22:19:58 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 02:07:42 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/O-Asus-Z550MA-vale-a-pena-com-Void/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -253,9 +205,17 @@
       <title>[Viva o Linux] Raspberry Pi Imager 2.0.12 melhora gravação no Linux com io_uring e corrige rede WPA3</title>
       <link>https://www.vivaolinux.com.br/noticia/raspberry-pi-imager-2-0-12-melhora-gravacao-no-linux-com-io-uring-e-corrige-rede-wpa3/</link>
       <description></description>
-      <pubDate>Fri, 09 Oct 2026 22:19:58 -0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 02:07:42 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/raspberry-pi-imager-2-0-12-melhora-gravacao-no-linux-com-io-uring-e-corrige-rede-wpa3/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[FSFLA] 6point4.en</title>
+      <link>http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</link>
+      <description>When I&apos;m Six Point Four Jason Self with a little help from my friend Alex Oliva When I get older, losing more bugs , In today&apos;s release, Will you still be sending me your problem reports, kernel patches, boot me with grub? Will you rejoice, and cheer for my might, Weeding out the blobs? Will you...</description>
+      <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
+      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
+      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
   </channel>
 </rss>
