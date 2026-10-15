@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 15 Oct 2026 13:05:37 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 18:01:11 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -66,10 +66,26 @@
       <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
+      <title>[LWN] generic kernel image</title>
+      <link>https://source.android.com/docs/core/architecture/kernel/generic-kernel-image</link>
+      <description></description>
+      <pubDate>Thu, 15 Oct 2026 18:01:11 -0000</pubDate>
+      <guid isPermaLink="false">https://source.android.com/docs/core/architecture/kernel/generic-kernel-image</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1098493/</link>
+      <description></description>
+      <pubDate>Thu, 15 Oct 2026 18:01:11 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1098493/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
       <title>[LWN] LTTng</title>
       <link>https://lttng.org/</link>
       <description></description>
-      <pubDate>Thu, 15 Oct 2026 13:05:37 -0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 18:01:11 -0000</pubDate>
       <guid isPermaLink="false">https://lttng.org/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,7 +93,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1099300/</link>
       <description></description>
-      <pubDate>Thu, 15 Oct 2026 13:05:37 -0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 18:01:11 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1099300/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -85,31 +101,23 @@
       <title>[LWN] a policy on the use of large language models</title>
       <link>https://gcc.gnu.org/ai-policy.html</link>
       <description></description>
-      <pubDate>Thu, 15 Oct 2026 13:05:37 -0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 18:01:11 -0000</pubDate>
       <guid isPermaLink="false">https://gcc.gnu.org/ai-policy.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
     <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1098672/</link>
+      <title>[Linux Foundation] LF Decentralized Trust Demonstrates the First Open Source Verifiable Trust Community in Prague</title>
+      <link>https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</link>
       <description></description>
-      <pubDate>Thu, 15 Oct 2026 13:05:37 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1098672/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] KDE Linux</title>
-      <link>https://linux.kde.org/</link>
-      <description></description>
-      <pubDate>Thu, 15 Oct 2026 13:05:37 -0000</pubDate>
-      <guid isPermaLink="false">https://linux.kde.org/</guid>
-      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Thu, 15 Oct 2026 18:01:06 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[Linux Foundation] Developer Experience as a Business Strategy: Lessons from the New DevEx Report</title>
       <link>https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</link>
       <description></description>
-      <pubDate>Thu, 15 Oct 2026 13:05:32 -0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 18:01:06 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -117,7 +125,7 @@
       <title>[Linux Foundation] How Should Enterprises Transition to the Agentic Era?</title>
       <link>https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</link>
       <description></description>
-      <pubDate>Thu, 15 Oct 2026 13:05:32 -0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 18:01:06 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -125,7 +133,7 @@
       <title>[Linux Foundation] Celebrating 35 Years of Linux: The Open Source Engine Powering Three Decades of Global Innovation and Infrastructure</title>
       <link>https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure</link>
       <description></description>
-      <pubDate>Thu, 15 Oct 2026 13:05:32 -0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 18:01:06 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -133,23 +141,15 @@
       <title>[Linux Foundation] Navigating Open Source Governance in the Age of Artificial Intelligence: The 2026 State of OSPOs and Open Source Management</title>
       <link>https://www.linuxfoundation.org/blog/navigating-open-source-governance-in-the-age-of-artificial-intelligence-the-2026-state-of-ospos-and-open-source-management</link>
       <description></description>
-      <pubDate>Thu, 15 Oct 2026 13:05:32 -0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 18:01:06 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/navigating-open-source-governance-in-the-age-of-artificial-intelligence-the-2026-state-of-ospos-and-open-source-management</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] A Decade of Industrial Grade Linux: How the Civil Infrastructure Platform Is Securing Mission-Critical Systems</title>
-      <link>https://www.linuxfoundation.org/blog/a-decade-of-industrial-grade-linux-how-the-civil-infrastructure-platform-is-securing-mission-critical-systems</link>
-      <description></description>
-      <pubDate>Thu, 15 Oct 2026 13:05:32 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/a-decade-of-industrial-grade-linux-how-the-civil-infrastructure-platform-is-securing-mission-critical-systems</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[Viva o Linux] WordCraft: reimplementação livre do Microsoft Word em Rust</title>
       <link>https://www.vivaolinux.com.br/artigo/WordCraft-reimplementacao-livre-do-Microsoft-Word-em-Rust/</link>
       <description></description>
-      <pubDate>Thu, 15 Oct 2026 13:05:31 -0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 18:01:05 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/WordCraft-reimplementacao-livre-do-Microsoft-Word-em-Rust/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[Viva o Linux] KDE completa 30 anos e celebra a data com campanha, vídeo e foco em liberdade digital</title>
       <link>https://www.vivaolinux.com.br/noticia/kde-completa-30-anos-e-celebra-a-data-com-campanha-video-e-foco-em-liberdade-digital/</link>
       <description></description>
-      <pubDate>Thu, 15 Oct 2026 13:05:31 -0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 18:01:05 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kde-completa-30-anos-e-celebra-a-data-com-campanha-video-e-foco-em-liberdade-digital/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[Viva o Linux] IPFire 2.29 Core Update 204 corrige regressão de DNS em VPNs e atualiza a pilha do sistema</title>
       <link>https://www.vivaolinux.com.br/noticia/ipfire-2-29-core-update-204-corrige-regressao-de-dns-em-vpns-e-atualiza-a-pilha-do-sistema/</link>
       <description></description>
-      <pubDate>Thu, 15 Oct 2026 13:05:31 -0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 18:01:05 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ipfire-2-29-core-update-204-corrige-regressao-de-dns-em-vpns-e-atualiza-a-pilha-do-sistema/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -173,7 +173,7 @@
       <title>[Viva o Linux] Ataque cibernético derruba operação de mais de 500 supermercados na França e expõe risco em equipamentos conectados</title>
       <link>https://www.vivaolinux.com.br/noticia/ataque-cibernetico-derruba-operacao-de-mais-de-500-supermercados-na-franca-e-expoe-risco-em-equipamentos-conectados/</link>
       <description></description>
-      <pubDate>Thu, 15 Oct 2026 13:05:31 -0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 18:01:05 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ataque-cibernetico-derruba-operacao-de-mais-de-500-supermercados-na-franca-e-expoe-risco-em-equipamentos-conectados/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -181,7 +181,7 @@
       <title>[Viva o Linux] Bluefin Dakota a nova aposta da UniversaBlue baseada no GNOME OS</title>
       <link>https://www.vivaolinux.com.br/noticia/bluefin-dakota-a-nova-aposta-da-universablue-baseada-no-gnome-os/</link>
       <description></description>
-      <pubDate>Thu, 15 Oct 2026 13:05:31 -0000</pubDate>
+      <pubDate>Thu, 15 Oct 2026 18:01:05 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/bluefin-dakota-a-nova-aposta-da-universablue-baseada-no-gnome-os/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
