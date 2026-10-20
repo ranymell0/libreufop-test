@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Tue, 20 Oct 2026 03:38:38 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 09:10:46 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -53,7 +53,7 @@
       <title>[LWN] released</title>
       <link>https://lwn.net/ml/all/CAHk-=wgwnBm2zDdRM7u016NVHkv9KqbZW7AZ=8wZrqGyv_V+5A@mail.gmail.com/</link>
       <description></description>
-      <pubDate>Tue, 20 Oct 2026 03:38:38 -0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 09:10:46 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/ml/all/CAHk-=wgwnBm2zDdRM7u016NVHkv9KqbZW7AZ=8wZrqGyv_V+5A@mail.gmail.com/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -61,7 +61,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1100241/</link>
       <description></description>
-      <pubDate>Tue, 20 Oct 2026 03:38:38 -0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 09:10:46 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1100241/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -69,7 +69,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1099596/</link>
       <description></description>
-      <pubDate>Tue, 20 Oct 2026 03:38:38 -0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 09:10:46 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1099596/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,7 +77,7 @@
       <title>[LWN] pin_init crate</title>
       <link>https://rust.docs.kernel.org/pin_init/index.html</link>
       <description></description>
-      <pubDate>Tue, 20 Oct 2026 03:38:38 -0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 09:10:46 -0000</pubDate>
       <guid isPermaLink="false">https://rust.docs.kernel.org/pin_init/index.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -85,7 +85,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1099224/</link>
       <description></description>
-      <pubDate>Tue, 20 Oct 2026 03:38:38 -0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 09:10:46 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1099224/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -93,7 +93,7 @@
       <title>[Linux Foundation] LF Decentralized Trust Demonstrates the First Open Source Verifiable Trust Community in Prague</title>
       <link>https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</link>
       <description></description>
-      <pubDate>Tue, 20 Oct 2026 03:38:32 -0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 09:10:40 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -101,7 +101,7 @@
       <title>[Linux Foundation] Developer Experience as a Business Strategy: Lessons from the New DevEx Report</title>
       <link>https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</link>
       <description></description>
-      <pubDate>Tue, 20 Oct 2026 03:38:32 -0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 09:10:40 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -109,7 +109,7 @@
       <title>[Linux Foundation] How Should Enterprises Transition to the Agentic Era?</title>
       <link>https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</link>
       <description></description>
-      <pubDate>Tue, 20 Oct 2026 03:38:32 -0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 09:10:40 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -117,7 +117,7 @@
       <title>[Linux Foundation] Celebrating 35 Years of Linux: The Open Source Engine Powering Three Decades of Global Innovation and Infrastructure</title>
       <link>https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure</link>
       <description></description>
-      <pubDate>Tue, 20 Oct 2026 03:38:32 -0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 09:10:40 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[Linux Foundation] Navigating Open Source Governance in the Age of Artificial Intelligence: The 2026 State of OSPOs and Open Source Management</title>
       <link>https://www.linuxfoundation.org/blog/navigating-open-source-governance-in-the-age-of-artificial-intelligence-the-2026-state-of-ospos-and-open-source-management</link>
       <description></description>
-      <pubDate>Tue, 20 Oct 2026 03:38:32 -0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 09:10:40 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/navigating-open-source-governance-in-the-age-of-artificial-intelligence-the-2026-state-of-ospos-and-open-source-management</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[Viva o Linux] Instalar Stencil no Linux</title>
       <link>https://www.vivaolinux.com.br/artigo/Instalar-Stencil-no-Linux/</link>
       <description></description>
-      <pubDate>Tue, 20 Oct 2026 03:38:31 -0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 09:10:39 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Instalar-Stencil-no-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -141,7 +141,7 @@
       <title>[Viva o Linux] Linux em 2026 continua melhorando o Suporte para Beneficiar Hardware Antigo como Atari e Amiga</title>
       <link>https://www.vivaolinux.com.br/noticia/linux-7-4-ganha-mais-suporte-ao-m68k-e-ajuda-hardware-classico-de-atari-e-amiga/</link>
       <description></description>
-      <pubDate>Tue, 20 Oct 2026 03:38:31 -0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 09:10:39 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-7-4-ganha-mais-suporte-ao-m68k-e-ajuda-hardware-classico-de-atari-e-amiga/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[Viva o Linux] MKVToolNix 103 chega com ajustes no mkvmerge, novidades na GUI e correção para perda de quadros em MP4</title>
       <link>https://www.vivaolinux.com.br/noticia/mkvtoolnix-103-chega-com-ajustes-no-mkvmerge-novidades-na-gui-e-correcao-para-perda-de-quadros-em-mp4/</link>
       <description></description>
-      <pubDate>Tue, 20 Oct 2026 03:38:31 -0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 09:10:39 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/mkvtoolnix-103-chega-com-ajustes-no-mkvmerge-novidades-na-gui-e-correcao-para-perda-de-quadros-em-mp4/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[Viva o Linux] Linux 7.4 promete HDMI 2.1 por padrão em Radeon, ajustes de desempenho da AMD e suporte inicial ao Apple M4</title>
       <link>https://www.vivaolinux.com.br/noticia/linux-7-4-promete-hdmi-2-1-por-padrao-em-radeon-ajustes-de-desempenho-da-amd-e-suporte-inicial-ao-apple-m4/</link>
       <description></description>
-      <pubDate>Tue, 20 Oct 2026 03:38:31 -0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 09:10:39 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-7-4-promete-hdmi-2-1-por-padrao-em-radeon-ajustes-de-desempenho-da-amd-e-suporte-inicial-ao-apple-m4/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[Viva o Linux] Proxy de reserva no Clash e no v2rayN: url-test e fallback</title>
       <link>https://www.vivaolinux.com.br/dica/Proxy-de-reserva-no-Clash-e-no-v2rayN-url-test-e-fallback/</link>
       <description></description>
-      <pubDate>Tue, 20 Oct 2026 03:38:31 -0000</pubDate>
+      <pubDate>Tue, 20 Oct 2026 09:10:39 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Proxy-de-reserva-no-Clash-e-no-v2rayN-url-test-e-fallback/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
