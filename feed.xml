@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 22 Oct 2026 13:30:02 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 18:19:39 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -58,10 +58,26 @@
       <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
+      <title>[LWN] merging</title>
+      <link>https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=22a78a25438d</link>
+      <description></description>
+      <pubDate>Thu, 22 Oct 2026 18:19:39 -0000</pubDate>
+      <guid isPermaLink="false">https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=22a78a25438d</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1102061/</link>
+      <description></description>
+      <pubDate>Thu, 22 Oct 2026 18:19:39 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1102061/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1099606/</link>
       <description></description>
-      <pubDate>Thu, 22 Oct 2026 13:30:02 -0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 18:19:39 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1099606/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -69,7 +85,7 @@
       <title>[LWN] hash-based integrity checking for kernel modules</title>
       <link>https://lwn.net/Articles/1012946/</link>
       <description></description>
-      <pubDate>Thu, 22 Oct 2026 13:30:02 -0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 18:19:39 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1012946/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,31 +93,15 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1100026/</link>
       <description></description>
-      <pubDate>Thu, 22 Oct 2026 13:30:02 -0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 18:19:39 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1100026/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Nix flakes</title>
-      <link>https://wiki.nixos.org/wiki/Flakes</link>
-      <description></description>
-      <pubDate>Thu, 22 Oct 2026 13:30:02 -0000</pubDate>
-      <guid isPermaLink="false">https://wiki.nixos.org/wiki/Flakes</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1094226/</link>
-      <description></description>
-      <pubDate>Thu, 22 Oct 2026 13:30:02 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1094226/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
     <item>
       <title>[Linux Foundation] Linux Foundation Newsletter: October 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</link>
       <description></description>
-      <pubDate>Thu, 22 Oct 2026 13:29:58 -0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 18:19:32 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -109,7 +109,7 @@
       <title>[Linux Foundation] LF Decentralized Trust Demonstrates the First Open Source Verifiable Trust Community in Prague</title>
       <link>https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</link>
       <description></description>
-      <pubDate>Thu, 22 Oct 2026 13:29:58 -0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 18:19:32 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -117,7 +117,7 @@
       <title>[Linux Foundation] Developer Experience as a Business Strategy: Lessons from the New DevEx Report</title>
       <link>https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</link>
       <description></description>
-      <pubDate>Thu, 22 Oct 2026 13:29:58 -0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 18:19:32 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[Linux Foundation] How Should Enterprises Transition to the Agentic Era?</title>
       <link>https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</link>
       <description></description>
-      <pubDate>Thu, 22 Oct 2026 13:29:58 -0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 18:19:32 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[Linux Foundation] Celebrating 35 Years of Linux: The Open Source Engine Powering Three Decades of Global Innovation and Infrastructure</title>
       <link>https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure</link>
       <description></description>
-      <pubDate>Thu, 22 Oct 2026 13:29:58 -0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 18:19:32 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -141,7 +141,7 @@
       <title>[Viva o Linux] WordPress para além do CMS: como desenvolvi um microSaaS usando a plataforma como framework</title>
       <link>https://www.vivaolinux.com.br/artigo/WordPress-para-alem-do-CMS-como-desenvolvi-um-microSaaS-usando-a-plataforma-como-framework/</link>
       <description></description>
-      <pubDate>Thu, 22 Oct 2026 13:29:57 -0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 18:19:31 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/WordPress-para-alem-do-CMS-como-desenvolvi-um-microSaaS-usando-a-plataforma-como-framework/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[Viva o Linux] Linus Torvalds Elimina Funções Inseguras __get_user() &amp; __put_user() No Linux 7.4</title>
       <link>https://www.vivaolinux.com.br/noticia/linus-torvalds-elimina-funcoes-inseguras-get-user-put-user-no-linux-7-4/</link>
       <description></description>
-      <pubDate>Thu, 22 Oct 2026 13:29:57 -0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 18:19:31 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linus-torvalds-elimina-funcoes-inseguras-get-user-put-user-no-linux-7-4/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[Viva o Linux] SparkyOS estreia como derivada portátil do Arch Linux dentro do universo SparkyLinux</title>
       <link>https://www.vivaolinux.com.br/noticia/sparkyos-estreia-como-derivada-portatil-do-arch-linux-dentro-do-universo-sparkylinux/</link>
       <description></description>
-      <pubDate>Thu, 22 Oct 2026 13:29:57 -0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 18:19:31 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/sparkyos-estreia-como-derivada-portatil-do-arch-linux-dentro-do-universo-sparkylinux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[Viva o Linux] Instalar Stencil no Linux</title>
       <link>https://www.vivaolinux.com.br/artigo/Instalar-Stencil-no-Linux/</link>
       <description></description>
-      <pubDate>Thu, 22 Oct 2026 13:29:57 -0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 18:19:31 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Instalar-Stencil-no-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -173,9 +173,17 @@
       <title>[Viva o Linux] Linux em 2026 continua melhorando o Suporte para Beneficiar Hardware Antigo como Atari e Amiga</title>
       <link>https://www.vivaolinux.com.br/noticia/linux-7-4-ganha-mais-suporte-ao-m68k-e-ajuda-hardware-classico-de-atari-e-amiga/</link>
       <description></description>
-      <pubDate>Thu, 22 Oct 2026 13:29:57 -0000</pubDate>
+      <pubDate>Thu, 22 Oct 2026 18:19:31 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-7-4-ganha-mais-suporte-ao-m68k-e-ajuda-hardware-classico-de-atari-e-amiga/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[4Linux] IA Local com Qwen: um modelo pequeno, na sua máquina, resolvendo problema de verdade</title>
+      <link>https://blog.4linux.com.br/ia-local-com-qwen-um-modelo-pequeno-na-sua-maquina-resolvendo-problema-de-verdade/</link>
+      <description>Salve salve pessoal! Tudo bem com vocês? Espero que sim! Hoje trago um assunto que tem aparecido em quase toda conversa que tenho com empresas que já adotaram IA: a The post IA Local com Qwen: um modelo pequeno, na sua máquina, resolvendo problema de verdade appeared first on Blog 4Linux .</description>
+      <pubDate>Thu, 22 Oct 2026 14:13:12 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13874</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
       <title>[Linux Today] Pangolin Reverse Proxy Moves to Dual Licensing With New Enterprise Edition</title>
@@ -216,14 +224,6 @@
       <pubDate>Thu, 06 Nov 2025 15:31:59 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxtoday.com/?post_type=user_post&amp;p=204479</guid>
       <source url="https://feeds.feedburner.com/linuxtoday/linux">Linux Today</source>
-    </item>
-    <item>
-      <title>[4Linux] Jev: o hype faz sentido ou estamos apenas colocando um nome novo em um problema antigo?</title>
-      <link>https://blog.4linux.com.br/compartilhando-conhecimento-de-ia-jev-o-hype-faz-sentido-ou-estamos-apenas-colocando-um-nome-novo-em-um-problema-antigo/</link>
-      <description>Uma análise sobre o lançamento da TypeSafe, o hype das últimas semanas, os benchmarks e o que realmente muda na arquitetura de sistemas com IA. Nas últimas duas semanas começou The post Jev: o hype faz sentido ou estamos apenas colocando um nome novo em um problema antigo? appeared first on Blog...</description>
-      <pubDate>Thu, 01 Oct 2026 18:29:09 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13840</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
       <title>[FSFLA] Suitable Online Bank(rupt)ing</title>
