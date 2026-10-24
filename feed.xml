@@ -13,18 +13,10 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Sat, 24 Oct 2026 20:19:03 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 22:55:24 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
-    <item>
-      <title>[4Linux] Big Data: Do Dado à Inteligência Artificial: por que uma base sólida em dados é essencial para atuar com Big Data e Inteligência Artificial</title>
-      <link>https://blog.4linux.com.br/big-data-do-dado-a-inteligencia-artificial-por-que-uma-base-solida-em-dados-e-essencial-para-atuar-com-big-data-e-inteligencia-artificial/</link>
-      <description>A Inteligência Artificial está no centro das discussões sobre inovação, produtividade e transformação digital. Modelos generativos, agentes de IA, automações inteligentes, sistemas de recomendação, mecanismos de busca semântica e soluções The post Big Data: Do Dado à Inteligência Artificial: por...</description>
-      <pubDate>Wed, 21 Oct 2026 14:21:01 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13868</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
     <item>
       <title>[FSFLA] IRPF-Livre 2023 released</title>
       <link>http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.en.html</link>
@@ -48,22 +40,6 @@
       <pubDate>Wed, 17 May 2023 22:00:24 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.pt.html</guid>
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
-    </item>
-    <item>
-      <title>[4Linux] Escalando o Monitoramento: Adicionando painéis no Grafana via API</title>
-      <link>https://blog.4linux.com.br/escalando-o-monitoramento-adicionando-paineis-no-grafana-via-api/</link>
-      <description>Automatizando dashboards no Grafana usando a API Em ambientes com muitos dashboards, pequenas mudanças podem rapidamente se transformar em trabalho repetitivo. Adicionar um painel novo em dez dashboards diferentes, por The post Escalando o Monitoramento: Adicionando painéis no Grafana via API...</description>
-      <pubDate>Wed, 07 Oct 2026 17:05:48 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13589</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[4Linux] IA Local com Qwen: um modelo pequeno, na sua máquina, resolvendo problema de verdade</title>
-      <link>https://blog.4linux.com.br/ia-local-com-qwen-um-modelo-pequeno-na-sua-maquina-resolvendo-problema-de-verdade/</link>
-      <description>Salve salve pessoal! Tudo bem com vocês? Espero que sim! Hoje trago um assunto que tem aparecido em quase toda conversa que tenho com empresas que já adotaram IA: a The post IA Local com Qwen: um modelo pequeno, na sua máquina, resolvendo problema de verdade appeared first on Blog 4Linux .</description>
-      <pubDate>Thu, 22 Oct 2026 14:13:12 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13874</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
       <title>[Linux Today] Pangolin Reverse Proxy Moves to Dual Licensing With New Enterprise Edition</title>
@@ -117,7 +93,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1101211/</link>
       <description></description>
-      <pubDate>Sat, 24 Oct 2026 20:19:03 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 22:55:24 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1101211/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,7 +101,7 @@
       <title>[LWN] Linux Plumbers Conference</title>
       <link>https://lpc.events/</link>
       <description></description>
-      <pubDate>Sat, 24 Oct 2026 20:19:03 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 22:55:24 -0000</pubDate>
       <guid isPermaLink="false">https://lpc.events/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +109,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1100271/</link>
       <description></description>
-      <pubDate>Sat, 24 Oct 2026 20:19:03 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 22:55:24 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1100271/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,7 +117,7 @@
       <title>[LWN] merging</title>
       <link>https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=22a78a25438d</link>
       <description></description>
-      <pubDate>Sat, 24 Oct 2026 20:19:03 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 22:55:24 -0000</pubDate>
       <guid isPermaLink="false">https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=22a78a25438d</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,55 +125,15 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1102061/</link>
       <description></description>
-      <pubDate>Sat, 24 Oct 2026 20:19:03 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 22:55:24 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1102061/</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: October 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</link>
-      <description></description>
-      <pubDate>Sat, 24 Oct 2026 20:18:57 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] LF Decentralized Trust Demonstrates the First Open Source Verifiable Trust Community in Prague</title>
-      <link>https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</link>
-      <description></description>
-      <pubDate>Sat, 24 Oct 2026 20:18:57 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Developer Experience as a Business Strategy: Lessons from the New DevEx Report</title>
-      <link>https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</link>
-      <description></description>
-      <pubDate>Sat, 24 Oct 2026 20:18:57 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] How Should Enterprises Transition to the Agentic Era?</title>
-      <link>https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</link>
-      <description></description>
-      <pubDate>Sat, 24 Oct 2026 20:18:57 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Celebrating 35 Years of Linux: The Open Source Engine Powering Three Decades of Global Innovation and Infrastructure</title>
-      <link>https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure</link>
-      <description></description>
-      <pubDate>Sat, 24 Oct 2026 20:18:57 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[Viva o Linux] Aviso de segurança PHP: Vulnerabilidades críticas de execução remota de código, atualização agora</title>
       <link>https://www.vivaolinux.com.br/artigo/Aviso-de-seguranca-Vulnerabilidades-criticas-de-execucao-remota-de-codigo-atualizacao-agora/</link>
       <description></description>
-      <pubDate>Sat, 24 Oct 2026 20:18:56 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 22:55:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Aviso-de-seguranca-Vulnerabilidades-criticas-de-execucao-remota-de-codigo-atualizacao-agora/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -205,7 +141,7 @@
       <title>[Viva o Linux] Digitando em japonês no Linux com Fcitx5 e Mozc (GNOME, KDE e Wayland)</title>
       <link>https://www.vivaolinux.com.br/artigo/Digitando-em-japones-no-Linux-com-Fcitx5-e-Mozc-GNOME-KDE-e-Wayland/</link>
       <description></description>
-      <pubDate>Sat, 24 Oct 2026 20:18:56 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 22:55:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Digitando-em-japones-no-Linux-com-Fcitx5-e-Mozc-GNOME-KDE-e-Wayland/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -213,7 +149,7 @@
       <title>[Viva o Linux] WordPress para além do CMS: como desenvolvi um microSaaS usando a plataforma como framework</title>
       <link>https://www.vivaolinux.com.br/artigo/WordPress-para-alem-do-CMS-como-desenvolvi-um-microSaaS-usando-a-plataforma-como-framework/</link>
       <description></description>
-      <pubDate>Sat, 24 Oct 2026 20:18:56 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 22:55:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/WordPress-para-alem-do-CMS-como-desenvolvi-um-microSaaS-usando-a-plataforma-como-framework/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -221,7 +157,7 @@
       <title>[Viva o Linux] Linus Torvalds Elimina Funções Inseguras __get_user() &amp; __put_user() No Linux 7.4</title>
       <link>https://www.vivaolinux.com.br/noticia/linus-torvalds-elimina-funcoes-inseguras-get-user-put-user-no-linux-7-4/</link>
       <description></description>
-      <pubDate>Sat, 24 Oct 2026 20:18:56 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 22:55:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linus-torvalds-elimina-funcoes-inseguras-get-user-put-user-no-linux-7-4/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -229,9 +165,49 @@
       <title>[Viva o Linux] SparkyOS estreia como derivada portátil do Arch Linux dentro do universo SparkyLinux</title>
       <link>https://www.vivaolinux.com.br/noticia/sparkyos-estreia-como-derivada-portatil-do-arch-linux-dentro-do-universo-sparkylinux/</link>
       <description></description>
-      <pubDate>Sat, 24 Oct 2026 20:18:56 -0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 22:55:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/sparkyos-estreia-como-derivada-portatil-do-arch-linux-dentro-do-universo-sparkylinux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Linux Foundation Newsletter: October 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</link>
+      <description></description>
+      <pubDate>Sat, 24 Oct 2026 22:55:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] LF Decentralized Trust Demonstrates the First Open Source Verifiable Trust Community in Prague</title>
+      <link>https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</link>
+      <description></description>
+      <pubDate>Sat, 24 Oct 2026 22:55:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Developer Experience as a Business Strategy: Lessons from the New DevEx Report</title>
+      <link>https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</link>
+      <description></description>
+      <pubDate>Sat, 24 Oct 2026 22:55:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] How Should Enterprises Transition to the Agentic Era?</title>
+      <link>https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</link>
+      <description></description>
+      <pubDate>Sat, 24 Oct 2026 22:55:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Celebrating 35 Years of Linux: The Open Source Engine Powering Three Decades of Global Innovation and Infrastructure</title>
+      <link>https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure</link>
+      <description></description>
+      <pubDate>Sat, 24 Oct 2026 22:55:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/celebrating-35-years-of-linux-the-open-source-engine-powering-three-decades-of-global-innovation-and-infrastructure</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[FSFLA] 6point4.en</title>
@@ -240,22 +216,6 @@
       <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
-    </item>
-    <item>
-      <title>[4Linux] Na minha visita à China, vi startups próximas do mundo fabril. No Brasil temos pouco disso. Lá é a regra.</title>
-      <link>https://blog.4linux.com.br/ia-para-maiores-na-minha-visita-a-china-vi-startups-proximas-do-mundo-fabril-no-brasil-temos-pouco-disso-la-e-a-regra/</link>
-      <description>Voltei do Apsara, em Hangzhou, com a impressão de que lá, a startups estão nascendodentro das fábricas. Estive na China para o Apsara, a conferência anual da Alibaba Cloud. Vi The post Na minha visita à China, vi startups próximas do mundo fabril. No Brasil temos pouco disso. Lá é a regra. appeared...</description>
-      <pubDate>Fri, 16 Oct 2026 13:59:43 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13856</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[4Linux] A Komodor lançou um plantonista com IA. E o open source, tem resposta?</title>
-      <link>https://blog.4linux.com.br/compartilhando-conhecimento-de-ia-a-komodor-lancou-um-plantonista-com-ia-e-o-open-source-tem-resposta/</link>
-      <description>São três da manhã e o celular toca. Em setembro, a Komodor passou a vender uma respostapronta para esse momento, um agente que investiga o incidente antes de você achar The post A Komodor lançou um plantonista com IA. E o open source, tem resposta? appeared first on Blog 4Linux .</description>
-      <pubDate>Fri, 16 Oct 2026 13:44:20 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13858</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
   </channel>
 </rss>
