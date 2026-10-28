@@ -13,15 +13,31 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Wed, 28 Oct 2026 11:00:02 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:07:01 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>[LWN] Blink</title>
+      <link>https://en.wikipedia.org/wiki/Blink_(browser_engine)</link>
+      <description></description>
+      <pubDate>Wed, 28 Oct 2026 17:07:01 -0000</pubDate>
+      <guid isPermaLink="false">https://en.wikipedia.org/wiki/Blink_(browser_engine)</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1102738/</link>
+      <description></description>
+      <pubDate>Wed, 28 Oct 2026 17:07:01 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1102738/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1100873/</link>
       <description></description>
-      <pubDate>Wed, 28 Oct 2026 11:00:02 -0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 17:07:01 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1100873/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -29,7 +45,7 @@
       <title>[LWN] experimental just-in-time (JIT) compiler</title>
       <link>https://docs.python.org/3.13/whatsnew/3.13.html#an-experimental-just-in-time-jit-compiler</link>
       <description></description>
-      <pubDate>Wed, 28 Oct 2026 11:00:02 -0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 17:07:01 -0000</pubDate>
       <guid isPermaLink="false">https://docs.python.org/3.13/whatsnew/3.13.html#an-experimental-just-in-time-jit-compiler</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -37,31 +53,15 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1102102/</link>
       <description></description>
-      <pubDate>Wed, 28 Oct 2026 11:00:02 -0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 17:07:01 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1102102/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1101211/</link>
-      <description></description>
-      <pubDate>Wed, 28 Oct 2026 11:00:02 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1101211/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Linux Plumbers Conference</title>
-      <link>https://lpc.events/</link>
-      <description></description>
-      <pubDate>Wed, 28 Oct 2026 11:00:02 -0000</pubDate>
-      <guid isPermaLink="false">https://lpc.events/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
     <item>
       <title>[Linux Foundation] Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health</title>
       <link>https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</link>
       <description></description>
-      <pubDate>Wed, 28 Oct 2026 10:59:57 -0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 17:06:57 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -69,7 +69,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: October 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</link>
       <description></description>
-      <pubDate>Wed, 28 Oct 2026 10:59:57 -0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 17:06:57 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -77,7 +77,7 @@
       <title>[Linux Foundation] LF Decentralized Trust Demonstrates the First Open Source Verifiable Trust Community in Prague</title>
       <link>https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</link>
       <description></description>
-      <pubDate>Wed, 28 Oct 2026 10:59:57 -0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 17:06:57 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -85,7 +85,7 @@
       <title>[Linux Foundation] Developer Experience as a Business Strategy: Lessons from the New DevEx Report</title>
       <link>https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</link>
       <description></description>
-      <pubDate>Wed, 28 Oct 2026 10:59:57 -0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 17:06:57 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -93,7 +93,7 @@
       <title>[Linux Foundation] How Should Enterprises Transition to the Agentic Era?</title>
       <link>https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</link>
       <description></description>
-      <pubDate>Wed, 28 Oct 2026 10:59:57 -0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 17:06:57 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -101,7 +101,7 @@
       <title>[Viva o Linux] Claude, da Anthropic, acessa dados públicos de eleitores na Geórgia e reacende debate sobre segurança em IA</title>
       <link>https://www.vivaolinux.com.br/noticia/claude-da-anthropic-acessa-dados-publicos-de-eleitores-na-georgia-e-reacende-debate-sobre-seguranca-em-ia/</link>
       <description></description>
-      <pubDate>Wed, 28 Oct 2026 10:59:56 -0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 17:06:56 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/claude-da-anthropic-acessa-dados-publicos-de-eleitores-na-georgia-e-reacende-debate-sobre-seguranca-em-ia/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -109,7 +109,7 @@
       <title>[Viva o Linux] Linux 7.4 acelera rotina de memória do boot e corta gargalo de segundos para milissegundos</title>
       <link>https://www.vivaolinux.com.br/noticia/linux-7-4-acelera-rotina-de-memoria-do-boot-e-corta-gargalo-de-segundos-para-milissegundos/</link>
       <description></description>
-      <pubDate>Wed, 28 Oct 2026 10:59:56 -0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 17:06:56 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-7-4-acelera-rotina-de-memoria-do-boot-e-corta-gargalo-de-segundos-para-milissegundos/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -117,7 +117,7 @@
       <title>[Viva o Linux] OBS Studio 33 é lançado com atualização pesada no motor do programa e mudanças no sistema de plugins</title>
       <link>https://www.vivaolinux.com.br/noticia/obs-studio-33-e-lancado-com-atualizacao-pesada-no-motor-do-programa-e-mudancas-no-sistema-de-plugins/</link>
       <description></description>
-      <pubDate>Wed, 28 Oct 2026 10:59:56 -0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 17:06:56 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/obs-studio-33-e-lancado-com-atualizacao-pesada-no-motor-do-programa-e-mudancas-no-sistema-de-plugins/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[Viva o Linux] Aviso de segurança PHP: Vulnerabilidades críticas de execução remota de código, atualização agora</title>
       <link>https://www.vivaolinux.com.br/artigo/Aviso-de-seguranca-Vulnerabilidades-criticas-de-execucao-remota-de-codigo-atualizacao-agora/</link>
       <description></description>
-      <pubDate>Wed, 28 Oct 2026 10:59:56 -0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 17:06:56 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Aviso-de-seguranca-Vulnerabilidades-criticas-de-execucao-remota-de-codigo-atualizacao-agora/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -133,9 +133,17 @@
       <title>[Viva o Linux] Digitando em japonês no Linux com Fcitx5 e Mozc (GNOME, KDE e Wayland)</title>
       <link>https://www.vivaolinux.com.br/artigo/Digitando-em-japones-no-Linux-com-Fcitx5-e-Mozc-GNOME-KDE-e-Wayland/</link>
       <description></description>
-      <pubDate>Wed, 28 Oct 2026 10:59:56 -0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 17:06:56 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Digitando-em-japones-no-Linux-com-Fcitx5-e-Mozc-GNOME-KDE-e-Wayland/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[4Linux] Upgrade de versão no Cloud SQL da Google Cloud sem migração de dados: como funciona para MySQL, PostgreSQL e SQL Server</title>
+      <link>https://blog.4linux.com.br/upgrade-de-versao-no-cloud-sql-da-google-cloud-sem-migracao-de-dados-como-funciona-para-mysql-postgresql-e-sql-server/</link>
+      <description>Atualizar a versão principal de um banco de dados em produção costuma ser uma operação temida. No Cloud SQL, é possível fazer isso diretamente na instância existente, sem precisar criar The post Upgrade de versão no Cloud SQL da Google Cloud sem migração de dados: como funciona para MySQL,...</description>
+      <pubDate>Wed, 28 Oct 2026 15:34:01 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13422</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
       <title>[4Linux] Big Data: Do Dado à Inteligência Artificial: por que uma base sólida em dados é essencial para atuar com Big Data e Inteligência Artificial</title>
@@ -168,14 +176,6 @@
       <pubDate>Wed, 17 May 2023 22:00:24 -0000</pubDate>
       <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/anuncio/2023-05-IRPF-Livre-2023.pt.html</guid>
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
-    </item>
-    <item>
-      <title>[4Linux] Escalando o Monitoramento: Adicionando painéis no Grafana via API</title>
-      <link>https://blog.4linux.com.br/escalando-o-monitoramento-adicionando-paineis-no-grafana-via-api/</link>
-      <description>Automatizando dashboards no Grafana usando a API Em ambientes com muitos dashboards, pequenas mudanças podem rapidamente se transformar em trabalho repetitivo. Adicionar um painel novo em dez dashboards diferentes, por The post Escalando o Monitoramento: Adicionando painéis no Grafana via API...</description>
-      <pubDate>Wed, 07 Oct 2026 17:05:48 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13589</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
       <title>[4Linux] IA Local com Qwen: um modelo pequeno, na sua máquina, resolvendo problema de verdade</title>
