@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 29 Oct 2026 09:26:17 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 16:38:34 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -58,10 +58,26 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
+      <title>[LWN] attempts</title>
+      <link>https://lwn.net/Articles/723477/</link>
+      <description></description>
+      <pubDate>Thu, 29 Oct 2026 16:38:34 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/723477/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1102593/</link>
+      <description></description>
+      <pubDate>Thu, 29 Oct 2026 16:38:34 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1102593/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
       <title>[LWN] Blink</title>
       <link>https://en.wikipedia.org/wiki/Blink_(browser_engine)</link>
       <description></description>
-      <pubDate>Thu, 29 Oct 2026 09:26:17 -0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:38:34 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/Blink_(browser_engine)</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -69,7 +85,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1102738/</link>
       <description></description>
-      <pubDate>Thu, 29 Oct 2026 09:26:17 -0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:38:34 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1102738/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,31 +93,15 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1100873/</link>
       <description></description>
-      <pubDate>Thu, 29 Oct 2026 09:26:17 -0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:38:34 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1100873/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] experimental just-in-time (JIT) compiler</title>
-      <link>https://docs.python.org/3.13/whatsnew/3.13.html#an-experimental-just-in-time-jit-compiler</link>
-      <description></description>
-      <pubDate>Thu, 29 Oct 2026 09:26:17 -0000</pubDate>
-      <guid isPermaLink="false">https://docs.python.org/3.13/whatsnew/3.13.html#an-experimental-just-in-time-jit-compiler</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1102102/</link>
-      <description></description>
-      <pubDate>Thu, 29 Oct 2026 09:26:17 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1102102/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
     <item>
       <title>[Viva o Linux] Linux ganha proposta de novo timestamp para rastrear a origem dos arquivos</title>
       <link>https://www.vivaolinux.com.br/noticia/linux-ganha-proposta-de-novo-timestamp-para-rastrear-a-origem-dos-arquivos/</link>
       <description></description>
-      <pubDate>Thu, 29 Oct 2026 09:26:12 -0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:38:03 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-ganha-proposta-de-novo-timestamp-para-rastrear-a-origem-dos-arquivos/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -109,7 +109,7 @@
       <title>[Viva o Linux] Instalar Adaptador USB WI-FI RealTek (rtl8188fu) no DEBIAN 12</title>
       <link>https://www.vivaolinux.com.br/dica/Instalar-Adaptador-USB-WI-FI-RealTek-rtl8188fu-no-DEBIAN-12/</link>
       <description></description>
-      <pubDate>Thu, 29 Oct 2026 09:26:12 -0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:38:03 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Instalar-Adaptador-USB-WI-FI-RealTek-rtl8188fu-no-DEBIAN-12/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -117,7 +117,7 @@
       <title>[Viva o Linux] System76 antecipa o Thelio Prime: mini PC AMD com Linux e COSMIC</title>
       <link>https://www.vivaolinux.com.br/noticia/system76-antecipa-o-thelio-prime-mini-pc-amd-com-linux-e-cosmic/</link>
       <description></description>
-      <pubDate>Thu, 29 Oct 2026 09:26:12 -0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:38:03 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/system76-antecipa-o-thelio-prime-mini-pc-amd-com-linux-e-cosmic/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[Viva o Linux] Claude, da Anthropic, acessa dados públicos de eleitores na Geórgia e reacende debate sobre segurança em IA</title>
       <link>https://www.vivaolinux.com.br/noticia/claude-da-anthropic-acessa-dados-publicos-de-eleitores-na-georgia-e-reacende-debate-sobre-seguranca-em-ia/</link>
       <description></description>
-      <pubDate>Thu, 29 Oct 2026 09:26:12 -0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:38:03 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/claude-da-anthropic-acessa-dados-publicos-de-eleitores-na-georgia-e-reacende-debate-sobre-seguranca-em-ia/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[Viva o Linux] Linux 7.4 acelera rotina de memória do boot e corta gargalo de segundos para milissegundos</title>
       <link>https://www.vivaolinux.com.br/noticia/linux-7-4-acelera-rotina-de-memoria-do-boot-e-corta-gargalo-de-segundos-para-milissegundos/</link>
       <description></description>
-      <pubDate>Thu, 29 Oct 2026 09:26:12 -0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:38:03 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-7-4-acelera-rotina-de-memoria-do-boot-e-corta-gargalo-de-segundos-para-milissegundos/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -141,7 +141,7 @@
       <title>[Linux Foundation] Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health</title>
       <link>https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</link>
       <description></description>
-      <pubDate>Thu, 29 Oct 2026 09:26:12 -0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:38:03 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: October 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</link>
       <description></description>
-      <pubDate>Thu, 29 Oct 2026 09:26:12 -0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:38:03 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[Linux Foundation] LF Decentralized Trust Demonstrates the First Open Source Verifiable Trust Community in Prague</title>
       <link>https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</link>
       <description></description>
-      <pubDate>Thu, 29 Oct 2026 09:26:12 -0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:38:03 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[Linux Foundation] Developer Experience as a Business Strategy: Lessons from the New DevEx Report</title>
       <link>https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</link>
       <description></description>
-      <pubDate>Thu, 29 Oct 2026 09:26:12 -0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:38:03 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -173,7 +173,7 @@
       <title>[Linux Foundation] How Should Enterprises Transition to the Agentic Era?</title>
       <link>https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</link>
       <description></description>
-      <pubDate>Thu, 29 Oct 2026 09:26:12 -0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 16:38:03 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
