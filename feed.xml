@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Tue, 03 Nov 2026 15:51:38 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 21:31:08 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -58,10 +58,26 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
+      <title>[LWN] general-resolution vote</title>
+      <link>https://lwn.net/Articles/1087134/</link>
+      <description></description>
+      <pubDate>Tue, 03 Nov 2026 21:31:08 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1087134/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1103674/</link>
+      <description></description>
+      <pubDate>Tue, 03 Nov 2026 21:31:08 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1103674/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
       <title>[LWN] closed</title>
       <link>https://lwn.net/Articles/1104653/</link>
       <description></description>
-      <pubDate>Tue, 03 Nov 2026 15:51:38 -0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 21:31:08 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1104653/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -69,7 +85,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1102739/</link>
       <description></description>
-      <pubDate>Tue, 03 Nov 2026 15:51:38 -0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 21:31:08 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1102739/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,31 +93,39 @@
       <title>[LWN] looked</title>
       <link>https://lwn.net/Articles/1096908/</link>
       <description></description>
-      <pubDate>Tue, 03 Nov 2026 15:51:38 -0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 21:31:08 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1096908/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
     <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1100894/</link>
+      <title>[Viva o Linux] Google derruba botnet XCPE ligada a set-top boxes Android e corta acesso de fabricantes à certificação</title>
+      <link>https://www.vivaolinux.com.br/noticia/google-derruba-botnet-xcpe-ligada-a-set-top-boxes-android-e-corta-acesso-de-fabricantes-a-certificacao/</link>
       <description></description>
-      <pubDate>Tue, 03 Nov 2026 15:51:38 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1100894/</guid>
-      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 03 Nov 2026 21:31:04 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/google-derruba-botnet-xcpe-ligada-a-set-top-boxes-android-e-corta-acesso-de-fabricantes-a-certificacao/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
-      <title>[LWN] Binder driver</title>
-      <link>https://source.android.com/docs/core/architecture/ipc/binder-overview</link>
+      <title>[Viva o Linux] Fedora 45 é lançado com foco em segurança, desktop e suporte mais moderno para hardware</title>
+      <link>https://www.vivaolinux.com.br/noticia/fedora-45-e-lancado-com-foco-em-seguranca-desktop-e-suporte-mais-moderno-para-hardware/</link>
       <description></description>
-      <pubDate>Tue, 03 Nov 2026 15:51:38 -0000</pubDate>
-      <guid isPermaLink="false">https://source.android.com/docs/core/architecture/ipc/binder-overview</guid>
-      <source url="https://lwn.net/">LWN</source>
+      <pubDate>Tue, 03 Nov 2026 21:31:04 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/fedora-45-e-lancado-com-foco-em-seguranca-desktop-e-suporte-mais-moderno-para-hardware/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] KDE Plasma 6.7.6 chega com nova leva de correções e polimentos</title>
+      <link>https://www.vivaolinux.com.br/noticia/kde-plasma-6-7-6-chega-com-nova-leva-de-correcoes-e-polimentos/</link>
+      <description></description>
+      <pubDate>Tue, 03 Nov 2026 21:31:04 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kde-plasma-6-7-6-chega-com-nova-leva-de-correcoes-e-polimentos/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Viva o Linux] O asus Z550MA vale a pena com o cachyOS?</title>
       <link>https://www.vivaolinux.com.br/dica/O-asus-Z550MA-vale-a-pena-com-o-cachyOS/</link>
       <description></description>
-      <pubDate>Tue, 03 Nov 2026 15:51:34 -0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 21:31:04 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/O-asus-Z550MA-vale-a-pena-com-o-cachyOS/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -109,39 +133,15 @@
       <title>[Viva o Linux] Somando horas trabalhadas (HH:MM) direto no terminal com awk</title>
       <link>https://www.vivaolinux.com.br/dica/Somando-horas-trabalhadas-HHMM-direto-no-terminal-com-awk/</link>
       <description></description>
-      <pubDate>Tue, 03 Nov 2026 15:51:34 -0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 21:31:04 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/Somando-horas-trabalhadas-HHMM-direto-no-terminal-com-awk/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Linus Torvalds libera o primeiro release candidate do Linux 7.4</title>
-      <link>https://www.vivaolinux.com.br/noticia/linus-torvalds-libera-o-primeiro-release-candidate-do-linux-7-4/</link>
-      <description></description>
-      <pubDate>Tue, 03 Nov 2026 15:51:34 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linus-torvalds-libera-o-primeiro-release-candidate-do-linux-7-4/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Anatel aprova validação biométrica obrigatória para usuários de telefonia móvel</title>
-      <link>https://www.vivaolinux.com.br/artigo/Anatel-aprova-validacao-biometrica-obrigatoria-para-usuarios-de-telefonia-movel/</link>
-      <description></description>
-      <pubDate>Tue, 03 Nov 2026 15:51:34 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Anatel-aprova-validacao-biometrica-obrigatoria-para-usuarios-de-telefonia-movel/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] IA da Anthropic encontra falha crítica no kernel Linux que pode levar a root remoto</title>
-      <link>https://www.vivaolinux.com.br/noticia/ia-da-anthropic-encontra-falha-critica-no-kernel-linux-que-pode-levar-a-root-remoto/</link>
-      <description></description>
-      <pubDate>Tue, 03 Nov 2026 15:51:34 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ia-da-anthropic-encontra-falha-critica-no-kernel-linux-que-pode-levar-a-root-remoto/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Foundation] Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health</title>
       <link>https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</link>
       <description></description>
-      <pubDate>Tue, 03 Nov 2026 15:51:34 -0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 21:31:04 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: October 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</link>
       <description></description>
-      <pubDate>Tue, 03 Nov 2026 15:51:34 -0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 21:31:04 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[Linux Foundation] LF Decentralized Trust Demonstrates the First Open Source Verifiable Trust Community in Prague</title>
       <link>https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</link>
       <description></description>
-      <pubDate>Tue, 03 Nov 2026 15:51:34 -0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 21:31:04 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[Linux Foundation] Developer Experience as a Business Strategy: Lessons from the New DevEx Report</title>
       <link>https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</link>
       <description></description>
-      <pubDate>Tue, 03 Nov 2026 15:51:34 -0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 21:31:04 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -173,7 +173,7 @@
       <title>[Linux Foundation] How Should Enterprises Transition to the Agentic Era?</title>
       <link>https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</link>
       <description></description>
-      <pubDate>Tue, 03 Nov 2026 15:51:34 -0000</pubDate>
+      <pubDate>Tue, 03 Nov 2026 21:31:04 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
