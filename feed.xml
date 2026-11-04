@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Wed, 04 Nov 2026 16:52:42 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:26:15 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -23,14 +23,6 @@
       <description>Atualizar a versão principal de um banco de dados em produção costuma ser uma operação temida. No Cloud SQL, é possível fazer isso diretamente na instância existente, sem precisar criar The post Upgrade de versão no Cloud SQL da Google Cloud sem migração de dados: como funciona para MySQL,...</description>
       <pubDate>Wed, 28 Oct 2026 15:34:01 -0000</pubDate>
       <guid isPermaLink="false">https://blog.4linux.com.br/?p=13422</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[4Linux] Big Data: Do Dado à Inteligência Artificial: por que uma base sólida em dados é essencial para atuar com Big Data e Inteligência Artificial</title>
-      <link>https://blog.4linux.com.br/big-data-do-dado-a-inteligencia-artificial-por-que-uma-base-solida-em-dados-e-essencial-para-atuar-com-big-data-e-inteligencia-artificial/</link>
-      <description>A Inteligência Artificial está no centro das discussões sobre inovação, produtividade e transformação digital. Modelos generativos, agentes de IA, automações inteligentes, sistemas de recomendação, mecanismos de busca semântica e soluções The post Big Data: Do Dado à Inteligência Artificial: por...</description>
-      <pubDate>Wed, 21 Oct 2026 14:21:01 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13868</guid>
       <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
@@ -61,7 +53,7 @@
       <title>[LWN] Plasma 6.7</title>
       <link>https://kde.org/announcements/plasma/6/6.7.0/</link>
       <description></description>
-      <pubDate>Wed, 04 Nov 2026 16:52:42 -0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 22:26:15 -0000</pubDate>
       <guid isPermaLink="false">https://kde.org/announcements/plasma/6/6.7.0/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -69,7 +61,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1105130/</link>
       <description></description>
-      <pubDate>Wed, 04 Nov 2026 16:52:42 -0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 22:26:15 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1105130/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,7 +69,7 @@
       <title>[LWN] PEP 723</title>
       <link>https://peps.python.org/pep-0723/</link>
       <description></description>
-      <pubDate>Wed, 04 Nov 2026 16:52:42 -0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 22:26:15 -0000</pubDate>
       <guid isPermaLink="false">https://peps.python.org/pep-0723/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -85,7 +77,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1104646/</link>
       <description></description>
-      <pubDate>Wed, 04 Nov 2026 16:52:42 -0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 22:26:15 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1104646/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -93,55 +85,15 @@
       <title>[LWN] general-resolution vote</title>
       <link>https://lwn.net/Articles/1087134/</link>
       <description></description>
-      <pubDate>Wed, 04 Nov 2026 16:52:42 -0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 22:26:15 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1087134/</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Microsoft melhora o Windows 11 em PCs com 8 GB de RAM e promete ganhos de até 40%</title>
-      <link>https://www.vivaolinux.com.br/noticia/microsoft-melhora-o-windows-11-em-pcs-com-8-gb-de-ram-e-promete-ganhos-de-ate-40/</link>
-      <description></description>
-      <pubDate>Wed, 04 Nov 2026 16:52:37 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/microsoft-melhora-o-windows-11-em-pcs-com-8-gb-de-ram-e-promete-ganhos-de-ate-40/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Google derruba botnet XCPE ligada a set-top boxes Android e corta acesso de fabricantes à certificação</title>
-      <link>https://www.vivaolinux.com.br/noticia/google-derruba-botnet-xcpe-ligada-a-set-top-boxes-android-e-corta-acesso-de-fabricantes-a-certificacao/</link>
-      <description></description>
-      <pubDate>Wed, 04 Nov 2026 16:52:37 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/google-derruba-botnet-xcpe-ligada-a-set-top-boxes-android-e-corta-acesso-de-fabricantes-a-certificacao/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Fedora 45 é lançado com foco em segurança, desktop e suporte mais moderno para hardware</title>
-      <link>https://www.vivaolinux.com.br/noticia/fedora-45-e-lancado-com-foco-em-seguranca-desktop-e-suporte-mais-moderno-para-hardware/</link>
-      <description></description>
-      <pubDate>Wed, 04 Nov 2026 16:52:37 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/fedora-45-e-lancado-com-foco-em-seguranca-desktop-e-suporte-mais-moderno-para-hardware/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] KDE Plasma 6.7.6 chega com nova leva de correções e polimentos</title>
-      <link>https://www.vivaolinux.com.br/noticia/kde-plasma-6-7-6-chega-com-nova-leva-de-correcoes-e-polimentos/</link>
-      <description></description>
-      <pubDate>Wed, 04 Nov 2026 16:52:37 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kde-plasma-6-7-6-chega-com-nova-leva-de-correcoes-e-polimentos/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] O asus Z550MA vale a pena com o cachyOS?</title>
-      <link>https://www.vivaolinux.com.br/dica/O-asus-Z550MA-vale-a-pena-com-o-cachyOS/</link>
-      <description></description>
-      <pubDate>Wed, 04 Nov 2026 16:52:37 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/O-asus-Z550MA-vale-a-pena-com-o-cachyOS/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Foundation] Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health</title>
       <link>https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</link>
       <description></description>
-      <pubDate>Wed, 04 Nov 2026 16:52:37 -0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 22:26:10 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -149,7 +101,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: October 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</link>
       <description></description>
-      <pubDate>Wed, 04 Nov 2026 16:52:37 -0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 22:26:10 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -157,7 +109,7 @@
       <title>[Linux Foundation] LF Decentralized Trust Demonstrates the First Open Source Verifiable Trust Community in Prague</title>
       <link>https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</link>
       <description></description>
-      <pubDate>Wed, 04 Nov 2026 16:52:37 -0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 22:26:10 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -165,7 +117,7 @@
       <title>[Linux Foundation] Developer Experience as a Business Strategy: Lessons from the New DevEx Report</title>
       <link>https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</link>
       <description></description>
-      <pubDate>Wed, 04 Nov 2026 16:52:37 -0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 22:26:10 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -173,9 +125,57 @@
       <title>[Linux Foundation] How Should Enterprises Transition to the Agentic Era?</title>
       <link>https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</link>
       <description></description>
-      <pubDate>Wed, 04 Nov 2026 16:52:37 -0000</pubDate>
+      <pubDate>Wed, 04 Nov 2026 22:26:10 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Microsoft melhora o Windows 11 em PCs com 8 GB de RAM e promete ganhos de até 40%</title>
+      <link>https://www.vivaolinux.com.br/noticia/microsoft-melhora-o-windows-11-em-pcs-com-8-gb-de-ram-e-promete-ganhos-de-ate-40/</link>
+      <description></description>
+      <pubDate>Wed, 04 Nov 2026 22:26:09 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/microsoft-melhora-o-windows-11-em-pcs-com-8-gb-de-ram-e-promete-ganhos-de-ate-40/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Google derruba botnet XCPE ligada a set-top boxes Android e corta acesso de fabricantes à certificação</title>
+      <link>https://www.vivaolinux.com.br/noticia/google-derruba-botnet-xcpe-ligada-a-set-top-boxes-android-e-corta-acesso-de-fabricantes-a-certificacao/</link>
+      <description></description>
+      <pubDate>Wed, 04 Nov 2026 22:26:09 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/google-derruba-botnet-xcpe-ligada-a-set-top-boxes-android-e-corta-acesso-de-fabricantes-a-certificacao/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Fedora 45 é lançado com foco em segurança, desktop e suporte mais moderno para hardware</title>
+      <link>https://www.vivaolinux.com.br/noticia/fedora-45-e-lancado-com-foco-em-seguranca-desktop-e-suporte-mais-moderno-para-hardware/</link>
+      <description></description>
+      <pubDate>Wed, 04 Nov 2026 22:26:09 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/fedora-45-e-lancado-com-foco-em-seguranca-desktop-e-suporte-mais-moderno-para-hardware/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] KDE Plasma 6.7.6 chega com nova leva de correções e polimentos</title>
+      <link>https://www.vivaolinux.com.br/noticia/kde-plasma-6-7-6-chega-com-nova-leva-de-correcoes-e-polimentos/</link>
+      <description></description>
+      <pubDate>Wed, 04 Nov 2026 22:26:09 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/kde-plasma-6-7-6-chega-com-nova-leva-de-correcoes-e-polimentos/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] O asus Z550MA vale a pena com o cachyOS?</title>
+      <link>https://www.vivaolinux.com.br/dica/O-asus-Z550MA-vale-a-pena-com-o-cachyOS/</link>
+      <description></description>
+      <pubDate>Wed, 04 Nov 2026 22:26:09 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/O-asus-Z550MA-vale-a-pena-com-o-cachyOS/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[4Linux] Cursor na prática: como comparar com outras soluções e reduzir custo no desenvolvimento</title>
+      <link>https://blog.4linux.com.br/cursor-na-pratica-como-comparar-com-outras-solucoes-e-reduzir-custo-no-desenvolvimento/</link>
+      <description>A primeira vez que vi o Cursor fazendo diferença não foi em uma tela cheia de autocomplete bonito. Foi em uma tarefa comum, daquelas que ninguém posta no LinkedIn. Um The post Cursor na prática: como comparar com outras soluções e reduzir custo no desenvolvimento appeared first on Blog 4Linux .</description>
+      <pubDate>Wed, 04 Nov 2026 18:54:11 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13616</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
       <title>[4Linux] IA Local com Qwen: um modelo pequeno, na sua máquina, resolvendo problema de verdade</title>
