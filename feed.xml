@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Sat, 07 Nov 2026 15:27:06 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 19:54:31 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -117,7 +117,7 @@
       <title>[LWN] lockdown</title>
       <link>https://lwn.net/Articles/791863/</link>
       <description></description>
-      <pubDate>Sat, 07 Nov 2026 15:27:06 -0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 19:54:31 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/791863/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1103190/</link>
       <description></description>
-      <pubDate>Sat, 07 Nov 2026 15:27:06 -0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 19:54:31 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1103190/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[LWN] User namespaces</title>
       <link>https://lwn.net/Articles/532593/</link>
       <description></description>
-      <pubDate>Sat, 07 Nov 2026 15:27:06 -0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 19:54:31 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/532593/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,7 +141,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1103429/</link>
       <description></description>
-      <pubDate>Sat, 07 Nov 2026 15:27:06 -0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 19:54:31 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1103429/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[LWN] Plasma 6.7</title>
       <link>https://kde.org/announcements/plasma/6/6.7.0/</link>
       <description></description>
-      <pubDate>Sat, 07 Nov 2026 15:27:06 -0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 19:54:31 -0000</pubDate>
       <guid isPermaLink="false">https://kde.org/announcements/plasma/6/6.7.0/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[Linux Foundation] Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health</title>
       <link>https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</link>
       <description></description>
-      <pubDate>Sat, 07 Nov 2026 15:27:01 -0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 19:54:26 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: October 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</link>
       <description></description>
-      <pubDate>Sat, 07 Nov 2026 15:27:01 -0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 19:54:26 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -173,7 +173,7 @@
       <title>[Linux Foundation] LF Decentralized Trust Demonstrates the First Open Source Verifiable Trust Community in Prague</title>
       <link>https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</link>
       <description></description>
-      <pubDate>Sat, 07 Nov 2026 15:27:01 -0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 19:54:26 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -181,7 +181,7 @@
       <title>[Linux Foundation] Developer Experience as a Business Strategy: Lessons from the New DevEx Report</title>
       <link>https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</link>
       <description></description>
-      <pubDate>Sat, 07 Nov 2026 15:27:01 -0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 19:54:26 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,7 +189,7 @@
       <title>[Linux Foundation] How Should Enterprises Transition to the Agentic Era?</title>
       <link>https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</link>
       <description></description>
-      <pubDate>Sat, 07 Nov 2026 15:27:01 -0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 19:54:26 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -197,7 +197,7 @@
       <title>[Viva o Linux] BOMBA: Várias distribuições Linux alertam para exploração OpenSSH</title>
       <link>https://www.vivaolinux.com.br/noticia/varias-distribuicoes-linux-alertam-para-exploracao-openssh/</link>
       <description></description>
-      <pubDate>Sat, 07 Nov 2026 15:27:00 -0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 19:54:25 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/varias-distribuicoes-linux-alertam-para-exploracao-openssh/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -205,7 +205,7 @@
       <title>[Viva o Linux] Registrar e Configurar um Site com DNS</title>
       <link>https://www.vivaolinux.com.br/artigo/Registrar-e-Configurar-um-Dominio-com-DNS/</link>
       <description></description>
-      <pubDate>Sat, 07 Nov 2026 15:27:00 -0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 19:54:25 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Registrar-e-Configurar-um-Dominio-com-DNS/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -213,7 +213,7 @@
       <title>[Viva o Linux] Diferença entre horários no LibreOffice Calc (e quando o turno vira a meia-noite)</title>
       <link>https://www.vivaolinux.com.br/artigo/Diferenca-entre-horarios-no-LibreOffice-Calc-e-quando-o-turno-vira-a-meia-noite/</link>
       <description></description>
-      <pubDate>Sat, 07 Nov 2026 15:27:00 -0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 19:54:25 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Diferenca-entre-horarios-no-LibreOffice-Calc-e-quando-o-turno-vira-a-meia-noite/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -221,7 +221,7 @@
       <title>[Viva o Linux] Arch Linux x CachyOS x Omarchy são comparados em benchmarks e a disputa fica mais apertada do que parece</title>
       <link>https://www.vivaolinux.com.br/noticia/arch-linux-x-cachyos-x-omarchy-sao-comparados-em-benchmarks-e-a-disputa-fica-mais-apertada-do-que-parece/</link>
       <description></description>
-      <pubDate>Sat, 07 Nov 2026 15:27:00 -0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 19:54:25 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/arch-linux-x-cachyos-x-omarchy-sao-comparados-em-benchmarks-e-a-disputa-fica-mais-apertada-do-que-parece/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -229,7 +229,7 @@
       <title>[Viva o Linux] GOG Galaxy vai ganhar suporte nativo ao Linux e promete facilitar a vida no Steam Deck</title>
       <link>https://www.vivaolinux.com.br/noticia/gog-galaxy-vai-ganhar-suporte-nativo-ao-linux-e-promete-facilitar-a-vida-no-steam-deck/</link>
       <description></description>
-      <pubDate>Sat, 07 Nov 2026 15:27:00 -0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 19:54:25 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/gog-galaxy-vai-ganhar-suporte-nativo-ao-linux-e-promete-facilitar-a-vida-no-steam-deck/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
