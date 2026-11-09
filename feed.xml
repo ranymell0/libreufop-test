@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Sun, 08 Nov 2026 21:44:03 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 01:27:18 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -114,10 +114,18 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
+      <title>[FSFLA] 6point4.en</title>
+      <link>http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</link>
+      <description>When I&apos;m Six Point Four Jason Self with a little help from my friend Alex Oliva When I get older, losing more bugs , In today&apos;s release, Will you still be sending me your problem reports, kernel patches, boot me with grub? Will you rejoice, and cheer for my might, Weeding out the blobs? Will you...</description>
+      <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
+      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
+      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
+    </item>
+    <item>
       <title>[LWN] lockdown</title>
       <link>https://lwn.net/Articles/791863/</link>
       <description></description>
-      <pubDate>Sun, 08 Nov 2026 21:44:03 -0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 01:27:18 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/791863/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,7 +133,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1103190/</link>
       <description></description>
-      <pubDate>Sun, 08 Nov 2026 21:44:03 -0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 01:27:18 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1103190/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +141,7 @@
       <title>[LWN] User namespaces</title>
       <link>https://lwn.net/Articles/532593/</link>
       <description></description>
-      <pubDate>Sun, 08 Nov 2026 21:44:03 -0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 01:27:18 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/532593/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,7 +149,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1103429/</link>
       <description></description>
-      <pubDate>Sun, 08 Nov 2026 21:44:03 -0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 01:27:18 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1103429/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,15 +157,55 @@
       <title>[LWN] Plasma 6.7</title>
       <link>https://kde.org/announcements/plasma/6/6.7.0/</link>
       <description></description>
-      <pubDate>Sun, 08 Nov 2026 21:44:03 -0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 01:27:18 -0000</pubDate>
       <guid isPermaLink="false">https://kde.org/announcements/plasma/6/6.7.0/</guid>
       <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Instalando o clássico jogo Airfix DogFighter no Linux via Lutris</title>
+      <link>https://www.vivaolinux.com.br/artigo/Instalando-o-classico-jogo-Airfix-DogFighter-no-Linux-via-Lutris/</link>
+      <description></description>
+      <pubDate>Mon, 09 Nov 2026 01:27:13 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Instalando-o-classico-jogo-Airfix-DogFighter-no-Linux-via-Lutris/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Linux, Segurança da Informação e Inteligência Artificial: a evolução da infraestrutura de TI</title>
+      <link>https://www.vivaolinux.com.br/artigo/Linux-Seguranca-da-Informacao-e-Inteligencia-Artificial-a-evolucao-da-infraestrutura-de-TI/</link>
+      <description></description>
+      <pubDate>Mon, 09 Nov 2026 01:27:13 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Linux-Seguranca-da-Informacao-e-Inteligencia-Artificial-a-evolucao-da-infraestrutura-de-TI/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Como criar uma pasta Favoritos no pcmanfm</title>
+      <link>https://www.vivaolinux.com.br/artigo/Como-criar-uma-pasta-Favoritos-no-pcmanfm/</link>
+      <description></description>
+      <pubDate>Mon, 09 Nov 2026 01:27:13 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Como-criar-uma-pasta-Favoritos-no-pcmanfm/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] GStreamer 1.28.9 sai com correções de segurança e suporte ao encoder mpph264enc</title>
+      <link>https://www.vivaolinux.com.br/noticia/gstreamer-1-28-9-sai-com-correcoes-de-seguranca-e-suporte-ao-encoder-mpph264enc/</link>
+      <description></description>
+      <pubDate>Mon, 09 Nov 2026 01:27:13 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/gstreamer-1-28-9-sai-com-correcoes-de-seguranca-e-suporte-ao-encoder-mpph264enc/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] BOMBA: Várias distribuições Linux alertam para exploração OpenSSH</title>
+      <link>https://www.vivaolinux.com.br/noticia/varias-distribuicoes-linux-alertam-para-exploracao-openssh/</link>
+      <description></description>
+      <pubDate>Mon, 09 Nov 2026 01:27:13 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/varias-distribuicoes-linux-alertam-para-exploracao-openssh/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Linux Foundation] Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health</title>
       <link>https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</link>
       <description></description>
-      <pubDate>Sun, 08 Nov 2026 21:43:58 -0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 01:27:13 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -165,7 +213,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: October 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</link>
       <description></description>
-      <pubDate>Sun, 08 Nov 2026 21:43:58 -0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 01:27:13 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -173,7 +221,7 @@
       <title>[Linux Foundation] LF Decentralized Trust Demonstrates the First Open Source Verifiable Trust Community in Prague</title>
       <link>https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</link>
       <description></description>
-      <pubDate>Sun, 08 Nov 2026 21:43:58 -0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 01:27:13 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -181,7 +229,7 @@
       <title>[Linux Foundation] Developer Experience as a Business Strategy: Lessons from the New DevEx Report</title>
       <link>https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</link>
       <description></description>
-      <pubDate>Sun, 08 Nov 2026 21:43:58 -0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 01:27:13 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,57 +237,9 @@
       <title>[Linux Foundation] How Should Enterprises Transition to the Agentic Era?</title>
       <link>https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</link>
       <description></description>
-      <pubDate>Sun, 08 Nov 2026 21:43:58 -0000</pubDate>
+      <pubDate>Mon, 09 Nov 2026 01:27:13 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] BOMBA: Várias distribuições Linux alertam para exploração OpenSSH</title>
-      <link>https://www.vivaolinux.com.br/noticia/varias-distribuicoes-linux-alertam-para-exploracao-openssh/</link>
-      <description></description>
-      <pubDate>Sun, 08 Nov 2026 21:43:57 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/varias-distribuicoes-linux-alertam-para-exploracao-openssh/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Registrar e Configurar um Site com DNS</title>
-      <link>https://www.vivaolinux.com.br/artigo/Registrar-e-Configurar-um-Dominio-com-DNS/</link>
-      <description></description>
-      <pubDate>Sun, 08 Nov 2026 21:43:57 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Registrar-e-Configurar-um-Dominio-com-DNS/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Diferença entre horários no LibreOffice Calc (e quando o turno vira a meia-noite)</title>
-      <link>https://www.vivaolinux.com.br/artigo/Diferenca-entre-horarios-no-LibreOffice-Calc-e-quando-o-turno-vira-a-meia-noite/</link>
-      <description></description>
-      <pubDate>Sun, 08 Nov 2026 21:43:57 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Diferenca-entre-horarios-no-LibreOffice-Calc-e-quando-o-turno-vira-a-meia-noite/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Arch Linux x CachyOS x Omarchy são comparados em benchmarks e a disputa fica mais apertada do que parece</title>
-      <link>https://www.vivaolinux.com.br/noticia/arch-linux-x-cachyos-x-omarchy-sao-comparados-em-benchmarks-e-a-disputa-fica-mais-apertada-do-que-parece/</link>
-      <description></description>
-      <pubDate>Sun, 08 Nov 2026 21:43:57 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/arch-linux-x-cachyos-x-omarchy-sao-comparados-em-benchmarks-e-a-disputa-fica-mais-apertada-do-que-parece/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] GOG Galaxy vai ganhar suporte nativo ao Linux e promete facilitar a vida no Steam Deck</title>
-      <link>https://www.vivaolinux.com.br/noticia/gog-galaxy-vai-ganhar-suporte-nativo-ao-linux-e-promete-facilitar-a-vida-no-steam-deck/</link>
-      <description></description>
-      <pubDate>Sun, 08 Nov 2026 21:43:57 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/gog-galaxy-vai-ganhar-suporte-nativo-ao-linux-e-promete-facilitar-a-vida-no-steam-deck/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[FSFLA] 6point4.en</title>
-      <link>http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</link>
-      <description>When I&apos;m Six Point Four Jason Self with a little help from my friend Alex Oliva When I get older, losing more bugs , In today&apos;s release, Will you still be sending me your problem reports, kernel patches, boot me with grub? Will you rejoice, and cheer for my might, Weeding out the blobs? Will you...</description>
-      <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
-      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
-      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
       <title>[4Linux] O 1% que banca a IA e o anúncio que vem para o resto</title>
