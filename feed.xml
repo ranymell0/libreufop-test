@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Tue, 10 Nov 2026 03:12:06 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:11:18 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -61,7 +61,7 @@
       <title>[LWN] Git project</title>
       <link>https://git-scm.com/</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 03:12:06 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 12:11:18 -0000</pubDate>
       <guid isPermaLink="false">https://git-scm.com/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -69,7 +69,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1104195/</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 03:12:06 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 12:11:18 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1104195/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,7 +77,7 @@
       <title>[LWN] lockdown</title>
       <link>https://lwn.net/Articles/791863/</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 03:12:06 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 12:11:18 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/791863/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -85,7 +85,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1103190/</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 03:12:06 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 12:11:18 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1103190/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -93,7 +93,7 @@
       <title>[LWN] User namespaces</title>
       <link>https://lwn.net/Articles/532593/</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 03:12:06 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 12:11:18 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/532593/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -101,7 +101,7 @@
       <title>[Linux Foundation] Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health</title>
       <link>https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 03:12:01 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 12:10:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -109,7 +109,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: October 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 03:12:01 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 12:10:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -117,7 +117,7 @@
       <title>[Linux Foundation] LF Decentralized Trust Demonstrates the First Open Source Verifiable Trust Community in Prague</title>
       <link>https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 03:12:01 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 12:10:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[Linux Foundation] Developer Experience as a Business Strategy: Lessons from the New DevEx Report</title>
       <link>https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 03:12:01 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 12:10:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -133,15 +133,31 @@
       <title>[Linux Foundation] How Should Enterprises Transition to the Agentic Era?</title>
       <link>https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 03:12:01 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 12:10:00 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Instalar PgAdmin4 no Linux</title>
+      <link>https://www.vivaolinux.com.br/artigo/Instalar-PgAdmin4-no-Linux/</link>
+      <description></description>
+      <pubDate>Tue, 10 Nov 2026 12:09:58 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Instalar-PgAdmin4-no-Linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Projeto cristão baseado em Linux quer celular de US$ 449 com IA para estudo bíblico</title>
+      <link>https://www.vivaolinux.com.br/noticia/projeto-cristao-baseado-em-linux-quer-celular-de-us-449-com-ia-para-estudo-biblico/</link>
+      <description></description>
+      <pubDate>Tue, 10 Nov 2026 12:09:58 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/projeto-cristao-baseado-em-linux-quer-celular-de-us-449-com-ia-para-estudo-biblico/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Viva o Linux] Subendereçamento de e-mail: como usar vários endereços na mesma conta</title>
       <link>https://www.vivaolinux.com.br/artigo/Subenderecamento-de-e-mail-como-usar-varios-enderecos-na-mesma-conta/</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 03:12:00 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 12:09:58 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Subenderecamento-de-e-mail-como-usar-varios-enderecos-na-mesma-conta/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -149,7 +165,7 @@
       <title>[Viva o Linux] Lei britânica contra pornografia faz plataformas de conteúdo adulto removerem vídeos em massa</title>
       <link>https://www.vivaolinux.com.br/noticia/lei-britanica-contra-pornografia-faz-plataformas-de-conteudo-adulto-removerem-videos-em-massa/</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 03:12:00 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 12:09:58 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/lei-britanica-contra-pornografia-faz-plataformas-de-conteudo-adulto-removerem-videos-em-massa/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -157,24 +173,8 @@
       <title>[Viva o Linux] Linux ganha suporte inicial ao Samsung Galaxy XR</title>
       <link>https://www.vivaolinux.com.br/noticia/linux-ganha-suporte-inicial-ao-samsung-galaxy-xr/</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 03:12:00 -0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 12:09:58 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-ganha-suporte-inicial-ao-samsung-galaxy-xr/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Instalando o clássico jogo Airfix DogFighter no Linux via Lutris</title>
-      <link>https://www.vivaolinux.com.br/artigo/Instalando-o-classico-jogo-Airfix-DogFighter-no-Linux-via-Lutris/</link>
-      <description></description>
-      <pubDate>Tue, 10 Nov 2026 03:12:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Instalando-o-classico-jogo-Airfix-DogFighter-no-Linux-via-Lutris/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Linux, Segurança da Informação e Inteligência Artificial: a evolução da infraestrutura de TI</title>
-      <link>https://www.vivaolinux.com.br/artigo/Linux-Seguranca-da-Informacao-e-Inteligencia-Artificial-a-evolucao-da-infraestrutura-de-TI/</link>
-      <description></description>
-      <pubDate>Tue, 10 Nov 2026 03:12:00 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Linux-Seguranca-da-Informacao-e-Inteligencia-Artificial-a-evolucao-da-infraestrutura-de-TI/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
