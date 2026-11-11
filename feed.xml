@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Tue, 10 Nov 2026 20:15:33 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 01:01:50 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -50,18 +50,10 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
-      <title>[4Linux] Cursor na prática: como comparar com outras soluções e reduzir custo no desenvolvimento</title>
-      <link>https://blog.4linux.com.br/cursor-na-pratica-como-comparar-com-outras-solucoes-e-reduzir-custo-no-desenvolvimento/</link>
-      <description>A primeira vez que vi o Cursor fazendo diferença não foi em uma tela cheia de autocomplete bonito. Foi em uma tarefa comum, daquelas que ninguém posta no LinkedIn. Um The post Cursor na prática: como comparar com outras soluções e reduzir custo no desenvolvimento appeared first on Blog 4Linux .</description>
-      <pubDate>Wed, 04 Nov 2026 18:54:11 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13616</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
       <title>[LWN] DisplayLink</title>
       <link>https://en.wikipedia.org/wiki/DisplayLink</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 20:15:33 -0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 01:01:50 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/DisplayLink</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -69,7 +61,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1102549/</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 20:15:33 -0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 01:01:50 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1102549/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,7 +69,7 @@
       <title>[LWN] Git project</title>
       <link>https://git-scm.com/</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 20:15:33 -0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 01:01:50 -0000</pubDate>
       <guid isPermaLink="false">https://git-scm.com/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -85,7 +77,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1104195/</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 20:15:33 -0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 01:01:50 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1104195/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -93,7 +85,7 @@
       <title>[LWN] lockdown</title>
       <link>https://lwn.net/Articles/791863/</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 20:15:33 -0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 01:01:50 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/791863/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -101,7 +93,7 @@
       <title>[Linux Foundation] The AI Security Gap Hiding in Routine Maintenance</title>
       <link>https://www.linuxfoundation.org/blog/the-ai-security-gap-hiding-in-routine-maintenance</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 20:15:29 -0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 01:01:45 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-ai-security-gap-hiding-in-routine-maintenance</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -109,7 +101,7 @@
       <title>[Linux Foundation] Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health</title>
       <link>https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 20:15:29 -0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 01:01:45 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -117,7 +109,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: October 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 20:15:29 -0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 01:01:45 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -125,7 +117,7 @@
       <title>[Linux Foundation] LF Decentralized Trust Demonstrates the First Open Source Verifiable Trust Community in Prague</title>
       <link>https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 20:15:29 -0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 01:01:45 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-decentralized-trust-demonstrates-the-first-open-source-verifiable-trust-community-in-prague</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -133,7 +125,7 @@
       <title>[Linux Foundation] Developer Experience as a Business Strategy: Lessons from the New DevEx Report</title>
       <link>https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 20:15:29 -0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 01:01:45 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/developer-experience-as-a-business-strategy-lessons-from-the-new-devex-report</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -141,7 +133,7 @@
       <title>[Viva o Linux] Instalar pgAdmin4 no Linux</title>
       <link>https://www.vivaolinux.com.br/artigo/Instalar-PgAdmin4-no-Linux/</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 20:15:28 -0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 01:01:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Instalar-PgAdmin4-no-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -149,7 +141,7 @@
       <title>[Viva o Linux] Projeto cristão baseado em Linux quer celular de US$ 449 com IA para estudo bíblico</title>
       <link>https://www.vivaolinux.com.br/noticia/projeto-cristao-baseado-em-linux-quer-celular-de-us-449-com-ia-para-estudo-biblico/</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 20:15:28 -0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 01:01:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/projeto-cristao-baseado-em-linux-quer-celular-de-us-449-com-ia-para-estudo-biblico/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -157,7 +149,7 @@
       <title>[Viva o Linux] Subendereçamento de e-mail: como usar vários endereços na mesma conta</title>
       <link>https://www.vivaolinux.com.br/artigo/Subenderecamento-de-e-mail-como-usar-varios-enderecos-na-mesma-conta/</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 20:15:28 -0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 01:01:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Subenderecamento-de-e-mail-como-usar-varios-enderecos-na-mesma-conta/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -165,7 +157,7 @@
       <title>[Viva o Linux] Lei britânica contra pornografia faz plataformas de conteúdo adulto removerem vídeos em massa</title>
       <link>https://www.vivaolinux.com.br/noticia/lei-britanica-contra-pornografia-faz-plataformas-de-conteudo-adulto-removerem-videos-em-massa/</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 20:15:28 -0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 01:01:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/lei-britanica-contra-pornografia-faz-plataformas-de-conteudo-adulto-removerem-videos-em-massa/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -173,9 +165,17 @@
       <title>[Viva o Linux] Linux ganha suporte inicial ao Samsung Galaxy XR</title>
       <link>https://www.vivaolinux.com.br/noticia/linux-ganha-suporte-inicial-ao-samsung-galaxy-xr/</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 20:15:28 -0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 01:01:44 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/linux-ganha-suporte-inicial-ao-samsung-galaxy-xr/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[4Linux] Cursor na prática: como comparar com outras soluções e reduzir custo no desenvolvimento</title>
+      <link>https://blog.4linux.com.br/cursor-na-pratica-como-comparar-com-outras-solucoes-e-reduzir-custo-no-desenvolvimento/</link>
+      <description>A primeira vez que vi o Cursor fazendo diferença não foi em uma tela cheia de autocomplete bonito. Foi em uma tarefa comum, daquelas que ninguém posta no LinkedIn. Um The post Cursor na prática: como comparar com outras soluções e reduzir custo no desenvolvimento appeared first on Blog 4Linux .</description>
+      <pubDate>Wed, 04 Nov 2026 18:54:11 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13616</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
       <title>[4Linux] IA Local com Qwen: um modelo pequeno, na sua máquina, resolvendo problema de verdade</title>
