@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 12 Nov 2026 14:53:20 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 21:45:04 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -69,7 +69,7 @@
       <title>[LWN] International Organization for Standardization</title>
       <link>https://en.wikipedia.org/wiki/International_Organization_for_Standardization</link>
       <description></description>
-      <pubDate>Thu, 12 Nov 2026 14:53:20 -0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 21:45:04 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/International_Organization_for_Standardization</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,7 +77,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1105400/</link>
       <description></description>
-      <pubDate>Thu, 12 Nov 2026 14:53:20 -0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 21:45:04 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1105400/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -85,7 +85,7 @@
       <title>[LWN] Node.js project</title>
       <link>https://nodejs.org/en</link>
       <description></description>
-      <pubDate>Thu, 12 Nov 2026 14:53:20 -0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 21:45:04 -0000</pubDate>
       <guid isPermaLink="false">https://nodejs.org/en</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -93,7 +93,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1105134/</link>
       <description></description>
-      <pubDate>Thu, 12 Nov 2026 14:53:20 -0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 21:45:04 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1105134/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -101,7 +101,7 @@
       <title>[LWN] DisplayLink</title>
       <link>https://en.wikipedia.org/wiki/DisplayLink</link>
       <description></description>
-      <pubDate>Thu, 12 Nov 2026 14:53:20 -0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 21:45:04 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/DisplayLink</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -109,7 +109,7 @@
       <title>[Linux Foundation] The Evolution of Commercial Open Source Software</title>
       <link>https://www.linuxfoundation.org/blog/the-evolution-of-commercial-open-source-software</link>
       <description></description>
-      <pubDate>Thu, 12 Nov 2026 14:53:15 -0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 21:44:59 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-evolution-of-commercial-open-source-software</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -117,7 +117,7 @@
       <title>[Linux Foundation] LF Research Launches 2027 Series of Studies and Opens Call for Sponsors</title>
       <link>https://www.linuxfoundation.org/blog/lf-research-launches-2027-series-of-studies-and-opens-call-for-sponsors</link>
       <description></description>
-      <pubDate>Thu, 12 Nov 2026 14:53:15 -0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 21:44:59 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-research-launches-2027-series-of-studies-and-opens-call-for-sponsors</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[Linux Foundation] The AI Security Gap Hiding in Routine Maintenance</title>
       <link>https://www.linuxfoundation.org/blog/the-ai-security-gap-hiding-in-routine-maintenance</link>
       <description></description>
-      <pubDate>Thu, 12 Nov 2026 14:53:15 -0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 21:44:59 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-ai-security-gap-hiding-in-routine-maintenance</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[Linux Foundation] Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health</title>
       <link>https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</link>
       <description></description>
-      <pubDate>Thu, 12 Nov 2026 14:53:15 -0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 21:44:59 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -141,15 +141,23 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: October 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</link>
       <description></description>
-      <pubDate>Thu, 12 Nov 2026 14:53:15 -0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 21:44:59 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] IA da OpenAI encontra 948 formas de obter acesso total ao Linux</title>
+      <link>https://www.vivaolinux.com.br/noticia/ia-da-openai-encontra-948-formas-de-obter-acesso-total-ao-linux/</link>
+      <description></description>
+      <pubDate>Thu, 12 Nov 2026 21:44:58 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ia-da-openai-encontra-948-formas-de-obter-acesso-total-ao-linux/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Viva o Linux] O que um site sabe de você antes de você fazer login: IP de saída, DNS e impressão digital do navegador</title>
       <link>https://www.vivaolinux.com.br/dica/O-que-um-site-sabe-de-voce-antes-de-voce-fazer-login-IP-de-saida-DNS-e-impressao-digital-do-navegador/</link>
       <description></description>
-      <pubDate>Thu, 12 Nov 2026 14:53:14 -0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 21:44:58 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/O-que-um-site-sabe-de-voce-antes-de-voce-fazer-login-IP-de-saida-DNS-e-impressao-digital-do-navegador/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -157,7 +165,7 @@
       <title>[Viva o Linux] SUSE consolida sua posição como plataforma para cargas de trabalho de IA</title>
       <link>https://www.vivaolinux.com.br/noticia/suse-consolida-sua-posicao-como-plataforma-para-cargas-de-trabalho-de-ia/</link>
       <description></description>
-      <pubDate>Thu, 12 Nov 2026 14:53:14 -0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 21:44:58 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/suse-consolida-sua-posicao-como-plataforma-para-cargas-de-trabalho-de-ia/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -165,7 +173,7 @@
       <title>[Viva o Linux] Instalar pgAdmin4 no Linux</title>
       <link>https://www.vivaolinux.com.br/artigo/Instalar-PgAdmin4-no-Linux/</link>
       <description></description>
-      <pubDate>Thu, 12 Nov 2026 14:53:14 -0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 21:44:58 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Instalar-PgAdmin4-no-Linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -173,16 +181,8 @@
       <title>[Viva o Linux] Projeto cristão baseado em Linux quer celular de US$ 449 com IA para estudo bíblico</title>
       <link>https://www.vivaolinux.com.br/noticia/projeto-cristao-baseado-em-linux-quer-celular-de-us-449-com-ia-para-estudo-biblico/</link>
       <description></description>
-      <pubDate>Thu, 12 Nov 2026 14:53:14 -0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 21:44:58 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/projeto-cristao-baseado-em-linux-quer-celular-de-us-449-com-ia-para-estudo-biblico/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Subendereçamento de e-mail: como usar vários endereços na mesma conta</title>
-      <link>https://www.vivaolinux.com.br/artigo/Subenderecamento-de-e-mail-como-usar-varios-enderecos-na-mesma-conta/</link>
-      <description></description>
-      <pubDate>Thu, 12 Nov 2026 14:53:14 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Subenderecamento-de-e-mail-como-usar-varios-enderecos-na-mesma-conta/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
