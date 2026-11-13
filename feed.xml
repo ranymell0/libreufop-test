@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Fri, 13 Nov 2026 10:36:24 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 18:25:14 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -114,18 +114,26 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
-      <title>[4Linux] O 1% que banca a IA e o anúncio que vem para o resto</title>
-      <link>https://blog.4linux.com.br/compartilhando-conhecimento-de-ia-o-1-que-banca-a-ia-e-o-anuncio-que-vem-para-o-resto/</link>
-      <description>Saudações. A IA vai dominar o mundo, substituir profissões e reorganizar a economia, mas no caixa ainda precisa convencer o freguês a pagar o cafezinho. Em agosto, 4,5% dos consumidores The post O 1% que banca a IA e o anúncio que vem para o resto appeared first on Blog 4Linux .</description>
-      <pubDate>Fri, 30 Oct 2026 13:49:30 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13897</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
+      <title>[LWN] Buildroot</title>
+      <link>https://buildroot.org/</link>
+      <description></description>
+      <pubDate>Fri, 13 Nov 2026 18:25:14 -0000</pubDate>
+      <guid isPermaLink="false">https://buildroot.org/</guid>
+      <source url="https://lwn.net/">LWN</source>
+    </item>
+    <item>
+      <title>[LWN] Full Story</title>
+      <link>https://lwn.net/Articles/1103395/</link>
+      <description></description>
+      <pubDate>Fri, 13 Nov 2026 18:25:14 -0000</pubDate>
+      <guid isPermaLink="false">https://lwn.net/Articles/1103395/</guid>
+      <source url="https://lwn.net/">LWN</source>
     </item>
     <item>
       <title>[LWN] International Organization for Standardization</title>
       <link>https://en.wikipedia.org/wiki/International_Organization_for_Standardization</link>
       <description></description>
-      <pubDate>Fri, 13 Nov 2026 10:36:24 -0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 18:25:14 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/International_Organization_for_Standardization</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +141,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1105400/</link>
       <description></description>
-      <pubDate>Fri, 13 Nov 2026 10:36:24 -0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 18:25:14 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1105400/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,31 +149,15 @@
       <title>[LWN] Node.js project</title>
       <link>https://nodejs.org/en</link>
       <description></description>
-      <pubDate>Fri, 13 Nov 2026 10:36:24 -0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 18:25:14 -0000</pubDate>
       <guid isPermaLink="false">https://nodejs.org/en</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] Full Story</title>
-      <link>https://lwn.net/Articles/1105134/</link>
-      <description></description>
-      <pubDate>Fri, 13 Nov 2026 10:36:24 -0000</pubDate>
-      <guid isPermaLink="false">https://lwn.net/Articles/1105134/</guid>
-      <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[LWN] DisplayLink</title>
-      <link>https://en.wikipedia.org/wiki/DisplayLink</link>
-      <description></description>
-      <pubDate>Fri, 13 Nov 2026 10:36:24 -0000</pubDate>
-      <guid isPermaLink="false">https://en.wikipedia.org/wiki/DisplayLink</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
     <item>
       <title>[Linux Foundation] The Evolution of Commercial Open Source Software</title>
       <link>https://www.linuxfoundation.org/blog/the-evolution-of-commercial-open-source-software</link>
       <description></description>
-      <pubDate>Fri, 13 Nov 2026 10:36:19 -0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 18:25:09 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-evolution-of-commercial-open-source-software</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -173,7 +165,7 @@
       <title>[Linux Foundation] LF Research Launches 2027 Series of Studies and Opens Call for Sponsors</title>
       <link>https://www.linuxfoundation.org/blog/lf-research-launches-2027-series-of-studies-and-opens-call-for-sponsors</link>
       <description></description>
-      <pubDate>Fri, 13 Nov 2026 10:36:19 -0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 18:25:09 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-research-launches-2027-series-of-studies-and-opens-call-for-sponsors</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -181,7 +173,7 @@
       <title>[Linux Foundation] The AI Security Gap Hiding in Routine Maintenance</title>
       <link>https://www.linuxfoundation.org/blog/the-ai-security-gap-hiding-in-routine-maintenance</link>
       <description></description>
-      <pubDate>Fri, 13 Nov 2026 10:36:19 -0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 18:25:09 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-ai-security-gap-hiding-in-routine-maintenance</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -189,7 +181,7 @@
       <title>[Linux Foundation] Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health</title>
       <link>https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</link>
       <description></description>
-      <pubDate>Fri, 13 Nov 2026 10:36:19 -0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 18:25:09 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -197,15 +189,39 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: October 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</link>
       <description></description>
-      <pubDate>Fri, 13 Nov 2026 10:36:19 -0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 18:25:09 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Steam apresenta suporte ao Linux de 64 bits e novos “Steam Achievement Sets”</title>
+      <link>https://www.vivaolinux.com.br/noticia/steam-apresenta-suporte-ao-linux-de-64-bits-e-novos-steam-achievement-sets/</link>
+      <description></description>
+      <pubDate>Fri, 13 Nov 2026 18:25:08 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/steam-apresenta-suporte-ao-linux-de-64-bits-e-novos-steam-achievement-sets/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] De uma ideia a um artigo completo</title>
+      <link>https://www.vivaolinux.com.br/artigo/De-uma-ideia-a-um-artigo-completo/</link>
+      <description></description>
+      <pubDate>Fri, 13 Nov 2026 18:25:08 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/De-uma-ideia-a-um-artigo-completo/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] LibreOffice 26.8.3 chega com cerca de 45 correções e foco em estabilidade</title>
+      <link>https://www.vivaolinux.com.br/noticia/libreoffice-26-8-3-chega-com-cerca-de-45-correcoes-e-foco-em-estabilidade/</link>
+      <description></description>
+      <pubDate>Fri, 13 Nov 2026 18:25:08 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/libreoffice-26-8-3-chega-com-cerca-de-45-correcoes-e-foco-em-estabilidade/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Viva o Linux] Desligando instâncias da OCI fora do horário com cron e a OCI CLI</title>
       <link>https://www.vivaolinux.com.br/artigo/Desligando-instancias-da-OCI-fora-do-horario-com-cron-e-a-OCI-CLI/</link>
       <description></description>
-      <pubDate>Fri, 13 Nov 2026 10:36:18 -0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 18:25:08 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Desligando-instancias-da-OCI-fora-do-horario-com-cron-e-a-OCI-CLI/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -213,33 +229,17 @@
       <title>[Viva o Linux] IA da OpenAI encontra 948 formas de obter acesso total ao Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/ia-da-openai-encontra-948-formas-de-obter-acesso-total-ao-linux/</link>
       <description></description>
-      <pubDate>Fri, 13 Nov 2026 10:36:18 -0000</pubDate>
+      <pubDate>Fri, 13 Nov 2026 18:25:08 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ia-da-openai-encontra-948-formas-de-obter-acesso-total-ao-linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
-      <title>[Viva o Linux] O que um site sabe de você antes de você fazer login: IP de saída, DNS e impressão digital do navegador</title>
-      <link>https://www.vivaolinux.com.br/dica/O-que-um-site-sabe-de-voce-antes-de-voce-fazer-login-IP-de-saida-DNS-e-impressao-digital-do-navegador/</link>
-      <description></description>
-      <pubDate>Fri, 13 Nov 2026 10:36:18 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/O-que-um-site-sabe-de-voce-antes-de-voce-fazer-login-IP-de-saida-DNS-e-impressao-digital-do-navegador/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] SUSE consolida sua posição como plataforma para cargas de trabalho de IA</title>
-      <link>https://www.vivaolinux.com.br/noticia/suse-consolida-sua-posicao-como-plataforma-para-cargas-de-trabalho-de-ia/</link>
-      <description></description>
-      <pubDate>Fri, 13 Nov 2026 10:36:18 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/suse-consolida-sua-posicao-como-plataforma-para-cargas-de-trabalho-de-ia/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Instalar pgAdmin4 no Linux</title>
-      <link>https://www.vivaolinux.com.br/artigo/Instalar-PgAdmin4-no-Linux/</link>
-      <description></description>
-      <pubDate>Fri, 13 Nov 2026 10:36:18 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Instalar-PgAdmin4-no-Linux/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+      <title>[4Linux] Curso de Segurança em Cluster Kubernetes CKS da 4Linux está de cara nova: conheça todas as novidades</title>
+      <link>https://blog.4linux.com.br/curso-de-seguranca-em-cluster-kubernetes-cks-da-4linux-esta-de-cara-nova-conheca-todas-as-novidades/</link>
+      <description>A segurança em ambientes Kubernetes se tornou uma das principais preocupações das empresas que utilizam Containers e arquiteturas de microsserviços. Com aplicações cada vez mais distribuídas, proteger apenas a infraestrutura The post Curso de Segurança em Cluster Kubernetes CKS da 4Linux está de...</description>
+      <pubDate>Fri, 13 Nov 2026 17:48:18 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13913</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
       <title>[4Linux] A conta da inteligência artificial é maior do que aparece</title>
