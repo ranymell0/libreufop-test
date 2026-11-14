@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Fri, 13 Nov 2026 18:25:14 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 00:12:26 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -106,18 +106,10 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
-      <title>[FSFLA] 6point4.en</title>
-      <link>http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</link>
-      <description>When I&apos;m Six Point Four Jason Self with a little help from my friend Alex Oliva When I get older, losing more bugs , In today&apos;s release, Will you still be sending me your problem reports, kernel patches, boot me with grub? Will you rejoice, and cheer for my might, Weeding out the blobs? Will you...</description>
-      <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
-      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
-      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
-    </item>
-    <item>
       <title>[LWN] Buildroot</title>
       <link>https://buildroot.org/</link>
       <description></description>
-      <pubDate>Fri, 13 Nov 2026 18:25:14 -0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 00:12:26 -0000</pubDate>
       <guid isPermaLink="false">https://buildroot.org/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,7 +117,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1103395/</link>
       <description></description>
-      <pubDate>Fri, 13 Nov 2026 18:25:14 -0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 00:12:26 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1103395/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +125,7 @@
       <title>[LWN] International Organization for Standardization</title>
       <link>https://en.wikipedia.org/wiki/International_Organization_for_Standardization</link>
       <description></description>
-      <pubDate>Fri, 13 Nov 2026 18:25:14 -0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 00:12:26 -0000</pubDate>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/International_Organization_for_Standardization</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,7 +133,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1105400/</link>
       <description></description>
-      <pubDate>Fri, 13 Nov 2026 18:25:14 -0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 00:12:26 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1105400/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,55 +141,15 @@
       <title>[LWN] Node.js project</title>
       <link>https://nodejs.org/en</link>
       <description></description>
-      <pubDate>Fri, 13 Nov 2026 18:25:14 -0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 00:12:26 -0000</pubDate>
       <guid isPermaLink="false">https://nodejs.org/en</guid>
       <source url="https://lwn.net/">LWN</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] The Evolution of Commercial Open Source Software</title>
-      <link>https://www.linuxfoundation.org/blog/the-evolution-of-commercial-open-source-software</link>
-      <description></description>
-      <pubDate>Fri, 13 Nov 2026 18:25:09 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-evolution-of-commercial-open-source-software</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] LF Research Launches 2027 Series of Studies and Opens Call for Sponsors</title>
-      <link>https://www.linuxfoundation.org/blog/lf-research-launches-2027-series-of-studies-and-opens-call-for-sponsors</link>
-      <description></description>
-      <pubDate>Fri, 13 Nov 2026 18:25:09 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-research-launches-2027-series-of-studies-and-opens-call-for-sponsors</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] The AI Security Gap Hiding in Routine Maintenance</title>
-      <link>https://www.linuxfoundation.org/blog/the-ai-security-gap-hiding-in-routine-maintenance</link>
-      <description></description>
-      <pubDate>Fri, 13 Nov 2026 18:25:09 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-ai-security-gap-hiding-in-routine-maintenance</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health</title>
-      <link>https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</link>
-      <description></description>
-      <pubDate>Fri, 13 Nov 2026 18:25:09 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: October 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</link>
-      <description></description>
-      <pubDate>Fri, 13 Nov 2026 18:25:09 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[Viva o Linux] Steam apresenta suporte ao Linux de 64 bits e novos “Steam Achievement Sets”</title>
       <link>https://www.vivaolinux.com.br/noticia/steam-apresenta-suporte-ao-linux-de-64-bits-e-novos-steam-achievement-sets/</link>
       <description></description>
-      <pubDate>Fri, 13 Nov 2026 18:25:08 -0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 00:12:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/steam-apresenta-suporte-ao-linux-de-64-bits-e-novos-steam-achievement-sets/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -205,7 +157,7 @@
       <title>[Viva o Linux] De uma ideia a um artigo completo</title>
       <link>https://www.vivaolinux.com.br/artigo/De-uma-ideia-a-um-artigo-completo/</link>
       <description></description>
-      <pubDate>Fri, 13 Nov 2026 18:25:08 -0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 00:12:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/De-uma-ideia-a-um-artigo-completo/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -213,7 +165,7 @@
       <title>[Viva o Linux] LibreOffice 26.8.3 chega com cerca de 45 correções e foco em estabilidade</title>
       <link>https://www.vivaolinux.com.br/noticia/libreoffice-26-8-3-chega-com-cerca-de-45-correcoes-e-foco-em-estabilidade/</link>
       <description></description>
-      <pubDate>Fri, 13 Nov 2026 18:25:08 -0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 00:12:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/libreoffice-26-8-3-chega-com-cerca-de-45-correcoes-e-foco-em-estabilidade/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -221,7 +173,7 @@
       <title>[Viva o Linux] Desligando instâncias da OCI fora do horário com cron e a OCI CLI</title>
       <link>https://www.vivaolinux.com.br/artigo/Desligando-instancias-da-OCI-fora-do-horario-com-cron-e-a-OCI-CLI/</link>
       <description></description>
-      <pubDate>Fri, 13 Nov 2026 18:25:08 -0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 00:12:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Desligando-instancias-da-OCI-fora-do-horario-com-cron-e-a-OCI-CLI/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -229,9 +181,57 @@
       <title>[Viva o Linux] IA da OpenAI encontra 948 formas de obter acesso total ao Linux</title>
       <link>https://www.vivaolinux.com.br/noticia/ia-da-openai-encontra-948-formas-de-obter-acesso-total-ao-linux/</link>
       <description></description>
-      <pubDate>Fri, 13 Nov 2026 18:25:08 -0000</pubDate>
+      <pubDate>Sat, 14 Nov 2026 00:12:21 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ia-da-openai-encontra-948-formas-de-obter-acesso-total-ao-linux/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] The Evolution of Commercial Open Source Software</title>
+      <link>https://www.linuxfoundation.org/blog/the-evolution-of-commercial-open-source-software</link>
+      <description></description>
+      <pubDate>Sat, 14 Nov 2026 00:12:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-evolution-of-commercial-open-source-software</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] LF Research Launches 2027 Series of Studies and Opens Call for Sponsors</title>
+      <link>https://www.linuxfoundation.org/blog/lf-research-launches-2027-series-of-studies-and-opens-call-for-sponsors</link>
+      <description></description>
+      <pubDate>Sat, 14 Nov 2026 00:12:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-research-launches-2027-series-of-studies-and-opens-call-for-sponsors</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] The AI Security Gap Hiding in Routine Maintenance</title>
+      <link>https://www.linuxfoundation.org/blog/the-ai-security-gap-hiding-in-routine-maintenance</link>
+      <description></description>
+      <pubDate>Sat, 14 Nov 2026 00:12:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-ai-security-gap-hiding-in-routine-maintenance</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health</title>
+      <link>https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</link>
+      <description></description>
+      <pubDate>Sat, 14 Nov 2026 00:12:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] Linux Foundation Newsletter: October 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</link>
+      <description></description>
+      <pubDate>Sat, 14 Nov 2026 00:12:21 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[FSFLA] 6point4.en</title>
+      <link>http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</link>
+      <description>When I&apos;m Six Point Four Jason Self with a little help from my friend Alex Oliva When I get older, losing more bugs , In today&apos;s release, Will you still be sending me your problem reports, kernel patches, boot me with grub? Will you rejoice, and cheer for my might, Weeding out the blobs? Will you...</description>
+      <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
+      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
+      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
       <title>[4Linux] Curso de Segurança em Cluster Kubernetes CKS da 4Linux está de cara nova: conheça todas as novidades</title>
