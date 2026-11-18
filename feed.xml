@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Wed, 18 Nov 2026 16:13:17 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 23:16:25 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -21,7 +21,7 @@
       <title>[LWN] Julia</title>
       <link>https://julialang.org/</link>
       <description></description>
-      <pubDate>Wed, 18 Nov 2026 16:13:17 -0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 23:16:25 -0000</pubDate>
       <guid isPermaLink="false">https://julialang.org/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -29,7 +29,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1108153/</link>
       <description></description>
-      <pubDate>Wed, 18 Nov 2026 16:13:17 -0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 23:16:25 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1108153/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -37,7 +37,7 @@
       <title>[LWN] Zellij</title>
       <link>https://zellij.dev</link>
       <description></description>
-      <pubDate>Wed, 18 Nov 2026 16:13:17 -0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 23:16:25 -0000</pubDate>
       <guid isPermaLink="false">https://zellij.dev</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -45,7 +45,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1106913/</link>
       <description></description>
-      <pubDate>Wed, 18 Nov 2026 16:13:17 -0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 23:16:25 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1106913/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -53,55 +53,23 @@
       <title>[LWN] Futexes</title>
       <link>https://man7.org/linux/man-pages/man7/futex.7.html</link>
       <description></description>
-      <pubDate>Wed, 18 Nov 2026 16:13:17 -0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 23:16:25 -0000</pubDate>
       <guid isPermaLink="false">https://man7.org/linux/man-pages/man7/futex.7.html</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
     <item>
-      <title>[Viva o Linux] Colocar e Personalizar Contador de Visitas Nativo do Blogger(blogspot.com)</title>
-      <link>https://www.vivaolinux.com.br/artigo/Colocar-e-Personalizar-Contador-de-Visitas-Nativo-do-Bloggerblogspotcom/</link>
+      <title>[Linux Foundation] Linux Foundation Newsletter: November 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-november-2026</link>
       <description></description>
-      <pubDate>Wed, 18 Nov 2026 16:13:11 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Colocar-e-Personalizar-Contador-de-Visitas-Nativo-do-Bloggerblogspotcom/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Receita Federal publica primeiro código-fonte aberto no GitHub</title>
-      <link>https://www.vivaolinux.com.br/noticia/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github/</link>
-      <description></description>
-      <pubDate>Wed, 18 Nov 2026 16:13:11 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Relapse, o bug que desbloqueia qualquer PlayStation 5 até o firmware 13.60</title>
-      <link>https://www.vivaolinux.com.br/noticia/relapse-o-bug-que-desbloqueia-qualquer-playstation-5-ate-o-firmware-13-60/</link>
-      <description></description>
-      <pubDate>Wed, 18 Nov 2026 16:13:11 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/relapse-o-bug-que-desbloqueia-qualquer-playstation-5-ate-o-firmware-13-60/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] NoisyTCP, falha de 11 anos derruba servidores Linux à distância</title>
-      <link>https://www.vivaolinux.com.br/noticia/noisytcp-falha-de-11-anos-derruba-servidores-linux-a-distancia/</link>
-      <description></description>
-      <pubDate>Wed, 18 Nov 2026 16:13:11 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/noisytcp-falha-de-11-anos-derruba-servidores-linux-a-distancia/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
-    </item>
-    <item>
-      <title>[Viva o Linux] Keycloak: autenticação centralizada e SSO com Docker</title>
-      <link>https://www.vivaolinux.com.br/artigo/Keycloak-autenticacao-centralizada-e-SSO-com-Docker/</link>
-      <description></description>
-      <pubDate>Wed, 18 Nov 2026 16:13:11 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Keycloak-autenticacao-centralizada-e-SSO-com-Docker/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+      <pubDate>Wed, 18 Nov 2026 23:16:17 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-november-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
       <title>[Linux Foundation] The Evolution of Commercial Open Source Software</title>
       <link>https://www.linuxfoundation.org/blog/the-evolution-of-commercial-open-source-software</link>
       <description></description>
-      <pubDate>Wed, 18 Nov 2026 16:13:11 -0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 23:16:17 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-evolution-of-commercial-open-source-software</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -109,7 +77,7 @@
       <title>[Linux Foundation] LF Research Launches 2027 Series of Studies and Opens Call for Sponsors</title>
       <link>https://www.linuxfoundation.org/blog/lf-research-launches-2027-series-of-studies-and-opens-call-for-sponsors</link>
       <description></description>
-      <pubDate>Wed, 18 Nov 2026 16:13:11 -0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 23:16:17 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-research-launches-2027-series-of-studies-and-opens-call-for-sponsors</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -117,7 +85,7 @@
       <title>[Linux Foundation] The AI Security Gap Hiding in Routine Maintenance</title>
       <link>https://www.linuxfoundation.org/blog/the-ai-security-gap-hiding-in-routine-maintenance</link>
       <description></description>
-      <pubDate>Wed, 18 Nov 2026 16:13:11 -0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 23:16:17 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-ai-security-gap-hiding-in-routine-maintenance</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -125,17 +93,57 @@
       <title>[Linux Foundation] Navigating Open Source Software Development in the Generative AI Era: Balancing Velocity and Community Health</title>
       <link>https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</link>
       <description></description>
-      <pubDate>Wed, 18 Nov 2026 16:13:11 -0000</pubDate>
+      <pubDate>Wed, 18 Nov 2026 23:16:17 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/navigating-open-source-software-development-in-the-generative-ai-era-balancing-velocity-and-community-health</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: October 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</link>
+      <title>[Viva o Linux] Motores SDL2 nativos (não oficiais) para Linux x86_64 e ARM64: alguns jogos clássicos de PC sem Wine</title>
+      <link>https://www.vivaolinux.com.br/artigo/Motores-SDL2-nativos-nao-oficiais-para-Linux-x86-64-e-ARM64-alguns-jogos-classicos-de-PC-sem-Wine/</link>
       <description></description>
-      <pubDate>Wed, 18 Nov 2026 16:13:11 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-october-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+      <pubDate>Wed, 18 Nov 2026 23:16:16 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Motores-SDL2-nativos-nao-oficiais-para-Linux-x86-64-e-ARM64-alguns-jogos-classicos-de-PC-sem-Wine/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] IA ajuda a revelar falha crítica no Java, uma das linguagens mais usadas do mercado</title>
+      <link>https://www.vivaolinux.com.br/noticia/ia-ajuda-a-revelar-falha-critica-no-java-uma-das-linguagens-mais-usadas-do-mercado/</link>
+      <description></description>
+      <pubDate>Wed, 18 Nov 2026 23:16:16 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/ia-ajuda-a-revelar-falha-critica-no-java-uma-das-linguagens-mais-usadas-do-mercado/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Colocar e Personalizar Contador de Visitas Nativo do Blogger(blogspot.com)</title>
+      <link>https://www.vivaolinux.com.br/artigo/Colocar-e-Personalizar-Contador-de-Visitas-Nativo-do-Bloggerblogspotcom/</link>
+      <description></description>
+      <pubDate>Wed, 18 Nov 2026 23:16:16 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Colocar-e-Personalizar-Contador-de-Visitas-Nativo-do-Bloggerblogspotcom/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Receita Federal publica primeiro código-fonte aberto no GitHub</title>
+      <link>https://www.vivaolinux.com.br/noticia/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github/</link>
+      <description></description>
+      <pubDate>Wed, 18 Nov 2026 23:16:16 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[Viva o Linux] Relapse, o bug que desbloqueia qualquer PlayStation 5 até o firmware 13.60</title>
+      <link>https://www.vivaolinux.com.br/noticia/relapse-o-bug-que-desbloqueia-qualquer-playstation-5-ate-o-firmware-13-60/</link>
+      <description></description>
+      <pubDate>Wed, 18 Nov 2026 23:16:16 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/relapse-o-bug-que-desbloqueia-qualquer-playstation-5-ate-o-firmware-13-60/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+    </item>
+    <item>
+      <title>[4Linux] A Evolução para a Alta Disponibilidade (HA) na Observabilidade</title>
+      <link>https://blog.4linux.com.br/a-evolucao-para-a-alta-disponibilidade-ha-na-observabilidade/</link>
+      <description>Entenda as vantagens, benefícios a longo prazo e os desafios técnicos de escalar seu ambiente de monitoramento. The post A Evolução para a Alta Disponibilidade (HA) na Observabilidade appeared first on Blog 4Linux .</description>
+      <pubDate>Wed, 18 Nov 2026 18:02:47 -0000</pubDate>
+      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13434</guid>
+      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
       <title>[FSFLA] IRPF-Livre 2023 released</title>
@@ -167,14 +175,6 @@
       <description>Quem está se preparando para conquistar a certificação LPIC-1 precisa dominar os conteúdos cobrados nos exames. Mas, para trabalhar com Linux no dia a dia, apenas memorizar comandos não é The post Preparatório LPIC-1 da 4Linux está de cara nova: conheça todas as novidades appeared first on Blog...</description>
       <pubDate>Wed, 11 Nov 2026 12:16:42 -0000</pubDate>
       <guid isPermaLink="false">https://blog.4linux.com.br/?p=13815</guid>
-      <source url="https://blog.4linux.com.br/feed/">4Linux</source>
-    </item>
-    <item>
-      <title>[4Linux] Cursor na prática: como comparar com outras soluções e reduzir custo no desenvolvimento</title>
-      <link>https://blog.4linux.com.br/cursor-na-pratica-como-comparar-com-outras-solucoes-e-reduzir-custo-no-desenvolvimento/</link>
-      <description>A primeira vez que vi o Cursor fazendo diferença não foi em uma tela cheia de autocomplete bonito. Foi em uma tarefa comum, daquelas que ninguém posta no LinkedIn. Um The post Cursor na prática: como comparar com outras soluções e reduzir custo no desenvolvimento appeared first on Blog 4Linux .</description>
-      <pubDate>Wed, 04 Nov 2026 18:54:11 -0000</pubDate>
-      <guid isPermaLink="false">https://blog.4linux.com.br/?p=13616</guid>
       <source url="https://blog.4linux.com.br/feed/">4Linux</source>
     </item>
     <item>
