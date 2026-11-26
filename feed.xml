@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Thu, 26 Nov 2026 04:49:18 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:44:39 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -61,7 +61,7 @@
       <title>[LWN] Early in the 7.4 merge window</title>
       <link>https://lwn.net/Articles/1101211/</link>
       <description></description>
-      <pubDate>Thu, 26 Nov 2026 04:49:18 -0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 14:44:39 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1101211/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -69,7 +69,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1103714/</link>
       <description></description>
-      <pubDate>Thu, 26 Nov 2026 04:49:18 -0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 14:44:39 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1103714/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -77,7 +77,7 @@
       <title>[LWN] openSUSE Project</title>
       <link>https://opensuse.org/</link>
       <description></description>
-      <pubDate>Thu, 26 Nov 2026 04:49:18 -0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 14:44:39 -0000</pubDate>
       <guid isPermaLink="false">https://opensuse.org/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -85,7 +85,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1107830/</link>
       <description></description>
-      <pubDate>Thu, 26 Nov 2026 04:49:18 -0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 14:44:39 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1107830/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -93,7 +93,7 @@
       <title>[LWN] a patch set</title>
       <link>https://lwn.net/ml/all/20261105204513.2230344-1-alexei.starovoitov@gmail.com/</link>
       <description></description>
-      <pubDate>Thu, 26 Nov 2026 04:49:18 -0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 14:44:39 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/ml/all/20261105204513.2230344-1-alexei.starovoitov@gmail.com/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -101,7 +101,7 @@
       <title>[Linux Foundation] Innovation at Speed: New Insights from the 2026 State of Open Source in Financial Services</title>
       <link>https://www.linuxfoundation.org/blog/innovation-at-speed-new-insights-from-the-2026-state-of-open-source-in-financial-services</link>
       <description></description>
-      <pubDate>Thu, 26 Nov 2026 04:49:14 -0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 14:44:34 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/innovation-at-speed-new-insights-from-the-2026-state-of-open-source-in-financial-services</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -109,7 +109,7 @@
       <title>[Linux Foundation] Linux Foundation Newsletter: November 2026</title>
       <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-november-2026</link>
       <description></description>
-      <pubDate>Thu, 26 Nov 2026 04:49:14 -0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 14:44:34 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-november-2026</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -117,7 +117,7 @@
       <title>[Linux Foundation] The Evolution of Commercial Open Source Software</title>
       <link>https://www.linuxfoundation.org/blog/the-evolution-of-commercial-open-source-software</link>
       <description></description>
-      <pubDate>Thu, 26 Nov 2026 04:49:14 -0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 14:44:34 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-evolution-of-commercial-open-source-software</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -125,7 +125,7 @@
       <title>[Linux Foundation] LF Research Launches 2027 Series of Studies and Opens Call for Sponsors</title>
       <link>https://www.linuxfoundation.org/blog/lf-research-launches-2027-series-of-studies-and-opens-call-for-sponsors</link>
       <description></description>
-      <pubDate>Thu, 26 Nov 2026 04:49:14 -0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 14:44:34 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-research-launches-2027-series-of-studies-and-opens-call-for-sponsors</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -133,7 +133,7 @@
       <title>[Linux Foundation] The AI Security Gap Hiding in Routine Maintenance</title>
       <link>https://www.linuxfoundation.org/blog/the-ai-security-gap-hiding-in-routine-maintenance</link>
       <description></description>
-      <pubDate>Thu, 26 Nov 2026 04:49:14 -0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 14:44:34 -0000</pubDate>
       <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-ai-security-gap-hiding-in-routine-maintenance</guid>
       <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
@@ -141,7 +141,7 @@
       <title>[Viva o Linux] iMe Ads: um clique em vez de dois para inscrever no canal do Telegram</title>
       <link>https://www.vivaolinux.com.br/dica/iMe-Ads-um-clique-em-vez-de-dois-para-inscrever-no-canal-do-Telegram/</link>
       <description></description>
-      <pubDate>Thu, 26 Nov 2026 04:49:13 -0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 14:44:33 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/iMe-Ads-um-clique-em-vez-de-dois-para-inscrever-no-canal-do-Telegram/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -149,7 +149,7 @@
       <title>[Viva o Linux] Avalie um conversor de EPUB para PDF pelas suas páginas</title>
       <link>https://www.vivaolinux.com.br/artigo/Avalie-um-conversor-de-EPUB-para-PDF-pelas-suas-paginas/</link>
       <description></description>
-      <pubDate>Thu, 26 Nov 2026 04:49:13 -0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 14:44:33 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Avalie-um-conversor-de-EPUB-para-PDF-pelas-suas-paginas/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -157,7 +157,7 @@
       <title>[Viva o Linux] Pop!_OS 26.04 LTS pode estar chegando em breve!</title>
       <link>https://www.vivaolinux.com.br/noticia/pop-os-26-04-pode-estar-chegando-em-breve/</link>
       <description></description>
-      <pubDate>Thu, 26 Nov 2026 04:49:13 -0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 14:44:33 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/pop-os-26-04-pode-estar-chegando-em-breve/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -165,7 +165,7 @@
       <title>[Viva o Linux] Multikernel Linux v7.0-mk5 chega com suporte a ARM64 e leva a ideia de “vários kernels no mesmo PC” além do x86</title>
       <link>https://www.vivaolinux.com.br/noticia/multikernel-linux-v7-0-mk5-chega-com-suporte-a-arm64-e-leva-a-ideia-de-varios-kernels-no-mesmo-pc-alem-do-x86/</link>
       <description></description>
-      <pubDate>Thu, 26 Nov 2026 04:49:13 -0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 14:44:33 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/multikernel-linux-v7-0-mk5-chega-com-suporte-a-arm64-e-leva-a-ideia-de-varios-kernels-no-mesmo-pc-alem-do-x86/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -173,7 +173,7 @@
       <title>[Viva o Linux] Julia 1.13 traz melhorias no REPL e muito mais</title>
       <link>https://www.vivaolinux.com.br/noticia/julia-1-13-traz-melhorias-no-repl-e-muito-mais/</link>
       <description></description>
-      <pubDate>Thu, 26 Nov 2026 04:49:13 -0000</pubDate>
+      <pubDate>Thu, 26 Nov 2026 14:44:33 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/julia-1-13-traz-melhorias-no-repl-e-muito-mais/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
