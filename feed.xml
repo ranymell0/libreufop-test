@@ -13,7 +13,7 @@
     <language>pt-BR</language>
     <copyright>Conteúdo de propriedade de cada fonte original</copyright>
     <managingEditor>libreufop@ufop.edu.br</managingEditor>
-    <lastBuildDate>Fri, 27 Nov 2026 17:21:06 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:09:56 -0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://lecompufop.github.io/LibreUFOP/feed.xml" rel="self" type="application/rss+xml"/>
 
@@ -106,18 +106,10 @@
       <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
-      <title>[FSFLA] 6point4.en</title>
-      <link>http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</link>
-      <description>When I&apos;m Six Point Four Jason Self with a little help from my friend Alex Oliva When I get older, losing more bugs , In today&apos;s release, Will you still be sending me your problem reports, kernel patches, boot me with grub? Will you rejoice, and cheer for my might, Weeding out the blobs? Will you...</description>
-      <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
-      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
-      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
-    </item>
-    <item>
       <title>[LWN] Early in the 7.4 merge window</title>
       <link>https://lwn.net/Articles/1101211/</link>
       <description></description>
-      <pubDate>Fri, 27 Nov 2026 17:21:06 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 01:09:56 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1101211/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -125,7 +117,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1103714/</link>
       <description></description>
-      <pubDate>Fri, 27 Nov 2026 17:21:06 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 01:09:56 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1103714/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -133,7 +125,7 @@
       <title>[LWN] openSUSE Project</title>
       <link>https://opensuse.org/</link>
       <description></description>
-      <pubDate>Fri, 27 Nov 2026 17:21:06 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 01:09:56 -0000</pubDate>
       <guid isPermaLink="false">https://opensuse.org/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -141,7 +133,7 @@
       <title>[LWN] Full Story</title>
       <link>https://lwn.net/Articles/1107830/</link>
       <description></description>
-      <pubDate>Fri, 27 Nov 2026 17:21:06 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 01:09:56 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/Articles/1107830/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
@@ -149,55 +141,31 @@
       <title>[LWN] a patch set</title>
       <link>https://lwn.net/ml/all/20261105204513.2230344-1-alexei.starovoitov@gmail.com/</link>
       <description></description>
-      <pubDate>Fri, 27 Nov 2026 17:21:06 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 01:09:56 -0000</pubDate>
       <guid isPermaLink="false">https://lwn.net/ml/all/20261105204513.2230344-1-alexei.starovoitov@gmail.com/</guid>
       <source url="https://lwn.net/">LWN</source>
     </item>
     <item>
-      <title>[Linux Foundation] Innovation at Speed: New Insights from the 2026 State of Open Source in Financial Services</title>
-      <link>https://www.linuxfoundation.org/blog/innovation-at-speed-new-insights-from-the-2026-state-of-open-source-in-financial-services</link>
+      <title>[Viva o Linux] Anthropic estreia na Nasdaq valendo US$ 1,5 trilhão e acende alerta sobre custo da IA</title>
+      <link>https://www.vivaolinux.com.br/noticia/anthropic-estreia-na-nasdaq-valendo-us-1-5-trilhao-e-acende-alerta-sobre-custo-da-ia/</link>
       <description></description>
-      <pubDate>Fri, 27 Nov 2026 17:21:02 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/innovation-at-speed-new-insights-from-the-2026-state-of-open-source-in-financial-services</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+      <pubDate>Sat, 28 Nov 2026 01:09:51 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/anthropic-estreia-na-nasdaq-valendo-us-1-5-trilhao-e-acende-alerta-sobre-custo-da-ia/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
-      <title>[Linux Foundation] Linux Foundation Newsletter: November 2026</title>
-      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-november-2026</link>
+      <title>[Viva o Linux] k3d: clusters Kubernetes leves dentro do Docker</title>
+      <link>https://www.vivaolinux.com.br/artigo/k3d-clusters-Kubernetes-leves-dentro-do-Docker/</link>
       <description></description>
-      <pubDate>Fri, 27 Nov 2026 17:21:02 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-november-2026</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] The Evolution of Commercial Open Source Software</title>
-      <link>https://www.linuxfoundation.org/blog/the-evolution-of-commercial-open-source-software</link>
-      <description></description>
-      <pubDate>Fri, 27 Nov 2026 17:21:02 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-evolution-of-commercial-open-source-software</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] LF Research Launches 2027 Series of Studies and Opens Call for Sponsors</title>
-      <link>https://www.linuxfoundation.org/blog/lf-research-launches-2027-series-of-studies-and-opens-call-for-sponsors</link>
-      <description></description>
-      <pubDate>Fri, 27 Nov 2026 17:21:02 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-research-launches-2027-series-of-studies-and-opens-call-for-sponsors</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
-    </item>
-    <item>
-      <title>[Linux Foundation] The AI Security Gap Hiding in Routine Maintenance</title>
-      <link>https://www.linuxfoundation.org/blog/the-ai-security-gap-hiding-in-routine-maintenance</link>
-      <description></description>
-      <pubDate>Fri, 27 Nov 2026 17:21:02 -0000</pubDate>
-      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-ai-security-gap-hiding-in-routine-maintenance</guid>
-      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+      <pubDate>Sat, 28 Nov 2026 01:09:51 -0000</pubDate>
+      <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/k3d-clusters-Kubernetes-leves-dentro-do-Docker/</guid>
+      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
       <title>[Viva o Linux] Clonezilla Live 3.3.5-3 chega com suporte experimental a ZFS e melhorias no clonamento de discos</title>
       <link>https://www.vivaolinux.com.br/noticia/clonezilla-live-3-3-5-3-chega-com-suporte-experimental-a-zfs-e-melhorias-no-clonamento-de-discos/</link>
       <description></description>
-      <pubDate>Fri, 27 Nov 2026 17:21:01 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 01:09:51 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/clonezilla-live-3-3-5-3-chega-com-suporte-experimental-a-zfs-e-melhorias-no-clonamento-de-discos/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -205,7 +173,7 @@
       <title>[Viva o Linux] Como assistir IPTV no Linux com VLC e mpv, usando lista M3U e EPG</title>
       <link>https://www.vivaolinux.com.br/artigo/Como-assistir-IPTV-no-Linux-com-VLC-e-mpv-usando-lista-M3U-e-EPG/</link>
       <description></description>
-      <pubDate>Fri, 27 Nov 2026 17:21:01 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 01:09:51 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/artigo/Como-assistir-IPTV-no-Linux-com-VLC-e-mpv-usando-lista-M3U-e-EPG/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
@@ -213,25 +181,57 @@
       <title>[Viva o Linux] PipeWire 1.6.12 chega com ajustes em V4L2, ALSA, GStreamer e JACK</title>
       <link>https://www.vivaolinux.com.br/noticia/pipewire-1-6-12-chega-com-ajustes-em-v4l2-alsa-gstreamer-e-jack/</link>
       <description></description>
-      <pubDate>Fri, 27 Nov 2026 17:21:01 -0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 01:09:51 -0000</pubDate>
       <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/pipewire-1-6-12-chega-com-ajustes-em-v4l2-alsa-gstreamer-e-jack/</guid>
       <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
     </item>
     <item>
-      <title>[Viva o Linux] Popamp 1.3.0: player de música no estilo Winamp 2 para Linux, agora em Português</title>
-      <link>https://www.vivaolinux.com.br/noticia/popamp-1-3-0-player-de-musica-no-estilo-winamp-2-para-linux-agora-em-portugues/</link>
+      <title>[Linux Foundation] Innovation at Speed: New Insights from the 2026 State of Open Source in Financial Services</title>
+      <link>https://www.linuxfoundation.org/blog/innovation-at-speed-new-insights-from-the-2026-state-of-open-source-in-financial-services</link>
       <description></description>
-      <pubDate>Fri, 27 Nov 2026 17:21:01 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/noticia/popamp-1-3-0-player-de-musica-no-estilo-winamp-2-para-linux-agora-em-portugues/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+      <pubDate>Sat, 28 Nov 2026 01:09:51 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/innovation-at-speed-new-insights-from-the-2026-state-of-open-source-in-financial-services</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
     </item>
     <item>
-      <title>[Viva o Linux] iMe Ads: um clique em vez de dois para inscrever no canal do Telegram</title>
-      <link>https://www.vivaolinux.com.br/dica/iMe-Ads-um-clique-em-vez-de-dois-para-inscrever-no-canal-do-Telegram/</link>
+      <title>[Linux Foundation] Linux Foundation Newsletter: November 2026</title>
+      <link>https://www.linuxfoundation.org/blog/linux-foundation-newsletter-november-2026</link>
       <description></description>
-      <pubDate>Fri, 27 Nov 2026 17:21:01 -0000</pubDate>
-      <guid isPermaLink="false">https://www.vivaolinux.com.br/dica/iMe-Ads-um-clique-em-vez-de-dois-para-inscrever-no-canal-do-Telegram/</guid>
-      <source url="https://www.vivaolinux.com.br/">Viva o Linux</source>
+      <pubDate>Sat, 28 Nov 2026 01:09:51 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/linux-foundation-newsletter-november-2026</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] The Evolution of Commercial Open Source Software</title>
+      <link>https://www.linuxfoundation.org/blog/the-evolution-of-commercial-open-source-software</link>
+      <description></description>
+      <pubDate>Sat, 28 Nov 2026 01:09:51 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-evolution-of-commercial-open-source-software</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] LF Research Launches 2027 Series of Studies and Opens Call for Sponsors</title>
+      <link>https://www.linuxfoundation.org/blog/lf-research-launches-2027-series-of-studies-and-opens-call-for-sponsors</link>
+      <description></description>
+      <pubDate>Sat, 28 Nov 2026 01:09:51 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/lf-research-launches-2027-series-of-studies-and-opens-call-for-sponsors</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[Linux Foundation] The AI Security Gap Hiding in Routine Maintenance</title>
+      <link>https://www.linuxfoundation.org/blog/the-ai-security-gap-hiding-in-routine-maintenance</link>
+      <description></description>
+      <pubDate>Sat, 28 Nov 2026 01:09:51 -0000</pubDate>
+      <guid isPermaLink="false">https://www.linuxfoundation.org/blog/the-ai-security-gap-hiding-in-routine-maintenance</guid>
+      <source url="https://www.linuxfoundation.org/blog">Linux Foundation</source>
+    </item>
+    <item>
+      <title>[FSFLA] 6point4.en</title>
+      <link>http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</link>
+      <description>When I&apos;m Six Point Four Jason Self with a little help from my friend Alex Oliva When I get older, losing more bugs , In today&apos;s release, Will you still be sending me your problem reports, kernel patches, boot me with grub? Will you rejoice, and cheer for my might, Weeding out the blobs? Will you...</description>
+      <pubDate>Mon, 26 Jun 2023 01:43:38 -0000</pubDate>
+      <guid isPermaLink="false">http://www.fsfla.org/ikiwiki/selibre/linux-libre/6point4.en.html</guid>
+      <source url="https://www.fsfla.org/ikiwiki/index.all.rss">FSFLA</source>
     </item>
     <item>
       <title>[4Linux] Curso de Segurança em Cluster Kubernetes CKS da 4Linux está de cara nova: conheça todas as novidades</title>
